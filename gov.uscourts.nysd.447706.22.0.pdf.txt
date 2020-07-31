@@ -1,0 +1,639 @@
+        Case 1:15-cv-07433-RWS Document 22 Filed 12/15/15 Page 1 of 14
+
+
+
+                            UNITED STATES DISTRICT COURT
+                       FOR THE SOUTHERN DISTRICT OF NEW YORK
+
+
+
+Virginia L. Giuffre,
+
+       Plaintiff,                                Case No.: 15-cv-07433-RWS
+v.
+
+Ghislaine Maxwell,
+
+       Defendant.
+
+
+
+
+                     REPLY MEMORANDUM OF LAW IN SUPPORT OF
+                    DEFENDANT’S MOTION FOR A STAY OF DISCOVERY
+
+
+
+
+                                            Laura A. Menninger
+                                            HADDON, MORGAN AND FOREMAN, P.C.
+                                            150 East 10th Avenue
+                                            Denver, CO 80203
+                                            303.831.7364
+           Case 1:15-cv-07433-RWS Document 22 Filed 12/15/15 Page 2 of 14
+
+
+
+
+                                          Table of Contents
+ARGUMENT....................................................................................................................... 2
+
+
+         I.    The Motion to Dismiss is Dispositive and Well Founded In Law ..................... 2
+
+
+         II. Discovery in This Case Will be Extremely Costly and Burdensome ................ 4
+
+
+         III. Plaintiff Cannot Establish Substantial Prejudice ............................................... 6
+
+         IV. Plaintiff’s “Background” Section Should Be Disregarded ............................... 9
+
+
+CONCLUSION ................................................................................................................. 10
+
+
+
+
+                                                                i
+         Case 1:15-cv-07433-RWS Document 22 Filed 12/15/15 Page 3 of 14
+
+
+
+
+       Contrary to Plaintiff’s assertions, this is not a “simple defamation case.” Rather, under
+
+the guise of a single claim for defamation, Plaintiff clearly seeks to litigate her false and
+
+malicious accusations of sexual abuse against Ms. Maxwell. For years, Ms. Maxwell has
+
+suffered Plaintiff’s unabated and unfiltered character attacks in both the media and in thinly-
+
+veiled press releases masquerading as legal pleadings. Now, Ms. Maxwell has moved to dismiss
+
+the Complaint with the hopes of ending further dissemination of Plaintiff’s decades-old sordid
+
+allegations characterized by another court as “lurid,” “immaterial and impertinent.”
+
+       Given these circumstances, Ms. Maxwell has amply demonstrated good cause to stay
+
+discovery pending resolution of her Motion to Dismiss. First, the Motion to Dismiss presents
+
+multiple, independent bases upon which this Court may dismiss the Complaint pursuant to Rule
+
+12(b)(6). Each basis for dismissal is legally well-founded and, with respect to the two
+
+independent privileges, challenges the Complaint on matters of law rather than sufficiency of the
+
+pleadings. Assuming either privilege applies, any amendment to the Complaint would be futile.
+
+Second, in her Opposition to Defendant’s Motion to Stay (“Opposition” or “Pl’s Opp’n”) as well
+
+as in her discovery requests, Plaintiff essentially concedes the breadth of potential discovery.
+
+Any self-serving characterization of her own discovery requests as “narrowly tailored” is
+
+disingenuous as even a cursory review can attest. The Opposition alone references dozens of
+
+potential witnesses, many of whom reside abroad, and purported “mountain[s] of evidence”
+
+spanning over sixteen years. Third, the length of the stay sought is negligible. Fourth, Plaintiff
+
+has not demonstrated any unfair prejudice she will suffer as a result of the stay; given the 6 years
+
+she has already been litigating the same underlying allegations against others, Plaintiff and her
+
+various attorneys already possess substantially more documents concerning this case than does
+
+
+
+
+                                                  1
+           Case 1:15-cv-07433-RWS Document 22 Filed 12/15/15 Page 4 of 14
+
+
+
+Ms. Maxwell who has never been a party previously regarding any of Plaintiff’s frivolous
+
+claims.
+
+          Finally but no less importantly, Ms. Maxwell takes issue with the nature of Plaintiff’s
+
+Opposition. Instead of addressing factors relevant to a stay determination, Plaintiff improperly
+
+(1) added new allegations not included or referenced in the Complaint; (2) referenced documents
+
+and evidence not properly considered on a Motion to Dismiss; and (3) effectively extended the
+
+number of pages allowed in this District in response to a motion to dismiss. Rule 2(D) of this
+
+Court’s Individual Rules of Practice expressly limits memoranda of law in support of and
+
+opposition to substantive motions to 25 pages. Because this Opposition actually represents a
+
+substantive response to the Motion to Dismiss, Plaintiff should not be afforded an additional 25
+
+pages for essentially a second bite at the Motion to Dismiss apple.
+
+                                             ARGUMENT
+
+          I.     The Motion to Dismiss is Dispositive and Well Founded In Law
+
+          Good cause for a stay does not require a showing that Plaintiff’s claim is definitely
+
+unmeritorious or that this Court will grant the Motion to Dismiss. Rather, Ms. Maxwell must
+
+demonstrate that the Motion to Dismiss is “potentially dispositive and appears to be not
+
+unfounded in the law.” Negrete and Negrete v. Citibank, N.A., 15 CIV. 7250 (RWS), 2015 WL
+
+8207466, at * 3 (S.D.N.Y. Dec. 4, 2015) (J. Sweet). Ms. Maxwell has more than met this
+
+burden. The Motion to Dismiss challenges the Complaint on multiple grounds, each affording a
+
+substantial basis for dismissal.
+
+          First, the self-defense privilege is well founded in law and not defeated by Plaintiff’s
+
+conclusory allegations of intent. See Mot. to Dism. at 8-13. Kane v. Orange Cnty. Publ’n, 232
+
+
+
+
+                                                    2
+            Case 1:15-cv-07433-RWS Document 22 Filed 12/15/15 Page 5 of 14
+
+
+
+A.D.2d 526, 527 (2d Dept. 1996), illustrates this point. In that case, the appellate court found the
+
+qualified privilege barred a defamation claim premised upon the defendant’s open letter to a
+
+newspaper responding to unfavorable publicity against him -- “publicity concededly generated
+
+with the cooperation of plaintiffs” -- despite that plaintiff’s claims that the letter “contained
+
+numerous untruths, misrepresentations, and misstatements of fact, known to be false and
+
+misleading by defendant.” Id. at 5261 (emphasis added). This Complaint is similarly premised
+
+on Ms. Maxwell’s response to Plaintiff’s direct attacks in the media against her character.
+
+Plaintiff ignores the well-settled law that bare allegations of malice are insufficient to defeat the
+
+self-defense privilege. Compare Pl’s Opp’n at 8 (“This allegation alone defeats the application
+
+of privilege.”) with Mot. to Dism. at 12 (quoting Biro v. Conde Nast, 883 F.Supp.2d 441, 457
+
+(S.D.N.Y. 2012) (“Bare allegations that the defendant knew or should have known that the
+
+statements were false is insufficient.”).2
+
+        Second, the pre-litigation privilege provides an independent and substantial basis for
+
+dismissal of the Complaint. In opposition, Plaintiff argues that one of the statements was issued
+
+in London by Ms. Maxwell’s press agent—a non-lawyer. Pl’s Opp’n at 10. New York courts
+
+repeatedly apply the pre-litigation privilege to statements made by the “parties, counsel,
+
+witnesses, and the court.” Int’l Pub. Concepts, LLC v. Locatelli, 9 N.Y.S.3d 593, Slip Op. 50049
+
+at *3-4 (emphasis added). Of course, if Plaintiff is taking the position that Mr. Gow was not
+
+speaking for Ms. Maxwell, such would provide an additional reason for dismissal of the
+
+
+        1
+          As Plaintiff recognizes, the court in Kane ultimately did not reach the question of malice,
+finding no need given the “open letter” was a privileged response to the unfavorable publicity, as is the
+case here, and therefore was not defamatory. Id.
+        2
+          Plaintiff also flagrantly ignores the federal case law providing that qualified privilege is
+properly considered at the motion to dismiss stage. See Mot. to Dism. at 8 (to establish a proper claim for
+defamation, plaintiff must demonstrate that defendant “lack[ed] a privilege”).
+
+
+                                                      3
+         Case 1:15-cv-07433-RWS Document 22 Filed 12/15/15 Page 6 of 14
+
+
+
+Complaint. Otherwise, a communication by a party’s agent typically is treated as a
+
+communication by the party itself. See In re Copper Market Antitrust Litig., 200 F.R.D. 213
+
+(S.D.N.Y. 2001) (company’s public relations agent “can fairly be equated” with the company for
+
+the purpose of analyzing the availability of the attorney-client privilege to protect
+
+communications). Further, Plaintiff misstates the law when she claims to defeat the privilege
+
+through her naked assertion that the intent of the statements were “to bully, harass and intimidate
+
+the Defendant” Pl’s Opp’n at 9. Indeed, the Khalil court specifically declined to adopt any such
+
+element equivalent to spite or malice, instead applying the pre-litigation privilege to any
+
+statement made pertinent to “pending or contemplated litigation.” Front, Inc. v. Khalil, 24
+
+N.Y.3d 713, 720 (2015); see also Int’l Pub. Concepts, Slip Op. 50049 at *3-4. Ms. Maxwell
+
+respectfully refers the Court to the Motion to Dismiss in which she details that her January 3
+
+Statement specifically “reserve[d] her right to seek redress at the repetition of such claims.”
+
+Mot. to Dism. at 15.
+
+       Third, the Motion to Dismiss raises three potentially fatal pleading deficiencies in the
+
+Complaint. For each pleading deficiency, Ms. Maxwell cites to binding and persuasive authority
+
+(including several cases decided by this Court) that require dismissal of defamation claims which
+
+fail to adequately plead the “to whom, where or in what manner” any such statements were
+
+made, as well as the need for special damages. See Mot. to Dism. at 17-23; e.g., Cruz v.
+
+Marchetto, No. 11 Civ. 8378, 2012 WL 4513484, at *4 (S.D.N.Y. 2012) (dismissing defamation
+
+claim for failure to meet the pleading standards set forth in Fed. R. Civ. P. 8).
+
+       II.     Discovery in This Case Will Be Extremely Costly and Burdensome
+
+       Not a single aspect of Plaintiff’s discovery requests have been “narrowly tailored” to the
+
+heart of this action: the circumstances surrounding any allegedly defamatory statements.
+
+
+                                                  4
+           Case 1:15-cv-07433-RWS Document 22 Filed 12/15/15 Page 7 of 14
+
+
+
+Instead, as is apparent from the new and increasingly outlandish allegations raised in opposition,
+
+Plaintiff clearly intends a “kitchen sink” approach to discovery. In a case such as this that
+
+encompasses allegations dating back over sixteen (16) years and involves hundreds of
+
+individuals living in various countries, the costs and burden of discovery will be extremely high.
+
+When facing such “mountains” of discovery, courts routinely grant a motion to stay pending the
+
+outcome of a dispositive motion.3 Johnson v. N.Y.U. Sch. Of Educ. 205 F.R.D. 433 (S.D.N.Y.
+
+2002) (granting stay of discovery to obviate burdensome discovery including extensive
+
+interrogatories that “ask[] for information covering a span of more than five years”); Am.
+
+Booksellers Assoc. v. Houghton Mifflin Co., Inc., 94 CIV. 8566 (JFK), 1995 WL 72376
+
+(S.D.N.Y. Feb. 22, 1995) (“The discovery sought by plaintiffs is very broad and to require
+
+defendants to respond to it at this juncture…would be extremely burdensome.”).
+
+       Emblematic of Plaintiff’s mischaracterization of the breadth of discovery in this case is
+
+her claim that she served thirty (30) discovery requests when in fact she served thirty nine (39).
+
+Mot. for Stay, Ex. A. In the Motion to Stay, Ms. Maxwell referenced four glaring examples of
+
+Plaintiff’s so-called “narrowly tailored” discovery requests. The rest are no more “narrowly
+
+tailored”; other examples include:
+
+                All documents identifying passengers, manifests, or flight plans for any helicopter
+                 or plane ever owned or controlled by your or Jeffrey Epstein or any associated
+                 entity from 1999 – present. (No. 9)
+                All documents relating to payments made from Jeffrey Epstein or any related
+                 entity to you from 1999-present, including payments for work performed, gifts,
+
+       3
+          Interestingly, Plaintiff claims there exists a “voluminous number of decisions denying stay
+requests in contexts analogous to this case” yet cites two cases—both from 1985— that are anything but
+analogous to this case. See Howard v. Galesi, 107 F.R.D. 348, 350 (S.D.N.Y. 1985) (noting that
+discovery requests were not served on the moving party, the moving party did not argue that document
+requests were burdensome or overreaching, and the party to which the discovery requests were served did
+not object); Waltzer v. Conner, No. 83 CIV 8806 (SWK), 1985 WL 2522, at *2 (S.D.N.Y. Sept. 12, 1985)
+(denying motion to stay where moving party made only conclusory statements to establish good cause).
+
+
+                                                   5
+        Case 1:15-cv-07433-RWS Document 22 Filed 12/15/15 Page 8 of 14
+
+
+
+                  real estate purchases, living expenses, and payments to your charitable endeavors
+                  including the TerraMar project. (No. 10)
+                 All documents reflecting communications you have had with Bill or Hillary
+                  Clinton (or persons acting on their behalf), including all communications
+                  regarding your attendance at Chelsea Clinton’s wedding ceremony in 2010. (No.
+                  37)
+                 All documents reflecting training to fly a helicopter or experience flying a
+                  helicopter, including any records concerning your operation of a helicopter in the
+                  U.S. Virgin Islands. (No. 39).
+Mot. for Stay, Ex. A.
+
+       Plaintiff claims that this Court’s decision in Spinelli is inapposite. Pl’s Opp’n. at 17. In a
+
+sense, she is correct: the potential discovery in Spinelli pales in comparison to the anticipated
+
+discovery here. Spinelli v. Nat’l Football League, No. 13 CIV. 7398 (RWS), 2015 WL 7302266,
+
+at *2 (S.D.N.Y. Nov. 17, 2015). This case involves 94 potential witnesses, many of whom live
+
+abroad, and decades-old factual allegations that purportedly involve the Clintons, members of the
+
+British Royal Family, an esteemed Harvard Law Professor, flight manifests, helicopter lessons,
+
+Victoria Secret models, and so on. This is not a “simple defamation claim.”
+
+       III.       Plaintiff Cannot Establish Substantial Prejudice
+
+       Plaintiff presents a two-pronged complaint of prejudice: one, Plaintiff claims that a stay
+
+of discovery “indefinitely” will “run out the clock” on Plaintiff’s discovery requests (Pl’s Opp’n
+
+at 18); and two, memories of potential witnesses are bound to fade and evidence may grow stale
+
+during the pendency of the Motion to Dismiss. (Id. at 19). Both positions are frivolous, not
+
+supported by specific evidence, and incorrect.
+
+       To be clear, Ms. Maxwell seeks a stay of discovery for only the definite period of time it
+
+takes this Court to decide the Motion to Dismiss. Briefing will be complete by December 28,
+
+2015, and oral argument is scheduled for January 14, 2016. Doc. #19. Nothing suggests this
+
+
+
+
+                                                    6
+         Case 1:15-cv-07433-RWS Document 22 Filed 12/15/15 Page 9 of 14
+
+
+
+Court will decide the Motion in anything other than an expeditious manner. Thus, any stay
+
+would last at most for a brief period.
+
+       Next, Plaintiff has been represented by counsel and publicly raised allegations against
+
+Ms. Maxwell since at least May 4, 2009 (Compl. ¶ 4). Ms. Maxwell consistently has denied
+
+Plaintiff’s allegations, both publicly and privately. Plaintiff cannot therefore complain of “fading
+
+memories” and “stale evidence” during a months’ long stay when she waited years to bring a
+
+claim against Ms. Maxwell regarding events she claimed occurred 16 years ago (including four
+
+years since she claims Ms. Maxwell first issued a statement about her). In addition, Plaintiff has
+
+not provided a single example of a memory at risk of fading or evidence that may become stale
+
+during a potential stay. Absent specifics, Plaintiff cannot establish a substantial prejudice. See
+
+Bethpage Water Dist. v. Northrop Grumman Corp., No. 13-CV-6362 SJF WDW, 2014 WL
+
+6883529, at *3 (E.D.N.Y. Dec. 3, 2014); see also Gandler v. Nazarov, No. 94 Civ. 2272 (CSH),
+
+1994 WL 702004, at *4 (S.D.N.Y. Dec. 14, 1994) (granting stay of discovery because, inter alia,
+
+plaintiffs presented no evidence suggesting unfair prejudice caused by a stay.); cf. In re
+
+LaBranche Sec. Litig., 333 F.Supp.2d 178, (S.D.N.Y. 2004) (J. Sweet) (finding plaintiffs would
+
+be unduly prejudiced by a continued stay which would result in plaintiffs being the only
+
+interested party without access to relevant documents rendering them unable to make informed
+
+decisions about litigation strategy).
+
+       The court’s analysis in Bethpage Water is directly applicable here:
+
+               The risks of which plaintiff complain do not unfairly prejudice
+               plaintiff, but rather are usual litigation risks that affect all the
+               parties equally, regardless of the amount of time permitted for
+               discovery…Thus, any marginal impact on the evidence and/or
+               memories of witnesses does not outweigh the substantial burden
+               and expense of conducting time-consuming fact and expert
+               discovery on all issues in this case pending a decision on a
+               potentially dispositive motion.
+
+
+                                                  7
+        Case 1:15-cv-07433-RWS Document 22 Filed 12/15/15 Page 10 of 14
+
+
+
+Id. (citing ITT Corp. v. Travelers Cas. & Surety Co., NO. 12-civ-38, 2012 WL 2944357, at *3-4
+
+(D. Conn. July 18, 2012)).
+
+       Plaintiff already possesses numerous documents that she asserts are supportive of her
+
+claims. See Pl’s Opp’n at 1 (“[o]verwhelming evidence” which is “publicly available”
+
+purportedly “corroborates” Plaintiff’s claims); Decl. of Sigrid McCawley & Exs. 1-9 (including
+
+police reports and deposition transcripts which likely are not publicly available). With the
+
+assistance of able counsel, Plaintiff has litigated similar allegations based on the same facts
+
+against Mr. Jeffrey Epstein from 2009 – 2011. Compl. ¶ 17. She has involved herself in
+
+discussions with the FBI. Id. ¶ 22. And she has attempted to participate in the federal civil
+
+action against the U.S. Attorney’s Office in the Southern District of Florida based on the Crime
+
+Victim’s Rights Act. Id. ¶ 26-27. Plaintiff’s former counsel currently is actively participating in
+
+defamation litigation against Professor Dershowitz in Florida state court, and Plaintiff through
+
+her current counsel has participated repeatedly as a non-party in that action. See Bradley
+
+Edwards and Paul Cassell v. Alan Dershowitz, Case No. 15-000072, Broward County, Fla.4 By
+
+virtue of the deposition transcripts, police reports and other litigation papers Plaintiff already has
+
+gathered, attached to her Opposition and claims are pertinent to her false allegations of abuse,
+
+she has in effect demonstrated the absence of prejudice to her of any stay. See Chrysler Capital
+
+Corp. v. Century Power Corp., 137 F.R.D. 209 (S.D.N.Y. 1991) (granting motion to stay where
+
+discovery request are extensive and plaintiffs already possessed extensive discovery material as a
+
+result of prior proceedings).
+
+
+
+
+       4
+            Docket available at http://www.clerk-17th-
+flcourts.org/Web2/CaseSearch/Details/?caseid=NzkzMzM0MQ%3d%3d-
+zjTLrlvwx90%3d&caseNum=CACE15000072&category=CV
+
+
+                                                   8
+        Case 1:15-cv-07433-RWS Document 22 Filed 12/15/15 Page 11 of 14
+
+
+
+        In sum, all of the factors weigh in favor of a stay of discovery under Fed. R. Civ. P.
+
+26(c). Ms. Maxwell’s Motion to Dismiss contains multiple, substantial grounds for dismissal,
+
+the breadth of discovery is poised to be nearly limitless, and Plaintiff cannot show any undue
+
+prejudice resulting from a short stay. Ms. Maxwell’s motion should therefore be granted.
+
+            IV.   Plaintiff’s “Background” Section Should Be Disregarded
+
+        Plaintiff’s “Background” section and supporting Declaration of Sigrid McCawley raise
+
+factual allegations and reference documents that may not properly be considered on a Motion to
+
+Dismiss.5 They therefore should not be considered in connection with this Motion to Stay
+
+premised on, at least indirectly, the merits of the Motion to Dismiss.
+
+        In considering a motion to dismiss for failure to state a claim under Rule 12(b)(6), “a
+
+district court must limit itself to facts stated in the complaint or in documents attached to the
+
+complaint as exhibits or incorporated in the complaint by reference. Of course, it may also
+
+consider matters of which judicial notice may be taken under Fed. R. Evid. 201.” Kramer v.
+
+Time Warner Cable Inc., 937 F.2d 767, 773 (2d Cir. 1991). Before considering documents
+
+outside of the complaint, several conditions must be met. Specifically, “even if a document is
+
+‘integral’ to the complaint, it must be clear on the record that no dispute exists regarding the
+
+authenticity or accuracy of the document…It must also be clear that there exists no material
+
+disputed issues of fact regarding the relevance of the document.” Faulkner v. Beer, 463 F.3d
+
+130, 134 (2d Cir. 2006). Finally, if the court elects to consider documents entirely outside the
+
+complaint, it must convert the motion to one for summary judgment and give the parties an
+
+
+
+
+        5
+          Here, “Background” is a euphemism for “extrajudicial statements” that Plaintiff and her lawyers
+are prohibited from making under New York Rules of Professional Conduct 3.6 and 8.4(d).
+
+
+                                                    9
+        Case 1:15-cv-07433-RWS Document 22 Filed 12/15/15 Page 12 of 14
+
+
+
+opportunity to conduct appropriate discovery and submit additional supporting material
+
+contemplated by Rule 56. Chambers v. Time Warner, Inc., 282 F.3d 147, 154 (2d Cir. 2002).
+
+        Plaintiff here attempts to use the “Background” section of her Opposition to slip
+
+additional false accusations against Ms. Maxwell through the proverbial back door. Her
+
+references to deposition transcripts in the 2009 litigation to which Ms. Maxwell was not a party,
+
+and thus had no opportunity to defend herself, are particularly egregious. See Pl’s Opp’n at 3-5.
+
+As Ms. Maxwell detailed in her Motion to Dismiss, this by no means represents the first time
+
+Plaintiff has introduced salacious and false accusations in a court pleading. On April 7, 2015
+
+U.S. District Court Judge Marra denied Plaintiff’s Rule 21 motion to join a 2008 CVRA
+
+litigation in the U.S. District Court for the Southern District of Florida, ordered the portions of
+
+the Joinder Motion pertaining to non-parties including Ms. Maxwell stricken as “immaterial and
+
+impertinent,” and restricted the documents mentioning “lurid details” from public access. Mot.
+
+to Dism. at 4-5.
+
+        Plaintiff’s undoubtedly included the superfluous false allegations, both in the Florida
+
+actions and here in order to draw additional media attention as a means to further her malicious
+
+character attack against Ms. Maxwell. The quotations from the deposition transcripts and
+
+“sworn statements” to the Palm Beach Police Department are not relevant to the Motion to Stay
+
+and may not be considered on a Motion to Dismiss. The entire “Background” section should
+
+therefore be disregarded as impertinent, immaterial and scandalous.6
+
+
+
+
+        6
+          Ms. Maxwell also notes that this Court may follow Judge Marra’s lead and issue a sua sponte
+order striking the allegations in the “background” section pursuant to F.R.Civ.P. 12(f).
+
+
+                                                    10
+       Case 1:15-cv-07433-RWS Document 22 Filed 12/15/15 Page 13 of 14
+
+
+
+                                      CONCLUSION
+
+      As detailed above, good cause exists to justify a stay of discovery pending Ms.
+
+Maxwell’s Motion to Dismiss.
+
+      Dated: December 15, 2015.
+
+                                               Respectfully submitted,
+
+
+
+                                               s/ Laura A. Menninger
+                                               Laura A. Menninger (LM-1374)
+                                               HADDON, MORGAN AND FOREMAN, P.C.
+                                               150 East 10th Avenue
+                                               Denver, CO 80203
+                                               Phone: 303.831.7364
+                                               Fax:     303.832.2628
+                                               lmenninger@hmflaw.com
+
+                                               Attorneys for Ghislaine Maxwell
+
+
+
+
+                                               11
+       Case 1:15-cv-07433-RWS Document 22 Filed 12/15/15 Page 14 of 14
+
+
+
+                               CERTIFICATE OF SERVICE
+
+       I certify that on December 15, 2015, I electronically filed this Reply Memorandum of Law
+in Support of Motion for a Stay of Discovery with the Clerk of Court using the CM/ECF system
+which will send notification to all counsel of record including the following:
+
+Sigrid S. McCawley
+BOIES, SCHILLER & FLEXNER, LLP
+401 East Las Olas Boulevard, Ste. 1200
+Ft. Lauderdale, FL 33301
+smccawley@bsfllp.com
+
+                                                s/ Brenda Rodriguez
+                                                Brenda Rodriguez
+
+
+
+
+                                               12
+

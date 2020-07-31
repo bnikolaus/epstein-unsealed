@@ -1,0 +1,1654 @@
+Case 1:15-cv-07433-RWS Document 26-1 Filed 01/08/16 Page 1 of 26
+
+
+
+
+                 EXHIBIT A
+              Case 1:15-cv-07433-RWS Document 26-1 Filed 01/08/16 Page 2 of 26
+
+
+
+
+Green v. Cosby, --- F.Supp.3d ---- (2015)
+
+
+
+
+                                                            [7]
+                                                              dismissal on basis of self-defense privilege was not
+                    2015 WL 5923553                         warranted.
+      Only the Westlaw citation is currently available.
+               United States District Court,
+                    D. Massachusetts.                       Motions denied.
+
+       Tamara Green, Therese Serignese, and Linda
+                   Traitz, Plaintiffs,
+                           v.
+           William H. Cosby, Jr., Defendant.                  West Headnotes (37)
+
+Civil Action No. 14–30211–MGM | Signed October 9,
+                       2015                                  [1]
+                                                                    Federal Courts
+                                                                      Substance or procedure; determinativeness
+
+                                                                    Federal courts sitting in diversity apply state
+Synopsis
+                                                                    substantive law and federal procedural law. 28
+Background: Alleged sexual assault victim filed
+                                                                    U.S.C.A. § 1332.
+complaint alleging that male celebrity had publicly
+defamed her in statements made by individuals operating
+at his direction or within scope of their employment.               Cases that cite this headnote
+Complaint was subsequently amended to include similar
+claims by two additional plaintiffs. Defendant moved to
+dismiss.
+
+                                                             [2]
+                                                                    Federal Courts
+                                                                      Conflict of Laws; Choice of Law
+Holdings: The District Court, Mastroianni, J., held that:
+[1]                                                                 Federal court sitting in diversity determines
+    newspaper’s republication of allegedly defamatory               which state’s law applies by applying forum
+statement gave rise to new defamation claim;                        state’s choice of law rules.
+[2]
+   celebrity’s statement that alleged victim’s accusation
+that he had sexually assaulted her was “10-year-old,                Cases that cite this headnote
+discredited accusation that proved to be nothing at the
+time, and is still nothing” was not substantially true;
+[3]
+    press release describing plaintiff’s allegation that
+                                                             [3]
+defendant had sexually assaulted her “fabricated or                 Libel and Slander
+unsubstantiated stories,” “ridiculous claims,” and “an                What law governs
+absurd fabrication” could form basis of viable defamation
+claim;                                                              Under Massachusetts choice of law rules, law of
+                                                                    state where defamed person was domiciled at
+[4]
+  press release in which defendant criticized women who             time of publication applies if matter complained
+had publicly accused him of sexually assaulting them                of was published in that state.
+could form basis of viable defamation claim;
+[5]
+   plaintiffs pled plausible claim that defendant was               Cases that cite this headnote
+personally liable for allegedly defamatory statement made
+by his agents under respondeat superior theory;
+[6]
+    plaintiffs pled plausible claim that defendant was       [4]
+directly liable for alleged defamation; and                         Libel and Slander
+                                                                      By others in general
+
+                 © 2016 Thomson Reuters. No claim to original U.S. Government Works.                              1
+           Case 1:15-cv-07433-RWS Document 26-1 Filed 01/08/16 Page 3 of 26
+
+
+
+
+Green v. Cosby, --- F.Supp.3d ---- (2015)
+
+
+
+        Under California law, repetition by new party of            that is false; (3) defamatory, meaning damaging
+        another person’s earlier defamatory remark                  to good reputation of person who is subject of
+        generally gives rise to separate cause of action            statement; (4) made by actor with requisite
+        for defamation against original defamer, when               degree of fault; (5) is not protected by any
+        repetition was reasonably foreseeable.                      privilege; and (6) causes injury to subject.
+
+
+        Cases that cite this headnote                               Cases that cite this headnote
+
+
+
+
+[5]                                                          [8]
+        Limitation of Actions                                       Libel and Slander
+          Torts                                                       Actionable Words in General
+
+        Under California law, newspaper’s republication             Under California and Florida law, in order for
+        of allegedly defamatory statement gave rise to              defamation claim to survive motion to dismiss,
+        new defamation claim against purported                      allegedly defamatory statement must contain at
+        defamer, and thus statute of limitations did not            least one false factual assertion that is also
+        bar plaintiff’s claim, even though statement was            defamatory.
+        originally published nine years earlier, where
+        plaintiff’s claim was based on entirely different
+        issuance of statement, and it was foreseeable to            Cases that cite this headnote
+        purported defamer that his statement would be
+        republished if plaintiff’s allegations against him
+        were reported again in future. Cal. Civ. Proc.
+        Code § 340(c).                                       [9]
+                                                                    Libel and Slander
+                                                                      Truth as justification in general
+        Cases that cite this headnote
+                                                                    Under California law, even if statement is
+                                                                    offensive, it cannot be basis for defamation suit
+                                                                    if it is true.
+[6]
+        Libel and Slander
+          By same person                                            Cases that cite this headnote
+
+        Under California law, “single-publication rule”
+        provides that, for any single edition of
+        newspaper or book, there was but single              [10]
+        potential action for defamatory statement                   Libel and Slander
+        contained in newspaper or book, no matter how                 Truth of part of defamatory matter;
+        many copies of newspaper or book were                       substantial truth
+        distributed. Cal. Civ. Code § 3425.3.
+                                                                    Under California law, while defendant need not
+                                                                    justify literal truth of every word to prevail in
+        Cases that cite this headnote                               defamation action, defendant must prove
+                                                                    charge’s substance to be true.
+
+
+                                                                    Cases that cite this headnote
+[7]
+        Libel and Slander
+          Nature and elements of defamation in general
+
+        Under California and Florida law, essential          [11]
+        elements of defamation are: (1) publication; (2)            Libel and Slander
+
+               © 2016 Thomson Reuters. No claim to original U.S. Government Works.                                 2
+           Case 1:15-cv-07433-RWS Document 26-1 Filed 01/08/16 Page 4 of 26
+
+
+
+
+Green v. Cosby, --- F.Supp.3d ---- (2015)
+
+
+
+          Truth of part of defamatory matter;
+        substantial truth                                           Totality of circumstances test used in California
+                                                                    in determining whether an allegedly defamatory
+        Male celebrity’s statement that alleged victim’s            statement is capable of being interpreted as
+        accusation that he had sexually assaulted her               asserting or implying a fact has three parts: (1)
+        was “10-year-old, discredited accusation that               whether the general tenor of the entire work
+        proved to be nothing at the time, and is still              negates the impression that the defendant was
+        nothing,” was not substantially true, so as to              asserting an objective fact, (2) whether the
+        defeat victim’s defamation claim under                      defendant used figurative or hyperbolic
+        California law; statement could be understood as            language that negates that impression, and (3)
+        expressing false factual assertions and could               whether the statement in question is susceptible
+        reasonably be interpreted as insinuating that               of being proved true or false.
+        plaintiff’s sexual assault allegation had been
+        discredited and was capable of negatively
+        impacting victim’s reputation within the                    Cases that cite this headnote
+        community.
+
+
+        Cases that cite this headnote
+                                                             [15]
+                                                                    Libel and Slander
+                                                                      Imputation of falsehood, dishonesty, or fraud
+
+                                                                    Male celebrity’s allegedly defamatory statement
+[12]
+        Libel and Slander                                           that alleged victim’s accusation that he had
+          Falsity                                                   sexually assaulted her was a “10-year-old,
+                                                                    discredited accusation that proved to be nothing
+        Under California law, statement is considered               at the time, and is still nothing” was not a
+        false for purposes of defamation if it would have           expression of opinion protected by the First
+        different effect on reader’s mind from that                 Amendment under California law; statement
+        which pleaded truth would have produced.                    was not a “predictable opinion” because there
+                                                                    was no pending litigation between the parties at
+                                                                    the time it was made, and general tenor of the
+        Cases that cite this headnote                               statement negated the impression that the
+                                                                    defendant was asserting an objective fact. USCA
+                                                                    Const. Amend. 1.
+
+[13]
+        Libel and Slander                                           Cases that cite this headnote
+          Construction of defamatory language in
+        general
+
+        Under California law, court can, as matter of
+                                                             [16]
+        law, find statement is not actionable, but when             Libel and Slander
+        allegedly defamatory statement can reasonably                 Imputation of falsehood, dishonesty, or fraud
+        be interpreted as either stating or implying false
+        fact or articulating opinion, court should put              Male celebrity’s statement that alleged victim’s
+        issue before jury.                                          accusation that he had sexually assaulted her
+                                                                    was “10-year-old, discredited accusation that
+                                                                    proved to be nothing at the time, and is still
+        Cases that cite this headnote                               nothing” could be understood as having
+                                                                    defamatory meaning under California law;
+                                                                    statement suggested that plaintiff intentionally
+                                                                    lied about being sexually assaulted because
+[14]                                                                plaintiff’s allegations detailed a specific set of
+        Libel and Slander                                           events that either occurred substantially as
+          Construction of language used
+               © 2016 Thomson Reuters. No claim to original U.S. Government Works.                                    3
+           Case 1:15-cv-07433-RWS Document 26-1 Filed 01/08/16 Page 5 of 26
+
+
+
+
+Green v. Cosby, --- F.Supp.3d ---- (2015)
+
+
+
+        alleged or were fabricated, leaving no room for
+                                                             [20]
+        an honest mistake.                                          Libel and Slander
+                                                                      Imputation of falsehood, dishonesty, or fraud
+
+        Cases that cite this headnote                               Under Florida law, press release issued by one
+                                                                    of defendant’s agents, which described
+                                                                    plaintiff’s allegation that defendant had sexually
+                                                                    assaulted her after offering her drugs as
+[17]                                                                “fabricated      or    unsubstantiated     stories,”
+        Libel and Slander                                           “ridiculous claims,” and “an absurd fabrication,”
+          Actionable Words in General                               and related details of plaintiff’s later, unrelated,
+                                                                    criminal history, could reasonably be interpreted
+        Under Florida law, to be actionable, defamatory             as communicating fact that plaintiff’s allegations
+        publication must convey to reasonable reader                were lies, and thus could form basis of viable
+        impression that it describes actual facts about             defamation claim.
+        plaintiff or activities in which she participated.
+
+                                                                    Cases that cite this headnote
+        Cases that cite this headnote
+
+
+
+                                                             [21]
+[18]                                                                Libel and Slander
+        Libel and Slander                                             Actionable Words in General
+          Construction of defamatory language in
+        general                                                     Under Florida law, expressions of opinions are
+                                                                    non-actionable if speaker states facts on which
+        Under Florida law, court must decide, as matter             he bases his opinion, and those facts are not
+        of law, whether statement expresses pure                    false or inaccurately presented.
+        opinion or “mixed opinion” from which unstated
+        facts are likely to be inferred, but where
+        statement could be understood in more than one              Cases that cite this headnote
+        way, question should be submitted to trier of
+        fact.
+
+
+        Cases that cite this headnote                        [22]
+                                                                    Libel and Slander
+                                                                      Actionable Words in General
+
+                                                                    Under Florida law, statement is non-actionable
+[19]                                                                pure opinion, as matter of law, when it is based
+        Libel and Slander                                           on facts that are otherwise known or available to
+          Construction of language used                             the reader or listener.
+        Under Florida law, courts determining whether
+        allegedly defamatory statement is protected                 Cases that cite this headnote
+        expression of opinion must construe allegedly
+        defamatory statement in its totality, examining
+        not merely particular phrase or sentence, but all
+        words used in publication.
+                                                             [23]
+                                                                    Libel and Slander
+                                                                      Construction of language used
+        Cases that cite this headnote
+                                                                    Under Florida law, in determining whether any
+                                                                    portions of statement are defamatory, court must
+                                                                    consider statement in context of publication,
+               © 2016 Thomson Reuters. No claim to original U.S. Government Works.                                    4
+           Case 1:15-cv-07433-RWS Document 26-1 Filed 01/08/16 Page 6 of 26
+
+
+
+
+Green v. Cosby, --- F.Supp.3d ---- (2015)
+
+
+
+        including audience, means by which it was                   subject to respondeat superior liability, form of
+        delivered, and other circumstances surrounding              vicarious liability, if agent was acting within
+        statement.                                                  scope of work performed for principal and
+                                                                    principal controlled or had right to control
+                                                                    manner of agent’s work.
+        Cases that cite this headnote
+
+                                                                    Cases that cite this headnote
+
+[24]
+        Libel and Slander
+          Imputation of falsehood, dishonesty, or fraud
+                                                             [27]
+                                                                    Principal and Agent
+        Under Florida defamation law, press release in                Rights and liabilities of principal
+        which male celebrity criticized women who had
+        publicly accused him of sexually assaulting                 Under California and Florida law, plaintiffs’
+        them and media for their various roles in recent            allegation that defendant hired professional
+        dissemination of sexual assault allegations made            spokespersons to issue defamatory statements
+        against him was not a non-actionable statement              about them to media on his behalf was sufficient
+        of fact on which defendant based an opinion;                to plead plausible claim that defendant was
+        statement could reasonably be interpreted as                personally liable for alleged defamation under
+        communicating fact that alleged victims’                    respondeat superior theory.
+        allegations were false and entirely without merit,
+        even though press release contained accurate
+        statements regarding length of time between                 Cases that cite this headnote
+        when incidents allegedly occurred and date on
+        which any particular allegation became public,
+        and did not single out any individual by name.
+                                                             [28]
+                                                                    Principal and Agent
+        Cases that cite this headnote                                 Rights and liabilities of principal
+
+                                                                    Under California and Florida law, if principal
+                                                                    purposefully directs agent to perform action, and
+                                                                    that agent performs action, then principal is
+[25]
+        Libel and Slander                                           directly responsible for consequences of that
+          Criticism and Comment on Public Matters;                  action.
+        Public Figures
+
+        To establish defamation claim if plaintiff is               Cases that cite this headnote
+        public figure, then such plaintiff must show that
+        defendant, or defendant’s agent acting within
+        scope of agency, acted with actual malice in
+        uttering defamatory remark.                          [29]
+                                                                    Libel and Slander
+                                                                      Form and requisites in general
+        Cases that cite this headnote
+                                                                    Under California and Florida law, plaintiffs’
+                                                                    allegations that defendant acted “by and
+                                                                    through” professional spokespersons he hired to
+                                                                    issue defamatory statements about them to
+[26]
+        Principal and Agent                                         media on his behalf, that spokespersons gave
+          Rights and liabilities of principal                       statements at defendant’s direction, and that
+                                                                    defendant knew claimed defamatory statements
+        Under California and Florida law, when third                were false at time they were published were
+        party is harmed by agent’s conduct, principal is            sufficient to plead plausible claim that defendant
+               © 2016 Thomson Reuters. No claim to original U.S. Government Works.                                  5
+           Case 1:15-cv-07433-RWS Document 26-1 Filed 01/08/16 Page 7 of 26
+
+
+
+
+Green v. Cosby, --- F.Supp.3d ---- (2015)
+
+
+
+        was directly liable for alleged defamation.                 self-defense privilege.
+
+
+        Cases that cite this headnote                               Cases that cite this headnote
+
+
+
+
+[30]                                                         [34]
+        Libel and Slander                                           Libel and Slander
+          Self-defense                                                Injury from Defamation
+                                                                    Libel and Slander
+        Under California law, there is no privilege to                Nominal or substantial damages
+        defame in self-defense.
+                                                                    Under “libel-proof plaintiff” doctrine, when
+                                                                    plaintiff’s reputation is so diminished at time of
+        Cases that cite this headnote                               publication of allegedly defamatory material that
+                                                                    only nominal damages at most could be awarded
+                                                                    because person’s reputation was not capable of
+                                                                    sustaining further harm, plaintiff is deemed to be
+[31]                                                                libel-proof as matter of law and is not permitted
+        Libel and Slander                                           to burden defendant with trial.
+          Self-defense
+
+        Under Florida law, as predicted by the district             Cases that cite this headnote
+        court, there is no privilege to defame in
+        self-defense.
+
+
+        Cases that cite this headnote                        [35]
+                                                                    Libel and Slander
+                                                                      Injury from Defamation
+
+                                                                    Florida has not adopted libel-proof plaintiff
+[32]                                                                doctrine.
+        Libel and Slander
+          Self-defense
+                                                                    Cases that cite this headnote
+        Self-defense privilege permits speaker to call
+        accuser liar, but she or he may not include in
+        reply defamatory matter that is irrelevant or that
+        speaker knows or believes to be false.
+                                                             [36]
+                                                                    Libel and Slander
+                                                                      Injury from Defamation
+        Cases that cite this headnote
+                                                                    “Incremental harm doctrine” measures harm
+                                                                    inflicted by allegedly defamatory statements
+                                                                    beyond harm imposed by rest of publication,
+[33]                                                                and if that harm is determined to be nominal or
+        Federal Civil Procedure                                     nonexistent, statements are dismissed as not
+          Fact issues                                               actionable.
+        Issue of whether defendant’s public responses to
+        plaintiffs’ accusations that he had sexually                Cases that cite this headnote
+        assaulted them were knowingly false presented
+        fact question precluding dismissal of plaintiffs’
+        defamation claims against defendant on basis of
+
+
+               © 2016 Thomson Reuters. No claim to original U.S. Government Works.                                  6
+            Case 1:15-cv-07433-RWS Document 26-1 Filed 01/08/16 Page 8 of 26
+
+
+
+
+Green v. Cosby, --- F.Supp.3d ---- (2015)
+
+
+[37]
+        Libel and Slander                                      amended complaint and, on April 16, 2015, the court
+          Injury from Defamation                               granted Plaintiffs’ request. Green v. Cosby, 99 F.Supp.3d
+                                                               223, –––– – ––––, 2015 WL 1736487, at *2–3
+        Under Florida law, incremental harm doctrine is        (D.Mass.2015). Plaintiffs’ second amended complaint
+        not defense to defamation claim.                       (“SAC”) supplemented factual allegations with respect to
+                                                               an allegedly defamatory statement directed at Green.1
+                                                               (Dkt. No. 48, SAC.) The court held a hearing on the
+        Cases that cite this headnote                          matter and considered the written filings.
+
+
+
+
+                                                                                  II. JURISDICTION
+Attorneys and Law Firms
+                                                               The SAC contains three defamation counts brought
+Joseph Cammarata, Matthew W. Tievsky, Cchaikin,                pursuant to state law. Defamation is not actionable under
+Sherman, Cammarata & Siegel, P.C., Washington, DC,             federal law. Federal courts have jurisdiction over suits
+Andrew M. Abraham, Abraham & Associates, P.C.,                 brought pursuant to state law where there is complete
+Boston, MA, for Plaintiffs.                                    diversity of citizenship between the adversaries and the
+                                                               amount in controversy exceeds a threshold amount of
+Christopher Tayback, Marshall M. Searcy, III, Quinn            $75,000. 28 U.S.C. § 1332; Arbaugh v. Y&H Corp., 546
+Emanuel Urquhart Oliver & Hedges, LLP, Los Angeles,            U.S. 500, 513, 126 S.Ct. 1235, 163 L.Ed.2d 1097 (2006).
+CA, Francis D. Dibble, Jr., Elizabeth S. Zuckerman,            Based on the content of the complaint, which Defendant
+Jeffrey E. Poindexter, Bulkley, Richardson & Gelinas,          has not disputed, the court finds Defendant is a citizen of
+John J. Egan, Egan, Flanagan & Cohen, PC, Springfield,         Massachusetts and Plaintiffs are citizens of either
+MA, Robert P. Lobue, Patterson Belknap Webb & Tyler,           California or Florida. (SAC ¶¶ 2, 4-6.) Plaintiffs each
+LLP, New York, NY, for Defendant.                              assert they are entitled to damages in excess of the
+                                                               statutory threshold amount. In the absence of any
+                                                               challenge from Defendant, the court finds it has
+                                                               jurisdiction in this case pursuant to 28 U.S.C. § 1332.
+
+   MEMORANDUM AND ORDER REGARDING
+    DEFENDANT’S MOTIONS TO DISMISS
+        PLAINTIFFS’ COMPLAINT
+                                                                      III. MOTION TO DISMISS STANDARD
+
+MASTROIANNI, United States District Judge                      When considering a motion to dismiss pursuant to Rule
+                                                               12(b)(6) of the Federal Rules of Civil Procedure, the court
+                                                               must accept all well-pleaded facts as true and draw all
+                                                               reasonable inferences in favor of the plaintiff. Ashcroft v.
+                                                               Iqbal, 556 U.S. 662, 678, 129 S.Ct. 1937, 173 L.Ed.2d
+                  I. INTRODUCTION                              868 (2009); see also San Gerónimo Caribe Project, Inc. v.
+                                                               Acevedo–Vilá, 687 F.3d 465, 471 (1st Cir.2012). The
+*1 On December 10, 2014, Tamara Green filed a                  burden is on the moving party to demonstrate that even
+complaint alleging that William H. Cosby, Jr.                  when viewed in the light most favorable to the plaintiff,
+(“Defendant”) publicly defamed her in statements made          the complaint lacks “sufficient factual matter” to state an
+by individuals operating at his direction and/or within the    actionable claim for relief that is “ ‘plausible on its face.’
+scope of their employment. (Dkt. No. 1, Compl.) The            ” Iqbal, 556 U.S. at 678, 129 S.Ct. 1937 (quoting Bell Atl.
+complaint was subsequently amended to include similar          Corp. v. Twombly, 550 U.S. 544, 570, 127 S.Ct. 1955,
+claims by two additional plaintiffs, Therese Serignese and     167 L.Ed.2d 929 (2007)). “A claim has facial plausibility
+Linda Traitz (collectively, the three are referred to as       when the plaintiff pleads factual content that allows the
+“Plaintiffs”). (Dkt. No. 13, Am. Compl.) Defendant filed       court to draw the reasonable inference that the defendant
+motions to dismiss Plaintiffs’ amended complaint in its        is liable for the misconduct alleged.” Id. When evaluating
+entirety (Dkt. Nos. 21, 22, 23), which Plaintiffs opposed.     the sufficiency of the factual allegations contained in the
+(Dkt. No. 31.) Plaintiffs then sought leave to file a second   complaint, the court must be careful both to credit the
+
+                © 2016 Thomson Reuters. No claim to original U.S. Government Works.                                       7
+            Case 1:15-cv-07433-RWS Document 26-1 Filed 01/08/16 Page 9 of 26
+
+
+
+
+Green v. Cosby, --- F.Supp.3d ---- (2015)
+
+
+
+factual assertions made by the plaintiff and to disregard       ¶¶ 47-48.) Like Plaintiff Green, Plaintiff Serignese was
+“[t]hreadbare recitals of the elements of a cause of action,    physically unable to defend herself. (Id. ¶ 49.)
+supported by mere conclusory statements.” Id.
+“Determining whether a complaint states a plausible             Many years later, in February of 2005, the Philadelphia
+claim for relief” is a “context-specific task that requires     Daily News published an interview with Plaintiff Green in
+the reviewing court to draw on its judicial experience and      which she publicly disclosed the sexual assault that had
+common sense.” Id. at 679, 129 S.Ct. 1937. A complaint          occurred in the 1970s. (Id. ¶ 24.) Plaintiff Green also
+must survive a motion to dismiss if the facts alleged are       disclosed the allegations during appearances on television
+sufficient as to each element to “raise a right to relief       shows around the same time. (Id.) Nine years later, on or
+above the speculative level.” Twombly, 550 U.S. at 555,         about February 7, 2014, Newsweek published an interview
+127 S.Ct. 1955; see also Lister v. Bank of Am., N.A., 790       with Plaintiff Green in which she repeated her description
+F.3d 20, 23 (1st Cir.2015) (“Dismissal for failure to state     of being sexually assaulted by Defendant in the 1970s.
+a claim is appropriate if the complaint does not set forth      (Id. ¶ 27.)
+factual allegations, either direct or inferential, respecting
+each material element necessary to sustain recovery under       On November 18, 2014, Plaintiff Traitz made an entry on
+some actionable legal theory.” (internal quotation marks        her personal Facebook page publicly disclosing that
+omitted)).                                                      Defendant had sexually assaulted her. (Id. ¶ 64.) The
+                                                                following day, Plaintiff Serignese publicly disclosed that
+                                                                she had been sexually assaulted by Defendant.3 (Id. ¶ 50.)
+                                                                Several days later, on November 22, 2014, details of
+                                                                Plaintiff Green’s sexual assault were published by the
+    IV. FACTS AS ALLEGED BY PLAINTIFFS2                         Washington Post. (Id. ¶ 31.)
+*2 During the 1970s, Defendant, “an internationally             Plaintiffs allege that Defendant, acting through his
+known actor and comedian,” met each Plaintiff and               agents,4 issued statements to the media in response to the
+subsequently sexually assaulted her. (SAC ¶¶ 3, 7, 18-21,       public disclosures made by Plaintiffs. (Id. ¶¶ 25-26,
+39, 47-48, 57, 63.) With respect to Plaintiff Green, “[o]n a    28-29, 30, 32-35, 37-38, 51-53, 55-56, 65-68, 70-71.)
+certain date in the early 1970s,” Defendant offered her         Defendant knew each statement was false at the time it
+two pills, telling her they were over-the-counter cold          was made. (Id. ¶¶ 36, 54, 69, 79, 90, 101.) Despite
+medicine. (Id. ¶¶ 10, 12.) She took the pills and became        knowing the statements were false, Defendant directed the
+weak and dizzy. (Id. ¶¶ 13-14.) Defendant then drove            statements be made. (Id. ¶¶ 37, 55, 70.) Each of the
+Plaintiff Green to her apartment, where he subjected her        statements was widely read by many people, including
+to sexual contact against her will and despite her repeated     Plaintiffs’ families, friends, and neighbors, and Plaintiffs
+demands to stop. (Id. ¶¶ 17-21.) Plaintiff Green was            suffered damages, including to their reputations, as a
+unable to defend herself during the sexual assault because      result of the publication of the statements. (Id. ¶¶ 38, 56,
+she remained weak and vulnerable. (Id. ¶ 22.)                   71, 80-82, 91-93, 102-104.) The statements were made as
+                                                                follows:
+In 1970, Plaintiff Traitz met Defendant while working as
+a waitress. (Id. ¶ 57.) On one occasion she accepted a ride
+home from Defendant, but he instead drove her to a
+beach. (Id. ¶¶ 58-59.) He parked his car and then opened a      A. Newsweek Statement—February 7, 2014
+briefcase containing pills and urged Plaintiff Traitz to take   *3 Prior to the publication of Newsweek’s interview with
+some pills “to relax.” (Id. ¶ 60.) When Plaintiff Traitz        Plaintiff Green in February of 2014, Defendant, acting
+declined the pills, Defendant groped her, pushed her            through a publicist, believed by Plaintiffs to be David
+down, and attempted to lie on top of her, despite her           Brokaw (“Brokaw”), made a statement to Newsweek. (Id.
+resistance. (Id. ¶¶ 62-63.)                                     ¶¶ 28-30.) The publicist provided the statement to
+                                                                Newsweek while acting as Defendant’s authorized agent,
+Plaintiff Serignese met Defendant in Las Vegas in 1976          employee, or authorized representative and he knew or
+and attended his show. (Id. ¶¶ 39, 42-43.) Afterwards, she      should have known the statement was false when it was
+was invited to a room backstage where Defendant gave            made. (Id. ¶¶ 29, 77-78) The statement was appended to
+her two pills and instructed her to take them. (Id. ¶¶          the end of the story and read, in its entirety:
+43-44.) Plaintiff Serignese complied and the pills caused
+her to be in an altered state of consciousness. (Id. ¶¶                     This is a 10-year-old, discredited
+44-45.) While she was in this altered state, Defendant                      accusation that proved to be
+subjected her to sexual contact without her consent. (Id.                   nothing at the time, and is still
+                © 2016 Thomson Reuters. No claim to original U.S. Government Works.                                      8
+           Case 1:15-cv-07433-RWS Document 26-1 Filed 01/08/16 Page 10 of 26
+
+
+
+
+Green v. Cosby, --- F.Supp.3d ---- (2015)
+
+
+
+            nothing.                                           media outlets. (SAC ¶¶ 51, 67.) Singer gave the statement
+                                                               while acting as Defendant’s authorized agent, employee,
+(Dkt. No. 25, Decl. re: Mem. Supp. Mot. to Dismiss             or authorized representative and he knew or should have
+(“Decl. re: Mot. to Dismiss”), Ex. A at 3, hereinafter         known the statement was false when it was made. (Id. ¶¶
+“Newsweek Statement.”)                                         53, 88-89, 99-100.) The statement responded to
+                                                               allegations by Plaintiffs Traitz, Serignese, and other
+                                                               individuals who are not parties to this suit, without
+                                                               directly identifying any individuals by name, and read, in
+B. November 20, 2014 Statement                                 its entirety, as follows:
+Two days after Plaintiff Traitz wrote on her personal
+Facebook page about Defendant sexually assaulting her in         The new, never-before-heard claims from women who
+the 1970s, Defendant, acting through Martin D. Singer            have come forward in the past two weeks with
+(“Singer”), released a responsive statement to numerous          unsubstantiated, fantastical stories about things they
+media outlets. (SAC ¶ 65.) Singer gave the statement             say occurred 30, 40, or even 50 years ago have
+while acting as Defendant’s authorized agent, employee,          escalated far past the point of absurdity.
+or authorized representative and he knew or should have
+known the statement was false when it was made. (Id. ¶¶          These brand new claims about alleged decades-old
+53, 99-100.) The statement read, in its entirety, as             events are becoming increasingly ridiculous, and it is
+follows:                                                         completely illogical that so many people would have
+                                                                 said nothing, done nothing, and made no reports to law
+  Ms. Traitz is the latest example of people coming out          enforcement or asserted civil claims if they thought
+  of the woodwork with fabricated or unsubstantiated             they had been assaulted over a span of so many years.
+  stories about my client.
+                                                                 *4 Lawsuits are filed against people in the public eye
+  Linda Joy Traitz is making ridiculous claims and               every day. There has never been a shortage of lawyers
+  suddenly seems to have a lot to say about a fleeting           willing to represent people with claims against rich,
+  incident she says happened with my client more than            powerful men, so it makes no sense that not one of
+  40 years ago, but she hasn’t mentioned either her 3 ½          these new women who just came forward for the first
+  year incarceration or her extensive criminal record with       time now ever asserted a legal claim back at the time
+  charges spanning from the 1980’s through 2008.                 they allege they had been sexually assaulted.
+
+  For the first time, she is claiming that in approximately      This situation is an unprecedented example of the
+  1970, my client supposedly drove her to the beach and          media’s breakneck rush to run stories without any
+  had a briefcase filled with drugs and offered her pills to     corroboration or adherence to traditional journalistic
+  relax, which she says she turned down and demanded             standards. Over and over again, we have refuted these
+  to be taken home after Mr. Cosby came on to her.               new unsubstantiated stories with documentary
+  There was no briefcase of drugs, and this is an absurd         evidence, only to have a new uncorroborated story crop
+  fabrication.                                                   up out of the woodwork. When will it end?
+
+  Ms. Traitz’s long criminal record for numerous                 It is long past time for this media vilification of Mr.
+  offenses including charges for criminal fraud,                 Cosby to stop.
+  possession of Oxycodone, cocaine possession,
+  marijuana possession, and possession of drug                 (Decl. re: Mot. to Dismiss, Ex. D at 1, hereinafter
+  paraphernalia, speaks for itself.                            “November 21, 2014 Statement.”)
+
+  As the old saying goes, “consider the source.”
+
+(Decl. re: Mot. to Dismiss, Ex. F at 1, hereinafter            D. Washington Post Statement, November 22, 2014
+“November 20, 2014 Statement.”)                                On November 22, 2014, the Washington Post published
+                                                               its interview with Plaintiff Green, along with a responsive
+                                                               statement from Defendant. (SAC ¶¶ 31-33.) Defendant,
+                                                               acting through Walter M. Phillips Jr. (“Phillips”), either
+C. November 21, 2014 Statement                                 “gave” the statement to the Washington Post in 2014, or
+On November 21, 2014, Defendant, again acting through          “originally published” the statement in 2005 with the
+Singer, released a responsive statement to numerous            expectation and intent that the statement be republished if
+
+               © 2016 Thomson Reuters. No claim to original U.S. Government Works.                                     9
+           Case 1:15-cv-07433-RWS Document 26-1 Filed 01/08/16 Page 11 of 26
+
+
+
+
+Green v. Cosby, --- F.Supp.3d ---- (2015)
+
+
+
+Plaintiff Green’s allegations were reported again in the                           V. DISCUSSION
+future, as occurred in November of 2014. (Id. ¶¶ 34-35.)
+Phillips provided the statement while acting as
+Defendant’s authorized agent, employee, or authorized          A. Choice of Law
+representative and he knew or should have known the            *5 [1] [2]“[F]ederal courts sitting in diversity apply state
+statement was false when it was made. (Id. ¶¶ 26, 77-78.)      substantive law and federal procedural law.” Gasperini v.
+The article quoted Phillips as stating Plaintiff Green’s       Ctr. for Humanities, Inc., 518 U.S. 415, 427, 116 S.Ct.
+allegations were “absolutely false.” (Dkt. No. 20, Pls.’       2211, 135 L.Ed.2d 659 (1996). The court “determine[s]
+Mem. Supp. re: Mot. for Leave to File Second Am.               which state’s law applies by applying the choice of law
+Compl. (“Mem. re: Mot. to Am.”) 15, Exs. B and C.)             rules of the forum state,” in this case, Massachusetts. In re
+Phillips also stated: “Mr. Cosby does not know the name        Volkswagen & Audi Warranty Extension Litig., 692 F.3d
+Tamara Green or Tamara Lucier [her maiden name] and            4, 14 (1st Cir.2012). In tort cases, Massachusetts courts
+the incident she describes did not happen.” (Id.) In           “consider choice-of-law issues ‘by assessing various
+addition, Phillips stated the publication of “an               choice-influencing considerations,’ ... including those
+uncorroborated story of an incident that is alleged to have    provided in the Restatement (Second) of Conflict of Laws
+happened thirty years ago” was “irresponsible.” (Id.)5         (1971).” Cosme v. Whitin Mach. Works, Inc., 417 Mass.
+                                                               643, 632 N.E.2d 832, 834 (1994) (internal citation
+The Washington Post publishes articles both online and in      omitted) (quoting Bushkin Assocs., Inc. v. Raytheon Co.,
+print. The online version of the article is dated November     393 Mass. 622, 473 N.E.2d 662, 668 (1985)).
+22, 2014 (“November 22, 2014 Washington Post Online            [3]
+Article”) and the print version is dated November 23,            Pursuant to section 150 of the Restatement (Second) of
+2014 (“November 23, 2014 Washington Post Print                 Conflict of Laws, “the law of the state where the defamed
+Article”). (Mem. re: Mot. to Am., Exs. B and C.) In the        person was domiciled at the time of publication applies ‘if
+November 23, 2014 Washington Post Print Article,               the matter complained of was published in that state.’ ”
+Phillips is identified as “[a]nother Cosby attorney” and       Davidson v. Cao, 211 F.Supp.2d 264, 274 (D.Mass.2002)
+the statement is identified as having been “issued this past   (quoting Restatement (Second) Conflict of Laws § 150(2)
+week.” (Mem. re: Mot. to Am., Ex. B.) After publishing         & cmt. b). The statements at issue in this case were
+the original articles, the Washington Post issued slightly     published nationally, so the court applies the law of the
+different correction notices with respect to both the online   state in which each Plaintiff was domiciled when the
+and print versions of the article, and, by December 12,        alleged publication occurred. Accordingly, California law
+2014, had incorporated the correction itself into the body     applies relative to the claims of Plaintiff Green and
+of the November 22, 2014 Washington Post Online                Florida law applies as to the claims of Plaintiffs Traitz
+Article. (Mem. re: Mot. to Am, Ex. C; Dkt. No. 28, Decl.       and Serignese.
+re: Opp. to Pls.’ Mot. for Leave to File Second Am.
+Compl., Ex. 1.) Plaintiffs attached a copy of the corrected
+version of the November 22, 2014 Washington Post
+Online Article, which included the correction notice at the    B. Statute of Limitations as to Claim Based on the
+top of the article, as an exhibit in support of their motion   Washington Post Statement
+for leave to file a second amended complaint. (Mem. re:        The original cause of action asserted by Plaintiff Green
+Mot. to Am., Ex. C.) In this corrected version of the          referred to allegedly defamatory statements made by
+November 22, 2014 Washington Post Online Article,              Defendant, through his agents, published in Newsweek
+dated December 12, 2014, the text has been changed from        and the Washington Post in 2014. Two days after this
+the print version6 to identify Phillips as “[a] previous       action was filed, the Washington Post issued the
+Cosby attorney” and the statement is identified as having      corrections indicating Phillips’ statement (on behalf of
+been “issued in 2005 when the allegations first surfaced.”     Defendant) had actually been made in 2005 when Plaintiff
+(Id. at 15.) The correction notice to the online version       Green first publicly disclosed the alleged sexual assault,
+reads in its entirety: “This story originally said Cosby       and not in 2014 after Green publicly repeated these
+lawyer Walter M. Phillips Jr. had denied the allegations of    allegations. Thereafter, Plaintiffs filed the SAC, in which
+Tamara Green in a statement issued during the past week.       they continued to allege that Defendant, through Phillips,
+The statement was made when Green’s allegations first          “gave” the statement to the Washington Post in 2014.
+surfaced in 2005. The story has been corrected.” (Id. at       (SAC ¶ 34.) The SAC also alleges “[i]n addition, or in the
+1.)7                                                           alternative,” that the statement was originally published in
+                                                               2005 with Defendant’s “expectation and intent that the
+                                                               statement would be republished by news outlets in the
+                                                               event that Plaintiff Green should repeat her accusations,
+
+                © 2016 Thomson Reuters. No claim to original U.S. Government Works.                                     10
+           Case 1:15-cv-07433-RWS Document 26-1 Filed 01/08/16 Page 12 of 26
+
+
+
+
+Green v. Cosby, --- F.Supp.3d ---- (2015)
+
+
+
+and/or should these accusations be reported again, on a         motions. Where plaintiff has actual notice of all the
+later date.” (Id. ¶ 35.) Furthermore, Plaintiffs allege, “it    information in the movant’s papers and has relied upon
+was reasonably foreseeable” that Defendant’s 2005               these documents in framing the complaint the necessity of
+statement would be republished by news media in stories         translating a Rule 12(b)(6) motion into one under Rule 56
+regarding Green’s repeated allegations, including the           is largely dissipated.”). At the very least, therefore, the
+November 22, 2014 Washington Post article. (Id.)                court believes it may consider the correction to the
+                                                                November 22, 2014 Washington Post Online Article,
+Defendant argues Plaintiff Green’s claim based on the           even though Plaintiffs did not formally attach it to the
+November 22, 2014 Washington Post article is barred by          SAC.8
+the statute of limitations. (Dkt. No. 24, Def.’s Mem. Supp.
+of Mots. to Dismiss (“Def.’s Mem.”) 9-11); Dkt. No. 27,         *6 Plaintiffs next assert that even if the court considers
+Def.’s Opp’n to Pls.’ Mot. for Leave to File Second Am.         the correction, it is not inconsistent with the allegation in
+Compl.) California has adopted a one-year statute of            paragraph 34 of the SAC that Phillips in 2014 “gave” the
+limitations for defamation claims. See Cal. Code Civ. Pro.      Washington Post the statement, even if it was originally
+§ 340(c). According to Defendant, the “single publication       published in 2005.9 Defendant, on the other hand,
+rule” mandates that the limitations period commences on         contends Plaintiffs’ allegation is contradicted by the
+the date the statement was first published, in this case        correction and the court cannot now credit their
+2005, thereby rendering Green’s claim untimely.                 allegation. See Yacubian v. United States, 750 F.3d 100,
+                                                                108 (1st Cir.2014) (“ ‘[W]hen a written instrument
+As an initial matter, the parties contest whether the court     contradicts allegations in the complaint to which it is
+may even consider the Washington Post correction in             attached, the exhibit trumps the allegations.’ ” (quoting
+ruling on Defendant’s motion to dismiss. According to           Young v. Wells Fargo Bank, N.A., 717 F.3d 224, 229 n. 1
+Plaintiffs, because the correction contains no actionable       (1st Cir.2013))). The court agrees with Plaintiffs that the
+defamatory language, it is not central to Green’s claim         correction is not necessarily inconsistent with the
+and thus is not incorporated into the pleadings. Plaintiffs,    allegation that Defendant (through Phillips) “gave” the
+however, attached a copy of the corrected November 22,          statement to the Washington Post in 2014. The term
+2014 Washington Post Online Article as an exhibit in            “gave” does not necessarily mean verbally speaking the
+support of their motion for leave to file a second amended      words but could be taken to mean, at this stage of the
+complaint. (Mem. re: Mot. to Am., Ex. C.) Plaintiffs            litigation, that Defendant’s agent referred the Washington
+cannot rightfully have benefited from their own reliance        Post to the old statement or otherwise made the
+on the correction and then assert they should also be           newspaper aware of the statement. Defendant asserts that
+shielded from what it says. Accordingly, while Plaintiffs       because this allegation is “threadbare” and “speculative,”
+did not attach the correction to the SAC following the          the court should disregard it. See Penalbert–Rosa v.
+court’s allowance of their motion for leave to amend, the       Fortuno–Burset, 631 F.3d 592, 595 (1st Cir.2011). The
+court believes, as a matter of fair and practical application   Supreme Court has explained, however, that “the pleading
+of Rule 10(c) of the Federal Rules of Civil Procedure,          standard Rule 8 announces does not require ‘detailed
+their strategic use of that correction should have the same     factual allegations.’ ” Iqbal, 556 U.S. at 678, 129 S.Ct.
+effect. See Trans–Spec Truck Serv. v. Caterpillar Inc.,         1937 (quoting Twombly, 550 U.S. at 555, 127 S.Ct. 1955).
+524 F.3d 315, 321 (1st Cir.2008) (“Exhibits attached to         Plaintiffs have explained in their opposition to dismissal
+the complaint are properly considered part of the pleading      that paragraph 34 of the SAC should be read to mean
+‘for all purposes’ including Rule 12(b)(6).” (quoting Fed       “that in November of 2014, Mr. Phillips gave the
+R. Civ. P. 10(c))); West v. Temple, Civil Action No.            Washington Post a copy of a statement that he originally
+5:14–CV–86 (MTT), 2015 WL 757650, at *4 (M.D. Ga.               published in 2005; or that, in November of 2014, Mr.
+Feb. 23, 2015) (“The Court will consider the information        Phillips directed the Washington Post to republish the
+contained in the ‘carbon-copy grievance’ attached to [the       older statement.” (Dkt. No. 32, Pls.’ Mem. Supp. Opp’n
+plaintiff’s] motion to amend as part of his Complaint.”);       to Def.’s Mots. to Dismiss (“Pls.’ Mem.”) 32-33.) See
+cf. Cortec Indus., Inc. v. Sum Holding L.P., 949 F.2d 42,       Penalbert–Rosa, 631 F.3d at 596 (indicating that a
+48 (2d Cir.1991) ( “[T]he problem that arises when a            plaintiff may supply a missing detail in an opposition to a
+court reviews statements extraneous to a complaint              motion to dismiss). Plaintiffs also argue the Washington
+generally is the lack of notice to the plaintiff that they      Post, in 2014, originally reported in an unambiguous way
+may be so considered; it is for that reason—requiring           the statement had been “issued this past week.” At this
+notice so that the party against whom the motion to             stage of the litigation, before the commencement of the
+dismiss is made may respond—that Rule 12(b)(6)                  discovery process, this provides a good-faith basis for
+motions are ordinarily converted into summary judgment          Plaintiffs to allege Defendant, through an agent, by some
+
+                © 2016 Thomson Reuters. No claim to original U.S. Government Works.                                      11
+           Case 1:15-cv-07433-RWS Document 26-1 Filed 01/08/16 Page 13 of 26
+
+
+
+
+Green v. Cosby, --- F.Supp.3d ---- (2015)
+
+
+
+means “gave” the statement to the newspaper in 2014. See        defamatory matter can be liable for each ‘repetition’ of
+Rodriguez–Vives v. P.R. Firefighters Corps, 743 F.3d            the defamatory matter by a second party, ‘if he could
+278, 286 (1st Cir.2014) (explaining that the “threadbare”       reasonably have foreseen the repetition.’ ” (quoting
+and “speculative” exception to assuming a plaintiff’s           McKinney v. Cty. of Santa Clara, 110 Cal.App.3d 787,
+factual allegations as true only applies when it is “clear      168 Cal.Rptr. 89, 93 (1980))). “It is the foreseeable
+that the plaintiff is merely speculating about the fact         subsequent repetition of the remark that constitutes
+alleged and therefore has not shown that it is plausible        publication and an actionable wrong in this situation, even
+that the allegation is true”).                                  though it is the original author of the remark who is being
+                                                                held accountable.” Shively, 7 Cal.Rptr.3d 576, 80 P.3d at
+The online correction merely states “the statement was          683. The court does not agree with Defendant’s assertion
+made when Green’s allegations first surfaced in 2005.”          that, under the “single publication rule,” Plaintiff Green’s
+(Mem. re: Mot. to Am., Ex. C.) This does not rule out the       defamation claim accrued exclusively in 2005 and the
+possibility, consistent with paragraph 34 of the SAC, that      limitations period did not reset upon the issuance of the
+although Phillips originally “made” the statement in 2005,      November 22, 2014 Washington Post article.
+he also provided or directed the same statement to the
+Washington Post in 2014 in response to Green’s more             *7 In Shively, the California Supreme Court extensively
+recent public accusations. See Shively v. Bozanich, 31          set forth the history and rationale of the single publication
+Cal.4th 1230, 7 Cal.Rptr.3d 576,80 P.3d 676, 683 (2003)         rule. The court explained:
+(“The rule that each publication of a defamatory statement
+gives rise to a new cause of action for defamation applies                   Under the common law as it existed
+when the original defamer repeats or recirculates his or                     in the 19th century and early part of
+her original remarks to a new audience.”). The discovery                     the 20th century, the principle that
+process may very well bear this issue out and sharpen the                    each      communication        of    a
+parties’ arguments on this point, but at this stage the court                defamatory remark to a new
+must resolve all reasonable inferences in Plaintiffs’                        audience constitutes a separate
+favor.10 Dismissal of a portion of Plaintiff Green’s claim                   “publication,” giving rise to a
+based on a correction made to the Washington Post article                    separate cause of action, led to the
+is not warranted on statute of limitations grounds.                          conclusion that each sale or
+                                                                             delivery of a copy of a newspaper
+[4] [5]
+     Most importantly, even if Defendant’s reading of the                    or book containing a defamation
+correction were accurate and the court declined to accord                    also     constitutes    a     separate
+paragraph 34 of the SAC the presumption of truth,                            publication of the defamation to a
+Defendant’s statute of limitations argument would still                      new audience, giving rise to a
+fail based on Plaintiffs’ theory asserted in paragraph 35 of                 separate cause of action for
+the SAC. As discussed, Plaintiffs allege in paragraph 35,                    defamation. ... This conclusion had
+“[i]n addition, or in the alternative, to paragraph 34,” that                the potential to subject the
+Phillips “originally published” the statement in 2005                        publishers      of     books       and
+“with the expectation and intent” that the statement be                      newspapers to lawsuits stating
+republished if Plaintiff Green’s allegations were reported                   hundreds, thousands, or even
+again in the future. (SAC ¶ 35.) “In general, the repetition                 millions of causes of action for a
+by a new party of another person’s earlier defamatory                        single issue of a periodical or
+remark also gives rise to a separate cause of action for                     edition of a book. This conclusion
+defamation against the original defamer, when the                            also had the potential to disturb the
+repetition was reasonably foreseeable.” Shively, 7                           repose that the statute of limitations
+Cal.Rptr.3d 576, 80 P.3d at 683; see also Mitchell v.                        ordinarily would afford, because a
+Superior Court, 37 Cal.3d 268, 208 Cal.Rptr. 152, 690                        new publication of the defamation
+P.2d 625, 633 (1984) (“According to the Restatement                          could occur if a copy of the
+(Second) of Torts (1977) section 576, the original defamer                   newspaper or book were preserved
+is liable if either ‘the repetition was authorized or                        for many years and then came into
+intended by the original defamer’ (subd. (b)) or ‘the                        the hands of a new reader who had
+repetition was reasonably to be expected’ (subd. (c)).                       not discovered it previously. The
+California decisions follow the restatement rule.”);                         statute of limitations could be
+Schneider v. United Airlines, Inc., 208 Cal.App.3d 71,                       tolled indefinitely, perhaps forever,
+256 Cal.Rptr. 71, 74 (1989) (“[T]he originator of the                        under this approach.
+
+                © 2016 Thomson Reuters. No claim to original U.S. Government Works.                                      12
+           Case 1:15-cv-07433-RWS Document 26-1 Filed 01/08/16 Page 14 of 26
+
+
+
+
+Green v. Cosby, --- F.Supp.3d ---- (2015)
+
+
+
+                                                                 Plaintiff Green’s claim based on a single publication
+[6]
+  Id., 7 Cal.Rptr.3d 576, 80 P.3d at 683–84 (internal            theory that the statute of limitations has expired.
+citations omitted). In response to these concerns, “courts
+fashioned what became known as the single-publication
+rule, holding that, for any single edition of a newspaper or
+book, there was but a single potential action for a              C. Adequacy of Plaintiffs’ Defamation Allegations
+                                                                 [7]
+defamatory statement contained in the newspaper or book,            Having determined the laws of California and Florida
+no matter how many copies of the newspaper or the book           are applicable and that the claim related to the
+were distributed.” Id., 7 Cal.Rptr.3d 576, 80 P.3d at 684.11     Washington Post Statement is not barred by the statute of
+Critically,      however,        “[n]otwithstanding       the    limitations, the court next considers the substance of
+single-publication rule, a new edition or new issue of a         Plaintiffs’ defamation claims. Both California and Florida
+newspaper or book still constitutes a new publication,           recognize the following essential elements of defamation:
+giving rise to a new and separate cause of action and a          (1) a publication; (2) that is false; (3) defamatory,
+new accrual date for the purpose of the statute of               meaning damaging to the good reputation of the person
+limitations.” Id., 7 Cal.Rptr.3d 576, 80 P.3d at 685, n. 7;      who is the subject of the statement; (4) made by an actor
+see also id., 7 Cal.Rptr.3d 576, 80 P.3d at 685 (“Accrual        with the requisite degree of fault; (5) is not protected by
+at that point is believed to provide adequate protection to      any privilege; and (6) causes injury to the subject.12 See,
+potential plaintiffs, especially in view of the qualification    e.g., Jews For Jesus, Inc. v. Rapp, 997 So.2d 1098, 1106
+that repetition of the defamatory statement in a new             (Fla.2008); Taus v. Loftus, 40 Cal.4th 683, 54 Cal.Rptr.3d
+edition of a book or newspaper constitutes a new                 775, 151 P.3d 1185, 1209 (2007), abrogated on other
+publication of the defamation that may give rise to a new        grounds by Oasis West Realty, LLC v. Goldman, 51
+cause of action, with a new accrual date.”).                     Cal.4th 811, 124 Cal.Rptr.3d 256, 250 P.3d 1115 (2011);
+                                                                 Blatty v. N.Y. Times Co., 42 Cal.3d 1033, 232 Cal.Rptr.
+Therefore, if Green had asserted a claim based merely on         542, 728 P.2d 1177, 1182–83, 1186 (1986). Defendant
+the original 2005 article containing Phillips’ statements,       moves to dismiss Plaintiffs’ claims, alleging inadequacies
+the single publication rule would operate to bar such a          related to several of these elements. These challenges can
+claim because accrual would have occurred “on the ‘first         generally be organized as follows. First, Defendant asserts
+general distribution of the publication to the public.’ ” Id.,   that none of the allegedly defamatory statements contain
+7 Cal.Rptr.3d 576, 80 P.3d at 685 (quoting Belli v.              false factual assertions that are also defamatory. As part
+Roberts Bros. Furs, 240 Cal.App.2d 284, 49 Cal.Rptr.             of this argument, Defendant specifically asserts the claim
+625, 629 (1966)). Because Green’s claim is instead based         based upon the November 20, 2014 Statement regarding
+on the November 22, 2014 Washington Post article, an             Plaintiff Traitz fails because the statement was
+entirely different issuance, the single publication rule does    substantially true and the claims based upon the
+not apply. See id., 7 Cal.Rptr.3d 576, 80 P.3d at 685 & n.       November 21, 2014 Statement fail because that statement
+7; Schneider, 256 Cal.Rptr. at 74–75 (“ ‘[T]he single            was not sufficiently “of and concerning” Plaintiffs Traitz
+publication rule ... does not include separate aggregate         or Serignese. Second, Defendant argues he cannot be
+publications on different occasions.’ ” (quoting Kanarek         liable for defamation because Plaintiffs have failed to
+v. Bugliosi, 108 Cal.App.3d 327, 166 Cal.Rptr. 526, 530          plead that either Defendant or his agents acted with the
+(1980))); cf. Christoff v. Nestle USA, Inc., 47 Cal.4th 468,     constitutionally required degree of fault. Third, Defendant
+97 Cal.Rptr.3d 798, 213 P.3d 132, 138 (2009) (“The               argues the November 20, 2014 Statement did not cause
+prefatory note to the uniform act states that under the          Plaintiff Traitz to suffer incremental harm. Fourth,
+single-publication rule ‘any single integrated publication,      Defendant asserts the allegedly defamatory statements are
+such as one edition of a newspaper or magazine, or one           protected by a “self-defense privilege.” The court
+broadcast, is treated as a unit, giving rise to only one         addresses these arguments in turn.
+cause of action.’ ” (quoting Unif. Single Publ’n Act, 14
+U.L.A. 469 (2005))). Accordingly, Defendant has not
+established that Plaintiff Green’s claim based on the
+November 22, 2014 Washington Post article is barred by
+California’s statute of limitations and, consistent with         1. The Statements: Factual, True, Defamatory, Of and
+paragraph 35 of the SAC, he may be held liable for the                               Concerning
+foreseeable republication of Phillips’ 2005 statement. See       [8]
+                                                                   In order for a defamation claim to survive a motion to
+Shively, 7 Cal.Rptr.3d 576, 80 P.3d at 683.
+                                                                 dismiss, the allegedly defamatory statement must contain
+                                                                 at least one false factual assertion which is also
+*8 Accordingly, the court will not dismiss any portion of
+                                                                 defamatory. See, e.g., Jews For Jesus, Inc., 997 So.2d at
+
+                © 2016 Thomson Reuters. No claim to original U.S. Government Works.                                     13
+           Case 1:15-cv-07433-RWS Document 26-1 Filed 01/08/16 Page 15 of 26
+
+
+
+
+Green v. Cosby, --- F.Supp.3d ---- (2015)
+
+
+
+1106; Taus, 54 Cal.Rptr.3d 775,151 P.3d at 1209.                concern is whether any fact contained in or implied by an
+Depending on the nature of the statement and the context        allegedly defamatory statement is susceptible to being
+in which it was made, courts will place different emphasis      proved true or false; if so capable, Defendant cannot
+on these two components. In this case, Defendant argues         avoid application of defamation law by claiming the
+three of the four statements at issue do not contain factual    statement expresses only opinion. See Ferlauto v.
+assertions that are false, or even capable of being false.13    Hamsher, 74 Cal.App.4th 1394, 88 Cal.Rptr.2d 843, 849
+Defendant further asserts that even if the statements can       (1999); Zambrano v. Devanesan, 484 So.2d 603, 606
+be understood as expressing false factual assertions, they      (Fla.Dist.Ct.App.1986). Ultimately, if Plaintiffs’ claims
+are not defamatory because they do not hold Plaintiffs “        survive this initial challenge, Defendant will have the
+‘up to contempt, hatred, scorn, or ridicule or tend to          opportunity, at the procedurally appropriate time, to fully
+impair [their] standing in the community.’ ” (Def.’s Mem.       develop a defense based on the truth of the facts contained
+14-15 (quoting Yohe v. Nugent, 321 F.3d 35, 40 (1st             in or implied by each statement.
+Cir.2003)).) The court addresses each statement
+individually, applying California law to the Newsweek
+Statement regarding Plaintiff Green and Florida law to the
+November 20, 2014 and November 21, 2014 Statements
+as to one or both of Plaintiffs Traitz and Serignese.                 a. The Newsweek Statement Pertaining to Plaintiff
+                                                                                          Green
+*9 Before delving into the state-specific analysis, the
+court considers the Supreme Court case law applicable to
+defamation cases in which the parties dispute whether a                                  i. Substantially True
+statement contains actionable statements of fact or
+protected statements of opinion. In Milkovich v. Lorain         [9]     [10]   [11]   [12]
+                                                                                     Defendant argues the Newsweek
+Journal Co., the Supreme Court reviewed the history of          Statement—“This is a 10-year-old, discredited accusation
+the tort of defamation and development of constitutional        that proved to be nothing at the time, and is still
+protections to ensure the tort does not interfere with “the     nothing”—does not contain any defamatory content
+freedom of expression guaranteed by the First                   because it is true. Even if a statement is offensive, it
+Amendment.” 497 U.S. 1, 21, 110 S.Ct. 2695, 111                 cannot be the basis for a defamation suit if it is true. Smith
+L.Ed.2d 1 (1990). The Court reviewed existing                   v. Maldonado, 72 Cal.App.4th 637, 85 Cal.Rptr.2d 397,
+constitutional requirements, including that plaintiffs must     403 (1999). While a “defendant need not justify the literal
+(a) establish the requisite level of fault on the part of a     truth of every word,” to prevail in a defamation action, the
+defendant and (b) allege a statement that can “                 defendant must “prove[ ] true the substance of the
+‘reasonably [be] interpreted as stating actual facts’ about     charge.” Id. An “ ‘imputation is substantially true’ ” if it
+an individual.” Id. at 20, 110 S.Ct. 2695 (quoting Hustler      “justif[ies] the ‘gist or sting’ ” of the remark. Id. (quoting
+Magazine, Inc. v. Falwell, 485 U.S. 46, 50, 108 S.Ct. 876,      Campanelli v. Regents of Univ. of Cal., 44 Cal.App.4th
+99 L.Ed.2d 41 (1988)). The Court considered whether to          572, 51 Cal.Rptr.2d 891, 897 (1996)). It is uncontested
+create an additional constitutional privilege for “anything     that the meaning of the first part of the statement is
+that might be labeled ‘opinion.’ ” Id. at 18, 110 S.Ct.         accurate—Plaintiff Green had first made her accusations
+2695. In declining to adopt such a privilege, the Court         approximately ten years earlier. As to the rest of the
+explained there is not a clear division between statements      statement, Defendant argues the substance is true because
+of opinion and fact. “If a speaker says, ‘in my opinion         (1) Plaintiff Green’s attorney disciplinary issues in
+John Jones is a liar,’ [the speaker] implies a knowledge of     California, which are not mentioned in the statement,
+facts which lead to the conclusion that Jones told an           were sufficient to discredit her and (2) the substance of
+untruth” and, as a result, such a statement may imply a         the allegations was never the subject of a civil or criminal
+false assertion of fact by failing to state what it was based   legal proceeding. The court does not agree. First, Plaintiff
+on or because any facts referenced are incorrect or             Green does not claim the language in the Newsweek
+incomplete. Id. The Supreme Court directs courts to             Statement is defamatory because it describes her as being
+determine “whether a reasonable factfinder could                a discredited person related to her legal profession.
+conclude that the [allegedly defamatory] statements ...         Rather, she argues the statement asserts that her sexual
+imply an assertion [of fact]” and whether that assertion “is    assault allegation was discredited. Second, an absence of
+sufficiently factual to be susceptible of being proved true     civil or criminal proceedings does not establish that an
+or false,” rather than simply determine whether a               allegation was “discredited” or “proved to be nothing.” In
+statement expresses an opinion or asserts a fact. Id. at 21,    the absence of legal proceedings, Plaintiff Green’s
+110 S.Ct. 2695. At this stage of the litigation, the court’s    allegations could not have been established to lack legal
+
+                © 2016 Thomson Reuters. No claim to original U.S. Government Works.                                      14
+                 Case 1:15-cv-07433-RWS Document 26-1 Filed 01/08/16 Page 16 of 26
+
+
+
+
+Green v. Cosby, --- F.Supp.3d ---- (2015)
+
+
+
+merit at a court hearing. The statement attributable to          impression that the defendant was asserting an objective
+Defendant implies the allegations were somehow truly             fact, (2) whether the defendant used figurative or
+disproven without stating how or where, thereby failing to       hyperbolic language that negates that impression, and (3)
+self-authenticate as a statement of true fact. A statement is    whether the statement in question is susceptible of being
+considered false for the purposes of defamation if “it           proved true or false.” Lieberman v. Fieger, 338 F.3d
+would have a different effect on the mind of the reader          1076, 1080 (9th Cir.2003) (citations omitted) (applying
+from that which the pleaded truth would have produced.”          California law).
+Hughes v. Hughes, 122 Cal.App.4th 931, 19 Cal.Rptr.3d
+247, 251 (2004) (internal quotation marks and citation           *10 As to the first part—general tenor—Defendant points
+omitted). For that reason, California courts “look to what       out the statement was made “in response to serious
+is explicitly stated as well as what insinuation and             charges” and argues this “is a strong contextual signal that
+implication can be reasonably drawn from the                     the statement is non-actionable opinion.” (Def.’s Mem.
+communication.” Forsher v. Bugliosi, 26 Cal.3d 792, 163          14.) Specifically, Defendant suggests the court should
+Cal.Rptr. 628, 608 P.2d 716, 721 (1980).                         treat the response as a “predictable opinion,” which an
+                                                                 average reader would understand as a one-sided attempt
+                                                                 to bolster his position in a dispute.14 Several California
+                                                                 courts have used the phrase “predictable opinion” to
+                                                                 describe a statement that, due to the context in which it is
+                      ii. Opinion or Fact                        made, is understood to be a one-sided expression of
+[13] [14] [15]                                                   opinion rather than fact. However, California courts have
+          In addition to asserting the Newsweek Statement        only applied the principle to cases where the statements
+is not defamatory since it is substantially true, Defendant      related to pending or completed litigation. See
+argues it is not defamatory because it expresses an              Dreamstone Entm’t Ltd. v. Maysalward Inc., No.
+opinion rather than a fact capable of being proved false.        2:12–cv–02063–CAS(SSx), 2014 WL 4181026, at *6
+California courts have interpreted the Supreme Court’s           (C.D.Cal. Aug. 18, 2014) (treating statement attributed to
+decision in Milkovich as establishing that the First             attorneys, and linking to recently filed complaint, as
+Amendment only prohibits defamation liability for the            “predictable opinion” rather than statement of fact);
+expression of an opinion where the factual basis for the         Amaretto Ranch Breedables, LLC v. Ozimals, Inc., No.
+opinion is provided, the facts provided are true, and the        CV 10–5696 CRB, 2013 WL 3460707, at *4 (N.D.Cal.
+opinion does not imply false assertions of facts. GetFugu,       July 9, 2013) (finding the broad context of a blog entry,
+Inc. v. Patton Boggs LLP, 220 Cal.App.4th 141, 162               describing reasons for bringing lawsuit, demonstrated that
+Cal.Rptr.3d 831, 842 (2013) (citing Milkovich, 497 U.S.          the statement was a “predictable opinion,” rather than an
+at 18–19, 110 S.Ct. 2695 and McGarry v. Univ. of San             actionable statement of fact); GetFugu, Inc., 162
+Diego, 154 Cal.App.4th 97, 64 Cal.Rptr.3d 467, 479               Cal.Rptr.3d at 842 (finding tweet by attorney identifying
+(2007)). Accordingly, “it is not the literal truth or falsity    opposing lawsuit as frivolous was a “predictable opinion”
+of each word or detail used in a statement” which                that could not be the basis for a defamation claim);
+determines whether it is a potentially defamatory                Ferlauto, 88 Cal.Rptr.2d at 850 (finding statements
+statement of fact; “rather, the determinative question is        describing lawsuit as “frivolous” expressed only
+whether the ‘gist or sting’ of the statement is true or false,   “predictable opinion” and could not be the basis of a
+benign or defamatory, in substance.” Ringler Assocs. Inc.        defamation action, especially because context and literary
+v. Md. Cas. Co., 80 Cal.App.4th 1165, 96 Cal.Rptr.2d             tone of work where statements appeared clearly indicated
+136, 150 (2000) (emphasis omitted) (internal quotation           to readers they were reading the subjective views of
+omitted); see also Campanelli, 51 Cal.Rptr.2d at 897. The        partisan participants to litigation); Info. Control Corp. v.
+court can, as a matter of law, find a statement is not           Genesis One Comput. Corp., 611 F.2d 781, 784 (9th
+actionable, but when an allegedly defamatory statement           Cir.1980) (coining phrase “predicable opinion” to
+can reasonably be interpreted as either stating or implying      describe a statement unlikely to be understood by
+a false fact or articulating an opinion, California courts       audience as a statement of fact because of the litigation
+put the issue before a jury. See Ferlauto, 88 Cal.Rptr.2d at     position of the maker of the statement).
+849 (“If the court concludes the statement could
+reasonably be construed as either fact or opinion, the issue     The context in which Defendant’s agent made the
+should be resolved by a jury.”). In determining whether a        Newsweek Statement was different from the context in
+statement is capable of being interpreted as asserting or        which California courts have identified statements as
+implying a fact, California courts use the “totality of the      “predictable opinions”; at the time this statement was
+circumstances test.” Id. This test has three parts: “(1)         made there was no pending litigation between Defendant
+whether the general tenor of the entire work negates the
+
+                   © 2016 Thomson Reuters. No claim to original U.S. Government Works.                                   15
+           Case 1:15-cv-07433-RWS Document 26-1 Filed 01/08/16 Page 17 of 26
+
+
+
+
+Green v. Cosby, --- F.Supp.3d ---- (2015)
+
+
+
+and Plaintiff Green. Some readers may have understood         lengthy lawsuit, but determining other factors prevented
+any statement from Defendant to have been predictably         statement from being defamatory). Based on this “totality
+self-serving, but there was no litigation pending when a      of the circumstances” analysis, the court concludes a
+publicist for Defendant provided the statement to the         reasonable factfinder could determine, based on the
+media. Accordingly, the court cannot determine at this        context and content, the Newsweek Statement asserted or
+stage that the statement fits within the “predictable         implied factual statements that were susceptible of being
+opinion” doctrine recognized in California. Nor can the       proved true or false.
+court conclude that the general tenor of the statement
+negates the impression that Defendant was asserting an
+objective fact.
+
+Turning next to the specific language of the statement, the                   iii. Defamatory Meaning
+phrase—“discredited accusation that proved to be nothing
+at the time, and is still nothing”—has an obvious literal     *11 [16]The court considers next whether the statement
+meaning, specifically, that Plaintiff Green’s allegations     could be understood to have a defamatory meaning.
+are completely without merit and have been so proven.         Analogizing to Gibney v. Fitzgibbon, 547 Fed.Appx. 111
+The operative phrases are not surrounded by hyperbole or      (3d Cir.2013) (unpublished), Defendant argues an
+figurative language that undercuts their literal meaning.     assertion by a person that an allegation is unfounded
+Cf. Standing Comm. on Discipline of U.S. Dist. Court v.       cannot reasonably be viewed as exposing the person who
+Yagman, 55 F.3d 1430, 1440 (9th Cir.1995) (applying           made the allegation to “scorn or ridicule.” The facts of
+California law) (treating as rhetorical hyperbole the word    this case are easily distinguished from those in Gibney
+“dishonest” because it was used within a “string of           and the differences require the court to reach a different
+colorful adjectives”); see also Knievel v. ESPN, 393 F.3d     conclusion here.
+1068, 1077 (9th Cir.2005) (describing “slang phrases such
+as ‘[d]udes rollin’ deep’ and ‘[k]ickin’ it with much         In Gibney, the plaintiff had contacted a company that did
+flavor’ ” as using loose and figurative language incapable    business with his employer to allege his employer was
+of a “literal interpretation”). The phrasing used here        improperly billing the company. Id. at 112. The company
+allows a “reasonable factfinder [to] conclude the             responded that the allegations had been investigated and
+[statement] impl[ies] an assertion of defamatory fact,”       determined to be unfounded. Id. The Third Circuit held
+specifically, that there was some unidentified                that the company’s response, even if untrue, was not
+investigation or hearing into the allegations which           capable of a defamatory meaning because a statement that
+officially determined Plaintiff Green’s accusation was        “his allegations were unfounded” would not “ ‘lower him
+false. Ringler Assocs. Inc., 96 Cal.Rptr.2d at 149            in the estimation of the community or ... deter third
+(emphasis omitted).                                           parties from associating or dealing with him.’ ” Id. at 114
+                                                              (quoting Tucker v. Phila. Daily News, 577 Pa. 598, 848
+Finally, the court considers whether Defendant’s              A.2d 113, 124 (2004)). This conclusion makes sense
+response, directly or by implication, makes a statement       where the detail of business billing procedures leaves
+which is susceptible of being proved true or false. To the    open the possibility that a person making an allegation of
+extent Defendant’s response implies an investigation into     wrongdoing could have made an honest mistake. In this
+Plaintiff Green’s allegations was conducted, it is provable   respect, it is hard to even compare an allegation regarding
+as true or false. Additionally, the gist of the               billing procedures to a sexual assault allegation. A
+statement—that      Plaintiff    Green    fabricated    her   neutral-toned response relative to an investigation of
+allegations—is also provable as true or false. It may take    billing history does not impart any flavor of fabrication or
+a trial to produce such proof, but Defendant’s allegations    moral repugnance, both of which attach to Defendant’s
+are sufficiently specific “to be susceptible to proof or      statement and its suggestion that Plaintiff intentionally
+disproof.” James v. San Jose Mercury News, Inc., 17           lied about being sexually assaulted. Unlike a billing
+Cal.App.4th 1, 20 Cal.Rptr.2d 890, 898 (1993) (finding        dispute, Plaintiff Green’s allegations detail a specific set
+statements not susceptible of being proved true or false      of events that either occurred substantially as alleged or
+because the statements contained too                  many    were fabricated, leaving no room for an honest mistake.
+generalizations, elastic terms, and subjective elements for
+it to be clear what facts were stated or implied); see also   The potential for reputational damage is increased where
+Amaretto Ranch Breedables, LLC, No. CV 10–5696                the response lacks the neutral tone conveyed in Gibney by
+CRB, 2013 WL 3460707, at *5 (finding a statement might        the word “unfounded,” which means “lacking a sound
+be provable as true or false, though it would require a       basis in ... fact.” Webster’s Third New International
+                                                              Dictionary 2496 (1971). Defendant referred to serious
+
+               © 2016 Thomson Reuters. No claim to original U.S. Government Works.                                    16
+            Case 1:15-cv-07433-RWS Document 26-1 Filed 01/08/16 Page 18 of 26
+
+
+
+
+Green v. Cosby, --- F.Supp.3d ---- (2015)
+
+
+
+sexual assault allegations as “discredited” and “nothing,”      is not defamatory as to either Traitz or Serignese because
+both words suggesting that the allegations were not made        the statement is not “of and concerning” either plaintiff.
+in good faith. Id. at 647, 1544. Given the different nature     The court disagrees.
+of the allegations in this case and the wording of the
+response, the court cannot conclude here that, as a matter
+of law, Defendant’s response is incapable of negatively
+impacting Plaintiff Green’s reputation within the
+community. Ultimately, it will be up to a jury to decide                    i. November 20, 2014 Statement
+whether those who read the Newsweek Statement
+understood it to have been defamatory. At this stage,           The November 20, 2014 Statement was a press release
+however, the court finds Defendant has not identified           issued by one of Defendant’s agents for the purpose of
+sufficient grounds for dismissal of Plaintiff Green’s           further dissemination. The statement had two
+claims based on the Newsweek Statement.                         components: (1) descriptions of the allegations and (2) a
+                                                                description of Plaintiff Traitz’s later, and unrelated,
+                                                                criminal history. Plaintiff Traitz does not contest the truth
+                                                                of the second component of the statement related to her
+                                                                criminal history and does not base her defamation claim
+ b. The Statements Pertaining to Plaintiffs Traitz and          on this portion of the statement. Plaintiff Traitz instead
+                     Serignese                                  bases her claim on the descriptions of her sexual assault
+                                                                allegations as “fabricated or unsubstantiated stories,”
+[17] [18]
+       In Florida, as in California, “to be actionable, a       “ridiculous claims,” and, as to one particular
+defamatory publication must convey to a reasonable              allegation—that Defendant offered her drugs from a
+reader the impression that it describes actual facts about      briefcase—“an absurd fabrication.” Defendant argues
+the plaintiff or the activities in which [s]he participated.”   these words are either non-defamatory because they are
+Fortson v. Colangelo, 434 F.Supp.2d 1369, 1379                  technically accurate or rhetorical hyperbole that expresses
+(S.D.Fla.2006). Generally, a court must decide, as a            opinion rather than stating fact. He asserts Plaintiff
+matter of law, whether a statement expresses a pure             Traitz’s failure to publicly present any proof beyond her
+opinion or a “mixed opinion” from which unstated facts          own words, combined with her criminal record, make her
+are likely to be inferred. Scott v. Busch, 907 So.2d 662,       claims “unsubstantiated.”15 Defendant also argues the
+668 (Fla.Dist.Ct.App.2005). However, where the                  word “ridiculous” did not imply any false facts, but was
+statement could be understood in more than one way, the         simply rhetorical hyperbole, and the words “fabricated”
+question should be submitted to the trier of fact. See Ford     and “fabrication” expressed opinions about the nature of
+v. Rowland, 562 So.2d 731, 735 (Fla.Dist.Ct.App.1990);          the allegations based on her delay in coming forward and
+see also Scott, 907 So.2d at 667.                               her criminal record.
+
+*12 [19]Courts determining whether an allegedly                 [20]
+                                                                   These arguments are not persuasive because the court
+defamatory statement is a protected expression of opinion       is directed to consider the allegedly defamatory
+“ ‘must construe the [allegedly defamatory] statement in        statements within the context of the entire publication.
+its totality, examining not merely a particular phrase or       Smith v. Cuban Am. Nat’l Found., 731 So.2d 702, 705
+sentence, but all of the words used in the publication.’ ”      (Fla.Dist.Ct.App.1999). Read in its entirety, one possible,
+Keller v. Miami Herald Publ’g Co., 778 F.2d 711, 717            and clearly defamatory, implication of the entire press
+(11th Cir.1985) (applying Florida Law) (quoting Hay v.          release is that Plaintiff Traitz intentionally made absurdly
+Indep. Newspapers, Inc., 450 So.2d 293, 295                     false sexual assault allegations against Defendant. A jury
+(Fla.Dist.Ct.App.1984)); accord Morse v. Ripken, 707            must ultimately decide whether the statement asserted or
+So.2d 921, 922 (Fla.Dist.Ct.App.1998). The context in           implied this actual fact or merely opined that the
+which a statement was published and whether the                 allegations sounded far-fetched, without actually asserting
+publisher used cautionary terms must also be considered.        or implying the allegations were false. See Ford, 562
+Keller, 778 F.2d at 717. Defendant argues the potentially       So.2d at 735 (reversing the dismissal of a libel claim
+defamatory aspects of the November 20, 2014 Statement           because whether statements described actual facts or were
+(against Traitz) and the November 21, 2014 Statement            merely absurd parodies depended on factual
+(against Traitz and Serignese) constitute opinions because      determinations to be made by jury). When making this
+they are mere “rhetorical hyperbole,” and they express a        determination, a jury can consider that the statement was
+subjective view rather than objectively verifiable facts.       made by Defendant’s attorney. Perhaps, as Defendant
+(Def.’s Mem. 19-20, 22.) With respect to the November           argues, a jury will conclude the denigration of Plaintiff
+21, 2014 Statement, Defendant also argues the statement         Traitz was a “one-sided” account expressing an opinion
+
+                © 2016 Thomson Reuters. No claim to original U.S. Government Works.                                      17
+                Case 1:15-cv-07433-RWS Document 26-1 Filed 01/08/16 Page 19 of 26
+
+
+
+
+Green v. Cosby, --- F.Supp.3d ---- (2015)
+
+
+
+and providing the basis for that opinion, and therefore is      Databank, Inc., No. 3:13–CV–859–J–32MCR, 2015 WL
+not defamatory. However, at this stage it appears that a        3618429, at *3 (M.D.Fla. June 9, 2015).
+jury could conclude that the source of the statement—a
+person close to the subject of the allegations—made the         Defendant’s attorney provided the November 21, 2014
+statement in order to communicate the fact that Plaintiff       Statement to the media with the intent that the statement
+Traitz’s allegations were lies. Since the November 20,          be disseminated to the public. The statement begins by
+2014 Statement can reasonably be understood as                  describing the allegations that had been made against
+describing the actual fact that Plaintiff’s allegations were    Defendant during the previous two weeks as “new,
+false and since, at this stage, the court must accept           never-before-heard claims” that are “unsubstantiated,
+Plaintiff Traitz’s allegations as true, the court concludes     fantastical stories” about events occurring “30, 40, or
+Plaintiff Traitz has adequately pled her defamation claim       even 50 years ago.” The allegations are characterized as
+related to the November 20, 2014 Statement. Defendant’s         having “escalated past the point of absurdity” and
+request to dismiss the claim based on the November 20,          “becom[e] increasingly ridiculous.” Next, the statement
+2014 Statement is denied.                                       describes as “completely illogical” the silence, over many
+                                                                years, of the accusers. Implicit in this portion of the
+                                                                statement is the suggestion that the cause of the accusers’
+                                                                decades of silence was that they did not really believe
+                                                                they had been assaulted. The statement continues with
+                 ii. November 21, 2014 Statement                two sentences about the opportunities the accusers had to
+                                                                sue Defendant and suggests “it makes no sense” that none
+*13 Defendant argues the November 21, 2014 Statement            of the accusers had brought legal action closer in time to
+cannot be the basis of a defamation claim because (1) it        the alleged sexual assaults. Defendant next shifts the
+expresses opinions rather than stating facts, (2) any           focus from the accusers to the media, critiquing the speed
+factual statements are not defamatory, or (3) any               with which allegations were reported and suggesting that
+defamatory facts are not defamatory as to Plaintiffs Traitz     the reporting violated journalistic standards because the
+and Serignese because this statement is not sufficiently        stories were run without corroboration. Finally, the
+“of and concerning” them. The November 21, 2014                 statement characterizes the media’s reporting on the
+Statement is the longest of the four statements attributed      allegations as a “vilification” of Defendant.
+to Defendant in this suit and criticizes his accusers and the
+media for their various roles in the recent dissemination       [24]
+                                                                   The truth of portions of the statement, such as the
+of the sexual assault allegations made against Defendant.       length of time between when the incidents allegedly
+Neither Plaintiff Traitz nor Plaintiff Serignese is             occurred and the date on which any particular allegation
+identified by name within the statement, but it begins by       became public, is uncontested. Defendant argues these
+identifying itself as a response to the “new,                   statements provide readers with the truthful facts on
+never-before-heard claims from women” who made                  which he based his opinion that the allegations were
+allegations “in the past two weeks.” Plaintiff Traitz made      unsubstantiated. This analysis is flawed because when
+her allegations public on November 18, 2014, and                read in its entirety, the statement is capable of being
+Plaintiff Serignese made her allegations public on              understood as asserting not just that the allegations made
+November 19, 2014; this timing sequence clearly                 during the previous two weeks were unsubstantiated, but
+indicates the statement refers to them.                         also as implying they were false and entirely without
+[21]   [22]   [23]                                              merit. The court cannot predict whether a jury will
+             In Florida, expressions of opinions are            actually conclude the statement implied that fact and, if
+non-actionable “if the speaker states the facts on which he     so, whether the assertion of fact was false, but there is a
+bases his opinion,” and those facts are not “false or           sufficient factual question as to the meaning readers
+inaccurately presented.” Lipsig v. Ramlawi, 760 So.2d           would have given to the statement to preclude dismissal at
+170, 184 (Fla.Dist.Ct.App.2000). A statement is also a          this stage.
+“pure opinion, as a matter of law, when it is based on
+facts which are otherwise known or available to the reader      *14 Defendant maintains that, regardless of the analysis
+or listener.” Razner v. Wellington Reg’l Med. Ctr., Inc.,       on whether there was a false statement of fact, the
+837 So.2d 437, 442 (Fla.Dist.Ct.App.2002). In                   November 21, 2014 Statement was simply not
+determining whether any portions of the statement are           defamatory. A statement is capable of a defamatory effect
+defamatory, the court must consider the statement “in the       if it “naturally and proximately results in injury to
+context of the publication, including the audience, the         another.” Cuban Am. Nat’l Found., 731 So.2d at 705. As
+means by which it was delivered, and other circumstances        previously discussed, to falsely accuse another of sexual
+surrounding the statement.” Ranbaxy Labs. Inc. v. First
+
+                     © 2016 Thomson Reuters. No claim to original U.S. Government Works.                               18
+           Case 1:15-cv-07433-RWS Document 26-1 Filed 01/08/16 Page 20 of 26
+
+
+
+
+Green v. Cosby, --- F.Supp.3d ---- (2015)
+
+
+
+assault is morally repugnant; the natural result of the         LLC, No. 2:10–cv–09034–JHN–JCx, 2011 WL
+publication of a statement directly or indirectly indicating    11574477, at *8 n. 11 (C.D.Cal. Oct. 13, 2011). By
+Plaintiffs made such false accusations is injury to their       contrast, if a plaintiff is a public figure, then such plaintiff
+reputations.                                                    must show the defendant (or defendant’s agent acting
+                                                                within the scope of the agency) acted with actual malice
+Finally, the court turns to Defendant’s argument that,          in uttering the defamatory remark. See Nguyen–Lam v.
+even if the November 21, 2014 Statement contains                Cao, 171 Cal.App.4th 858, 90 Cal.Rptr.3d 205, 212
+defamatory statements, they were not “of and concerning”        (2009); Miami Herald Publ’g Co. v. Ane, 423 So.2d 376,
+Plaintiffs Traitz and Serignese. As a matter of substantive     382 (Fla.Dist.Ct.App.1982). Malice exists, generally, if a
+law “a cause of action for group libel cannot be                defendant or a defendant’s agent makes the statement
+maintained unless it is shown that the libelous statements      knowing it is false or with reckless disregard to its truth.
+are ‘of and concerning’ the plaintiff.” Thomas v.               See Nguyen–Lam, 90 Cal.Rptr.3d at 212; Ane, 423 So.2d
+Jacksonville TV, Inc., 699 So.2d 800, 805                       at 378, 382.
+(Fla.Dist.Ct.App.1997). A statement can be “of and
+concerning” members of a group, provided the group              *15 The parties have not raised the issue of Plaintiffs’
+includes fewer than twenty-five individuals and the             public or private status for this litigation, and Defendant
+statement identifies and describes each plaintiff. Cf. id.      argues a failure to plead sufficient facts to establish either
+                                                                level of fault. Accordingly, the court considers Plaintiffs
+The November 21, 2014 Statement was released three              to be private individuals at this stage of the litigation. See
+days after Plaintiff Traitz made her public accusation and      Pan Am Sys., Inc. v. Hardenbergh, 871 F.Supp.2d 6, 16
+two days after Plaintiff Serignese made hers. Nothing in        (D.Me.2012) (employing this approach in similar
+the statement indicates an intention to exclude any recent      situation). Therefore, under both California and Florida
+accusers from its sweep, and Plaintiffs assert there were       law, Plaintiffs have sufficiently pled the requisite degree
+eleven women who publicly made accusations against              of fault if they allege facts demonstrating Defendant (or
+Defendant during the two weeks prior to the publication         his agents acting within the scope of their agency) acted
+of the November 21, 2014 Statement. (Pls.’ Mem., Ex. 2          negligently. See Brown v. Kelly Broad. Co., 48 Cal.3d
+at ¶ 2.) Taken together, these factors lead the court to the    711, 257 Cal.Rptr. 708, 771 P.2d 406, 425 (1989); Boyles
+objectively reasonable inference that a factfinder could        v. Mid–Florida TV Corp., 431 So.2d 627, 634
+conclude the statement was “of and concerning” Traitz           (Fla.Dist.Ct.App.1983), aff’d 467 So.2d 282, 283
+and Serignese. See Jacksonville TV, Inc., 699 So.2d at          (Fla.1985). Negligence exists if the statement is made
+805; see also Restatement (Second) of Torts § 617 cmt. a        without first exercising reasonable care to determine if it
+(explaining that the question of whether the statement was      is, in fact, false. Hecimovich v. Encinal Sch. Parent
+“of and concerning the plaintiff” is “ordinarily for the jury   Teacher Org., 203 Cal.App.4th 450, 137 Cal.Rptr.3d 455,
+or trier of fact to determine”).                                471 (2012); Boyles, 431 So.2d at 634. Individuals not
+                                                                only clearly fail to exercise reasonable care if they make a
+                                                                statement known to be false, but also if a reasonable
+                                                                person would have known the statement was false. See
+                                                                Brown, 257 Cal.Rptr. 708, 771 P.2d at 430; Boyles, 431
+               2. Requisite Degree of Fault                     So.2d at 634; Carney v. Santa Cruz Women Against Rape,
+[25]                                                            221 Cal.App.3d 1009, 271 Cal.Rptr. 30, 34 n. 2 (1990).
+   The Supreme Court requires the respective defamation
+law of each state to include an element of fault. See Gertz     The two legal theories for establishing fault in this case
+v. Robert Welch, Inc., 418 U.S. 323, 347–48, 94 S.Ct.           are: respondeat superior liability and direct liability.
+2997, 41 L.Ed.2d 789 (1974). Recognizing the tension            Respondeat superior is a “doctrine holding an employer
+between providing protections for individuals’ reputations      or principal liable for the employee’s or agent’s wrongful
+and encouraging an open and free press, the Supreme             acts committed within the scope of the employment or
+Court requires a plaintiff to demonstrate a higher level of     agency.” Black’s Law Dictionary 1505 (10th ed. 2014).
+fault when the allegedly defamatory statement concerns a        Under the direct liability theory, Defendant would be held
+public figure, rather than when it concerns a private           liable on the basis of his own fault for his conduct and
+individual outside the public sphere. Id. at 342–46, 94         involvement regarding the statements.
+S.Ct. 2997. Private-figure plaintiffs need only
+demonstrate a defendant (or defendant’s agent acting
+within the scope of the agency) acted negligently. See
+Mile Marker, Inc. v. Petersen Publ’g, LLC, 811 So.2d
+841, 845 (Fla.Dist.Ct.App.2002); Sarver v. Hurt Locker                       a. Respondeat Superior Liability
+                © 2016 Thomson Reuters. No claim to original U.S. Government Works.                                        19
+           Case 1:15-cv-07433-RWS Document 26-1 Filed 01/08/16 Page 21 of 26
+
+
+
+
+Green v. Cosby, --- F.Supp.3d ---- (2015)
+
+
+[26]
+   Defendant asserts the SAC does not sufficiently allege        25-26, 29-30, 33-35, 37, 51-53, 55, 65-68, 70, 77, 88, 99.)
+his agents possessed the requisite degree of fault               Given Defendant’s prominence in the entertainment field,
+necessary to hold Defendant liable for defamation on the         the court infers he surrounded himself with people
+basis of respondeat superior.16 When a third party is            accomplished in media relations and legal matters. The
+harmed by an agent’s conduct, the principal is subject to        court also infers those making Defendant’s public
+respondeat superior liability, a form of vicarious liability,    statements had an open line of communication with him
+if the agent was acting within the scope of work                 as well as some historical perspective on his public
+performed for the principal and the principal controlled or      relations matters. Based on the facts and inferences, the
+had a right to control the manner of the agent’s work.           court finds it plausible at this point to conclude (1) those
+Restatement (Third) of Agency §§ 7.03, 7.07 (2006); see          agents would have had, at a minimum, some sense of
+also Rivera v. Nat’l R.R. Passenger Corp., 331 F.3d 1074,        Defendant’s alleged conduct, such that their duty of care
+1080 (9th Cir.2003) (“[U]nder California law [an                 would have required them to take steps to determine the
+employer] may be held liable for defamatory statements           truth or falsity of the statements, and (2) the content of
+made by its employees under the doctrine of respondeat           their responsive statements demonstrates such reasonable
+superior ... if the defamation occurred within the scope of      care was not taken.
+the employee’s employment.”); Mercury Motors Express,
+Inc. v. Smith, 393 So.2d 545, 549 (Fla.1981) (“An                In reaching its conclusions, the court notes that prior to
+employer is vicariously liable ... [for] the negligent acts of   the formal discovery process, facts pertaining to state of
+employees committed within the scope of their                    mind in defamation actions need not be alleged with
+employment even if the employer is without fault.”). It          extreme detail, due to the difficulty of definitively
+follows that, under this theory, “a principal’s vicarious        ascertaining them at this stage of litigation. See Schatz v.
+liability turns on whether the agent is liable.” Restatement     Republican State Leadership Comm., 669 F.3d 50, 58 (1st
+(Third) of Agency § 7.03 cmt. b; see id. (“In most cases,        Cir.2012) (in the defamation context, state of mind may
+direct liability requires fault on the part of the principal     be alleged generally); see also generally Fed. R. Civ. P.
+whereas vicarious liability does not require that the            9(b); Grajales v. P.R. Ports Auth., 682 F.3d 40, 49 (1st
+principal be at fault.”); accord Estate of Miller v. Thrifty     Cir.2012).
+Rent–A–Car Sys., Inc., 637 F.Supp.2d 1029, 1037
+(M.D.Fla.2009); Palomares v. Bear Stearns Residential            The court, at this stage, accepting all of Plaintiffs’
+Mortg. Corp., No. 07cv01899 WQH (BLM), 2008 WL                   well-pled averments as true, finds respondeat superior
+686683, at *4 (S.D.Cal. Mar. 13, 2008). In order to              liability is sufficiently pled. Therefore, Defendant’s
+proceed on their theory of respondeat superior liability,        motion for dismissal on this point is denied.
+Plaintiffs’ SAC must include sufficient allegations
+supporting a finding of fault on the part of those speaking
+for Defendant—Phillips, Brokaw, and Singer. As
+discussed above, both California and Florida use a
+negligence standard when evaluating whether a defendant                              b. Direct Liability
+has published a defamatory statement about a private             [28]
+individual. See Mile Marker, Inc., 811 So.2d at 845;                Defendant asserts that Plaintiffs do not identify direct
+Sarver, 2011 WL 11574477, at *8 n. 11. This standard             liability as a legal theory upon which the defamation
+applies equally to authorized agents acting in the scope of      claims can be proven. However, the SAC does state
+their agency. See Estate of Miller, 637 F.Supp.2d at 1037;       Defendant acted “by and through” each of the people who
+Palomares, 2008 WL 686683, at *4.                                actually gave each statement alleged to be defamatory.
+                                                                 (SAC ¶¶ 25, 30, 33-35, 38, 51-52, 56, 65-68, 71, 73-74,
+*16 [27]Defendant contends Plaintiffs’ allegations are           77, 80-82, 85, 88, 91-93, 96, 99, 102-04.) The SAC also
+threadbare or conclusory and cannot be the basis of a            states that Defendant’s agents gave the statements “at the
+“plausible determination” that Defendant’s agents acted          direction of Defendant.” (Id. ¶¶ 37, 55, 70.) Additionally,
+with fault. (Def.’s Mem. 31-32.) This argument cannot            the SAC states Defendant knew the claimed defamatory
+succeed if, after accepting Plaintiffs’ allegations as true,     statements were false at the time they were published. (Id.
+the court can reasonably infer that those speaking for           ¶¶ 36, 54, 69, 79, 90, 101.) If a principal purposefully
+Defendant—Phillips,      Brokaw,      and     Singer—were        directs an agent to perform an action, and that agent
+themselves negligent. The SAC states directly and by             performs the action, then the principal is directly
+inference that the individuals who issued the statements         responsible for the consequences of the action. See
+were professionals, employed by Defendant for purposes           Restatement (Third) of Agency § 7.03; see also HBSC Ins.
+including speaking to the media on his behalf. (SAC ¶¶           Ltd. v. Scanwell Container Line Ltd., No. CV
+                                                                 00–05729SVW(SHX), 2001 WL 940673, at *2 (C.D.Cal.
+
+                © 2016 Thomson Reuters. No claim to original U.S. Government Works.                                      20
+           Case 1:15-cv-07433-RWS Document 26-1 Filed 01/08/16 Page 22 of 26
+
+
+
+
+Green v. Cosby, --- F.Supp.3d ---- (2015)
+
+
+
+Jan. 17, 2001); Partington v. Metallic Eng’g Co., 792                             3. Self-Defense Privilege
+So.2d 498, 501 (Fla.Dist.Ct.App.2001).
+                                                                 The court turns to Defendant’s argument that Plaintiffs’
+[29]                                                             claims should be dismissed even if the statements at issue
+   The court is not persuaded by Defendant’s argument
+that Plaintiffs did not adequately plead direct liability as a   are potentially defamatory because these statements are
+named legal theory. Under the applicable federal                 protected by the common-law privilege of self-defense.
+procedural requirements, a complaint need only put a             (Def.’s Mem. 22-25.) Defendant relies in part on a
+defendant on notice as to legal theories and this can be         Massachusetts case, contending “[t]he privilege of
+done, as here, without formally naming them; a plaintiff         self-defense includes the right to ‘brand the accusations as
+need not perfectly plead all legal theories. See Johnson v.      false and calumnious’ and to ‘comment upon the motives
+City of Shelby, ––– U.S. ––––, 135 S.Ct. 346, 190 L.Ed.2d        of the accuser.’ ” (Id. at 23 (quoting Conroy v. Fall River
+309 (2014) (reversing dismissal because “[f]ederal               Herald News Co., 306 Mass. 488, 28 N.E.2d 729, 730
+pleading rules ... do not countenance dismissal of a             (1940)).) Defendant also asserts, without citing any
+complaint for imperfect statement of the legal theory            authority, “[t]here is no requirement that, to avail oneself
+supporting the claim asserted”); see also id. at 347 (“ ‘The     of the self-defense privilege, the responsive statement be
+federal rules effectively abolish the restrictive theory of      truthful.” (Id. at 25.) The court concludes the state
+the pleadings doctrine, making it clear that it is               substantive law governing Plaintiffs’ claims does not
+unnecessary to set out a legal theory for the plaintiff’s        recognize this privilege and, even if it were recognized,
+claim for relief.’ ” (quoting 5 Charles Alan Wright &            the court at this stage could not find that it applies.
+Arthur R. Miller, Federal Practice and Procedure § 1219,
+                                                                 [30]   [31]
+at 277-78 (3d ed. 2002))).                                               Neither California nor Florida recognize the
+                                                                 self-defense privilege. As the parties acknowledge,
+Defendant rightfully concedes that if he had “approved           California courts have rejected the notion of a privilege to
+defamatory statements before they were issued, he would          defame in self-defense. (Pls.’ Mem. 11; Def.’s Mem. 23
+be directly liable for defamation, irrespective of whether       n.8.) See Finke v. Walt Disney Co., 110 Cal.App.4th
+he or his agents personally issued the statements.” (Dkt.        1210, 2 Cal.Rptr.3d 436, 459 (2003) (“California does not
+No. 41, Def.’s Reply Mem. Supp. Mot. to Dismiss 10               recognize ‘self-help’ as an independent privilege.”),
+(“Def.’s Reply Mem.”).) See Overstock.com, Inc. v.               review granted, 6 Cal.Rptr.3d 424, 79 P.3d 541 (2003),
+Gradient Analytics, Inc., 151 Cal.App.4th 688, 61                review dismissed as settled, 19 Cal.Rptr.3d 828,99 P.3d 5
+Cal.Rptr.3d 29, 48 (2007); Island City Flying Serv. v.           (2004).17 Similarly, while Florida recognizes several types
+Gen. Elec. Credit Corp., 585 So.2d 274, 278 (Fla.1991).          of conditional defensive privileges in the context of
+But he asserts in his reply brief there was a failure to         defamation, self-defense is not one of them. See Nodar v.
+plead sufficient facts to infer actual approval. (Def.’s         Galbreath, 462 So.2d 803, 809–10 (Fla.1984)
+Reply Mem. at 10.) The court does not agree. From                (recognizing the privileges of mutuality of interest
+examination of all the facts in the SAC, it does not take a      between the speaker and the listener, protection of the
+speculative leap for the court to conclude Defendant             recipient’s interest, and statements to a political authority
+would be personally involved in reviewing these types of         regarding issues of public concern). Moreover, the court
+accusations against him, crafting or approving the               is not persuaded by Defendant’s assertion that, because
+responsive statements, and directing the dissemination.          Florida courts have never explicitly rejected the
+The SAC alleges Defendant was an “internationally                self-defense privilege, it must be assumed the privilege
+known” entertainment figure and the people making                would be recognized in Florida. In the court’s view, the
+public statements for him were acting either as attorney or      absence of any indication that Florida courts would adopt
+publicist and/or authorized representative or employee.          this privilege, especially when they have explicitly
+(SAC ¶¶ 3, 26, 29, 53.) At this stage of the litigation, it      adopted other common-law defamation privileges,
+would be unreasonable to view these particular                   establishes no basis to assume the self-defense privilege
+circumstances, responding to very serious accusations of         would be recognized in Florida. Cf. Klayman v. City
+the nature involved here, as not having the direct               Pages, No. 5:13–cv–143–Oc–22PRL, 2015 WL 1546173,
+involvement of Defendant.                                        at *17 n. 18 (M.D.Fla. Apr. 3, 2015) (declining to find
+                                                                 that the “libel-proof plaintiff” defamation defense exists
+*17 The court therefore finds direct liability is sufficiently   in Florida when the defendants failed to provide any
+pled. Accordingly, Defendant’s motion for dismissal on           authority in support of that assertion).
+this point is denied.
+                                                                 [32]
+                                                                    The court recognizes that some jurisdictions do apply a
+                                                                 version of the conditional self-defense privilege, which
+                                                                 allows individuals, in certain circumstances, to publish
+                © 2016 Thomson Reuters. No claim to original U.S. Government Works.                                       21
+           Case 1:15-cv-07433-RWS Document 26-1 Filed 01/08/16 Page 23 of 26
+
+
+
+
+Green v. Cosby, --- F.Supp.3d ---- (2015)
+
+
+
+defamatory responsive statements necessary to defend           important than the ability to redress harm to reputation
+their reputation. However, as recognized by the cases          that such speech may cause. But for the speaker to be
+Defendant himself cites, as well as the Restatement, such      protected in such situations, the statement must be made
+a privilege does not permit a defendant to knowingly           in good faith and for proper motives and the occasion
+publish false statements of fact. See Conroy, 28 N.E.2d at     must not be otherwise ‘abused.’ ”); see also id. §§
+730 (“[O]ne has a right in good faith to brand the             9:3.1-9:3.2, at 9-41 to 9-50 (discussing the different types
+accusations as false and calumnious.” (emphasis added));       of “malice” which courts find to be an abuse of
+Shepherd v. Baer, 96 Md. 152, 53 A. 790, 791 (1902)            conditional privileges).19 Therefore, even if Florida and
+(explaining that an individual relying on the self-defense     California did recognize this privilege, Defendant would
+privilege “cannot avail himself of the occasion to make        not be able to invoke it at this stage to support his motion
+false charges of fact”); Restatement (Second) of Torts §       to dismiss.
+593 (conditional privilege may not be “abused”); id. § 600
+(conditional privilege is abused if publisher “(a) knows
+the matter to be false, or (b) acts in reckless disregard as
+to its truth or falsity”). As explained in a treatise relied
+upon by both Plaintiffs and Defendant, the self-defense              4. Incremental Harm as to November 20, 2014
+privilege permits the speaker to “call the accuser a liar,                  Statement about Plaintiff Traitz
+but she or he may not include in the reply defamatory
+matter that is irrelevant or that the speaker knows or         Defendant argues the defamation claim by Plaintiff Traitz
+believes to be false. To do so is to abuse, and therefore      that stems from the November 20, 2014 Statement should
+lose, the privilege.” Sack on Defamation § 9:2.1, at 9-11      be dismissed because she has not suffered incremental
+(4th ed. 2010) (emphasis added).                               harm as a result of the statement. According to Defendant,
+                                                               the allegedly defamatory portion of Singer’s statement is
+*18 [33]Accordingly, even in jurisdictions recognizing this    no more damaging to Traitz’s reputation than the true
+conditional privilege, there is a clash with the applicable    reporting of her criminal convictions.
+motion to dismiss standard. At the motion to dismiss           [34] [35] [36]
+stage, Plaintiffs’ allegations are presumed true, San                     The “incremental harm doctrine,” which some
+Gerónimo Caribe Project, Inc. 687 F.3d at 471, so              courts have described as related to the “libel-proof
+Defendant’s allegedly defamatory self-defense responses,       plaintiff doctrine,” see Thomas v. Tel. Publ’g Co., 929
+made through his agents, would necessarily be viewed as        A.2d 993, 1002 (N.H.2007); Stern v. Cosby, 645
+knowingly false under these specific circumstances. This       F.Supp.2d 258, 270 (S.D.N.Y.2009), “measures the harm
+alone would negate the good faith requirement regarding        ‘inflicted by the challenged statements beyond the harm
+the self-defense privilege at the motion to dismiss stage.18   imposed by the rest of the publication. If that harm is
+See Lundquist v. Reusser, 7 Cal.4th 1193, 31 Cal.Rptr.2d       determined to be nominal or nonexistent, the statements
+776, 875 P.2d 1279, 1291 (1994) (conditional privileges        are dismissed as not actionable.’ ” Masson v. New Yorker
+which California does recognize are lost “if the person        Magazine, Inc., 960 F.2d 896, 898 (9th Cir.1992) (quoting
+making the statement was ... [m]otivated by hatred or          Herbert v. Lando, 781 F.2d 298, 311 (2d Cir.1986)); see
+ill-will toward the plaintiff which induced the publication;   also Tel. Publ’g Co., 929 A.2d at 1002–03.20
+or ... [w]as without a good-faith belief in the truth of the
+statement”); Thomas v. Tampa Bay Downs, Inc., 761              *19 [37]Defendant has not provided any authority, and the
+So.2d 401, 404 (Fla.Dist.Ct.App.2000) (explaining that an      court has not found any, indicating that Florida (the
+essential element for conditional privileges which Florida     jurisdiction controlling resolution of Plaintiff Traitz’s
+does recognize is “good faith”); see also Bank of Am.          claims) recognizes this defense. Accordingly, just as the
+Corp. v. Valladares, 141 So.3d 714, 718                        court in Klayman, 2015 WL 1546173, at *17 n. 18,
+(Fla.Dist.Ct.App.2014) (conditional privilege to report a      refused to recognize the libel-proof plaintiff doctrine
+crime is lost “if the reporter acts maliciously, meaning the   under Florida law, this court, in the absence of any
+reporter either knows the report is false or recklessly        indication to the contrary, cannot conclude the Florida
+disregards whether the report is false”), review granted,      Supreme Court would adopt the incremental harm
+168 So.3d 231 (Fla.2015). The court would thus be              doctrine. Cf. Masson, 960 F.2d at 899 (concluding that
+constrained to infer that Defendant abused, and therefore      “the incremental harm doctrine is not an element of
+lost, the privilege. See Sack on Defamation § 9:1, at 9-2      California libel law,” in part, “because the California
+(“In some situations, a speaker will not be held liable for    courts have never adopted it”); Noonan v. Staples, Inc.,
+false defamatory statements because the freedom to speak       707 F.Supp.2d 85, 90 (D.Mass.2010) (“Since no court in
+in protection of certain interests is deemed to be more        the Commonwealth has ever recognized the doctrine of
+                                                               incremental harm, this Court refrains from doing so
+
+                © 2016 Thomson Reuters. No claim to original U.S. Government Works.                                    22
+            Case 1:15-cv-07433-RWS Document 26-1 Filed 01/08/16 Page 24 of 26
+
+
+
+
+Green v. Cosby, --- F.Supp.3d ---- (2015)
+
+
+
+here.”). Even if Florida did recognize this doctrine, the                                VI. CONCLUSION
+court would not conclude, especially at this stage of the
+litigation, that the challenged portion of Singer’s                  For the reasons set forth above, Defendant’s motions to
+statement—asserting that Plaintiff Traitz fabricated the             dismiss (Dkt. Nos. 21, 22, and 23) are DENIED in their
+sexual assault allegation—caused no more than nominal                entirety.
+harm beyond the reporting of her criminal convictions.
+See, e.g., Church of Scientology Int’l v. Time Warner,               It is So Ordered.
+Inc., 932 F.Supp. 589, 594 (S.D.N.Y.1996) ( “[T]he
+doctrine requires a court to measure the harm flowing
+from the challenged statement as compared to the harm
+flowing from the rest of the publication ... and the parties         All Citations
+have not yet conducted discovery on the issue of
+                                                                     --- F.Supp.3d ----, 2015 WL 5923553
+damages.” (citation omitted)).
+
+
+
+Footnotes
+1      When the court granted leave for Plaintiffs to file the SAC, the court simultaneously afforded Defendant the opportunity
+       to “file a motion to dismiss which responds to the newly amended complaint, or which supplements the [motions to
+       dismiss] previously filed.” (Dkt. No. 46.) Defendant notified the court of his continued reliance on previously-filed
+       submissions. (Dkt No. 62, Def. Letter/request (non-motion).) Accordingly, the court evaluates Defendant’s
+       previously-filed motions to dismiss, and arguments in support thereof, in relation to Plaintiffs’ SAC.
+2      The court’s factual summary includes an abbreviated version of those facts alleged by Plaintiffs. The court also makes
+       use of the full text versions of the allegedly defamatory statements. For three of those statements, the court utilizes full
+       text versions provided by Defendant as exhibits to his memorandum in support of his motions. (Dkt. No. 25, Decl. re:
+       Mem. Supp. Mot. to Dismiss, Exs. A, D, F.) Plaintiffs have not contested the accuracy of the full versions of these
+       statements provided by Defendant and the court considers them as “documents sufficiently referred to in the
+       complaint” and as “central to plaintiffs’ claims.” See Watterson v. Page, 987 F.2d 1, 3 (1st Cir.1993); see also Fudge v.
+       Penthouse Int’l, Ltd., 840 F.2d 1012, 1015 (1st Cir.1988) (affirming District Court’s decision, under similar
+       circumstances, to consider a copy of the article submitted by the defendant which had formed the basis of the
+       defamation action, as it was central to the plaintiff’s complaint). Additionally, the court uses the full text version of a
+       fourth statement provided by Plaintiffs as an exhibit to their motion for leave to file their SAC. (Dkt. No. 20, Pls.’ Mem.
+       Supp. re: Mot. for Leave to File Second Am. Compl., Ex. C.)
+3      While Plaintiff Serignese is not specific as to how or where this allegation was disclosed (see SAC ¶ 50), Defendant
+       states that it was disclosed to the Huffington Post. (Dkt. No. 24, Def.’s Mem. Supp. Mots. to Dismiss (“Def.’s Mem.”) 5
+       (citing SAC ¶ 48).) Defendant has attached a document which he asserts to be the Huffington Post article in question.
+       (Decl. re: Mot. to Dismiss, Ex. C.) Plaintiff Serignese has not offered a conflicting explanation.
+4      In the SAC, Plaintiffs describe two of the individuals who issued the statements as doing so while an “agent, authorized
+       representative, lawyer, servant, and/or employee” of Defendant and one as doing so while an “agent, authorized
+       representative, servant, and/or employee” of Defendant. (SAC ¶¶ 26, 29, 53.) As any distinctions among the meanings
+       of these terms are not material at this stage, throughout this opinion the court refers to these individuals as Defendant’s
+       “agents.”
+5      The court will refer to these responsive statements, collectively, as the “Washington Post Statement.”
+
+6      The parties have not provided the court with a copy of the original, uncorrected version of the November 22, 2014
+       Washington Post Online Article.
+7      Defendant, in turn, has also provided the court with a copy of the correction notice issued with respect to the print
+       edition and dated December 12, 2014. (Dkt. No. 28, Decl. re: Opp. to Pls.’ Mot. for Leave to File Second Am. Compl.,
+       Ex. 1.) It reads in its entirety: “1A Nov. 23 Page One article about the allegations of sexual assault against Bill Cosby
+       misstated the timing of a statement of denial issued by an attorney for Cosby. The statement denying Tamara Green’s
+       allegations was issued by lawyer Walter M. Phillips Jr. when Green’s allegations first surfaced in 2005, not in the week
+       before the article was published.” (Id. at 2.)
+
+                © 2016 Thomson Reuters. No claim to original U.S. Government Works.                                            23
+          Case 1:15-cv-07433-RWS Document 26-1 Filed 01/08/16 Page 25 of 26
+
+
+
+
+Green v. Cosby, --- F.Supp.3d ---- (2015)
+
+
+
+
+8      As mentioned, the correction notice issued with respect to the November 23, 2014 Washington Post Print Article,
+       provided by Defendant, is worded slightly differently than the correction notice for the November 22, 2014 Washington
+       Post Online Article used by Plaintiff. (See Dkt. 28, Decl. re: Opp. to Pls.’ Mot. for Leave to File Second Am. Compl., Ex.
+       1; Mem. re: Mot. to Am., Ex. C) The court generally limits its discussion to the correction with respect to the online
+       article, as that correction is treated as an attachment to the complaint, but recognizes both corrections make the same
+       operative point.
+9      Plaintiffs also argue the court may not take judicial notice of the correction because Defendant is attempting to use it to
+       prove the truth of the matter asserted therein, i.e., that Phillips in fact provided his statement in 2005, not in 2014. See,
+       e.g., Kosilek v. Spencer, 889 F.Supp.2d 190, 215 n. 6 (D.Mass.2012), aff’d, 740 F.3d 733 (1st Cir.2014), rev’d en banc
+       on other grounds, 774 F.3d 63 (1st Cir.2014). The court is not taking judicial notice of the correction pursuant to Rule
+       201 of the Federal Rules of Evidence because Plaintiffs used it to support their motion to amend and relied on it in their
+       SAC, effectively attaching it to their complaint. Accordingly, this limitation (documents judicially noticed under Rule 201
+       may not be considered for the truth of the matter asserted) is a non-issue. See, e.g., Papadopoulos v. Amaker, No.
+       12–CV–3608 (DLI)(RLM), 2013 WL 3226757, at *1 n. 1 (E.D.N.Y. June 25, 2013).
+10     The court notes that, if it were to consider both the online and print versions of the correction notices, the slightly
+       different wording between the two, which may well be innocuous, could arguably raise questions about the manner in
+       which the Washington Post came to include the Phillips statement in the article, further demonstrating the benefit in
+       allowing the parties to engage the discovery process to seek clarification of these factual issues; the need for fact
+       clarification is not a basis for dismissal at this stage.
+11     California has adopted the Uniform Single Publication Act, codifying the single publication rule at Cal. Civ. Code §
+       3425.3. That section provides:
+            No person shall have more than one cause of action for damages for libel or slander or invasion of privacy or any
+            other tort founded upon any single publication or exhibition or utterance, such as any one issue of a newspaper or
+            book or magazine or any one presentation to an audience or any one broadcast over radio or television or any one
+            exhibition of a motion picture. Recovery in any action shall include all damages for any such tort suffered by the
+            plaintiff in all jurisdictions.
+12     Relevant differences which may exist between California and Florida law regarding defamation are addressed as
+       applicable throughout this Discussion.
+13     Defendant makes this argument as to the Newsweek Statement, the November 20, 2014 Statement, and the
+       November 21, 2014 Statement, but not as to the Washington Post Statement.
+14     Defendant suggests California’s treatment of “predictable opinion” is similar to a “self-defense privilege.” One obvious
+       difference is that the phrase “predictable opinion” is used to describe a type of statement that is not defamatory
+       because it does not assert a fact capable of being proved true or false, while a self-defense privilege, in the defamation
+       context, generally prevents what may be a defamatory statement from being the basis for a defamation suit because of
+       a specific exception under state law.
+15     Defendant’s contention that Plaintiff Traitz has offered no corroboration is, at least arguably, factually inaccurate
+       because of the multiplicity of similar claims, a fact acknowledged in Defendant’s statements of November 20th and
+       21st. The similar claims could be considered by a fact finder as a form of corroboration by a recognizably unique
+       pattern of conduct.
+16     In the SAC, Plaintiffs specifically allege Defendant is liable for the statements given by his agents on the basis of
+       respondeat superior. (SAC ¶¶ 83, 94, 105.)
+17     Defendant nonetheless asserts statements made in self-defense fall within the “predictable opinion” doctrine
+       recognized in California. This court, however, has already rejected Defendant’s predictable opinion arguments. See
+       Section V.C.1.a.ii., supra. Accordingly, his predictable opinion arguments fare no better here when linked to a
+       purported self-defense privilege.
+18     Arguably, a self-defense privilege could protect a defendant who made a responsive good faith statement that later
+       turned out to be inaccurate. See Sack on Defamation § 9:1, at 9-3 & n.6.
+
+19     The court notes that in some states, a defendant’s negligence in ascertaining the truth of a conditionally privileged
+       defamatory statement may constitute grounds for losing the privilege. See Sack on Defamation § 9:3.4, at 9-52 to 9-53.
+               © 2016 Thomson Reuters. No claim to original U.S. Government Works.                                             24
+          Case 1:15-cv-07433-RWS Document 26-1 Filed 01/08/16 Page 26 of 26
+
+
+
+
+Green v. Cosby, --- F.Supp.3d ---- (2015)
+
+
+
+       Under the Supreme Court’s decision in Gertz, 418 U.S. 323, 94 S.Ct. 2997, 41 L.Ed.2d 789, however, each state’s
+       defamation law must include an element of fault at least rising to negligence; therefore, “[e]stablishing the cause of
+       action would, ipso facto, establish defeasance of qualified privilege.” Sack on Defamation § 9:3.4, at 9-53. In any event,
+       the court need not delve further into the complications surrounding a self-defense privilege, the ways in which it may be
+       lost, and the tensions with the motion to dismiss standard, because neither California nor Florida recognizes the
+       self-defense privilege.
+20     The libel-proof plaintiff doctrine, in contrast, looks to a plaintiff’s previously damaged reputation. See Tel. Publ’g Co.,
+       929 A.2d at 1002–04 (explaining the differences between the incremental harm and libel-proof plaintiff doctrines).
+       Under that doctrine, “when a plaintiff’s reputation is so diminished at the time of publication of the allegedly defamatory
+       material that only nominal damages at most could be awarded because the person’s reputation was not capable of
+       sustaining further harm, the plaintiff is deemed to be libel-proof as a matter of law and is not permitted to burden a
+       defendant with a trial.” Lamb v. Rizzo, 391 F.3d 1133, 1137 (10th Cir.2004) (internal citation omitted); see Tel. Publ’g
+       Co., 929 A.2d at 1005 (“To justify applying the doctrine, the evidence of record must show not only that the plaintiff
+       engaged in criminal or anti-social behavior in the past, but also that his activities were widely reported to the public.”
+       (internal citation omitted)). As Plaintiffs note, Defendant has only expressly requested dismissal pursuant to the
+       incremental harm doctrine, and not the separate libel-proof plaintiff doctrine. However, even if Defendant were pressing
+       both grounds for dismissal, his argument would fail because Florida has not adopted the libel-proof plaintiff doctrine,
+       see Klayman, 2015 WL 1546173, at *17 n. 18, and Defendant has not established that Traitz falls into the narrow
+       category of individuals with a sufficiently tarnished reputation such that a defamatory statement could not impair her
+       reputation, see Guccione v. Hustler Magazine, Inc., 800 F.2d 298, 303 (2d Cir.1986) (“The libel-proof plaintiff doctrine
+       is to be applied with caution ... since few plaintiffs will have so bad a reputation that they are not entitled to obtain
+       redress for defamatory statements.” (citation omitted)); Church of Scientology Int’l v. Time Warner, Inc., 932 F.Supp.
+       589, 594 (S.D.N.Y.1996) (“Dismissal based on the libel-proof plaintiff doctrine is not appropriate at this stage of the
+       litigation, because it requires the Court to make factual findings regarding plaintiff’s reputation for a particular trait.”).
+
+
+
+
+End of Document                                                 © 2016 Thomson Reuters. No claim to original U.S. Government Works.
+
+
+
+
+               © 2016 Thomson Reuters. No claim to original U.S. Government Works.                                              25
+

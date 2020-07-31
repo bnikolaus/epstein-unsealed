@@ -1,0 +1,1038 @@
+          Case
+           Case1:15-cv-07433-RWS
+                2:15-cv-01658-AJS Document
+                                  Document 29-1
+                                           19 Filed
+                                                Filed01/21/16
+                                                      01/22/16 Page
+                                                                Page1 1ofof1818
+
+
+
+
+                         IN THE UNITED STATES DISTRICT COURT
+                      FOR THE WESTERN DISTRICT OF PENNSYLVANIA
+
+    RENITA HILL,
+
+                  Plaintiff,                               15cv1658
+                                                           ELECTRONICALLY FILED
+                          v.
+
+    WILLIAM HENRY COSBY, JR., an
+    individual also known as BILL COSBY,
+
+                  Defendant.
+
+
+                                    MEMORANDUM OPINION
+
+          The very detailed and complete Complaint in this case alleges that by making or causing
+
+to be made three very discreet statements: (1) Defendant defamed Plaintiff, (2) Defendant cast
+
+Plaintiff in a false light, and (3) Defendant intentionally inflicted emotional distress upon
+
+Plaintiff.1 Presently before the Court is a Motion to Dismiss and Brief in Support filed by
+
+Defendant alleging that no justiciable claim or controversy exists. Doc. nos. 3, 4. Plaintiff filed
+
+a Response and Brief in Opposition to the Motion to Dismiss. Doc. nos. 7, 11. Defendant filed a
+
+Reply Brief. Doc. no. 18. The matter is now ripe for adjudication. For the reasons set forth
+
+herein, the Court will grant the Motion to Dismiss the Complaint.
+
+
+
+I. Standard of Review - Rule 12(b)(6)
+
+          I. Standard of Review - Rule 12(b)(6)
+
+          Under Rule 12(b)(6), a Complaint must be dismissed for “failure to state a claim upon
+
+which relief can be granted.” Detailed factual pleading is not required – Rule 8(a)(2) calls for a
+1
+  This case was removed to this Court by Defendant. Plaintiff originally filed her lawsuit in the Court of
+Common Pleas of Allegheny County, Pennsylvania (case no. GD-15-18156). Plaintiff did not challenge
+the removal. This Court has jurisdiction over this matter pursuant to 28 U.S.C. § 1332(a).
+
+
+
+
+                                                                                                  bñÜáÄáí=^=
+       Case
+        Case1:15-cv-07433-RWS
+             2:15-cv-01658-AJS Document
+                               Document 29-1
+                                        19 Filed
+                                             Filed01/21/16
+                                                   01/22/16 Page
+                                                             Page2 2ofof1818
+
+
+
+“short and plain statement of the claim showing that the pleader is entitled to relief” – but a
+
+Complaint must set forth sufficient factual allegations that, taken as true, set forth a plausible
+
+claim for relief. Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009). The plausibility standard does not
+
+require a showing of probability that a claim has merit, Bell Atlantic Corp. v. Twombly, 550 U.S.
+
+544, 556 (2007), but it does require that a pleading show “more than a sheer possibility that a
+
+defendant has acted unlawfully.” Iqbal, 556 U.S. at 678. Determining the plausibility of an
+
+alleged claim is “a context-specific task that requires the reviewing court to draw on its judicial
+
+experience and common sense.” Id. at 679
+
+       Building upon the landmark United States Supreme Court decisions in Twombly and
+
+Iqbal, the United States Court of Appeals for the Third Circuit explained that a District Court
+
+must undertake the following three steps to determine the sufficiency of a Complaint:
+
+       First, the court must take note of the elements a plaintiff must plead to state a
+       claim. Second, the court should identify allegations that, because they are no
+       more than conclusions, are not entitled to the assumption of truth. Finally, where
+       there are well-pleaded factual allegations, a court should assume their veracity
+       and then determine whether they plausibly give rise to an entitlement for relief.
+
+Connelly v. Steel Valley Sch. Dist., 706 F.3d 209, 212 (3d Cir. 2013) (citation omitted).
+
+       The third step requires this Court to consider the specific nature of the claims presented
+
+and to determine whether the facts pled to substantiate the claims are sufficient to show a
+
+“plausible claim for relief.” Covington v. Int’l Ass’n of Approved Basketball Officials, 710 F.3d
+
+114, 118 (3d Cir. 2013); see also Santiago v. Warminster Twp., 629 F.3d 121, 130 (3d Cir. 2010)
+
+(“[W]here there are well-pleaded factual allegations, the court should assume their veracity and
+
+then determine whether they plausibly give rise to an entitlement for relief.”).
+
+       When adjudicating a motion to dismiss for failure to state a claim, the Court must view
+
+all of the allegations and facts in the complaint in the light most favorable to the plaintiff, and
+
+
+
+                                                      2
+       Case
+        Case1:15-cv-07433-RWS
+             2:15-cv-01658-AJS Document
+                               Document 29-1
+                                        19 Filed
+                                             Filed01/21/16
+                                                   01/22/16 Page
+                                                             Page3 3ofof1818
+
+
+
+must grant the plaintiff the benefit of all reasonable inferences that can be derived therefrom.
+
+Kanter v. Barella, 489 F.3d 170, 177 (3d Cir. 2007) (quoting Evancho v. Fisher, 423 F.3d 347,
+
+350 (3d Cir. 2005)). However, the Court need not accept inferences or conclusory allegations
+
+that are unsupported by the facts set forth in the complaint. See Reuben v. U.S. Airways, Inc.,
+
+500 F. App’x 103, 104 (3d Cir. 2012) (quoting Iqbal, 556 U.S. at 678); Fowler v. UPMC
+
+Shadyside, 578 F.3d 203, 210-11 (3d Cir. 2009) (stating that District Courts “must accept all of
+
+the Complaint’s well-pleaded facts as true, but may disregard any legal conclusions”). “While
+
+legal conclusions can provide the framework of a Complaint, they must be supported by factual
+
+allegations.” Iqbal, 556 U.S. at 664.
+
+       This Court may not dismiss a Complaint merely because it appears unlikely or
+
+improbable that Plaintiff can prove the facts alleged or will ultimately prevail on the merits.
+
+Twombly, 550 U.S. at 563 n.8. Instead, this Court must ask whether the facts alleged raise a
+
+reasonable expectation that discovery will reveal evidence of the necessary elements. Id. at 556.
+
+Generally speaking, a Complaint that provides adequate facts to establish “how, when, and
+
+where” will survive a Motion to Dismiss. Fowler, 578 F.3d at 212.
+
+       In short, a Motion to Dismiss should be granted if a party fails to allege facts, which
+
+could, if established at trial, entitle him/her to relief. Twombly, 550 U.S. at 563 n.8.
+
+
+
+II.    Discussion
+
+       As noted above, Plaintiff’s Complaint alleges three causes of action against Defendant:
+
+(1) defamation, (2) false light, and (3) intentional infliction of emotional distress. Defendant
+
+argues that each of these three claims must be dismissed because the claims are legally
+
+unsustainable and/or are legally insufficient. Each claim will be addressed, seriatim.
+
+
+
+                                                      3
+        Case
+         Case1:15-cv-07433-RWS
+              2:15-cv-01658-AJS Document
+                                Document 29-1
+                                         19 Filed
+                                              Filed01/21/16
+                                                    01/22/16 Page
+                                                              Page4 4ofof1818
+
+
+
+        A.      Defamation
+
+                1.       Pennsylvania Law
+
+        Under Pennsylvania law – the law applicable to this case2 – a plaintiff must eventually
+
+prove the following seven elements to state a claim for defamation: (1) the defamatory character
+
+of the communication; (2) its publication by the defendant; (3) its application to the plaintiff; (4)
+
+the understanding by the recipient of its defamatory meaning; (5) the understanding by the
+
+recipient of it as intended to be applied to the plaintiff; (6) special harm resulting to the plaintiff
+
+from its publication; and (7) abuse of a conditionally privileged occasion. 42 Pa.C.S.A. § 8343.
+
+There is ample case law emanating from Pennsylvania state courts, as well as the United States
+
+District Courts, applying Pennsylvania substantive law which defines these elements. A brief
+
+summary of a portion of that body of law follows.
+
+        In an action for defamation, it is the Court’s duty to make the threshold determination
+
+whether the challenged statements are capable of a defamatory meaning. Thomas Merton Center
+
+v. Rockwell International Corp., 442 A.2d 213 (Pa. 1981), cert. den., 457 U.S. 1134 (1982);
+
+Byars v. School Dist. of Phila., 942 F.Supp.2d 552 (Pa. E.D. 2013) (“Whether a statement is
+
+capable of a defamatory meaning is a question of law for the court.”). If the communication
+
+could be understood as defamatory, then it is for the jury to determine whether it was so
+
+understood by the recipient. Agriss Roadway Exp., Inc., 483 A.2d 456 (Pa. Super. 1984).
+
+        For purposes of the threshold determination whether a communication could be
+
+understood as defamatory, it is not necessary for the communication actually to have caused
+
+harm to a plaintiff’s reputation; defamatory character depends on the general tendency of the
+
+
+2
+  The parties agree, as does this Court, that Pennsylvania substantive law applies to the claims asserted in
+this case. Pennsylvania has a substantial interest in this litigation as Plaintiff was (and is) domiciled in
+Pennsylvania at the time the allegedly defamatory communications were published, and thus Plaintiff has
+a reputational interest to protect in that forum.
+                                                         4
+       Case
+        Case1:15-cv-07433-RWS
+             2:15-cv-01658-AJS Document
+                               Document 29-1
+                                        19 Filed
+                                             Filed01/21/16
+                                                   01/22/16 Page
+                                                             Page5 5ofof1818
+
+
+
+words to have such an effect. Id., citing Corabi v. Curtis Publishing Co., 273 A.2d 899 (Pa.
+
+1971); Miller v. Hubbard, 207 A.2d 913 (Pa. Super. 1965); Restatement, supra, § 559 Comment
+
+d. However, it is not sufficient for the words to merely embarrass or annoy the plaintiff.
+
+Beckman v. Dunn, 419 A.2d 583 (Pa. Super. 1980). A communication is defamatory if it tends
+
+to blacken a person’s reputation or expose that person to public hatred, contempt, or ridicule, or
+
+injure the person in her business or profession. Livingston v. Murray, 612 A.2d 443, 447 (Pa.
+
+Super. 1992), alloc. den., 617 A.2d 1275 (Pa. 1992). Defamatory communications tend to lower
+
+a person in the estimation of the community, deter third persons from associating with him or
+
+her, or adversely affect the person’s fitness for the proper conduct of his or her lawful business or
+
+profession. Id.
+
+       A plaintiff claiming defamation need not be specifically named in the communication, if
+
+the plaintiff is pointed to by description or circumstances tending to identify him or her.
+
+Cosgrove Studio & Camera Shop, Inc. v. Pane, 182 A.2d 751, 753 (Pa. 1962). The test is
+
+“whether the defamatory communication may reasonably be understood as referring to the
+
+plaintiff.” Zerpol Corp. v. DMP Corp., 561 F.Supp. 404, 410 (E.D. Pa. 1983) (citing Farrell v.
+
+Triangle Publ’ns, Inc., 159 A.2d 734 (Pa. 1960)).
+
+       The Pennsylvania Superior Court further explained in Dougherty v. Boyerton Times, 547
+
+A.2d 778 (Pa. Super. 1988):
+
+                  The nature of the audience is a critical factor in determining whether a
+                  statement is capable of defamatory meaning. . . . Injury to reputation is
+                  judged by the reaction of other persons in the community and not by the
+                  party’s self-estimation. Rybas v. Wapner, 311 Pa.Super. 50, 457 A.2d 108
+                  (1983). Specifically, a communication is defamatory if it “ascribes to
+                  another conduct, character or a condition that would adversely affect his
+                  fitness for the proper conduct of his lawful business, trade or profession.”
+                  Baker v. Lafayette College, 350 Pa.Super. 68, 76, 504 A.2d 247, 251
+                  (1986) quoting Thomas Merton Center, supra, 422 A.2d at 216.
+
+
+
+                                                       5
+        Case
+         Case1:15-cv-07433-RWS
+              2:15-cv-01658-AJS Document
+                                Document 29-1
+                                         19 Filed
+                                              Filed01/21/16
+                                                    01/22/16 Page
+                                                              Page6 6ofof1818
+
+
+
+Id. at 783.
+
+        Pennsylvania case law also has concluded that only statements of fact can afford a basis
+
+for a defamation action. Expressions of opinion cannot. Statements of fact and opinion
+
+intermingled can give rise to a claim based on the factual portions of the statement. See
+
+Dougherty, 547 A.2d at 782–83 (1988) and Restatement (Second) of Torts, § 556.
+
+        Whether a particular statement constitutes a fact or an opinion is a question of law for the
+
+trial court to determine. Veno v. Meredith, 515 A.2d 571, 575 (Pa. Super. 1986) citing Braig v.
+
+Field Communications, 456 A.2d 1366, 1372 (Pa. Super. 1983), cert. den., 466 U.S. 970 (1984).
+
+In Braig, the Superior Court of Pennsylvania adopted Section 566 of the Restatement (Second)
+
+of Torts, entitled Expression of Opinion, which provides as follows:
+
+               A defamatory communication may consist of a statement in the form of an
+               opinion, but a statement of this nature is actionable only if it implies the
+               allegation of undisclosed defamatory facts as the basis for the opinion.
+
+Comment (b) to § 566 of the Restatement explains the two types of expressions of opinion:
+
+               (1) The pure type - which “occurs when the maker of the comment states
+               the facts on which he bases his opinion of the plaintiff and then expresses
+               a comment as to the plaintiff's conduct, qualifications or character.”
+
+               (2) The mixed type - which “while an opinion in form or context, is
+               apparently based on facts regarding the plaintiff or his conduct that have
+               not been stated by the defendant or assumed to exist by the parties to the
+               communication. Here the expression of opinion gives rise to the inference
+               that there are undisclosed facts that justify the forming of the opinion
+               expressed by the defendant.”
+
+Restatement (Second) of Torts, § 566, comment (b). Comment (c) of § 566 explains the
+
+constitutional significance of the distinction explained in comment (b):
+
+               A simple expression of opinion based on disclosed or assumed
+               nondefamatory facts is not itself sufficient for an action of defamation, no
+               matter how unjustified and unreasonable the opinion may be or how
+               derogatory it is. But an expression of opinion that is not based on
+               disclosed or assumed facts and therefore implies that there are undisclosed
+
+                                                     6
+       Case
+        Case1:15-cv-07433-RWS
+             2:15-cv-01658-AJS Document
+                               Document 29-1
+                                        19 Filed
+                                             Filed01/21/16
+                                                   01/22/16 Page
+                                                             Page7 7ofof1818
+
+
+
+               facts on which the opinion is based, is treated differently. The difference
+               lies in the effect upon the recipient of the communication. In the first
+               case, the communication itself indicates to him that there is no defamatory
+               factual statement. In the second, it does not, and if the recipient draws the
+               reasonable conclusion that the derogatory opinion expressed in the
+               comment must have been based on undisclosed defamatory facts, the
+               defendant is subject to liability. The defendant cannot insist that the
+               undisclosed facts were not defamatory but that he unreasonably formed
+               the derogatory opinion from them. This is like the case of a
+               communication subject to more than one meaning. As stated in § 563, the
+               meaning of a communication is that which the recipient correctly, or
+               mistakenly but reasonably, understands that it was intended to express.
+
+Restatement (Second) of Torts, § 566, comment (c).
+
+       Thus, the trial court must determine whether the challenged statement is an opinion or a
+
+fact. If the challenged statement is an opinion, it is actionable only if it “may reasonably be
+
+understood to imply the existence of undisclosed defamatory facts justifying the opinion.” Veno,
+
+515 A.2d at 575, quoting Beckman, 419 A.2d at 587, citing Restatement (Second) of Torts, §
+
+566.
+
+       With these principles in mind, the Court proceeds to examine the three challenged
+
+statements set forth in the instant case.
+
+               2.      Plaintiff’s Allegations Related to Defamation
+
+       Turning to the detailed and specific facts alleged by Plaintiff, her Complaint first notes
+
+that Plaintiff gave an interview with a reporter from KDKA on November 20, 2014 wherein she
+
+accused Defendant of sexual abuse and rape (doc. no. 1-3, ¶ 38). Plaintiff asserts that as a result
+
+of this interview, three separate communications (either made by Defendant, or on Defendant’s
+
+behalf) led to her defamation claim.
+
+       The “Martin Singer Statement” is the first of the three communications which Plaintiff
+
+alleges is defamatory. In it, Plaintiff alleges that a day or two after she gave her interview, the
+
+Washington Post published a response whereby “[Defendant], aided by his attorney, Martin
+
+                                                      7
+        Case
+         Case1:15-cv-07433-RWS
+              2:15-cv-01658-AJS Document
+                                Document 29-1
+                                         19 Filed
+                                              Filed01/21/16
+                                                    01/22/16 Page
+                                                              Page8 8ofof1818
+
+
+
+Singer, issued [a] statement . . .” which set forth, in relevant part, that “. . . new, never-before-
+
+heard claims from women[,] who have come forward in the past two weeks with unsubstantiated,
+
+fantastical stories . . . have escalated far past the point of absurdity. These brand new claims
+
+about alleged decades-old events are becoming increasingly ridiculous . . . . [I]t makes no sense
+
+that not one of these new women who just came forward for the first time ever asserted a legal
+
+claim back at the time they allege they had been sexually assaulted.” The remainder of the
+
+Martin Singer Statement chastises “the media” for failing to corroborate the new
+
+“unsubstantiated stories” before publishing their accounts.3
+
+        Second, with respect to the “Florida Today Statement,” Plaintiff alleges that the same day
+
+the Martin Singer Statement was released, Defendant himself was interviewed by Florida Today,
+
+and during that interview he declined to respond to the “innuendos” that had been made about
+
+him and stated that “[p]eople should fact-check”.4
+
+        Third, with respect to the “Camille Cosby Statement,” Plaintiff alleges that on December
+
+15, 2014, a letter written by Defendant’s wife, Camille Cosby, was published by the Washington
+
+Post on Defendant’s behalf alleging that the news media failed to “vet” her husband’s accusers
+
+(of which Plaintiff was one) before publishing or airing the accusers’ stories.5
+
+                3.       Analysis
+
+        Defendant’s Brief in Support of its Motion to Dismiss contends that none of the three
+
+statements are actionable as defamation. Doc. no. 4, p. 8. Plaintiff’s Brief in Opposition to
+
+Motion to Dismiss contends that the sum of the three statements “share a common thread of
+
+relying on undisclosed, defamatory facts to support the assertions each statement makes.” Doc.
+
+no. 11, p. 7. Plaintiff contends that “[i]f it is reasonable to infer from the statements that
+
+3
+  The full text of the Martin Singer Statement is set forth in the Complaint at doc. no. 1-3, ¶ 38.
+4
+  The full text of the Florida Today Statement is set forth in the Complaint at doc. no. 1-3, ¶ 41.
+5
+  The full text of the Camille Cosby Statement is set forth in the Complaint at doc. no. 1-3, ¶ 42.
+                                                          8
+       Case
+        Case1:15-cv-07433-RWS
+             2:15-cv-01658-AJS Document
+                               Document 29-1
+                                        19 Filed
+                                             Filed01/21/16
+                                                   01/22/16 Page
+                                                             Page9 9ofof1818
+
+
+
+Defendant was actively and knowingly calling Plaintiff a liar and an extortionist, than [sic] the
+
+statements are capable of defamatory meaning.” Id.
+
+       After careful consideration of each of the three statements set forth in the Complaint, and
+
+after considering the arguments advanced by each party to this lawsuit as to how those
+
+statements could or could not be defamatory under Pennsylvania law, this Court finds that none
+
+of the three statements are defamatory.
+
+                       a.      The Martin Singer Statement
+
+       The Martin Singer Statement is a pure opinion. Per Plaintiff’s Complaint, the Martin
+
+Singer Statement was made “in response” to Plaintiff’s interview wherein she accused Defendant
+
+of sexually abusing and raping her. Doc. no. 1-3, ¶ 38. This statement suggests that “new”
+
+claims asserted by “new” women – which presumably included Plaintiff’s allegations of sexual
+
+abuse and rape – escalated beyond “the point of absurdity.” Id. Simply put, taking all well pled
+
+facts as true, and viewed in the light most favorable to Plaintiff, the Martin Singer Statement
+
+describes the Plaintiff’s and other women’s allegations against Defendant as “beyond absurd”
+
+and labels their accounts of past events as “unsubstantiated, fantastical stories.”
+
+       The entire Martin Singer Statement (as quoted in Plaintiff’s Complaint) is an opinionated
+
+statement; but, it is not one which implies or alleges that undisclosed, defamatory facts serve as
+
+the basis for the opinion. It was a statement, made by Defendant’s attorney, in response to
+
+serious allegations concerning Defendant’s alleged criminal behavior. As noted above, in
+
+Pennsylvania, an opinion cannot be defamatory unless it “may reasonably be understood to
+
+imply the existence of undisclosed defamatory facts justifying the opinion.” Remick v. Manfredy,
+
+238 F.3d 248, 261 (3d Cir. 2001).
+
+
+
+
+                                                      9
+       Case
+        Case1:15-cv-07433-RWS
+             2:15-cv-01658-AJS Document
+                               Document 29-1
+                                        19 Filed
+                                             Filed01/21/16
+                                                   01/22/16 Page
+                                                             Page1010ofof1818
+
+
+
+       Any attorney for any defendant must advance a position contrary to that of the plaintiff.
+
+Here, Plaintiff publicly claimed she was sexually abused and raped by Defendant – which is her
+
+position; and Defendant, through his attorney, publicly denied those claims by saying the
+
+“claims” are unsubstantiated and absurd – which is his legal position. This sort of purely
+
+opinionated speech articulated by Defendant’s attorney is protected and not actionable as
+
+defamatory speech. See Gertz v. Robert Welch, Inc., 418 U.S. 323, 339 (1974) (“Under the First
+
+Amendment there is no such thing as a false idea. However pernicious an opinion may seem, we
+
+depend for its correction not on the conscience of judges and juries but on the competition of
+
+other ideas. But there is no constitutional value in false statements of fact.”). This Court does
+
+not find the Martin Singer Statement includes language which implies the existence of
+
+undisclosed defamatory facts about Plaintiff. As such, this Court considers the Martin Singer
+
+Statement to be purely an opinion proffered by an attorney who, while actively engaged in the
+
+zealous representation of his client, did not cross the line and defame the Plaintiff. Accordingly,
+
+the Court finds that the Martin Singer Statement fails to support Plaintiff’s claim for defamation.
+
+                       b.     The Florida Today Statement
+
+       Next, turning to the Florida Today Statement, this Court also finds that this statement
+
+likewise is not defamatory. In this statement, Defendant refuses to respond to “innuendos” and
+
+invites “people” to “fact-check.” Doc. no. 1-3, ¶ 41. Although Pennsylvania case law is clear
+
+that a plaintiff claiming defamation need not be specifically named in the defamatory statement,
+
+the Florida Today Statement fails to even generally refer to the group of women who publicly
+
+asserted their allegations of sexual misconduct against Defendant.
+
+       However, viewing this statement in a light most favorable to Plaintiff, given the timing of
+
+this statement, the Court will assume, arguendo, that Defendant was referring to Plaintiff’s and
+
+
+
+                                                    10
+       Case
+        Case1:15-cv-07433-RWS
+             2:15-cv-01658-AJS Document
+                               Document 29-1
+                                        19 Filed
+                                             Filed01/21/16
+                                                   01/22/16 Page
+                                                             Page1111ofof1818
+
+
+
+other women’s accusations as “innuendos,” and was encouraging the public to “fact-check” the
+
+claims of these women. This is a far cry from labelling Plaintiff (and the other women who have
+
+made similar public assertions) as liars or extortionists.
+
+        Pennsylvania law requires that Defendant’s words have the general tendency to cause
+
+harm to Plaintiff’s reputation. It is not sufficient if the words are merely embarrassing or
+
+annoying to Plaintiff. The words uttered by Defendant, and made public in his Florida Today
+
+Statement, which invite the public to conduct its own investigation and draw its own conclusions
+
+about the “innuendos,” i.e., the alleged sexual misconduct of Defendant, do not have the general
+
+tendency to cause harm to anyone’s reputation and, thus, do not rise to the level of defamatory
+
+comments.
+
+                         c.      The Camille Cosby Statement
+
+        Finally, the Camille Cosby Statement fails to meet Pennsylvania’s legal requirements
+
+necessary to assert a claim for defamation. The majority of this statement expresses the
+
+speaker’s opinion that the media outlets violated their own code of journalistic integrity by
+
+publishing Plaintiff’s (and the other women’s) accounts of the alleged sexual abuse without
+
+“vetting” these accusers. This statement targets the media as much, and arguably more so, than
+
+the accusers, by claiming that the media failed to properly source or “vet” Plaintiff’s and the
+
+other women’s stories before publishing them. The accusation made by Camille Cosby appears
+
+to target the media for failing to get a second source before printing Plaintiff’s, and/or other
+
+women’s very serious accusations regarding Defendant.6
+
+
+6
+ Even assuming that the “vetting” referred to Plaintiff herself, and not Plaintiff’s “story,” the Camille
+Cosby Statement suggests that the media did not do its job of investigating Plaintiff prior to publishing
+Plaintiff’s account of the alleged sexual abuse. Even construed in a light most favorable to Plaintiff, the
+Camille Cosby Statement does not infer that there is some undisclosed fact or facts about this specific
+Plaintiff which Camille Cosby herself knew. Moreover, although Plaintiff has pled that Camille Cosby
+was Defendant’s business manager, and claims that Camille Cosby’s statements could be attributable to
+                                                         11
+       Case
+        Case1:15-cv-07433-RWS
+             2:15-cv-01658-AJS Document
+                               Document 29-1
+                                        19 Filed
+                                             Filed01/21/16
+                                                   01/22/16 Page
+                                                             Page1212ofof1818
+
+
+
+        In addition, the timing of this statement is further removed from the timing of Plaintiff’s
+
+own accusations. This Court does not find that this Statement could be read to infer that Plaintiff
+
+is a liar or an extortionist and it does not possess the general tendency to cause harm to Plaintiff’s
+
+reputation. Thus, this Statement fails to support a claim for defamation.
+
+                        d.       All Three Statements Together
+
+        Finally, Plaintiff’s Brief in Opposition to the Motion to Dismiss contends that the sum of
+
+the three statements “share a common thread of relying on undisclosed, defamatory facts to
+
+support the assertions each statement makes.” Plaintiff contends that “[i]f it is reasonable to
+
+infer from the statements that Defendant was actively and knowingly calling Plaintiff a liar and
+
+an extortionist, than [sic] the statements are capable of defamatory meaning.” Doc. no. 11, p. 7.
+
+Even considering these three statements together as a combined, single statement, this newly
+
+“conjoined” statement does not lead to an inference that Plaintiff is a “liar and an extortionist.”
+
+Accordingly, Defendant’s Motion to Dismiss Plaintiff’s claim for defamation will be granted.
+
+        B.      False Light
+
+        Under Pennsylvania law, a claim for false light is one of four torts which can support a
+
+claim for invasion of privacy. Santillo v. Reed, 634 A.2d 264 (Pa. Super. 1993). To establish a
+
+false light invasion of privacy claim, Pennsylvania law requires a plaintiff to show that a highly
+
+offensive false statement was publicized by a defendant with knowledge or in reckless disregard
+
+of the falsity. Id., citing, Neish v. Beaver Newspapers, Inc., 581 A.2d 619, 624 (Pa. Super.
+
+1990), alloc. den., 593 A.2d 421 (Pa. 1991).
+
+
+
+
+Defendant, this is a legal conclusion which Plaintiff draws with no factual support. Thus, even if the
+Camille Cosby Statement could be read to infer that Camille Cosby had undisclosed defamatory facts
+related to this specific Plaintiff, the Court has no basis upon which it can legally conclude that this
+Statement can be attributed to Defendant or was authorized by him.
+                                                        12
+      Case
+       Case1:15-cv-07433-RWS
+            2:15-cv-01658-AJS Document
+                              Document 29-1
+                                       19 Filed
+                                            Filed01/21/16
+                                                  01/22/16 Page
+                                                            Page1313ofof1818
+
+
+
+       Pennsylvania Courts have relied upon the Restatement (Second) of Torts § 652E for
+
+distinguishing a false light claim from a defamation claim. Comment “b.” to this Section of the
+
+Restatement reads as follows:
+
+                      b. Relation to defamation. The interest protected by this Section is
+              the interest of the individual in not being made to appear before the public
+              in an objectionable false light or false position, or in other words,
+              otherwise than as he is. In many cases to which the rule stated here
+              applies, the publicity given to the plaintiff is defamatory, so that he would
+              have an action for libel or slander under the rules stated in Chapter 24. In
+              such a case the action for invasion of privacy will afford an alternative or
+              additional remedy, and the plaintiff can proceed upon either theory, or
+              both, although he can have but one recovery for a single instance of
+              publicity.
+
+                      It is not, however, necessary to the action for invasion of privacy
+              that the plaintiff be defamed. It is enough that he is given unreasonable
+              and highly objectionable publicity that attributes to him characteristics,
+              conduct or beliefs that are false, and so is placed before the public in a
+              false position. When this is the case and the matter attributed to the
+              plaintiff is not defamatory, the rule here stated affords a different remedy,
+              not available in an action for defamation.
+
+Restatement (Second) of Torts § 652E, comment b. Comment “c.” defines the term
+
+“highly offensive” in this manner:
+
+                      c. Highly offensive to a reasonable person. The rule stated in this
+              Section applies only when the publicity given to the plaintiff has placed
+              him in a false light before the public, of a kind that would be highly
+              offensive to a reasonable person. In other words, it applies only when the
+              defendant knows that the plaintiff, as a reasonable man, would be justified
+              in the eyes of the community in feeling seriously offended and aggrieved
+              by the publicity. Complete and perfect accuracy in published reports
+              concerning any individual is seldom attainable by any reasonable effort,
+              and most minor errors, such as a wrong address for his home, or a mistake
+              in the date when he entered his employment or similar unimportant details
+              of his career, would not in the absence of special circumstances give any
+              serious offense to a reasonable person. The plaintiff's privacy is not
+              invaded when the unimportant false statements are made, even when they
+              are made deliberately. It is only when there is such a major
+              misrepresentation of his character, history, activities or beliefs that serious
+              offense may reasonably be expected to be taken by a reasonable man in
+              his position, that there is a cause of action for invasion of privacy.
+
+                                                    13
+       Case
+        Case1:15-cv-07433-RWS
+             2:15-cv-01658-AJS Document
+                               Document 29-1
+                                        19 Filed
+                                             Filed01/21/16
+                                                   01/22/16 Page
+                                                             Page1414ofof1818
+
+
+
+
+Restatement (Second) of Torts § 652E, comment c.
+
+       In the instant case, none of the three statements described above can be said to be “highly
+
+offensive” as that term is defined. Plaintiff’s Complaint asserts that the three statements were
+
+“highly offensive” (see doc. no. 1-3, ¶ 58), but this is a legal conclusion. The Complaint is
+
+otherwise devoid of any facts which support Plaintiff’s legal conclusion that the three statements
+
+are “highly offensive.”
+
+       Moreover, none of the three statements specifically malign Plaintiff individually. Even if
+
+Plaintiff need not be specifically named in the statement which forms the basis for a false light
+
+claim (as is true for a defamation claim) in order to prove that the statement cast her in a false
+
+light, Plaintiff must still show that the conduct was “highly offensive” to her, as a reasonable
+
+person. None of the three statements provide a factual basis upon which this Court could find
+
+that “serious offense” could reasonably have been expected to be taken by a reasonable person in
+
+Plaintiff’s position. As such, Plaintiff’s allegations set forth in her Complaint fall short of
+
+providing a basis for her claim for false light, and thus, the Motion to Dismiss Plaintiff’s false
+
+light claim will be granted.
+
+       C. Intentional Infliction of Emotional Distress
+
+       The Superior Court of Pennsylvania in Britt v. Chestnut Hill Coll. held as follows:
+
+               Intentional infliction of emotional distress is defined in the Restatement
+               (Second) of Torts as follows:
+
+                      One who by extreme and outrageous conduct intentionally or
+                      recklessly causes severe emotional distress to another is subject to
+                      liability for such emotional distress, and if bodily harm to the other
+                      results from it, for such bodily harm.
+
+               Restatement (Second) of Torts, § 46(1).
+
+
+
+
+                                                      14
+       Case
+        Case1:15-cv-07433-RWS
+             2:15-cv-01658-AJS Document
+                               Document 29-1
+                                        19 Filed
+                                             Filed01/21/16
+                                                   01/22/16 Page
+                                                             Page1515ofof1818
+
+
+
+                       In addition to requiring that a plaintiff establish that the conduct
+               complained of was outrageous, the Pennsylvania Supreme Court has
+               required that the plaintiff present competent medical evidence to support
+               the claim. In Kazatsky v. King David Memorial Park, 515 Pa. 183, 527
+               A.2d 988 (1987), our supreme court affirmed this court’s order sustaining
+               a compulsory nonsuit for a claim of intentional infliction of emotional
+               distress. Initially, the court noted that while it had previously
+               acknowledged Section 46, it had never “had occasion to specifically adopt
+               section 46 as the law in Pennsylvania”. Id. With that in mind, the court
+               ultimately held that “if section 46 of the Restatement is to be accepted in
+               this Commonwealth, at the very least, existence of the alleged emotional
+               distress must be supported by competent medical evidence.” Kazatsky,
+               515 Pa. at 197, 527 A.2d at 988 (1987). Applying that standard to the
+               facts before it, the supreme court sustained the compulsory nonsuit
+               because the record revealed that neither appellant had sought medical
+               treatment and that they failed to support their claim with competent
+               medical evidence.
+
+Britt, 632 A.2d 557, 561 (Pa. Super. 1993). The Supreme Court of Pennsylvania has held that in
+
+order to sustain a claim for intentional infliction of emotional distress, a plaintiff must allege that
+
+the defendant “has acted with intent which is tortious or even criminal, or that he had intended to
+
+inflict emotional distress, or even that his conduct has been characterized by ‘malice,’ or a
+
+degree of aggravation that would entitle the plaintiff to punitive damages for another tort.” Hoy
+
+v. Angelone, 720 A.2d 745 (Pa. 1998).
+
+       Turning to the facts of this case, Plaintiff’s claim for intentional infliction of emotional
+
+distress (“IIED”) turns on the alleged facts that Defendant drugged her, sexually abused and
+
+raped her, and then called her a “liar and extortionist” after she publicly disclosed what he had
+
+allegedly done to her. Doc. no. 1-3, ¶¶ 65-66. The three statements referenced in the
+
+Complaint, only one of which was uttered by Defendant himself, form the basis of her IIED
+
+claim. Two of these statements – the Martin Singer Statement and the Camille Cosby Statement
+
+– were not made by Defendant, the alleged attacker. Even assuming those two statements could
+
+be attributable to Defendant, through his agents – his attorney and wife – these three statements
+
+
+
+                                                      15
+       Case
+        Case1:15-cv-07433-RWS
+             2:15-cv-01658-AJS Document
+                               Document 29-1
+                                        19 Filed
+                                             Filed01/21/16
+                                                   01/22/16 Page
+                                                             Page1616ofof1818
+
+
+
+would have to expressly and/or impliedly deny that Defendant sexually abused and raped
+
+Plaintiff.
+
+        While none of the three statements go so far as to expressly deny that Defendant sexually
+
+abused and raped Plaintiff, read in a light most favorable to Plaintiff, this Court will consider
+
+whether they impliedly deny that Defendant did so. Assuming, arguendo, that the statements
+
+deny Defendant sexually abused and raped Plaintiff, the question next becomes whether that
+
+language so outrageous, atrocious, and contemptable that those statements could give rise to an
+
+IIED claim. The Court finds that the language does not rise to the level of outrage necessary to
+
+sustain an IIED claim under Pennsylvania law.
+
+        In addition, the Court notes – as do both Plaintiff and Defendant in their respective briefs
+
+– that no Pennsylvania case law exists upholding an IIED claim which has been predicated upon
+
+defamatory language. See doc. no. 4, p. 14 and doc. no. 11, p. 14. Plaintiff argues that simply
+
+because Pennsylvania has not yet allowed such a cause of action, it has not prohibited one either.
+
+Doc. no. 11, p. 14. This Court takes no position on what Pennsylvania Courts may or may
+
+choose not do with respect to any future IIED claim predicated on an alleged defamatory
+
+statement(s). However, this Court does not find that the type of denials published in the three
+
+statements rise to the level of atrocious conduct necessary to preserve an IIED claim under
+
+Pennsylvania law. Without any legal support suggesting that an IIED claim can be predicated
+
+upon alleged defamatory language, and after concluding as a matter of law that the language
+
+itself is not defamatory, this Court must dismiss Plaintiff’s IIED claim.
+
+
+
+III.    Conclusion
+
+
+
+
+                                                     16
+       Case
+        Case1:15-cv-07433-RWS
+             2:15-cv-01658-AJS Document
+                               Document 29-1
+                                        19 Filed
+                                             Filed01/21/16
+                                                   01/22/16 Page
+                                                             Page1717ofof1818
+
+
+
+        As explained in detail above, each of the three claims asserted by Plaintiff will be
+
+dismissed. Each of the claims as asserted by Plaintiff in her Complaint fails as a matter of law.
+
+Even assuming the veracity of all that Plaintiff has pled here, the three statements do not support
+
+a claim for defamation as defined by Pennsylvania law. Likewise, the Plaintiff’s Complaint fails
+
+to establish viable claims for false light or intentional infliction of emotional distress as those
+
+torts are defined by Pennsylvania law.
+
+        Typically, the Court allows a plaintiff to amend a Complaint that is legally deficient
+
+unless doing so would be futile. See In re Burlington Coat Factory Sec. Litig., 114 F.3d 1410,
+
+1434 (3d Cir.1997) (“ . . . a district court may exercise its discretion and deny leave to amend on
+
+the basis of . . . futility.”). Given the state of the law on this matter, as will be discussed in
+
+greater detail below, any amendment would be futile, and thus Defendant’s Motion to Dismiss
+
+will be granted with prejudice.
+
+        The Complaint in this case is very detailed and complete, drafted by experienced counsel.
+
+The three complained-of Statements are set forth in great detail. An Amended Complaint could
+
+not add anything to these three Statements. The Court is confident that if counsel for Plaintiff
+
+had additional complained-of statements, those additional statements would have been made part
+
+of the Complaint.
+
+        Accordingly, the Court finds that allowing Plaintiff time to amend her Complaint would
+
+be futile, and thus, the Court will grant Defendant’s Motion and dismiss this case with prejudice.
+
+An appropriate Order shall follow.
+
+
+
+                                                s/Arthur J. Schwab
+                                                Arthur J. Schwab
+                                                United States District Judge
+
+
+
+                                                       17
+      Case
+       Case1:15-cv-07433-RWS
+            2:15-cv-01658-AJS Document
+                              Document 29-1
+                                       19 Filed
+                                            Filed01/21/16
+                                                  01/22/16 Page
+                                                            Page1818ofof1818
+
+
+
+
+cc:   All Registered ECF Counsel and Parties
+
+
+
+
+                                               18
+

@@ -1,0 +1,1395 @@
+Case 1:15-cv-07433-RWS Document 57-2 Filed 03/14/16 Page 1 of 30
+
+
+
+
+                  EXHIBIT 2
+      Case 1:15-cv-07433-RWS Document 57-2 Filed 03/14/16 Page 2 of 30
+
+
+
+Neutral Citation Number: [2004] EWHC 373 (Ch)
+
+                                                                          Case No: HC 00 04556
+
+IN THE HIGH COURT OF JUSTICE
+
+CHANCERY DIVISION
+
+                                                                          Royal Courts of Justice
+
+                                                                  Strand, London, WC2A 2LL
+
+                                                                             Date: 1 March 2004
+
+                                         Before :
+
+                     THE HONOURABLE MR JUSTICE MANN
+
+                              ---------------------
+
+                                        Between :
+
+                                 (1) USP Strategies Plc                              Claimants
+
+                              (2) Unicorn Strategies LLC
+
+                                          - and -
+
+                             (1) London General Holdings Limited                    Defendants
+
+                              (2) AON Warranty Group Limited
+
+                             (3) AON Warranty Services Limited
+
+                              ---------------------
+
+                              ---------------------
+
+      Mr Anthony Watson Q.C. (instructed by Denton Wilde Sapte) for the Claimants
+
+     Mr Andrew Monson (instructed by Berwin Leighton Paisner) for the Defendants
+
+                     Hearing dates: 2nd, 3rd, 4th and 5th February 2004
+
+                              ---------------------
+Case 1:15-cv-07433-RWS Document 57-2 Filed 03/14/16 Page 3 of 30
+
+
+
+                            Judgment
+      Case 1:15-cv-07433-RWS Document 57-2 Filed 03/14/16 Page 4 of 30
+
+
+
+
+Mr Justice Mann :
+
+Background
+
+   1. The two applications before me are related applications which turn on the question of
+      legal professional privilege and, to a more limited extent, general obligations of
+      disclosure and listing. In 1998 the claimants prepared, or caused to be prepared,
+      documentation for a warranty scheme which they sought to sell to retailers to replace
+      insurance based schemes which had been rendered commercially unattractive by a
+      change in the tax regime. A Mr Chan and a Mr Cooper, solicitors on the Isle of Man,
+      devised a scheme involving moneys being held off-shore and in trust. In the course of
+      devising the scheme a document known in these proceedings as a CAA (an acronym for
+      Collections Account Agreement) was prepared. Copyright in that document vested in the
+      second claimant; in due course it was transferred to the first claimant. I shall not
+      distinguish between those two companies for the purposes of this judgment (because it is
+      not necessary to do so) and shall treat all relevant copyright and confidentiality rights as
+      being vested in what I will call "USP". The CAA came into the possession of the first
+      defendant ("LGH") because that company was, at the time, the administrator of the
+      scheme in question ("the Scottish Power scheme"), but it was the subject of a
+      confidentiality agreement. Modifications were carried out to it, and a finalised version
+      was used in that scheme. As a result of joint input into the final document, the judge at
+      the hearing on liability referred to below found that copyright in that final version vested
+      jointly in Scottish Power and USP.
+   2. In 2000 the claimants and LGH were rivals in bidding to participate in another scheme,
+      this time for an entity which I will call Powerhouse. In this context LGH and the other
+      two defendants, who are all companies in the same group (the AON group), used the final
+      form draft CAA as a starting point for the drafting of a similar document which they put
+      forward in their bid to devise and operate a scheme for Powerhouse. In doing so they are
+      said to have been able to maintain a bidding position in competition with the claimants
+      until Powerhouse ultimately decided that the claimants' scheme was one that they
+      preferred. In a judgment delivered on 8th November 2002 HH Judge Weeks QC held that
+      that use was an infringement of the copyright in the 1998 original and a breach of
+      confidentiality, and he ordered an inquiry as to the damages arising from those wrongs.
+      That inquiry is not confined to the actual breaches that he found; it is set to be held at the
+      end of April before a Master.
+   3. In the context of the inquiry questions of privilege arise. In the course of considering their
+      participation in the Powerhouse scheme LGH instructed lawyers on the Isle of Man. The
+      results of their deliberations were apparently passed to Powerhouse. It is in relation to
+      that advice and certain matters passing among the defendants and between the defendants
+      and Powerhouse that privilege questions arise. In addition, the inquiry will consider
+      infringements relating to another transaction in relation to a concern identified as Apollo.
+      The defendants, or their group, did enter into a scheme with Apollo, and it is not alleged
+      that the final scheme involved the use of any documents over which copyright or
+      confidentiality is claimed. However, it is said that at some stage consideration was given
+   Case 1:15-cv-07433-RWS Document 57-2 Filed 03/14/16 Page 5 of 30
+
+
+
+   to using the CAA, and that there were infringements at that stage of the transaction.
+   Questions of privilege and disclosure arise in relation to that too.
+
+
+
+   The Powerhouse claim facts – detail
+
+4. The background to this matter leading up to the infringements found by HH Judge Weeks
+   is set out in some detail in his judgment; I do not propose to set them out again here. For
+   present purposes I can take the story up at the beginning of 2000. At that point of time, as
+   HH Judge Weeks QC stated, LGH and USP found themselves in competition. The
+   claimants offered their scheme at a given price (the details do not matter). A Mr
+   Brimacombe of LGH had a copy of the Scottish Power CAA on his computer. It was
+   copied for a Mr Mian, a sales director of LGH, with names blanked out. In due course it
+   was sent to Powerhouse's lawyers, on 7th March (which was the infringement relied on
+   and established at the trial). Part of the case of the claimants is that the defendants did this
+   in order to establish that they had a workable (or "robust", as it was put at the time)
+   scheme, so that they remained in the game. That gave Powerhouse competing bidders and
+   they were able to play one off against the other. As a result of this Powerhouse were able
+   to come back to the claimants at the end of March and negotiate a reduction in the price
+   quoted. A deal was done at that reduced price. This reduction in price forms part of the
+   damages claim. The claimants say that the infringement helped to keep the defendants in
+   the running, and the fact that they were in the running enabled Powerhouse to come back
+   and require a reduction in price. I do not need to consider this chain of causation – that is
+   a matter for the inquiry.
+5. However, the claimants also now rely on earlier matters. The claimants seek to establish
+   an earlier breach. I have already referred to a reduction of price at the end of March.
+   However, earlier, on 1st March 2000 Powerhouse had been also been able to negotiate a
+   reduction in price from the claimants. In the inquiry the claimants will seek to establish
+   that that reduction was attributable to earlier infringements. In mid-February 2000 LGH
+   had sought advice from Manx lawyers. According to a chronology submitted by Mr
+   Monson, who appeared for the defendants, a letter from Mr de Freitas, the solicitor acting
+   for the defendants, stated that:
+
+   "The nature of the advice sought from the solicitors in the Isle of Man concerned whether
+   a trust based arrangement could be set up to protect monies from the Powerhouse scheme
+   from being merged, or treated as merged, with other moneys held by AWS for other
+   clients";
+
+   but at the same time it was made clear that in providing those details privilege was not
+   waived in the instructions and the advice. The claimants will seek to establish that in
+   order to get that advice, the CAA was copied, and that copying was a further
+   infringement of copyright and of confidentiality rights. The advice that was obtained was
+   apparently passed on to Powerhouse; it is said that it was the subject of a confidentiality
+   agreement operating between the defendants and Powerhouse. The agreement is dated
+   Case 1:15-cv-07433-RWS Document 57-2 Filed 03/14/16 Page 6 of 30
+
+
+
+   15th March 2000 and is made between "Aon Warranty Group" and Powerhouse Retail
+   Ltd. The relevant clauses are as follows:
+
+   In consideration of AON making available to the Recipient [i.e. Powerhouse] certain
+   information, the Recipient hereby undertakes to AON in the terms set out below:
+
+   Confidential Information
+
+   For the purposes of this confidentiality agreement the expression Confidential
+   Information includes information available (whether before or after this confidentiality
+   agreement is agreed) in writing (including by fax) and other forms of electronic
+   transmission (including but not limited to information relating to clients data belonging to
+   AON, know-how, trade secrets and any other information concerning the Purpose and
+   also any information or analyses derived from, containing or reflecting such
+   information…
+
+   The recipient shall:
+
+   Keep the Confidential Information secret and confidential and not disclose any of it to
+   any person other than the persons who need to know the same for the purposes of
+   considering, evaluating, advising on or furthering the Purpose and whom the Recipient
+   shall procure are informed of the terms of this confidentiality agreement and observe the
+   terms of this confidentiality agreement as if they were party hereto;
+
+   Only use the Confidential Information for the sole purpose of considering, evaluating,
+   advising on or furthering the Purpose and, in particular, not for any other commercial
+   purpose;…
+
+   Keep the Confidential Information and any copies thereof secure and in such a way so as
+   to prevent unauthorised access by any third party, shall not make copies of it or reproduce
+   it in any form except for the purpose of supplying the same to those to whom disclosure
+   is permitted in accordance with this confidentiality agreement.
+
+   [There is a provision for the return of all written Confidential Information within 7 days
+   of termination of the agreement].
+
+   The Purpose is defined as being the wish of the group to "[launch] an offshore extended
+   warranty programme".
+
+6. In late February 2000, Mr Borrill of the claimants was told by Mr Turner of Powerhouse
+   that their bid was still too high, and on 1st March 2000 Mr Turner was able to negotiate a
+   drop in the price that the claimants had originally quoted for their scheme. This price
+   drop was bigger in amount than that negotiated at the end of the month. The case of the
+   claimants is that Mr Turner was only able to do this because of what he had been told by
+   the defendants; and the defendants were only able to say what they said by dint of their
+   legal advice; and they were only able to get that legal advice by infringing copyright in
+    Case 1:15-cv-07433-RWS Document 57-2 Filed 03/14/16 Page 7 of 30
+
+
+
+   the CAA, and breaking the confidentiality agreement. Since this earlier price drop is
+   greater than the later one, it is a more valuable part of the claimant's claim. The losses
+   flowing from this price drop are a material part of what the claimants seek in this action
+   as flowing from the wrongs alleged. Again, it is not for me to comment on the merits of
+   this chain of causation.
+7. It is in the context of that earlier part of the claim that the material which is the subject of
+   this part of the present application came into existence. I am not asked to rule on
+   relevance; both parties accept that the documents and material that I have to consider are
+   relevant. The question for me is whether it is privileged. The material, and the issues
+   relating to each part of it, can be summarised as follows:
+
+
+
+       a. There are documents or parts of documents where the documents have already
+          been disclosed by the defendants but in respect of which privilege is claimed in
+          whole or as to part. Where privilege is claimed as to the whole, the document has
+          not been produced for inspection. Where it has been claimed in part, the allegedly
+          privileged part has been obscured for the purposes of inspection. These
+          documents are e-mail or letter correspondence passing between one or more of the
+          defendants of the one part and Powerhouse of the other, one e-mail from the
+          Manx solicitors to the third defendant, and one e-mail from the third defendant to
+          the first defendant.
+       b. I am asked to strike out parts of certain witness statements which are said to refer
+          to privileged communications in a manner which makes it improper for the
+          witnesses to give evidence of that material. The witnesses are witnesses for the
+          claimants. One is Mr Turner, who at certain points in his evidence makes
+          reference to the legal advice which the defendants had told him they had received,
+          and at one point sets out the terms of an e-mail referring to it. The second and
+          third are Mr Borrill (a director of each of the claimant companies) and Mr Chan,
+          another director and also a Manx solicitor. The allegedly objectionable parts of
+          their witness statements are those containing what Mr Turner told them in the
+          negotiations leading up to the Powerhouse contract, and in which Mr Turner made
+          reference to the advice which the defendants had obtained on their (the
+          defendants') scheme. In Mr Chan's case objection is taken to a reference to legal
+          advice which, it is to be inferred, he heard about from Mr Turner and one
+          paragraph in an e-mail that he sent at the time which refers to the same sort of
+          thing.
+       c. I am asked to order the removal from the evidence of part of two Powerhouse
+          internal memoranda which Powerhouse has disclosed to the claimants and which
+          contain, among other things, a reference to the legal advice which had been
+          obtained in the Isle of Man. It is that reference which I am asked to order the
+          deletion of.
+       d. There was one document, a copy letter from LGH to Powerhouse (document 15),
+          in respect of which privilege was originally maintained, but which on reflection
+          was sought to be excluded from inspection on the grounds that further
+          consideration of the letter indicated that it was not relevant. The parties agreed
+   Case 1:15-cv-07433-RWS Document 57-2 Filed 03/14/16 Page 8 of 30
+
+
+
+          that that dispute would be resolved by my looking at the document and ruling on
+          the point. The claimants have not seen it, but were happy to adopt that expedient.
+       e. I am asked to strike out parts of the Particulars of Claim in the inquiry on the
+          footing that they are abusive because they refer to and rely on privileged material,
+          or can only be pleaded because the claimants are in possession of material which
+          has been obtained in infringement of the rights of the defendants.
+       f. I am asked to order that the defendants serve a formal list of documents in relation
+          to the inquiry.
+
+   The contentions of the parties
+
+8. Mr Monson, for the defendants, maintains that privilege exists in all the material that he
+   seeks to have excluded, and that it has not been waived. That being the case, the
+   documentary material containing privileged material ought to be excluded, with limited
+   exceptions. All the material fell within the proper definition of material that was the
+   subject of legal professional privilege. For the purposes of the exercise of analysis, and to
+   distinguish various types of material for the purposes of the debate, the written material
+   was divided into three categories or levels:
+       a. Level 1 – this was a reference which merely referred to the fact of getting
+           solicitors advice, without indicating the instructions, advice or even the subject
+           matter.
+       b. Level 2 – these were indications that advice had been obtained from solicitors,
+           and indicating its subject matter but not its content or the instructions given.
+       c. Level 3 – written advice, or written instructions, or paraphrases, summaries or
+           extracts from that advice.
+
+   Using this categorisation he was able to go through the redacted documents and explain
+   the basis, in respect of each, on which privilege was claimed. The same categorisation
+   was adopted for the purposes of considering the witness statement material and the
+   Powerhouse documents, but Mr Monson did abandon his claims to strike out the Level 1
+   and 2 material from those statements and documents, which narrowed the scope of the
+   debate (but not by much).
+
+9. The principal dispute between the parties was the extent to which the defendants could
+   claim privilege in relation to the substance of communications between the client (in
+   effect, the defendants) and a third party where what was communicated was, or referred
+   to, privileged advice given to the client. Mr Monson's case was that the advice started out
+   as privileged and it remained privileged notwithstanding its wider dissemination, as a
+   result of two strands of authority. The first is The Good Luck [1992] 2 Lloyds Rep 540,
+   which demonstrates that privileged material disseminated within the client company that
+   obtained it is capable of retaining its privilege, but he seeks to apply it to show that
+   privilege exists in documents communicated to a third party on the facts of this case. The
+   second is Gotha City v Southeby's [1998] 1 WLR 114. That case is said to demonstrate
+   that it is possible to disclose advice to an outsider without destroying or waiving the
+   privilege which attaches to it other than as between the privilege owner and the third
+   party. Those principles entitle the defendants to redact material which would otherwise
+   Case 1:15-cv-07433-RWS Document 57-2 Filed 03/14/16 Page 9 of 30
+
+
+
+    be disclosed. So far as restraining material which emanates from Powerhouse is
+    concerned (the Powerhouse documents, Mr Turner's evidence and evidence from USP
+    witnesses as to what Mr Turner told them at the time about legal advice) Mr Monson says
+    that the defendants are entitled to restrain that on the footing that the material was and
+    remained privileged, and its use ought to be restrained on principles to be gleaned from
+    Lord Ashburton v Pape [1913] 2 Ch 469 and Goddard v Nationwide Building Society
+    [1987] QB 670. This applies whether or not Mr Turner, Mr Chan or Mr Borrill is giving
+    evidence of it, or whether it is in documents revealed voluntarily by Powerhouse. So far
+    as the Particulars of Claim go, the claim which attempts to base itself on this material
+    must similarly be struck out as an abuse of the process.
+10. Mr Watson QC, for the claimants, comes at this from a slightly different angle. He
+    obviously starts by accepting that there is privilege in the original advice from the Manx
+    lawyers. He also accepts that it remains privileged while being passed within the client
+    company, and he accepted that there would be common interest privilege where the
+    advice was shared between the defendants. (This last concession makes it unnecessary for
+    me to distinguish between the various defendants and enables me to treat the defendants
+    as if they were one body for the purposes of considering the issues I have to decide).
+    However, with the exception of a passing on of the advice verbatim and in whole, which
+    he accepts remains privileged, he says that passing on summaries or parts of the advice to
+    a third party does not amount to a privileged communication. This is because those
+    communications do not fall within what he says are the requisite elements of privileged
+    communications (which he extracts from the decision of Moore-Bick J in United States of
+    America v Philip Morris & others, unreported, 10th December 2003) because:
+         a. They are not communications passing between lawyer and client – they are
+             communications passing between client and a third party.
+         b. They are not confidential, on the facts of this case. This means that the
+             communications were not privileged, and if privilege might otherwise attach it has
+             been waived.
+         c. They were not for the dominant purpose of obtaining or giving legal advice – the
+             legal advice was conveyed as part of a sales pitch.
+11. Mr Watson goes on to submit that so far as Level 1 and Level 2 communications are
+    concerned, they do not even contain a sufficient reference to advice to get a privilege case
+    off the ground, and in any event there has been waiver of privilege because of material
+    already deployed by the defendants in this litigation. Gotha is irrelevant, he says, because
+    it is a case about waiver, and the question of whether a communication is privileged has
+    to be answered first. So far as restraining the use of information that has already been
+    obtained is concerned, he says that the principles to be extracted from Goddard and Lord
+    Ashburton do not apply so as to restrain officers of the claimants giving evidence of what
+    they were told in negotiations by Mr Turner, and Mr Turner should not be constrained
+    from giving the evidence sought because his communications did not infringe any
+    confidentiality rights of the defendants. He has various particular points on the wording
+    which is sought to be excluded and in addition says that even if some of the material
+    would otherwise be within an unwaived privilege, I should exercise my discretion not to
+    strike it out, or otherwise restrain witnesses from giving evidence, because the defendants
+    are using privilege to cover up wrong-doing (a sort of "clean hands" point), the claimants
+   Case 1:15-cv-07433-RWS Document 57-2 Filed 03/14/16 Page 10 of 30
+
+
+
+    were innocent recipients of the information from Powerhouse and there has been delay on
+    the part of the defendants in making their application.
+12. In relation to this last point Mr Watson relies on an e-mail which has already, as a matter
+    of form, already appeared in evidence in this case. He relies on this as showing not only
+    that the defendants were or ought to have been aware of disclosures by Mr Turner as long
+    ago as August 2001, when it was disclosed in this action as part of the disclosure process,
+    but also in support of a proposition that much if not all of the position that the defendants
+    seek to protect has been put in the public domain by the previous (and current) use of that
+    e-mail. I need to set out this material.
+13. On 6th March 2000 Mr Chan, who it will be remembered is a director of the Claimant
+    companies, wrote to Mr Turner in the course of his negotiations. Apparently, Mr Turner
+    had asked for a copy of the Claimants' collection account agreement for the purpose of
+    comparing it with the scheme proposed by the AON Group. He declined to supply it. The
+    email observes that at that stage Mr Chan suspected that the Defendants had used "a draft
+    prepared from our precedent". The sentence relied on by Mr Watson is a paragraph which
+    reads as follows:
+
+   "The solution promoted to you by AON and their advisors is that a Collections Account
+   Agreement (sic) in the form of a trust will attain this and that therefore they have
+   demonstrated the robustness required of them."
+
+   (This, I would observe, is the passage that the defendants seek to have removed from the
+   evidence, as referred to above. It will appear below that I am against redacting this
+   material, so I am free to set it out in this judgment.) This email was annexed to a witness
+   statement used by Mr Chan at the trial on liability. Mr Watson says that this email points
+   to the fact that Mr Turner was saying things about legal advice, and that accordingly the
+   Defendants have been aware of his disclosures, or the possibility of his disclosures, ever
+   since the discovery process. So far as publicity is concerned, Mr Watson also relies on
+   this email as demonstrating that the present position which the Claimants rely on in their
+   particulars of claim is already in the public domain because the judge will be taken to
+   have read this material at the trial, and it was formally part of Mr Chan's evidence on that
+   occasion, although it does not appear that any specific reference was made to it at the
+   trial. I shall deal with the significance, if any, of this email below.
+
+   The legal principles involved
+
+14. One doctrine can be put on one side for the purposes of this judgment, and that is the
+    doctrine of common interest privilege. I have already indicated that Mr Watson for his
+    part accepted that common interest privilege existed as between the three defendant
+    companies, so that communications of advice between the three of them attracted this
+    form of privilege. Mr Monson for his part accepted that the doctrine did not operate as
+    between the defendants on the one hand and Powerhouse on the other, because one of the
+    tests which have to be fulfilled in order for joint privilege to exist is that the parties in
+    question have to be capable of acting by the same solicitor in the matter in question,
+    which requirement could not be fulfilled in the case of the defendants and Powerhouse.
+   Case 1:15-cv-07433-RWS Document 57-2 Filed 03/14/16 Page 11 of 30
+
+
+
+15. It is therefore necessary to consider the extent to which privilege is maintained in
+    material which is communicated to a third party by the client, which is the issue lying at
+    the heart of these applications. This involves considering whether the communication was
+    capable of being privileged, and if so whether the privilege has been waived.
+16. Mr Watson's submissions rely heavily on the effect of the Court of Appeal decision in
+    Three Rivers District Council v The Governor & The Company of the Bank of England
+    (no 7) [2003] EWCA Civ 474. He claims that that authority confines privilege to
+    communications between solicitor and client, or vice versa. Communications with a third
+    party fall outside that, because they do not fall within the description of communications
+    between solicitor and client. While the case allows evidence of the contents of
+    communications to attract privilege, that is limited to internal communications
+    disseminating the information in question. Since the communication of advice to
+    Powerhouse was not a solicitor/client communication, it cannot be privileged.
+17. I do not think that that is a correct application or analysis of the Three Rivers case. That
+    case concerned not advice given by the solicitors, but preparations for the giving of
+    instructions which were to lead to advice. In that context it was held that information
+    gathered for that purpose was not within the privilege, because only communications
+    were. But before too much is read into that, it must be born in mind that it concerns
+    instructions, not advice. The Court of Appeal in that case did not have before it the extent
+    to which the product of those instructions (the advice) was or was not communicated and
+    what might happen to it thereafter, and care must be taken before taking the concept of
+    "communication" too literally for these purposes.
+18. In my view, a correct reading of the case indicates that it does not support Mr Watson's
+    proposition, and that reading is consistent with authority preceding Three Rivers. In
+    paragraph 19 of his judgment Longmore LJ stated that "By the end of the nineteenth
+    century it was, therefore, clear that legal advice privilege … [applied] only to
+    communications passing between [the] client and his solicitor (whether or not through
+    any intermediary) and documents evidencing such communications" (my emphasis). A
+    document evidencing the communication cannot be the communication itself, so
+    Longmore LJ's formulation goes beyond the communication itself. Again, at paragraph
+    21 he concludes that the 19th century authorities allowed privilege to "documents …
+    passing between the client and his legal advisers and evidence of the contents of such
+    communications", (again, my emphasis) and went on to apply that principle. Again,
+    therefore, records of communications were privileged. If emphasis be needed, it can be
+    seen in the form of order made by the Court of Appeal, which is set out in a judgment of
+    Tomlinson J in a later hearing in the same case ([2003] EWHC 2565 (Comm)) – the
+    declaration as to privilege encompassed:
+
+   "(1) Communications passing between the Bank and its legal advisers (including any
+   solicitor seconded to the Bank) for the purposes of seeking or obtaining legal advice;
+
+   (2) Any part of a document which evidences the substance of such a communication."
+
+19. That extended formulation would be capable of catching a number of things beyond the
+    actual communication (oral or written) between solicitor and client, when applied to
+    advice rather than instructions, all of which would be consistent with the policy
+Case 1:15-cv-07433-RWS Document 57-2 Filed 03/14/16 Page 12 of 30
+
+
+
+underlying privilege and with a common sense application of that policy to the
+practicalities of everyday commercial life.
+   a. First, it obviously applies to a letter of legal advice, or a letter containing legal
+        advice.
+   b. Second, it would cover the client's own written record of what his solicitor had
+        told him orally. There is every reason why it should.
+   c. Third, it would cover the situation where a client representative who obtains the
+        advice passes that advice internally in the organisation in question. This would
+        apply whether the advice is passed on verbatim or whether it is summarised or
+        extracted. This is in line with The Good Luck, referred to above. In that case the
+        relevant issue was whether or not breaches of duty by insurers were causative of a
+        bank lending money to the owners of a vessel. The bank obtained some legal
+        advice, and parts of the advice were disseminated internally so that the bank could
+        decide whether to lend the money. It was submitted that the advice so extracted
+        was not privileged because "such documents cannot be described (using the words
+        of Lord Justice Taylor in Balabel v Air India) as part of that necessary exchange
+        of information of which the object is the giving of legal advice as and when
+        appropriate nor (again using the words of the Lord Justice) as documents made
+        confidentially for the purposes of legal advice …". That argument looks rather
+        like an argument that only solicitor/client communications strictly so called can
+        be privileged. Saville J rejected that argument. First, he pointed out that if the
+        argument were right then in a great number of commercial cases the ability of a
+        client to get legal advice in confidence (which underlay the doctrine of privilege)
+        would be destroyed. He saw "no good reason or valid reason for the suggestion
+        that the confidence which it is accepted attaches to the lawyer client
+        communication itself, should somehow be lost once the advice is put to the
+        commercial use for which it was sought in the first place". After pointing out that
+        the logic of the argument he was rejecting would allow cross-examination of the
+        officers of the client company about privileged advice, which would be a strange
+        conclusion, he ended this section in his judgment by saying:
+
+       "[The argument] is, in truth, based on the false premise that that which is
+       communicated ceases to be a communication and thus loses the privilege
+       attaching to lawyer-client communications."
+
+       This last sentence is, perhaps (and with all due respect) a little dense. In The
+       Sagheera [1997] 1 Lloyds Rep 160 at p 169 Rix J wondered whether it should not
+       be understood in the sense "the false premise that that which is communicated
+       internally ceases to be confidential" (his emphasis). Without wishing to pore over
+       the sentence as if it were a statute, I think that it probably has a different meaning.
+       I take it to mean that a record of a privileged communication has the same sort of
+       quality as the communication itself for the purposes of privilege. In a literal sense
+       a communication ceases to be that once it is communicated; but the law of
+       privilege is not so blinkered as to regard privilege as attaching just to that event
+       and to nothing else whatsoever. For privilege purposes a record of a
+       communication is the same as the communication itself, and that is as true of
+Case 1:15-cv-07433-RWS Document 57-2 Filed 03/14/16 Page 13 of 30
+
+
+
+      summaries as of the verbatim original communication. That, I think, is what
+      Savile J is saying. That formulation and reasoning recognises that something
+      beyond the initial communication itself, strictly so called, is and should be within
+      the privilege. It remains good law after Three Rivers, and is consistent with it.
+
+   d. It would continue to cover cases such as Gotha City and the examples discussed
+      in that case. In Gotha City, the apparent owner of a picture wished to sell it
+      through Sothebys. It took advice from Messrs Herbert Smith (presumably relating
+      to the sale, though the report does not say so) and sent a copy of the letter of
+      advice to Sotheby's. Sotheby's also sat in on a meeting between the seller and
+      Herbert Smith in respect of which an attendance note was produced. The plaintiff,
+      who claimed to own the picture, sought inspection of the letter and attendance
+      note. The argument was, in effect, about waiver of privilege, and it was held on
+      the facts that there was no waiver. I shall return to that in the context of the
+      present case. For the moment it should be noted that privilege was assumed to
+      exist in both documents; it was not argued that the copy letter sent to Sotheby's
+      was not a privileged communication. If Mr Watson's argument were correct then
+      logically it ought not to be, subject to his distinction between verbatim content
+      (privileged) and summarising content (not privileged); yet the argument did not
+      occur to anyone in that case. In fact, it is quite clear that Staughton LJ had no
+      difficulty with the concept of preserving privilege in privileged advice
+      notwithstanding that it was communicated by the client to the third party, because
+      at page 119 he cited, obviously with approval, a passage from Style & Hollander
+      on Documentary Evidence:
+
+      "If A shows a privileged document to his six best friends, he will not be able to
+      assert privilege if one of the friends sues him because the document is not
+      confidential as between him and the friend. But the fact six other people have
+      seen it does not prevent him claiming privilege as against the rest of the world."
+
+      I think that it follows from that that A would be able to restrain each of the friends
+      from disclosing to the outside world what they were told on the basis that it
+      remained privileged. The friends could not give secondary evidence of the
+      privileged material – it would be "evidence of [privileged] communications", or
+      their evidence would be "evidencing such communications" within the
+      formulation in Three Rivers. By the same token, if a client summarises or extracts
+      advice in a letter to a third party, that written communication is capable of
+      retaining or attracting the privilege which attached to the original advice, subject
+      to waiver. It, too, is something which evidences a privileged communication.
+
+
+
+   e. This analysis gives rise to a regime which maintains intellectual consistency and
+      maintains the policy underlying privilege, which is that a man is entitled to make
+      a clean breast of matters to his lawyers without fear of disclosure, a policy which
+      covers both the giving of instructions and the receiving of advice. It means that a
+   Case 1:15-cv-07433-RWS Document 57-2 Filed 03/14/16 Page 14 of 30
+
+
+
+             client can reproduce the advice for his own purposes without necessarily risking
+             that reproduction not being privileged, which in my view is essential to the
+             sensible operation of the doctrine. It also means that he can discuss the advice
+             with others without necessarily risking the same thing. A client may well wish to
+             discuss advice received with a partner, or with another adviser, or (as in Gotha
+             City) with a contractual counterparty who might be affected. The effect of
+             privilege would be seriously dented if those communications were held to be not
+             privileged so that, if evidence of them could be obtained, an insight as to the
+             advice would become available. That is not a sensible result.
+20. The position therefore seems to me to be as follows. Where privileged advice is disclosed
+    to a third party the privilege is capable of attaching to the third party communication
+    because that communication is evidence of the privileged advice within the formulation
+    in Three Rivers. It does not matter whether that third party communication is of the whole
+    of the advice (like the letter in Herbert Smith) or a paraphrase of or extract from the
+    advice. To be fair to Mr Watson, he conceded that privilege would be maintained in
+    relation to actual full copies of written advice obtained, so that in the present case he did
+    not press for inspection of one document, or part of a document, which (on the evidence)
+    is a straight reproduction, or forwarding, of the Manx legal advice verbatim. However, he
+    sought to distinguish between the complete advice and summaries, extracts or
+    paraphrases. Those, he said, were not privileged. The only justifications he was able to
+    advance for this distinction were first that the paraphrases were not the original
+    communication, and second that there was a potential for inaccuracy in any summary or
+    paraphrase. Any inaccurate summary would not be the original advice. These
+    submissions are not convincing. If it is right that the original verbatim advice remains
+    privileged, then it is illogical to exclude paraphrases or parts of it. If 100% is privileged,
+    then would communicating 99% of it remain privileged? – it is hard to see why not. But
+    if that is right, then why not 90%, or 75%, or 50%? There is no reason to draw a line
+    anywhere, and every reason not to. Mr Watson's demarcation would also, in practice,
+    mean that any passing on of oral advice would be likely to be unprivileged, because it is
+    most unlikely that it would be passed on in whole and verbatim. That, again, is an
+    unmeritorious distinction. The proper analysis, consistent with Three Rivers, is to
+    continue to afford privilege to material which evidences or reveals the substance of legal
+    advice (subject, of course, to waiver). The possibility of inaccuracy is not a reason for
+    departing from this principle. If the passed on "advice" were so inaccurate that it could no
+    longer be properly described as a summary of the advice, then it might be that that
+    communication would not be privileged (though even then it might attract privilege if it
+    tended to reveal instructions given, which it might well), but there is no suggestion that
+    that is the case here and I need not consider it further. Short of that, I do not see why
+    some degree of inaccuracy, even if it exists, should necessarily destroy the privilege; so
+    there is all the more reason for saying that the possibility of inaccuracy should not
+    destroy the privilege which would otherwise exist in paraphrases or summaries.
+21. This means that the subsistence or otherwise of privilege, where advice is communicated
+    to a third party, turns on the extent to which there is a waiver of privilege on that
+    occasion. Gotha City demonstrates that it is not inevitable that there is a waiver in those
+    circumstances. In that case it was held that the receipt of the advice by Sotheby's was
+    attended by a degree of confidentiality which meant that, while there was waiver as
+   Case 1:15-cv-07433-RWS Document 57-2 Filed 03/14/16 Page 15 of 30
+
+
+
+    between the owner and Sotheby's, there was no waiver vis-à-vis the outside world. The
+    question in the present case, therefore, is whether and to what extent there was a waiver. I
+    consider the application of these principles to the facts of this case below.
+22. In these proceedings the question was raised whether the Level 1 and Level 2 references
+    were capable of being privileged. This raises (in theory) the question of whether, after
+    Three Rivers and its emphasis on privilege attaching only to communications, there can
+    be privilege attaching to evidence of the fact of instructing solicitors or getting advice
+    from them (Level 1), or to evidence of the fact of instructing solicitors and getting advice
+    on a particular subject (Level 2) because those facts are not communications or evidence
+    of communications. I do not propose to consider this as a matter of principle, because on
+    the facts of this case there has been a plain waiver even if there was privilege.
+23. The next question of law which arises is the extent to which a party entitled to an
+    unwaived privilege is entitled to restrain those in possession of the information from
+    disclosing it or otherwise making use of it. It arises in this case if and insofar as Mr
+    Turner received privileged information in confidence and then disclosed it to
+    representatives of the claimants, if and insofar as Powerhouse has disclosed documents
+    which contain unwaived privileged material. It is accepted by both sides that this material
+    contains some Level 3 documents, though they do not always entirely agree as to which
+    pieces of evidence fall into that category.
+24. There is not much disagreement between the parties as to the principles applicable in this
+    area, although there is serious disagreement as to how they should be applied. It is
+    sufficient for these purposes to refer to only two authorities. The first is Goddard v
+    Nationwide Building Society [1987] Q.B. 670. In that case the Court of Appeal was asked
+    to consider whether or not to restrain the use of a note, containing privileged information,
+    which a solicitor, who had at one stage been acting for both the plaintiff and defendant,
+    had passed to the defendant. Privilege in the material contained in the note was held to
+    belong to the Plaintiff. Having determined that, the Court of Appeal granted relief
+    restraining use of the material contained in that note, which relief included striking out
+    allegations in the pleading which were based on that note, an injunction restraining the
+    Defendant from relying upon the note and orders for delivery up of all copies. In his
+    leading judgment May L.J. considered the case of Lord Ashburton v Pape [1913] 2 Ch.
+    469 and another authority, and pronounced the following proposition (at page 683):
+
+   "If a litigant has in his possession copies of documents to which legal professional
+   privilege attaches he may nevertheless use such copies as secondary evidence in his
+   litigation: however, if he has not yet used the documents in that way, the mere fact that he
+   intends to do so is no answer to a claim against him by the person in whom the privilege
+   is vested for delivery up of the copies or to restrain them from disclosing or making any
+   use of any information contained in them."
+
+   His citation of authority indicates, I think, that he considered that he would normally
+   expect the restraint to be ordered. That last point is rather clearer in the judgment or
+   Nourse L.J. He made the following points, relevant to this application:
+   Case 1:15-cv-07433-RWS Document 57-2 Filed 03/14/16 Page 16 of 30
+
+
+
+   "The crucial point is that the party who desires the protection must seek it before the
+   other party has adduced the confidential communication in evidence or otherwise relied
+   on it at trial.
+
+   "… Although the equitable jurisdiction [that is to say, the jurisdiction to restrain the
+   misuse of confidential information] is of much wider application, I have little doubt that
+   it can prevail over the rule of evidence [viz the rule of evidence which allows secondary
+   evidence to be given of primary material where the latter is privileged] only in cases
+   where privilege can be claimed …
+
+   "Once it is established that a case is governed by Lord Ashburton v Pape, there is no
+   discretion in the court to refuse to exercise the equitable jurisdiction according to its view
+   of materiality of the communication, the justice of admitting or excluding it or the like.
+   The injunction is granted in aid of privilege which, unless and until it is waived, is
+   absolute. In saying this I do not intend to suggest that there may not be cases where an
+   injunction can properly be refused on general principles affecting the grant of a discretion
+   remedy, for example on the ground of inordinate delay."
+
+25. From this it is clear that not only does the court have jurisdiction to grant appropriate
+    relief to prevent reliance upon privileged material where privilege has not been waived,
+    the starting point is that one would expect that relief to be granted. That was certainly the
+    view of Lawrence Collins J in the second relevant authority, ISTIL Group Inc. v Zahoor
+    [2003] 2 All E.R. 252. At paragraph 91 of that judgment (at page 273) he observed that
+    "in such cases the court should 'ordinarily' intervene". The court is "not concerned with
+    weighing the materiality of the document and the justice of admitting it". (Paragraph 92).
+    He went on to say this:
+
+   "93 Fifth, there is nothing in the authorities which would prevent the application of the
+   rule that confidentiality is subject to the public interest. In this context, the emergence of
+   the truth is not of itself of sufficient public interest. The reason why the balancing
+   exercise is not appropriate is because the balance between privilege and truth has already
+   been struck in favour of the former by the establishment of the rules concerning legal
+   professional privilege.
+
+
+
+   "94 Sixth, other public interest factors may still apply. So there is no reason in principle
+   why the court should not apply the rule that the court will not restrain publication of
+   material in relation to misconduct of such a nature that it ought in the public interest to be
+   disclosed to others… there is no confidence as to the disclosure of iniquity. But the
+   defence of public interest is not limited to iniquity."
+
+   He went on to hold that on the facts of his particular case, the public interest in the proper
+   administration of justice meant that equitable relief, which would otherwise be granted to
+   preserve the confidentiality in the privilege material, should not be granted. The facts of
+   Case 1:15-cv-07433-RWS Document 57-2 Filed 03/14/16 Page 17 of 30
+
+
+
+   that case were very strong. They involved a clear forgery, and the apparent possibility of
+   the court actually being misled by the proposed evidence.
+
+26. I therefore approach this point on the footing that the normal starting point would be for
+    appropriate relief to be granted to restrain the use of privileged material. So far as I have
+    a discretion to do otherwise, it is not to be exercised merely on the footing that if I do not
+    exercise it, the truth is more likely to come out. There must be some other factors, such as
+    delay, acquiescence or other equitable defences which must be sufficiently strong to
+    override the normal, very strong principle, that privileged communications are protected
+    from disclosure. I shall consider the application of these principles to the facts of the case
+    before me in a separate section of this judgment below.
+
+   The application of the law to the facts
+
+27. It follows from the above that, subject to waiver, communications by the Defendants to
+    Powerhouse which contain or refer to the content of legal advice are capable of being
+    privileged. This includes Level 3 communications. Whether or not it includes Level 1 and
+    Level 2 communications I do not have to decide, because on any footing there has been a
+    waiver of such privilege as might otherwise have existed in those references. At the trial
+    on liability Mr Mian gave evidence. That evidence included his dealings with Mr Turner
+    of Powerhouse. Having referred to the opening stages of the negotiation, when Mr Mian
+    was trying to convince Mr Turner that he had an appealing scheme, he then said the
+    following:
+
+   "13 Stuart Turner wanted confirmation of a protected trust account. At this stage I sought
+   advice from our lawyers and then passed on this advice to Stuart. This was in late
+   February 2000. I wish to make it clear that I am not waiving the privilege that attaches
+   these communications."
+
+28. Since that is a clear indication both that solicitors were instructed and as to the subject
+    matter of the instructions, I do not see how it can conceivably be argued that similar
+    references, containing the same information, in documents or otherwise can have
+    maintained any privilege if, indeed, it ever had any. To the same effect is the extract from
+    the letter from Mr de Freitas, which I have quoted from above. I expect that both those
+    references occurred because it never occurred to the Defendant that, in the context of this
+    case, the fact that legal advice was obtained on this transaction was, in itself, in the least
+    bit confidential. If that were right then it would mean that documents containing a
+    reference to such limited matters would not have the necessary confidentiality to attract
+    privilege in the first place, and my first instinct is that such references would not in any
+    event, as a matter of principle, be privileged. However, as I have indicated above, I do
+    not need to decide that in this case. I can and do deal with the point as a matter of waiver.
+    In fairness to Mr Monson, I should record that he did not press privilege in relation to
+    these matters particularly strongly. His main concern was that leaving them in the
+    documents might amount to a waiver.
+29. That leaves the level 3 communications. These are communications which somehow
+    reveal the content of the advice that was obtained. Despite the fact this was contained in
+   Case 1:15-cv-07433-RWS Document 57-2 Filed 03/14/16 Page 18 of 30
+
+
+
+    communications with a third party (Powerhouse), on the reasoning set out above, and
+    unless waived, that privilege can be maintained. The question therefore arises whether or
+    not there was a waiver when the material was conveyed to Powerhouse, and in particular
+    to Mr Turner. The Gotha City case demonstrates that privileged matters can be conveyed
+    to a third party in circumstances which limit the extent of the waiver. I consider that that
+    was the case here. I have already set out the terms of the confidentiality agreement which
+    operated between the Defendants and Powerhouse. Mr Watson submitted that it did not
+    apply to legal advice, but only to such matters as know-how and trade secrets. I do not
+    think that that submission is right. The expression "Confidential Information" is not
+    defined in the agreement – the wording says what the expression includes but not what it
+    means. That being the case, I have to consider what the expression actually does mean,
+    particularly in its context. The very use of the word "confidential" connotes information
+    with a degree of confidentiality, and it seems to me that legal advice is something that is
+    likely to fall fairly and squarely within that concept. On 16th September 2003 Mr Turner
+    signed a witness statement in which he conceded that the Defendants had asked him to
+    keep the actual advice received from the lawyers, and forwarded to him, confidential.
+    Indeed, confidentiality in the actual advice is in effect conceded by Mr Watson, although
+    not in terms, when he concedes that he is not entitled to see the verbatim version of the
+    advice which was forwarded to Powerhouse. In his witness statement Mr Turner states
+    that he did not consider that more general statements as to the nature or the effect of the
+    advice (the nature of which I had seen in some of the material that I am invited to strike
+    out of witness statements) was confidential, but in my view he is wrong about that. It
+    follows, then, that the advice retained its privileged character and any waiver of privilege
+    was limited to Powerhouse, and the use to which it could be put was limited by the terms
+    of the confidentiality agreement. The terms of that agreement permit only a very limited
+    use. Accordingly, conveying the lawyers' advice to Mr Turner and Powerhouse, under
+    those terms of confidentiality, did not destroy the confidential nature of the advice, and
+    therefore any waiver of privilege was limited to Powerhouse and was not general.
+30. Those conclusions can be summarised in relation to the redactions which have been made
+    in the Defendants' disclosed documents is as follows:
+
+   (a) References to the mere obtaining of legal advice are not privileged.
+
+   (b) References to the obtaining of legal advice on a given subject matter are not
+   privileged.
+
+   (c) Level 3 references, which evidence the content of that advice, are prima facie
+   privileged.
+
+31. I add one small point which arises in another context in this case and which may or may
+    not arise in relation to the redacted material. The Defendants have shown some sensitivity
+    as to the identification of the lawyers concerned. Some of the documents which I have to
+    come on to consider later on in this judgment actually identify the Manx lawyers. In the
+    light of the conclusion that I have come to in relation to Levels 1 and 2, I do not think
+    that the identity of the lawyers involved is capable of attracting privilege either.
+   Case 1:15-cv-07433-RWS Document 57-2 Filed 03/14/16 Page 19 of 30
+
+
+
+32. That brings me to the material which the Defendants wish to have struck out of the
+    documents voluntarily disclosed by Powerhouse, and various witness statements. I will
+    take the witness statement material first.
+33. Some of the disputed material is no longer in issue in the light of Mr Monson's
+    concession that he does not seek to strike out Level 1 and Level 2 material from the
+    witness statements. That leaves it for me to consider what to do about what is said to be
+    Level 3 material. So far as there is any such reference, this is made in two ways. First,
+    there is a witness statement from Mr Turner in which he describes what he obtained from
+    the AON Group in the course of the negotiations, which is said to include some Level 3
+    material; and second there is some material in witness statements of Mr Borrill and Mr
+    Chan in which they reproduce what Mr Turner told them at the time of the negotiations,
+    which is itself said to include some Level 3 disclosure. What is said by Mr Monson on
+    behalf of the Defendants is that Mr Turner was not entitled to disclose the advice of the
+    Manx lawyers to the Plaintiffs' negotiators, and it remained privileged and confidential.
+    Privilege has not been waived, and in accordance with the "ordinary course" relief should
+    be granted to make sure that that material is not deployed. He has applied in time.
+34. To this analysis Mr Watson had a number of ripostes. They were (although not in the
+    same order as he advanced them) as follows:
+        a. On the facts, Mr Turner was at liberty to disclose what was disclosed to him
+            within what was allowed to him by the confidentiality agreement. This
+            distinguishes the present case from the other authorities where the disclosee was
+            not similarly at liberty. I do not agree with this. Since it was confidential, he was
+            not at liberty to disclose it – see above.
+        b. The blatant aim of the Defendants in seeking to have parts of the witness
+            statements excised and to have the witness barred from giving evidence of the
+            excised contents was to hide a wrongdoing, so the discretion of the court should
+            not be exercised in favour of the Defendants. Again, I think this begs the question.
+            Whether or not there was a wrongdoing at the end of February 2000 is precisely
+            the question the court will have to decide on the enquiry. Even in a case where the
+            sole evidence of wrongdoing is in a privileged communication, that does not
+            justify the court in exercising its discretion against the invocation of the privilege.
+            By and large, a party can only prove what he or she can prove without the aid of
+            the other side's privileged material.
+        c. So far as the evidence of the Claimants' own officers is concerned they wish to
+            give evidence of material that came into their possession without any wrongdoing
+            on their part. That, said Mr Watson, is a reason for not restraining their use of that
+            information. However, I do not think that that is a determining, or even a strong,
+            factor. The converse may well be true – wrongdoing on the part of the recipient
+            may strengthen a claim for relief - but it does not follow that the absence of
+            wrongdoing means that an injunction should not be granted. I note that in
+            Goddard there was no suggestion that the Defendant was guilty of wrongdoing in
+            obtaining the privileged information from the solicitor. The solicitor was, of
+            course, technically guilty of breaching the Plaintiff's confidentiality, but by the
+            same token, on the facts of this case, so was Mr Turner.
+        d. If the Level 3 material, such as it is, were excised from the witness statements of
+            Mr Borrill and Mr Chan, then they would not be able to give full and frank
+Case 1:15-cv-07433-RWS Document 57-2 Filed 03/14/16 Page 20 of 30
+
+
+
+      evidence of what had actually happened and what their motivation was. Their
+      evidence will be that they received certain information and encouragement from
+      Mr Turner and they adjusted their conduct accordingly. If they are not allowed to
+      give their full evidence then their evidence will have an air of artificiality about it,
+      or even potentially a misleading quality. I am rather more troubled about this.
+      They did what they did, and they relied on what they relied on. To prevent them
+      from telling the court what they actually relied on in reaching their conclusions as
+      to pricing, when that is an issue which lies at that heart of the enquiry as to
+      damages, would be a very strong thing. However, I think that the answer to this
+      problem may be a practical one. I do not consider that their case will be harmed if
+      they are allowed to give evidence (which it seems to me they must be) that they
+      relied on what they had been told about the advice given by the Manx lawyers
+      without actually identifying precisely what it was that they were told. What lies at
+      the heart of the causation question on this part of the enquiry is not the advice
+      given by Manx lawyers but whether or not an infringing copy of the CAA had
+      been made. That is a different, though related, question. I do not think that the
+      proper conduct of the enquiry will be effected if the evidence were limited in that
+      way; it is not necessary for them to go further and state what the advice was, and
+      on my findings they are not entitled to anyway. It not infrequently happens in a
+      trial that a witness states that "as a result of the legal advice received, I did X",
+      and it is well understood that in those circumstances the witness does not have to
+      give evidence of what the advice was. This is therefore not a reason for departing
+      from the normal course. On the facts of this particular case, if the Defendants
+      were in fact to challenge that sort of evidence as to causation, then they might
+      well risk the fact that the witness would be able to justify the statement by
+      amplifying what he had understood the advice received by the Defendants to have
+      been, but that is a risk for the Defendants to assess, and whether or not the matter
+      is opened up would be a matter for the Master at the enquiry.
+   e. Next Mr Watson submitted that since privilege was waived vis-à-vis Mr Turner,
+      even if it was not waived vis-à-vis the rest of the world, Mr Turner was free to use
+      the rest of the information disclosed to him in legal proceedings. I am not sure
+      that Mr Watson was prepared to press this submission very strongly, but in any
+      event it is wrong. The use to which Mr Turner was entitled to put the privileged
+      material was governed by the Confidentiality Agreement, and, as the extracts set
+      out above demonstrate, that use was strictly limited. It did not include disclosing
+      legal advice to competitors, whether for use as a bargaining counter or not.
+   f. Next, Mr Watson said that in effect the material had been deployed, so it was too
+      late to be prevent its further deployment – see Goddard. The privileged material
+      had already been deployed because of the Chan e-mail referred to above, so the
+      defendants are too late. Since this email was part of the documentation at the trial,
+      and should be taken to have been read by the trial judge (even though no one says
+      that it played any material part in the trial), the matter has already been given a
+      form of publicity which means it has been deployed, so it is too late to prevent
+      evidence of other disclosures of the same sort of material. Related to this is a
+      laches point. He says that the fact that Mr Turner had made disclosures of the
+      advice given would have been apparent to the Defendants on disclosure in the
+   Case 1:15-cv-07433-RWS Document 57-2 Filed 03/14/16 Page 21 of 30
+
+
+
+           main action, which took place on 24th August 2001 when the defendants would
+           have seen the Chan e-mail. Its wording, it will be remembered, contained the
+           following paragraph.
+
+   "The solution promoted to you by AON and their advisors is that a Collections Account
+   Agreement [sic] in the form of a trust will attain this and that therefore they will have
+   demonstrated the robustness required of them. You are now seeking counsels advice on
+   the proposed trust."
+
+   This, says Mr Watson, should have alerted the Defendants to the fact that the Claimants
+   had found out that legal advice had been obtained on the Defendants proposed
+   transactions, and I infer that Mr Watson would say that they should have inferred that Mr
+   Turner was the source of this information. They should therefore have inferred at that
+   stage that privilege information had been crossing the divide; and since about two years
+   elapsed before the Defendants took any point on the alleged wrongful disclosure of
+   privileged information, it was by then too late for them to do so. Mr Monson's response
+   to this is that in the context of the claim made at the trial, when there was no suggestion
+   that a claim of infringement of copyright was being made as early as the end of February,
+   this passage had no great significance. He also said that the oral evidence of Mr Borrill at
+   the trial as to the infringement of copyright contained no suggestion that the relevant date
+   was being put as early as this. Since the email did not actually figure at the trial, and even
+   though it was in trial bundles, that did not mean that the whole question of the legal
+   advice given at the time had been sufficiently aired in public so as to amount to
+   deployment of the material and so as to make it wrong to restrain its further being aired
+   now. Since the point now in issue was not then in play, it is not surprising that the
+   significance of this email passage was overlooked, and the fact that it was overlooked
+   should now not be held against the Defendants now that the focus of the case had shifted,
+   or a little more precisely now that the case had acquired a second point of focus to which
+   it had become relevant. In my view Mr Monson is right. I do not think that this single
+   sentence, in the circumstances, amounts to deployment of the other material. It does not
+   amount to an airing of the other privileged material, so it does not give it a relevant
+   degree of publicity to mean that the defendants are now too late. So far as laches is
+   concerned, in the light of the absence of any significance of that piece of evidence at the
+   trial, and in the light of the fact that the pre-1st March infringement claim only came after
+   the trial, I think it would be unfair on the Defendants to say that they are too late because
+   the material has been deployed, and that in general laches terms they should have taken
+   the point (so far as they have one) any earlier than they did.
+
+35. My conclusion on this point is that, if there is Level 3 material relating to privileged
+    matter, then there are no factors of any real weight which would lead me to take anything
+    other than the ordinary course which is to exclude such matter. I therefore have to go on
+    to consider how much of the material falls into that category. In this context, I shall take
+    the various passages which the Defendants say infringe their privilege in turn. Where I
+    come to the conclusion that a matter is revealed in breach of privilege, I will not actually
+    set out the material.
+               i. Borrill Fourth Witness Statement paragraph 25
+Case 1:15-cv-07433-RWS Document 57-2 Filed 03/14/16 Page 22 of 30
+
+
+
+              Two sentences are sought to be excised in order, in effect to prevent Mr
+              Borrill giving indirect evidence of material passed to him in breach of
+              privilege and in breach of confidence. The first sentence refers to legal
+              advice, the firm from which it was obtained, (by inference and in its
+              context) the subject matter to which it related, and a very short expression
+              summarising the advice it given. The last of those elements is
+              objectionable; the first three are not. The sentence as it stands ought to be
+              struck out, but I can see no objection to a replacement sentence which
+              gives the first three elements and otherwise refers to the advice without
+              stating what it was. The second sentence describes how he had got the
+              advice ("this advice had been forwarded by LGH to Stuart Turner"). This
+              sentence is unobjectionable.
+
+       ii.    Borrill Fourth Witness Statement paragraph 26
+
+              The words objected to are words in which Mr Turner is recorded as having
+              passed on to Mr Borrill the view of the Manx lawyers as to the workability
+              of the Defendants' proposals. Again, this is material said to come from Mr
+              Turner; and again, it was imparted by the latter in breach of his duty of
+              confidence by way of infringing the Defendants' privilege. The words as
+              they stand ought to be struck out because the court ought not to receive
+              evidence of privileged matter obtained in this way.
+
+       iii.   Stuart Turner First Witness Statement paragraph 22
+
+              In this paragraph Mr Turner narrates part of the history of his dealings
+              with Mr Mian. The first sentence describes the instruction of the Manx
+              lawyers to advise on the Defendants' scheme structure. It is not
+              objectionable. The first half of the second sentence refers to the fact that
+              on 22nd February he saw the advice provided by those lawyers (Cains).
+              That, as it stands, again seems to me to be unobjectionable. It does not
+              reveal the contents of that advice. The second half of that sentence
+              contains a reference to a document referred to in the advice which it goes
+              on to describe it in a certain way. The third sentence contains a further
+              description of the document just referred to. There is no statement as to
+              what the advice actually was. The paragraph then goes on "I was asked by
+              AON to keep the Cains' advice confidential. I told Mr Mian on that day
+              that the advice did not really address my particular concerns and that I
+              would need to see a copy of [a particular document, just referred to] in
+              order to know whether it protected customers' money. He said that he
+              would have to clear this with AON and AON Legal, and that he would
+              have to delete the existing client names from the document; but subject to
+              that he agreed to provide a copy." The last sentences that I have quoted do
+              not disclose the advice, and this part of the evidence does not contravene
+              Mr Turner's obligation of confidentiality apart from the implicit cross-
+              reference back. They are unobjectionable, apart from that. The
+Case 1:15-cv-07433-RWS Document 57-2 Filed 03/14/16 Page 23 of 30
+
+
+
+              immediately preceding elements, which I have not yet dealt with, present a
+              little more difficulty. One could argue that where a third party, who is
+              within the privilege, merely mentions the fact that a privileged
+              communication refers to a given document is not an infringement of
+              privilege because it is not disclosing information which tends to indicate
+              what the advice was. However, I do not think that is right. The question is
+              whether a communication is privileged. To the extent that it is, production
+              or proof of it cannot be compelled or allowed. It is not appropriate to
+              dissect very small elements out of it and say that disclosure of small
+              elements is not an infringement of privilege. It is either privileged or not,
+              and if it is it is wrong to allow Mr Turner to give evidence of its content.
+              In any event, in relation to the references in this particular case, it could be
+              argued that what Mr Turner says might reveal what instructions were
+              given to the lawyers, and those instructions are as privileged as the advice.
+              Accordingly, I consider that Mr Turner is not entitled to refer to, and give
+              evidence of, the content of this advice so far as it contains a description of
+              a document referred to within it. Those parts of paragraph 22 will have to
+              be struck out. The remaining sentences will have to be modified so that
+              they do not cross-refer to a document referred to in privileged advice. He
+              would be entitled to give evidence that he asked for a copy of a document,
+              but not in such a way to suggest that the advice referred to it. I accept that
+              this tends to have an air of unreality or artificiality about it, but that is the
+              position at which one sometimes arrives when a witness is required to
+              skate delicately around the edge of privileged communications.
+
+        iv.   Turner First Witness Statement paragraph 23 – last sentence
+
+              In this sentence, Mr Turner refers to the fact of receiving further advice
+              from Cains via Mr Mian, and goes on to indicate something that it
+              mentions. The first part of that sentence is permissible; the second part is
+              not because it reveals an element of a privileged communications.
+
+         v.   Turner First Witness Statement paragraph 25
+
+              This contains a statement which is quite clearly a Level 2 Statement. Mr
+              Monson does not pursue the excision of this sentence, and in any event I
+              would not have required its removal.
+
+        vi.   Chan Second Witness Statement paragraph 5
+
+This paragraph seeks to give evidence of a conversation that he had with Mr Turner
+during the negotiations. The objected to part reads:
+
+"However, he [i.e. Mr Turner] told me on the phone that AON and their advisors, Cains,
+had nonetheless demonstrated that their scheme was sufficiently robust for the purposes
+   Case 1:15-cv-07433-RWS Document 57-2 Filed 03/14/16 Page 24 of 30
+
+
+
+   of Powerhouse, by describing how their collections account agreement would ring fence
+   customer monies in the scheme."
+
+   I am not prepared to order the excision of this part of the witness statement. It would be
+   unobjectionable without the words "and their advisors, Cains", but it would also have a
+   slight air of falsity about it if Mr Turner in fact referred to them. I do not consider that a
+   reference such as that contravenes privilege in any particular communication by revealing
+   its content.
+
+
+
+36. Next I have to deal with Mr Monson's claim that I should order the redaction of certain
+    parts of two documents emanating from Powerhouse. The first is a memo from Mr
+    Turner to Mr Broomfield and Mr Stanley, two of his colleagues in Powerhouse. It refers
+    to the competing bids, and compares various aspects of them. Under the heading "AON"
+    it contains first an innocuous sentence stating that the concern that Powerhouse had was
+    to ring fence service fees and that that concern has yet to be satisfactorily resolved. There
+    is then a sentence which states what the "initial indications" from Cains are. That
+    sentence seems to summarise the advice of that firm, and as such it contains a reference
+    to privileged information and ought to be redacted. The second sentence is equivocal in
+    that it refers to a suggestion which might or might not have been contained in Cains
+    advice. Mr Monson tells me on instructions that he and Mr de Frietas have checked
+    whether or not it does reflect advice, and he tells me that it does. On that footing, it falls
+    to be redacted as does the first sentence. The document then goes on, in a separate
+    paragraph, to state as follows:
+
+   "We need to take into account that no precedent (as at the date of this memo) has been set
+   in law, and therefore no proof exists to prove that the trust solution presented to
+   Powerhouse by AON would have any legal weight. It would seem only wise to secure
+   further independent legal advice."
+
+37. I do not see how a case can be made for excising this material and in the end Mr Monson
+    did not press for the redaction.
+38. The second Powerhouse document is an undated document which was generated
+    internally so that someone could consider the various proposals that were before it. On
+    page 2, under the heading "The Issue" it contains wording that is identical to that which I
+    have just considered. That wording should be treated similarly. There is one additional
+    sentence under the heading "The Question", and it reads as follows:
+
+   "Powerhouse have read the Cains response (attached) with some interest but are
+   concerned that they seem to have "skated around" the core issue for Powerhouse."
+
+   The Cains response referred to is not disclosed. This sentence is objected to, but I cannot
+   really see why. It certainly does not contain any evidence of what the Cains advice was.
+   There is nothing objectionable about it.
+   Case 1:15-cv-07433-RWS Document 57-2 Filed 03/14/16 Page 25 of 30
+
+
+
+39. The last document is the Chan email that I have referred to above. I am not prepared to
+    order the excision of this part of the evidence. It is no more objectionable than paragraph
+    5 of his witness statement, which I have already declined to excise.
+40. Next I turn to the particulars of claim in the enquiry. Mr Monson says I should strike out
+    certain allegations made in the Particulars of Claim because they were only able to be
+    made because of unauthorised disclosure by Mr Turner. In effect, he invites me to take
+    the same approach in relation to this statement of case as the Court of Appeal took to the
+    relevant pleading in the Goddard case. Some of the objected to parts correspond to parts
+    of witness statements which I have allowed to stand in that they refer merely to the
+    receipt and transmission of legal advice. However, two sentences go further and refer to
+    the content of legal advice, in a similar manner to parts of Mr Turner's witness statement
+    which I have ordered should be excised. I was at first tempted to accede to Mr Monson's
+    application to strike out at least those limited parts. However, I have decided I should not
+    do so. Now that the position as to admissible evidence has (I hope) become clearer as a
+    result of this judgment, Mr Watson may well wish to reconsider how he is going to make
+    his case, since part of his submissions to me involve assertions that he could get to where
+    he wanted through different routes in any event. If he is right about that then he may wish
+    to consider re-pleading. I do not think it is necessary, in that context, for me to start
+    striking out parts of the existing statement of case. If Mr Watson has no other way of
+    getting to where he wants apart from relying on evidence that I have required to be
+    removed, then he will not be able to make good the allegations in the Particulars of
+    Claim. No harm is done by leaving them in. If he thinks he can get there through another
+    route, then he should be at liberty to do so. It may be that in fact he may wish to
+    reconsider how he puts his case and remove or amend certain parts of the present claim.
+    That is obviously a matter for him. At the moment I think the most sensible course is to
+    leave the particulars of claim where they are.
+
+   Apollo Transaction
+
+41. In his judgment on the trial of liability, Judge Weeks Q.C. observed:
+
+   "I suspect that in the morass of documents the parties may have lost sight of their
+   commercial interests and the purpose of litigation".
+
+
+
+42. In some ways I cannot help sharing that view in relation to this section of the application
+    before me. I find it difficult to see that the events to which I now have to refer can give
+    rise to any particular material claim, and I cannot help thinking that what I shall call the
+    Apollo claim is a storm in a teacup, and Mr Watson at one stage was disposed to accept
+    that that was an accurate description of at least part of the dispute in relation to this
+    matter. However, it is a matter which is raised in the enquiry as to damages, and there has
+    been no attempt to strike it out on the basis that it is frivolous or otherwise that it should
+    not be dealt with, so I am forced to deal with it.
+43. In 1999 the AON Group entered into a warranty support scheme with a concern that can
+    be described as Apollo. It is common ground that this scheme was not a trust-based
+   Case 1:15-cv-07433-RWS Document 57-2 Filed 03/14/16 Page 26 of 30
+
+
+
+    scheme so documents of the nature of the CAA played no part in it in its final form.
+    Furthermore, there is no suggestion that the Claimants were in competition with the
+    Defendants for that scheme, so there is no suggestion that they have suffered direct
+    financial loss because the Defendants got the contract. However, the allegation is that in
+    the course of considering the Apollo transaction, consideration was given at some stage
+    to a trust-based scheme to which the CAA would have been appropriate, and that in that
+    context there was some copying of the Scottish Power CAA or otherwise some
+    infringement of the claimants' rights in respect to it. There is evidence for supposing that
+    the CAA was considered in the context of the Apollo scheme, because the infringing
+    copy forwarded to Powerhouse had originally been saved on the Defendants' computer
+    systems under a file name whose path included something which appears to be a
+    directory designated to "Apollo 2000". The case of the claimants, as described to me by
+    Mr Watson, was that if there was some copying in this context, even if (as seems clearly
+    to be the case) the copies were in no way deployed in the actual Apollo Scheme, the
+    Defendants are liable to pay a payment in the nature of a royalty. They therefore seek
+    disclosure of all drafts of the CAA prepared for the purpose of the Apollo transactions,
+    and they also seek all memoranda and similar notes referring to any such documents.
+44. The disclosure sought by the Claimants is in terms as follows:
+
+   "All drafts of the collections account agreement or equivalent agreement (in both
+   electronic and hard copy form) which have been prepared, used or intended to be used by
+   the Defendants or any of them for the purposes of putting into effect the warranty scheme
+   for:
+
+   [Apollo];
+
+   Any other Retailer
+
+   All memoranda, attendance notes, board minutes and correspondence (including emails)
+   which refer to any document referred to in [the preceding paragraph] (including internal
+   documents prepared by the Defendants' and documents passing between any two or more
+   the Defendants)."
+
+45. Mr Monson accepted that his clients were under an obligation to disclose documents
+    relating to the use of the CAA in Apollo but said that they have already been disclosed
+    (and the Claimants have been given copies,) apart from such privileged documents as
+    may exist. I should say at this stage that in case there is any daylight between Mr
+    Monson's concession and formulation of the category of documents sought by the
+    Claimants, I would make an order in those terms, but I do not think that there would be
+    much debate about that. The debate in this area centred around the question of privilege.
+    Paragraph 17 of the particulars of claim in the enquiry states that:
+
+   "It is to be inferred from [certain pleaded material] that the first and/or second Defendant
+   also copied the CAA for the purpose of sending it and/or sent it to Apollo 2000."
+   Case 1:15-cv-07433-RWS Document 57-2 Filed 03/14/16 Page 27 of 30
+
+
+
+46. It does not appear that a copy of any document specifically created at this stage has been
+    disclosed, whether as a document that the defendants have in their possession or as a
+    document which they once had. Mr Watson seeks to make a case that CAA must at some
+    stage have been copied for the purpose of considering whether or not to deploy it in a
+    scheme for Apollo, even if it never was so used, and even if a copy was never sent to
+    Apollo, and the suggestion is that such a document was, or may have been, sent to the
+    defendants solicitors. The debate before me was principally about privilege. Various
+    documents were debated, each of them hypothetical - they were hypothetical because the
+    Defendants deliberately said nothing about the existence or non-existence of such
+    documents because if they had then they would or might be admitting that which they
+    claim they were entitled to decline to admit (because of privilege), and I suspect they
+    were also concerned about waiver of privilege. Those documents were as follows:
+                i. Copies of the CAA prepared for the purposes of being submitted to
+                      solicitors for their consideration.
+               ii. Any amended CAA arising as a result of work by the solicitors.
+              iii. Versions of the CAA thus amended and put back in the hands of the
+                      Defendants or any of them.
+47. Mr Watson's final position in argument was that such documents could not be privileged.
+    Those described under (i) would simply be copies of an unprivileged document, and
+    would not be privileged because of the Three Rivers case. Next he said that documents in
+    category (ii) would not be privileged because once the to-ing and fro-ing on advice had
+    been concluded it no longer formed part of the advice. So far as the drafts back in the
+    hands of the clients were concerned (category (iii), then they were not privileged either
+    because they fell within category (ii) or because the disclosure of a later draft to
+    Powerhouse waived privilege in the predecessor draft on which it was apparently based.
+    As an alternative line of attack in relation to this alleged batch of infringements, Mr
+    Watson also relied on the principle that "advice sought or given for the purpose of
+    effecting iniquity is not privileged" Barclays Bank Plc –v- Eustice [1995] 1 WLR 1238 at
+    1249b. The iniquity relied on by him was giving a lawyer a draft, in respect of which
+    copyright existed, for the lawyer to improve.
+48. I think that it is appropriate to deal with this part of the case shortly. It is tempting to take
+    the view that since it was not clearly proved that there were any documents which are
+    worth debating (because of the position taken by Mr Monson) I should not deal with this
+    at all. However, it has been a matter of some dispute between the parties, and I think that
+    it would be useful and proper for me to make some rulings for the guidance of the parties,
+    and in particular for the guidance of the defendants who can be seen to have taken a line
+    in relation to privilege that was not justified (see their insistence on redacting level 1 and
+    level 2 references, above). However, I shall not deal with the point at great length
+    because I think that the answers are relatively straightforward and, because I find it very
+    hard to believe that any significant amount of damages can turn on them. I consider the
+    legal position to be as follows:
+         a. Any copy of the CAA which was created with a view to its being submitted to
+             solicitors for advice does not, despite its purpose, attract privilege. That this is
+             clearly the case appears from Dubai Bank Limited v Galadari [1990] Ch 1980.
+             This principle was recently applied and approved in Sumitomo Corporation v
+   Case 1:15-cv-07433-RWS Document 57-2 Filed 03/14/16 Page 28 of 30
+
+
+
+          Credit Lyonnais Rouse Limited [2002] 1 WLR 479. Any such copy ought
+          therefore to be disclosed and produced.
+       b. Any version produced by the solicitor in draft for the purpose of carrying out his
+          function of giving legal advice to a client would, in my view, be privileged. Such
+          drafts, until communicated, are not communications, but it is quite apparent from
+          paragraph 29 of the judgment of Longmore L.J. in the Three Rivers case that that
+          judge considered that solicitors' drafts are privileged – "all documents passing
+          between the BIU and Freshfield are privileged as, indeed, are Freshfields' own
+          drafts and memoranda." (my emphasis).
+       c. Drafts passed back to the clients, on the assumption that they were part and parcel
+          of legal advice, are again privileged. I do not understand on what principle it can
+          be said that privilege in those drafts is waived when a yet further draft, which is
+          derived from them, is disclosed in circumstances such that that later draft is not
+          privileged. Mr Watson advanced no authority in support of his proposition that
+          privilege was waived, and I hold that it was not.
+       d. There is no evidential basis upon which the iniquity principle can be invoked in
+          this case. While I accept Mr Watson's submission that dishonesty as such is not
+          necessary in order to invoke the principle, and reject Mr Monson's submission
+          that it is, there is no evidence on which I can find that the Defendants were guilty
+          of any conduct which even comes close to the level of iniquity which is required
+          in order to bar the privilege that would otherwise cloak the communications
+          between solicitor and client. Since there is no evidence at all that solicitors were
+          involved, but merely supposition, that is not surprising. However, even if one
+          were minded to suppose that solicitors were instructed, there is nothing in this
+          case to suggest that the Defendants were anything other than innocent in what
+          they did. Indeed, in the trial on liability HH Judge Weeks Q.C. expressly rejected
+          a finding that the later breach of copyright was flagrant. He had that issue before
+          him in the context of an assertion that the Powerhouse breach was flagrant within
+          the meaning of Section 97 (2) of the Copyright, Design and Patents Act 1988. He
+          held that it was not. In that instance the person who authorised the release to
+          Powerhouse (Mr Witt) could be identified, as could the circumstances in which it
+          happened. He is said to have been honest and mistaken in believing that he was
+          entitled to release it. I have not been given evidence to suggest that any other
+          servant or officer of the Defendants held any more iniquitous view. I therefore
+          reject the submission that the iniquity principle operated so as to deprive the
+          Defendants of any privilege which might have arisen in respect of the putative
+          instructions to solicitors.
+
+   Issues Relating to Statements of Case
+
+49. The applications before me include an application that the Defendants be ordered to
+    provide some further information in relation to their pleaded case. However, it was
+    agreed that I need not deal with that, and accordingly I do not do so. There is also an
+    application by the Claimants to amend their particulars of claim in the enquiry. That was
+    resisted on the grounds that those amendments introduced some inconsistencies. I believe
+    that most of those points, if not all of them, were ironed out, but the fate of this
+   Case 1:15-cv-07433-RWS Document 57-2 Filed 03/14/16 Page 29 of 30
+
+
+
+   application was, so far as I can see, a little lost in the detailed debate on the other, more
+   substantial, issues that arose before me. As I understand it, at present there is no longer
+   any opposition to these amendments, and if that is right then I shall allow them so far as I
+   need to do so. If I am wrong about that, then I shall entertain such debate as may be
+   necessary in order to resolve outstanding points.
+
+   One Relevance Point
+
+50. The documents produced by the Defendants in respect of which redactions in whole or in
+    part were made were comprised in a further list produced by the Defendants. There were
+    15 of them. It has not been necessary for me to describe those documents in detail in this
+    judgment.; I have described their nature in general terms. One special point arises in
+    relation to the 15th document, which is the last chronological document. It is described as
+    a "copy letter from the first Defendant to Powerhouse Retail Limited" dated 10th April
+    2000. this is after the date when the effective deal was done between Powerhouse and the
+    claimants, and therefore after the second price reduction which underpins the claim for
+    damages. The Defendants objected to the production of the whole of this document – it
+    was not a question of merely redacting part – and the original basis of objection was
+    privilege. During the course of the hearing, Mr Monson told me that on further reflection
+    this document was irrelevant as well, since it did not go to the issues in the inquiry, and
+    he sought to resist inspection on that ground too. The parties agreed that rather than have
+    an extended debate, or even a short debate, on the appropriate course to be adopted in
+    those changed circumstances, the convenient course would be for me to look at the
+    document and express my view as to whether it was indeed irrelevant and need not be
+    produced. Mr Watson in terms agreed to that course. I have looked at that document and
+    read it carefully. Having done so, I am satisfied that Mr Monson is right – while related
+    to the overall situation, it is of no relevance (in the disclosure sense) to the issues to be
+    debated in the enquiry. I also record that it does contain privileged material, though in my
+    view (which does not matter for these purposes in the light of my conclusion on
+    relevance) only part of the content is privileged. I therefore will make no disclosure order
+    in relation to that document.
+
+   Judicial inspection of other documents
+
+51. I should also record one further thing in relation to the disputed documents. The debate as
+    to what redactions should be made to witness statements and the documents emanating
+    from Powerhouse took place with the benefit of both parties and my knowing what words
+    in question were. That was not the case in respect of the documents which the Defendants
+    have themselves redacted. It was at one stage suggested that I should look at all those
+    documents (including document 15 to which I have referred) so that I could express a
+    view as to whether they were or were not in fact privileged. That suggestion was not
+    actively pursued, and the debate took place with only the Defendants knowing what was
+    in the allegedly privileged material, as is common in these situations. Nevertheless during
+    the course of the hearing, I was provided with a bundle which had unredacted versions of
+    all those documents. The provisional view which I reached was that it would not be
+    necessary for me to consider the content of those documents if I were able to lay down,
+   Case 1:15-cv-07433-RWS Document 57-2 Filed 03/14/16 Page 30 of 30
+
+
+
+    with sufficient clarify, the principles with which should be applied in deciding whether
+    those documents were privileged. Having come to the conclusions which I have set out in
+    this judgment, I maintain that view. The parties agreed that I should retain the unredacted
+    bundle in my possession whilst writing this judgment, so that if I thought it necessary or
+    useful to refer to it I should be at liberty to do so. The position is that I consider that I
+    have been able to lay down sufficient principles to enable Mr Monson and his instructing
+    solicitors to do their job of ascertaining which parts of the relevant documents are
+    privileged, and it is neither necessary nor appropriate for me to substitute my judgment
+    for theirs in the circumstances now obtaining. Accordingly, with the exception of
+    document 15 which I have referred to above, I have not looked at any of those
+    documents.
+
+    The Requirement for a New List
+
+52. The Claimants have applied for an order that the Defendants should provide a further list
+    of documents relevant to the inquiry. The Defendants have resisted this suggestion on the
+    basis that there are no additional documents requiring disclosure beyond those that they
+    have specifically listed for the purposes of the privilege claim, and beyond those which
+    were already comprised within a list, or lists in the context of the trial on liability. Mr
+    Watson countered this by saying it was still appropriate that a proper list should be
+    supplied, not least because the Defendants ought to particularise what searches they have
+    made. I am quite clear that the Defendants ought to provide a list. At the end of the trial
+    on liability, HH Judge Weeks Q.C made an order providing for the enquiry, and
+    paragraph 9 of that Order provides for the parties to give standard disclosure by a date in
+    May 2003. Standard disclosure requires for the production of a list. I cannot see why the
+    Defendants should not provide one, even if all it did was to relist documents already
+    supplied, or even annex the old list. At the same time they could and should have given
+    such statements as to searches made as were appropriate in the circumstances. That
+    would have been very much easier and more cost effective than bringing the matter
+    before me (albeit that the time in debate was short), and it and might well have done
+    something to allay the suspicion that the Claimants clearly feel in relation to this matter.
+    Declining to supply a list is only likely to fuel suspicion, not to allay it. Of course, were it
+    the case that a further list were not being provided because the Defendants did not wish to
+    say something that would have to be said in connection with such a list (as to which there
+    is no evidence) then that would be all the more reason for their providing one; if it is not
+    the case then dealing with the situation would be extremely simple. Either way, the
+    Defendants should provide the list sought by the Claimants.
+
+    Conclusions
+
+53. I shall therefore make such orders as are appropriate in the light of the findings I have
+    made in this judgment. The parties will doubtless want to consider that point and decide
+    what is technically the best way of going about the matter. In the case of any dispute, I
+    shall rule further.
+

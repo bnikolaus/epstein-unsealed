@@ -1,0 +1,690 @@
+                             United States District Court
+                            Southern District of New York
+
+
+Virginia L. Giuffre,
+
+               Plaintiff,              Case No.: 15-cv-07433-RWS
+
+v.
+
+Ghislaine Maxwell,
+
+            Defendant.
+________________________________/
+
+           PLAINTIFF, VIRGINIA GIUFFRE’S REPLY IN RESPONSE
+         TO DEFENDANT’S SUPPLEMENTAL MEMORANDUM OF LAW
+          IN RESPONSE TO PLAINTIFF’S MOTION TO COMPEL THE
+      PRODUCTION OF DOCUMENTS SUBJECT TO IMPROPER OBJECTIONS
+
+
+
+                                       BOIES, SCHILLER & FLEXNER LLP
+
+                                        David Boies
+                                        Boies, Schiller & Flexner LLP
+                                        333 Main Street
+                                        Armonk, NY 10504
+
+                                        Sigrid McCawley (Pro Hac Vice)
+                                        Boies, Schiller & Flexner LLP
+                                        401 E. Las Olas Blvd., Suite 1200
+                                        Ft. Lauderdale, FL 33301
+                                        (954) 356-0011
+
+
+                                        Ellen Brockman
+                                        Boies, Schiller & Flexner LLP
+                                        575 Lexington Ave
+                                        New York, New York 10022
+                                        (212) 446-2300
+                                                 TABLE OF CONTENTS
+
+
+                                                                                                                                     Page
+
+TABLE OF AUTHORITIES.......................................................................................................... ii
+
+I.     PRELIMINARY STATEMENT ............................................................................................1
+
+II.    ARGUMENT .........................................................................................................................2
+
+       A.      Ms. Giuffre’s Relevant Period Is Appropriate...............................................................2
+
+               1.      Defendant is Taking a Disingenuous Position Regarding Her Objections to
+                       Plaintiff’s Time Period .........................................................................................2
+
+               2.      Ms. Giuffre’s Post-2002 Discovery Requests Are Narrowly Tailored To
+                       Seek Specific, Relevant Evidence Of Defendant’s Continued Involvement In
+                       Jeffrey Epstein’s Underage Sex Trafficking .......................................................3
+
+       B.      Defendant’s Objections Are Improper. .........................................................................5
+
+       C.      Defendant’s Specific Objections Are Inappropriate......................................................6
+
+               1.      Request No. 1, Request No. 10, and Request No. 11 ...........................................6
+
+               2.      Request No. 3. ......................................................................................................7
+
+               3.      Request No. 6. ......................................................................................................8
+
+               4.      Request No. 37. ....................................................................................................8
+
+               5.      Request No. 7 and Request No. 15.......................................................................9
+
+               6.      Request No. 17. ..................................................................................................10
+
+               7.      Request No. 8, Request No. 33, and Request No. 39. ........................................10
+
+CONCLUSION .............................................................................................................................10
+
+
+
+
+                                                                     i
+                                            TABLE OF AUTHORITIES
+
+                                                                                                                           Page
+Cases
+
+Anwar v. Fairfield Greenwich Ltd.,
+  982 F. Supp. 2d 260 (S.D.N.Y. 2013) .........................................................................................1
+
+Civil Aeronautics Bd. of Civil Aeronautics Auth. v. Canadian Colonial Airways,
+  41 F. Supp. 1006 (S.D.N.Y. 1940) ..............................................................................................4
+
+In re A2P SMS Antitrust Litig.,
+   972 F. Supp. 2d 465 (S.D.N.Y. 2013) .........................................................................................1
+
+In re 650 Fifth Ave.,
+   No. 08 CIV. 10934 KBF, 2013 WL 1870090 (S.D.N.Y. Apr. 24, 2013)....................................6
+
+
+
+
+                                                                ii
+         Plaintiff Virginia L. Giuffre, respectfully submits this Reply in Response to Defendant’s
+
+Supplemental Response to Plaintiff’s Motion to Compel the Production of Documents Subject to
+
+Improper Objections [D.E. 45]. For the reasons set forth below, this Court should grant Ms.
+
+Giuffre’s Motion to Compel in its entirety.
+
+I.       PRELIMINARY STATEMENT1
+
+         After sitting on Ms. Giuffre’s First Request for Production for four months, Defendant
+
+only produced two documents. Defendant acknowledges that she has other responsive
+
+documents, but she is withholding them from production.2
+
+         Flight logs demonstrate the incredibly close relationship between Defendant and
+
+convicted pedophile Jeffrey Epstein during the time they were abusing Ms. Giuffre and, then,
+
+other minors: Defendant flew on Jeffrey Epstein’s private plane no less than 360 times, and over
+
+20 times with Ms. Giuffre when Ms. Giuffre was a minor child.3 Message pads from Law
+
+Enforcement’s trash pull of Jeffrey Epstein’s Palm Beach mansion show Maxwell in regular
+
+contact with him, including Defendant arranging for Epstein to meet with underage girls. This
+
+evidence alone rebuts Defendant’s specious objections that seeking documents relating to
+
+Defendant’s trafficking of other underage girls is merely a “fishing expedition.” Indeed, over
+
+thirty underage girls were recruited for Epstein’s sex abuse, most of which were recruited after
+
+
+
+
+1
+  Ms. Giuffre views Defendant’s “Supplemental Responses” (D.E. 45 and 46) as impermissible sur-replies.
+Defendant already filed a Response, and her “supplemental” responses were filed after Ms. Giuffre filed her Reply
+to Defendant’s Response. See In re A2P SMS Antitrust Litig., 972 F. Supp. 2d 465, 500 (S.D.N.Y. 2013) (striking
+sur-reply because it does not respond to “new issues which are material to the disposition of the question before the
+[C]ourt,”); Anwar v. Fairfield Greenwich Ltd., 982 F. Supp. 2d 260, 263 (S.D.N.Y. 2013) (“the Court notes that
+Plaintiffs' letter is a sur-reply filed without permission of the Court and does not identify new controlling law, and
+therefore will not be considered.”). To the extent that this Court has not yet made a sua sponte ruling to strike them
+from the docket to date, Ms. Giuffre hereby files her reply briefs within the time allotted under the Local Rules.
+2
+  She is also adamantly refusing to sit for her deposition. Most recently, Defendant is attempting to hold hostage Ms.
+Giuffre’s effort to take Defendant’s deposition by refusing to agree on a basic privilege log production parameters
+unless Ms. Giuffre agrees to cancel the most critical deposition in this case – that of the Defendant.
+3
+  These numbers are based only upon the partial and incomplete flight logs available to Ms. Giuffre at this time.
+
+
+                                                          1
+ Ms. Giuffre escaped.4 Therefore, discovery requests concerning Defendant’s continued
+
+ trafficking of minors, and continued contact with her co-conspirators (including payments from
+
+ Epstein), are relevant and discoverable.
+
+ II.      ARGUMENT
+
+          A.       Ms. Giuffre’s Relevant Period Is Appropriate
+
+                   1.      Defendant is Taking a Disingenuous Position Regarding Her Objections to
+                           Plaintiff’s Time Period
+
+          Defendant argues that, “[g]iven the nature of her claim, the time period chosen by the
+
+ Plaintiff [17 years] is grossly overbroad.” (See D.E. 45 at 3.)5. However, Defendant’s own
+
+ document requests belie this contention. Defendant requested documents from an even greater
+
+ period of time, and many requests have no date restrictions (“NDR”) whatsoever:
+
+                                            Defendant’s Requests:
+
+Request    Years              Request     Years               Request    Years              Request     Years
+No. 1      18                 No.11       N/A                 No. 21     5                  No. 31      NDR
+No. 2      18                 No. 12      18                  No. 22     16                 No. 32      NDR
+No. 3      NDR                No. 13      4                   No. 23     16                 No. 33      NDR
+No. 4      NDR                No. 14      18                  No. 24     14                 No. 34      NDR
+No. 5      18                 No. 15      18                  No. 25     NDR                No. 35      18
+No. 6      NDR                No. 16      6                   No. 26     NDR                No. 36      NDR
+No. 7      4                  No. 17      18                  No. 27     NDR                No. 37      NDR
+No. 8      4                  No. 18      16                  No. 28     NDR
+No.        18                 No. 19      NDR                 No. 29     NDR
+No. 10     N/A                No. 20      NDR                 No. 30     NDR
+
+          For example, Defendant’s Request No. 26 seeking “All Documents concerning any
+
+ prescription drugs taken by You,” has no date restrictions. Defendant, therefore, must believe
+
+ that every prescription drug Ms. Giuffre has taken - from infancy - will likely be helpful to prove
+
+
+
+
+ 4
+  See Declaration of Sigrid McCawley (“McCawley Decl.”) at Exhibit 1, Palm Beach Police Report.
+ 5
+  Defendant disregarded Ms. Giuffre’s requested date range of 1999 to the present and unilaterally limited her
+ production to the years 1999 – 2002 and for one month from December 31, 2014 to January 31, 2015.
+
+
+                                                          2
+or disprove the claim in this case.6 Defendant cannot hold the position that documents relevant
+
+to the claim in this case arise solely from a self-serving fraction of the requested date range if
+
+collected from her, while concomitantly holding the position that documents from an even larger
+
+date rage are relevant when collecting from Ms. Giuffre. With her briefing in one hand, and her
+
+requests for production in the other, Defendant is engaging in double-speak. Accordingly, this
+
+Court cannot take Defendant’s argument regarding the Relevant Period at face value, and should
+
+reject it.
+
+                 2.       Ms. Giuffre’s Post-2002 Discovery Requests Are Narrowly Tailored To
+                          Seek Specific, Relevant Evidence Of Defendant’s Continued Involvement
+                          In Jeffrey Epstein’s Underage Sex Trafficking
+
+         As articulated in Ms. Giuffre’s moving brief and her consolidated reply (D.E. 35, and
+
+43), Ms. Giuffre has shown the relevance of her narrowly-tailored requests seeking certain
+
+documents from the period of time after Ms. Giuffre escaped Defendant’s abuse. To recount,
+
+Defendant continued to recruit underage girls for sex with convicted sex offender Jeffrey Epstein
+
+after Ms. Giuffre escaped.7 This fact is established by documentary evidence, sworn testimony,
+
+and other statements by third parties. Indeed, flight logs show Defendant traveling on the
+
+convicted sex offender’s plane up to at least 2005; and police reports in the Palm Beach
+
+investigation reveal the abuse occurred into the mid-2000s.8 In addition, message pads from law
+
+enforcement trash pulls from Jeffrey Epstein’s home show that Defendant arranged to have
+
+underage girls come over for “training.”9
+
+
+
+
+6
+  Despite issuing multiple requests like the one quoted above, Defendant’s “Supplemental Response” brief
+complains of a “fishing expedition” by Ms. Giuffre seven times.
+7
+  Indeed, over thirty underage girls were recruited for Epstein’s sex abuse. See McCawley Decl. at Exhibit 1.
+8
+  See McCawley Decl. at Exhibit 2, Flight Logs from Jeffrey Epstein’s private plane and Exhibit 1, Palm Beach
+Police Report.
+9
+  See McCawley Decl. at Exhibit 3, Message Pads from Law Enforcement trash pulls of Jeffrey Epstein’s Palm
+Beach home.
+
+
+                                                        3
+         Documents showing Defendant recruiting underage girls from that time period are
+
+relevant because they help establish Ms. Giuffre’s contention that Defendant recruited her while
+
+she was underage. Again, over thirty underage girls were recruited for Epstein’s sex abuse in
+
+Florida alone, most of which were recruited after Ms. Giuffre escaped.10 Such documents would
+
+show a pattern and practice of Defendant’s behavior and also show Defendant’s role within
+
+Jeffrey Epstein’s criminal enterprise. That Ms. Giuffre was in Australia while Defendant
+
+continued her illegal activities does not lessen the weight of that evidence.11 To the contrary, the
+
+fact that Defendant and Jeffrey Epstein recruited other girls for abuse gives more weight to Ms.
+
+Giuffre’s allegations.
+
+         Furthermore, for the period after Epstein was indicted for sex crimes against children,
+
+documents showing Defendant’s continued communications with Epstein and his associates,
+
+documents showing receipt of payments from Epstein, and documents showing her attempts to
+
+cover up her wrongful sexual abuse of minors are relevant.
+
+         There are already materials implicating Defendant’s post-2008 involvement with Epstein
+
+and the related cover-up. For example, Defendant dodged a deposition in 2009 to avoid
+
+answering questions about the abuse of Ms. Giuffre and others.12 Additionally, since 2005, when
+
+the investigation started, to the present, Defendant has been engaged in a joint defense agreement
+
+with Jeffrey Epstein.13 And, Defendant has continued to communicate with convicted sex
+
+offender Jeffrey Epstein, at least, through 2015, when she made her defamatory statement.14
+
+
+10
+   See McCawley Decl. at Exhibit 1.
+11
+   “If it be that defendant has violated the provisions of law, and continues so to do, there is no good reason why the
+plaintiff may not produce evidence of defendant's continuing wrongful conduct.” Civil Aeronautics Bd. of Civil
+Aeronautics Auth. v. Canadian Colonial Airways, 41 F. Supp. 1006, 1008 (S.D.N.Y. 1940).
+12
+   See McCawley Decl. at Exhibit 4, Notice of Deposition of Ghislaine Maxwell, Subpoena and Cancellation
+Payment Notice, and January 13, 2015 Daily Mail Article.
+13
+   See McCawley Decl. at Exhibit 5, January 12, 2016 Deposition Transcript of Alan Dershowitz at 527; see also
+March 7, 2016 Affidavit of Ghislaine Maxwell, attached at Exhibit E to D.E.47-5.
+14
+   This is evidenced by Defendant’s privilege log, McCawley Decl. at Exhibit 6.
+
+
+                                                           4
+Documents evidencing these acts and occurrences after Epstein’s indictment show her continued
+
+involvement in the conspiracy.
+
+           Defendant states that “this lawsuit presents one relatively simple question: is Plaintiff’s
+
+claim that she was sexually abused by Jeffrey Epstein between 1999 and 2002 ‘with the
+
+assistance and participation of’ Ms. Maxwell true?” (D.E. 45 at 1). She cannot claim that
+
+evidence of her involvement in Jeffrey Epstein’s abuse of other girls, after 2002, does not tend to
+
+prove the allegations that Defendant was involved in the abuse of Ms. Giuffre.15 In short,
+
+evidence of Defendant trafficking other girls, and evidence of Defendant covering up the abuse
+
+after the fact, is relevant to proving that she was involved in the abuse and trafficking of Ms.
+
+Giuffre. Defendant has admitted she has responsive documents for this period. Therefore, this
+
+Court should direct that she produce them.
+
+           B.       Defendant’s Objections Are Improper
+
+           Defendant’s argument against Ms. Giuffre’s use of the phrase “all documents” or
+
+“relating to” is disingenuous because she uses those phrases in her requests to Ms. Giuffre.
+
+Defendant argues that the terms, “all documents” and “relate,” are too broad to be employed in
+
+Requests for Production, thus making all of Ms. Giuffre’s requests “fatally flawed.” At the same
+
+time she makes this argument, Defendant has propounded 37 requests for production on Ms.
+
+Giuffre. Twenty-five of them seek “all documents” or “any documents.” Twenty of them seek
+
+documents “relat[ing] to” or “reflecting” various topics. Only 8 of her 37 requests are free of
+
+these “obtuse” terms that she claims are “fatal defect[s].” Presumably, Defendant is neither
+
+conceding that the majority of her Requests for Production are “fatally flawed,” nor is she
+
+
+
+
+15
+     Accordingly, Defendant’s objections to Request Nos. 21, 22, 23, 24, and 27 are improper.
+
+
+                                                           5
+withdrawing the 29 of them. Accordingly, Ms. Giuffre respectfully requests the Court reject this
+
+argument.16
+
+        C.       Defendant’s Specific Objections Are Inappropriate
+
+                 1.       Request No. 1: All documents relating to communications with Jeffrey
+                          Epstein from 1999-Present.
+                          Request No. 10: All documents relating to payments made from Jeffrey
+                          Epstein or any related entity to you from 1999-present, including
+                          payments for work performed, gifts, real estate purchases, living expenses,
+                          and payments to your charitable endeavors including the TerraMar
+                          Project.
+                          Request No. 11: All documents relating to or describing any work you
+                          performed with Jeffrey Epstein, or any affiliated entity from 1999-Present.
+
+        Jeffrey Epstein’s message pads, pulled from trash by law enforcement, show that
+
+Defendant arranged for a minor child to come over to Jeffrey Epstein’s house for “training”.17
+
+The Palm Beach Police Department collected these incriminating message pads from Epstein’s
+
+home. A member of Jeffrey Epstein’s household staff, Juan Alessi, testified under oath that
+
+Defendant lived with Epstein, and ran his household.18 These are just some examples of
+
+evidence showing that Defendant was employed by convicted sex offender Jeffrey Epstein to
+
+traffic minor children for him.
+
+        Despite this evidence, Defendant claims that discovery requests seeking evidence of work
+
+she performed for Epstein, the payments she received from Epstein,19 and the communications
+
+she had with and about Epstein, constitutes a “fishing expedition.” (D.E. 45 at 6.) These
+
+requests are not merely “reasonably calculated” to lead to the discovery of admissible evidence,
+
+16
+   In discovery disputes, “[w]hat is good for the goose is good for the gander.” In re 650 Fifth Ave., No. 08 CIV.
+10934 KBF, 2013 WL 1870090, at *3 (S.D.N.Y. Apr. 24, 2013) (requiring that the government produce a privilege
+log in order to persist in its allegations that the defendants’ privilege logs are inadequate).
+17
+   See McCawley Decl. at Exhibit 3, Message Pads from Jeffrey Epstein’s house.
+18
+   See McCawley Decl. at Exhibit 7, Deposition Transcript of Juan Alessi.
+19
+   Indeed, substantial payments received from Epstein at key times during the Government investigation can show if
+he paid her in exchange for her silence. Evidence of Epstein (or Epstein’s attorney, see McCawley Decl. at Exhibit
+8, February 2, 2015 Page Six Article) paying for her New York home (recently listed at $19M), and evidence of
+Epstein’s continued payments throughout the Relevant Period, are also indicative of Maxwell’s ongoing
+involvement with Epstein.
+
+
+                                                        6
+but they zero-in on exactly the type of admissible evidence that would directly support Ms.
+
+Giuffre’s claim of being sexually abused.
+
+           Defendant argues she should not have to produce communications related to Jeffrey
+
+Epstein and “rice pudding.” Ms. Giuffre disagrees. Communications revealing Defendant’s
+
+frequent and constant contact with Epstein, particularly regarding the minutia of his life, shows
+
+the depth of her access to, and involvement with, Epstein. Indeed, frequent communications
+
+showing how Defendant was the intimate caretaker of Epstein’s private life - from rice pudding
+
+recipes to his predilection for underage girls - reveal her role as a participant in the trafficking
+
+and, importantly, thoroughly refute any affirmative defense she might make that she was
+
+unaware of the abuse.
+
+                    2.      Request No. 3: All Documents Relating To Communications With
+                            Andrew Albert Christian Edward, Duke Of York (A.K.A Prince Andrew)
+                            From 1999-Present.
+
+           Ms. Giuffre has alleged that Defendant trafficked Ms. Giuffre to Andrew while she was a
+
+minor child. Ms. Giuffre has a photograph of Andrew’s arm around her bare waist in the
+
+presence of Defendant, in Defendant’s London apartment, while Ms. Giuffre was under age.
+
+Defendant has never answered the question: what was this child doing in her London townhouse
+
+with them? Another witness has supplied some of the details on Ms. Giuffre’s trafficking to
+
+Andrew. Johanna Sjoberg reported that “Virginia, another girl there, sat on a chair and had the
+
+puppet on her lap. Andrew sat on another chair, I sat on his lap and he put his hand on my
+
+breast. Ghislaine puppet’s hand on Virginia’s breast, then Andrew put his hand on mine . . .”.20
+
+Accordingly, communications with Andrew are relevant, and they would likely show
+
+Defendant’s arrangements to traffic Ms. Giuffre to him, and possibly the trafficking of other girls
+
+to him.
+
+20
+     See McCawley Decl. at Exhibit 9, September 23, 2007 Red Ice Creations Article.
+
+
+                                                          7
+                 3.       Request No. 6: All Documents Relating To Communications With Any
+                          Of The Following Individuals From 1999 -The Present: Emmy Taylor,
+                          Sarah Kellen, Eva Dubin, Glen Dubin, Jean Luc Brunel, And Nadia
+                          Marcinkova
+
+        Both Sarah Kellen and Nadia Marcinkova asserted their Fifth Amendment privilege when
+
+asked under oath about Defendant’s involvement in trafficking underage girls.21 For example,
+
+co-conspirator Nadia Marcinkova testified:
+
+        Q. Isn’t it true that yourself, Ghislaine Maxwell and Sarah Kellen had access to a master
+        of list of underage minor females names and phone numbers so they could be called for
+        the purpose of coming to Jeffrey Epstein’s house to be sexually molested? . . .
+        A. Fifth.. . .
+        Q. And also typical of Ghislaine Maxwell and Jeffrey Epstein to prostitute or pimp out
+        underage minors to friends? . . .
+        A. Fifth.22
+
+        Co-conspirator Jean Luc Brunel left a note for Epstein on a message pad saying he had a
+
+sixteen-year-old girl who could “teach Russian” to Epstein for “free.”23 Finally, Emmy Taylor,
+
+is photographed with Maxwell and Jeffrey Epstein on a trip to Europe with Ms. Giuffre when she
+
+was a minor, and the Dubins are on flight logs with Defendant and Epstein.24 Therefore, the
+
+communications with these individuals are relevant, and show the sexual trafficking.
+
+                 4.       Request No. 37: All Documents Reflecting Communications You Have
+                          Had With Bill Or Hillary Clinton (Or Persons Acting On Their Behalf),
+                          Including All Communications
+
+        Defendant has a history of avoiding deposition in relation to sex abuse claims. In 2009,
+
+Maxwell’s deposition was sought in connection with various sexual abuse allegations. Maxwell
+
+avoided her deposition, claiming her mother was ill, so she would be traveling outside the
+
+country with no plans of returning. Despite this claim to avoid her deposition, she was
+
+21
+   Contrary to Defendant’s claims, Sarah Kellen did not assert her Fifth Amendment rights in response to every
+question in her deposition. See McCawley Decl. at Exhibit 11, March 24, 2010 Deposition Transcript of Sarah
+Kellen.
+22
+   See McCawley Decl. at Exhibit 10, April 13, 2010 Deposition Transcript of Nadia Marcinkova at 34 and 48.
+23
+   See McCawley Decl. at Exhibit 10, April 13, 2010 Deposition Transcript of Nadia Marcinkova.
+24
+   See McCawley Decl. at Exhibit 12, Picture taken by Ms. Giuffre of Defendant Maxwell, Jeffrey Epstein, and
+Emmy Taylor while she is in Europe. See also McCawley Decl. at Exhibit 2, Flight logs.
+
+
+                                                         8
+photographed shortly thereafter in the United States at Chelsea Clinton’s wedding in Rhinebeck,
+
+New York.25 Most recently, when Ms. Giuffre attempted to meet and confer on the procedure
+
+for the production of her privilege log, Defendant refused to reach any agreement relating to the
+
+procedural issue unless Ms. Giuffre would cancel the Defendant’s deposition.
+
+        Further, other communications Defendant has had with the Clintons about Ms. Giuffre or
+
+the allegations in this case are also highly relevant, particularly given that former President
+
+Clinton travelled with Defendant, Jeffrey Epstein and others on Jeffrey Epstein’s plane a number
+
+of times, including a trip to Thailand. Maxwell admits that she has documents responsive to this
+
+request, and this Court should require her to produce them.
+
+                5.       Request No. 7: All Video Tapes, Audio Tapes, Photographs Or Other
+                         Print Or Electronic Media Relating To Females Under The Age Of 18
+                         From The Period Of 1999-Present.
+                         Request No. 15: All video tapes, audio tapes, photographs or any other
+                         print or electronic media taken at a time when you were in Jeffrey
+                         Epstein’s company or inside any of his residences or aircraft.
+
+        Regarding Request No. 7, Alfredo Rodriguez, Epstein’s former house manager, testified
+
+that Defendant kept naked pictures of girls on her computer.26 As explained in her moving brief,
+
+Ms. Giuffre is not seeking mainstream, legally available depictions of minors. She is seeking the
+
+photos described by Mr. Rodriguez and any other (non-family) under-age girls, including Ms.
+
+Giuffre, photographed or otherwise recorded by Defendant. Regarding Request No. 15, media
+
+depicting individuals in Epstein’s company or inside his residences or aircraft are relevant to Ms.
+
+Giuffre’s claims that she was trafficked to others.
+
+
+
+
+25
+   See McCawley Decl. at Exhibit 4, Maxwell Deposition Notice; Subpoena and Cancellation Payment Notice, and
+January 13, 2015 Daily Mail Article with photograph.
+26
+   See McCawley Decl. at Exhibit 13, Deposition Transcripts of Alfredo Rodriguez.
+
+
+                                                      9
+                   6.       Request No. 17: All Documents Relating To Communications With You
+                            And Ross Gow From 2005 – Present.
+
+           Defendant’s defamatory statements to the press were issued by Ross Gow, and it is the
+
+genesis of this action. Accordingly, requests seeking Defendant’s communications with Gow are
+
+reasonably calculated to lead to admissible evidence. Additionally, Ms. Giuffre only seeks
+
+documents from Ross Gow from 2005 - present, because Defendant had not been publically
+
+implicated in an underage sex trafficking ring prior to 2005. Therefore, any other
+
+communications with Mr. Gow prior to that time are irrelevant.
+
+                   7.       Request No. 8: All Documents Relating To Your Travel From The Period
+                            Of 1999- Present, Including But Not Limited To, Any Travel On Jeffrey
+                            Epstein’s Planes, Commercial Flights, Helicopters, Passport Records,
+                            Records Indicating Passengers Traveling With You, Hotel Records, And
+                            Credit Card Receipts.
+                            Request No. 33: All Travel Records Between 1999 And The Present
+                            Reflecting Your Presence In: (A) Palm Beach Florida Or Immediately
+                            Surrounding Areas; (B) 9 E. 71st Street, New York , NY 10021; (C) New
+                            Mexico; (D) U.S. Virgin Islands; (E) Any Jet Or Aircraft Owned Or
+                            Controlled By Jeffrey Epstein.
+                            Request No. 39: All documents reflecting training to fly a helicopter or
+                            experience flying a helicopter, including any records concerning your
+                            operation of a helicopter in the U.S. Virgin Islands.
+
+           These requests seek information about Defendant’s sexually trafficking of minors,
+
+including documents relating to her flying girls to be with Epstein.27 Related to the trafficking,
+
+Epstein’s Caribbean property is only reachable via helicopter or boat, and Defendant’s records of
+
+transporting underage girls or other individuals to that property are relevant to Ms. Giuffre’s
+
+claims of Defendant’s sexually trafficking her.
+
+                                                CONCLUSION
+
+           Plaintiff respectfully requests that the Court grant her Motion to Compel.
+
+
+
+
+27
+     Ms. Giuffre is in possession of some of Epstein’s private aircraft flight logs, but they are incomplete.
+
+                                                        10
+Dated: March 14, 2016
+
+                            Respectfully Submitted,
+
+                            BOIES, SCHILLER & FLEXNER LLP
+
+                        By: /s/ Sigrid McCawley
+                             Sigrid McCawley (Pro Hac Vice)
+                             Boies, Schiller & Flexner LLP
+                             401 E. Las Olas Blvd., Suite 1200
+                             Ft. Lauderdale, FL 33301
+                             (954) 356-0011
+
+                             David Boies
+                             Boies, Schiller & Flexner LLP
+                             333 Main Street
+                             Armonk, NY 10504
+
+                             Ellen Brockman
+                             Boies, Schiller & Flexner LLP
+                             575 Lexington Ave
+                             New York, New York 10022
+                             (212) 446-2300
+
+
+
+
+                              11
+                                CERTIFICATE OF SERVICE
+
+       I HEREBY CERTIFY that on March 14, 2016, I electronically filed the foregoing
+
+document with the Clerk of Court by using the CM/ECF system. I also certify that the foregoing
+
+document is being served this day on the individuals identified below via transmission of Notices
+
+of Electronic Filing generated by CM/ECF.
+
+       Laura A. Menninger, Esq.
+       HADDON, MORGAN & FOREMAN, P.C.
+       150 East 10th Avenue
+       Denver, Colorado 80203
+       Tel: (303) 831-7364
+       Fax: (303) 832-2628
+       Email: lmenninger@hmflaw.com
+
+
+                                                    /s/ Sigrid S. McCawley
+                                                        Sigrid S. McCawley
+
+
+
+
+                                               12
+

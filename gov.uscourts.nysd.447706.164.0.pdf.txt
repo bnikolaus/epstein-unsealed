@@ -1,0 +1,1308 @@
+                             UNITED STATES DISTRICT COURT
+                            SOUTHERN DISTRICT OF NEW YORK
+
+
+--------------------------------------------------X
+
+
+
+
+                                              ..
+                                              .............................................
+VIRGINIA L. GIUFFRE,
+
+        Plaintiff,
+v.
+                                                                                                        15-cv-07433-RWS
+GHISLAINE MAXWELL,
+
+        Defendant.
+
+
+--------------------------------------------------X
+
+
+
+
+     MOTION TO COMPEL ALL ATTORNEY-CLIENT COMMUNICATIONS AND
+                      ATTORNEY WORK PRODUCT
+           PLACED AT ISSUE BY PLAINTIFF AND HER ATTORNEYS
+
+
+
+
+                                                                                              Laura A. Menninger
+                                                                                              Jeffrey S. Pagliuca
+                                                                                              HADDON, MORGAN, AND FOREMAN, P.C.
+                                                                                              East 10th Avenue
+                                                                                              Denver, CO 80203
+                                                                                              303.831.7364
+                                                TABLE OF CONTENTS
+
+TABLE OF AUTHORITIES ....................................................................................................... ii
+
+CERTIFICATE OF CONFERRAL ............................................................................................ 1
+
+INTRODUCTION......................................................................................................................... 1
+
+BACKGROUND FACTS RELEVANT TO DISPUTE ................................................................. 2
+
+     1. Correspondence re: Jane Doe #1 and Jane Doe #2 v. United States.................................... 2
+     2. Correspondence re: Giuffre v. Maxwell, 15-cv-07433-RWS .............................................. 2
+     3. Correspondence re: Bradley Edwards and Paul Cassell v. Alan Dershowitz ...................... 3
+     4. Correspondence re: Jane Doe No. 102 v. Jeffrey Epstein.................................................... 3
+     5. Categorical Entry re: correspondence potential legal action against entities and individuals
+        3
+
+I.        The Attorney-Client and Work Product Privilege Standards and Limitations ............. 7
+
+     a. The Attorney-Client Privilege .............................................................................................. 7
+     b. Work Product Privilege ....................................................................................................... 7
+
+II.       Plaintiff and her Attorneys Waived Attorney-Client and Work Product Privileges by
+          Putting Plaintiff’s Representation At Issue in the Dershowitz Case ............................... 8
+
+     a. Plaintiff’s Waiver of the Attorney-Client Privilege ........................................................... 10
+     b. Edwards and Cassell’s Waivers of Attorney-Client and Work Product Privilege in the
+          Dershowitz Case ............................................................................................................ 15
+     c.    The elements for finding an at issue waiver are satisfied .................................................. 18
+
+III. There is No Privilege as to Communications with Scarola ............................................ 22
+
+     a. There is no Attorney-Client Relationship .......................................................................... 22
+     b. Work Product Privilege has been Waived ......................................................................... 23
+     c.    There is no basis to claim common interest or joint defense privilege .............................. 23
+
+CONCLUSION ............................................................................................................................. 24
+
+CERTIFICATE OF SERVICE ..................................................................................................... 25
+
+
+                                                                     i
+                                                  TABLE OF AUTHORITIES
+
+
+Bank Brussels Lambert v. Credit Lyonnais (Suisse), S.A., 210 F.R.D. 506, 509-10 (S.D.N.Y.
+  2002) ........................................................................................................................................... 9
+
+Bowne of New York City, Inc. v. AmBase Corp., 150 F.R.D. 465, 488 (S.D.N.Y. 1993) ....... 15, 21
+
+Calvin Klein Trademark Trust v. Wachner, 198 F.R.D. 53, 55 (S.D.N.Y. 2000) .......................... 8
+
+Chevron Corp. v. Salazar, 275 F.R.D. 437, 445-46 (S.D.N.Y. 2011) .......................................... 10
+
+Chin v. Rogoff & Co., P.C., No. 05 CIV. 8360(NRB), 2008 WL 2073934, at *6 (S.D.N.Y. May
+  8, 2008) ..................................................................................................................................... 21
+
+Drimmer v. Appleton, 628 F.Supp. 1249, 1252 (S.D.N.Y.1986) .................................................. 20
+
+
+
+In re Horowitz, 482 F.2d 72, 82 (2d Cir.) ..................................................................................... 20
+
+In re von Bulow, 828 F.2d . ..................................................................................................... 15, 20
+
+In re. Steinhardt Partners, 9 F.3d 230, 235 (2d Cir. 1993) …………………………………….9
+
+Koumoulis v. Indep. Fin. Mktg. Grp., Inc., 295 F.R.D. 28, 39-40 (E.D.N.Y. 2013). ..................... 9
+
+McGrath v. Nassau Cty. Health Care Corp., 204 F.R.D. 240, 244 (E.D.N.Y. 2001) .............. 9, 22
+
+Schaeffler v. United States, 806 F.3d 34, 40 (2d Cir.2015)………………………………..........16
+
+S.E.C. v. Yorkville Advisors, LLC, 300 F.R.D. 152, 162 (S.D.N.Y. 2014) ................................... 25
+
+United States ex rel Edney v. Smith, 425 F.Supp. 1038, 1052 (E.D.N.Y. 1976) .......................... 20
+
+United States v. Bilzerian, 926 F.2d 1285, 1292 (2d Cir.1991 ................................................. 9, 15
+
+United States v. Mejia, 655 F.3d 126, 132 (2d Cir. 2011) .............................................................. 8
+
+
+                                                                         ii
+United States v. Nobles, 422 U.S. 225, 238 (1975). ....................................................................... 9
+
+United States v. Schmidt, 105 F.3d 82, 89 (2d Cir. 1997) ............................................................ 15
+
+Upjohn Co. v. United States, 449 U.S. 383, 389 (1981) ................................................................. 8
+
+Urban Box Office Network, Inc. v. Interfase Managers, L.P., No. 01 Civ. 8854, 2004 WL
+  2375819, at *3–4 (S.D.N.Y. Oct. 21, 2004) ............................................................................. 10
+
+Wultz v. Bank of China Ltd., 304 F.R.D. 384, 391 (S.D.N.Y.2015) ......................................... 8, 24
+
+
+
+
+                                                            iii
+       Defendant Ghislaine Maxwell (“Ms. Maxwell”) files this Motion to Compel All
+
+Attorney-Client Communications and Attorney Work Product Placed At Issue By Plaintiff and
+
+Her Attorneys (“Motion”), and as grounds therefore states as follows:
+
+                               CERTIFICATE OF CONFERRAL
+
+       Pursuant to Federal Rule of Civil Procedure 37(a)(1), undersigned counsel certifies that
+
+she conferred with opposing counsel regarding the issues contained herein and was unable to
+
+resolve the matter.
+
+                                        INTRODUCTION
+
+       Plaintiff and her attorneys have tied a Gordian knot of overlapping litigations, client
+
+representations and joint defense agreements. Through these multiple litigations and
+
+representations, they attempt to strategically leverage attorney-client communications and
+
+attorney work product to their tactical advantage by selectively disclosing information.
+
+Simultaneously, they desperately seek to avoid disclosure of related materials they know are
+
+unfavorable, would destroy Plaintiff’s claim that she has been truthful, and reveal her attorneys’
+
+knowledge of Plaintiff’s false statements in multiple sworn filings and her concerted media
+
+campaign. The law, however, does not permit such a manipulation of the attorney-client and
+
+work product privileges. Rather, the selective disclosure of privileged materials results in a
+
+waiver of privilege as to all such material. This waiver is broad-sweeping when, as here, the
+
+persons asserting the privileges have affirmatively put the subject matter of the materials at issue.
+
+       In the most recent of their serial litigations (apart from this case), Plaintiff’s own
+
+attorneys Bradley Edwards (“Edwards) and Paul Cassell (“Cassell”) sued Harvard Law Professor
+
+Alan Dershowitz (“Dershowitz”) for defamation in Florida state court. The subject matter of that
+
+litigation concerned whether Mr. Dershowitz defamed Plaintiff’s attorneys by claiming
+
+a) Plaintiff is lying; b) Edwards and Cassell knew Plaintiff is lying; c) Edwards and Cassell helped
+                                                  1
+Plaintiff lie and helped her concoct her stories; d) Edwards and Cassell failed to properly
+
+investigate Plaintiff’s allegations before filing pleadings and sworn statements on Plaintiff’s
+
+behalf; and e) Edwards and Cassell were motivated to take these actions by a desire to achieve
+
+personal economic gain. This litigation put at issue all communications between Plaintiff and
+
+her attorneys as well as her attorneys’ complete work product in the investigations of Plaintiff’s
+
+stories and accusations. The truth of the matters put at issue in the Dershowitz litigation can only
+
+be tested by examination of privileged materials, resulting in a sweeping waiver.
+
+
+                    BACKGROUND FACTS RELEVANT TO DISPUTE
+
+       In her privilege log, Plaintiff has “categorically” logged five separate groups of
+
+documents she has withheld on the basis of “AC Privilege and Work Product/joint
+
+defense/common interest.” The documents are identified as:
+
+
+       1.    Correspondence re: Jane Doe #1 and Jane Doe #2 v. United States, Case No. 08-
+       80736-CIV-Marra, pending in the Southern District of Florida. ("CVRA Case")
+
+       Plaintiff withheld documents purportedly to and from her attorneys (and others) related to
+       legal advice regarding the CVRA Case (to which Plaintiff is not a party), and documents
+       purportedly giving attorney mental impressions related to the CVRA Case and
+       “evidence” related thereto. Declaration of Laura A. Menninger (“Menninger Decl..”),
+       Exhibit A.
+
+               (i) The date range of the documents is 2011 – Present. Id.
+              (ii) Persons identified as involved in the communications are: Plaintiff Virginia
+                   Giuffre (“Giuffre”), Brad Edwards (“Edwards”), Paul Cassell (“Cassell”),
+                   Brittany Henderson (“Henderson”), Sigrid McCawley (“McCawley”),
+                   Meredith Schultz (“Shultz”), David Boies (“Boies”), Jack Scarola (“Scarola”),
+                   Stan Pottinger (“Pottinger”), Ellen Brockman (“Brockman”), Legal Assistants
+                   (“Legal Assistants”), Professionals retained by attorneys to aid in the rendition
+                   of legal advice and representation (“Other Professionals”). Id.
+
+       2.     Correspondence re: Giuffre v. Maxwell, 15-cv-07433-RWS, pending in the
+       Southern District of New York (“Maxwell Case”). Id.
+
+              (i) The date range of the documents is September 21, 2015– Present. Id.
+
+                                                 2
+              (ii) Persons identified as involved in the communications are: Giuffre, Edwards
+                   Cassell, Henderson, McCawley, Schultz, Boies, Pottinger, Stephen Zach
+                   (“Zach”), Brockman, Legal Assistants and Other Professionals. Id.
+
+       3.     Correspondence re: Bradley Edwards and Paul Cassell v. Alan Dershowitz
+       (“Dershowitz Case”), Case No. 15000072, pending in the Seventeenth Judicial Circuit,
+       Broward County, Florida. (“Dershowitz Case”). Id.
+
+               (i) The date range of the documents is January 2015 -Present. Id.
+              (ii) Persons identified as involved in the communications are: Giuffre, Edwards
+                   Cassell, Henderson, McCawley, Schultz, Boies, Pottinger, Zach, Brockman,
+                   Legal Assistants and Other Professionals. Id.
+
+       4.     Correspondence re: Jane Doe No. 102 v. Jeffrey Epstein (“Epstein Case”), Case
+       No. 09-80656-CIV-Marra/Johnson (Southern District of Florida) (“Epstein case”)
+
+               (i) The date range of the documents is 2009 – Present
+              (ii) Persons identified as involved in the communications are: Giuffre, Bob
+                   Josefsberg, Katherine W. Ezell, Amy Ederi, other Podhurst attorneys, Legal
+                   Assistants, and Professionals retained by attorneys to aid in the rendition of
+                   legal advice. Id.
+
+       5.      “This categorical entry is regarding correspondence potential legal action against
+       entities and individuals.” (same description re potential litigation)
+
+               (i) The date range of the documents is from January 2015 –Present.
+              (ii) Persons identified as involved in the communications are: Giuffre, Edwards
+                   Cassell, Henderson, McCawley, Schultz, Boies, Pottinger, Zach, Brockman,
+                   Legal Assistants and Other Professionals.
+
+       Plaintiff is withholding “Approx. 1.3 kilobytes [of documents] overlapping with other
+
+cases” based on the categorically logged entries in Paragraph 1.
+
+       According to her most recent interrogatory response, Plaintiff has been represented in
+
+various litigation matters identified above as follows:
+
+       (a)     Pottinger, Boies, and McCawley (along with other Boies Schiller & Flexner LLP
+       (“Boies Schiller”) attorneys represent Ms. Giuffre as a non-party in the Dershowitz Case,
+       starting in February 2015.
+
+       (b)     Edwards (along with other Farmer, Jaffe, Weissing, Edwards, Fistos & Lehrman,
+       P.L. attorneys), Cassell, Pottinger, Boies and McCawley and Boies Schiller attorneys
+       represent Ms. Giuffre in the Maxwell case, “the complaint of which was filed in
+       September, 2015.” Id.
+
+
+                                                 3
+           (c)    Cassell represents Ms. Giuffre as a non-party in the CVRA Case, starting in May
+           of 2014. Id.
+
+           (d)   Edwards and other Farmer, Jaffe attorneys represent Ms. Giuffre as a non-party in
+           the CVRA Case, starting in 2011. Id.
+
+           (e)     Cassell provided Ms. Giuffre with legal advice concerning potential legal action
+           starting in early 2011. Id.
+
+           (f)    Cassell, Edwards and other Farmer, Jaffe attorneys, Pottinger, Boies (along with
+           other Boies Schiller attorneys) represent Ms. Giuffre regarding investigations into
+           potential legal action starting in the second half of 2014. Id.
+
+           (g)    According to Plaintiff, she has never been represented by Scarola.
+
+           Menninger Decl., Ex. B at 4.
+
+           The CVRA Case
+
+           In the CVRA Case, Edwards (starting in 2011) and Cassell (starting in May 2014) have
+
+represented Plaintiff in attempting to obtain joinder in the pending action. On December 30,
+
+2014, Cassell and Edwards filed a pleading titled "Jane Doe #3 and Jane Doe #4's Motion
+
+Pursuant to Rule 21 for Joinder in Action" in the CVRA Case. Menninger Decl., Ex C (the
+
+"Joinder Motion"). The Joinder Motion contained a number of allegations on behalf of “Jane
+
+Doe # 3,” who is actually Ms. Giuffre, the Plaintiff in this case. The allegations include that
+
+“Epstein also sexually trafficked the then-minor Jane Doe [#3], making her available for sex to
+
+politically-connected and financially-powerful people." The "politically-connected and
+
+financially powerful people" identified by Edwards and Cassell by name in the Joinder Motion
+
+as having had sexual relations with Jane Doe #3 were Prince Andrew, Duke of York ("Prince
+
+Andrew"), Ms. Maxwell, Jean Luc Brunel ("Brunel") and Alan Dershowitz (“Dershowitz”). Id.
+
+at 3-6.1
+
+
+1
+  The judge in the CVRA case subsequently struck these allegations, stating “[a]t this juncture in the proceedings,
+these lurid details are unnecessary to the determination of whether Jane Doe 3 and Jane Doe 4 should be permitted
+to join Petitioners’ claim that the Government violated their rights under the CVRA. The factual details regarding
+with whom and where the Jane Does engaged in sexual activities are immaterial and impertinent to this central claim
+
+                                                        4
+        Following the Joinder Motion, Dershowitz made numerous public appearances in which
+
+he vigorously denied the allegations, stated that Edwards and Cassell “are lying deliberately,”
+
+and that if Cassell and Edwards “had just done an hours’ worth of work, they would have seen
+
+she [Plaintiff] is lying through her teeth.” See Menninger Decl., Ex. E at 9-10.
+
+        The Dershowitz Case
+
+        On January 6, 2015, Edwards and Cassell initiated litigation against Dershowitz - the
+
+Dershowitz Case. See Menninger Decl., Ex. F.
+
+        In the Dershowitz Case, Edwards and Cassell sued Dershowitz for defamation claiming
+
+that Dershowitz’s public statements – that they and their client were lying and that they failed to
+
+investigate their client’s claims – were false. The Complaint by Edwards and Cassell alleged that
+
+“[i]mmediately following the filing of what Dershowitz knew to be an entirely proper and well-
+
+founded pleading, Dershowitz initiated a massive public media assault on the reputation and
+
+character of Bradley J. Edwards and Paul G. Cassell accusing them of intentionally lying in their
+
+filing, of having leveled knowingly false accusations against the Dershowitz without ever
+
+conducting any investigation of the credibility of the accusations, and of having acted unethically
+
+to the extent that their willful misconduct warranted and required disbarment.” Menninger Decl.,
+
+Ex. F, ¶ 17.
+
+        Edwards and Cassell claimed as false Dershowitz’s statements that “Edwards and Cassell
+
+failed to minimally investigate the allegations advanced on behalf of their client [Virginia
+
+Giuffre] and even that they sat down with her to contrive the allegations.” Menninger Decl., Ex.
+
+E at 9. During the Dershowitz litigation, Edwards and Cassel responded to interrogatories and
+
+requests for production issued by Dershowitz. Menninger Decl., Ex. G. Interrogatory No.1 asked:
+
+(i.e., that they were known victims of Mr. Epstein and the Government owed them CVRA duties), especially
+considering that these details involve non-parties who are not related to the respondent Government. These
+unnecessary details shall be stricken.” See Menninger Decl., Ex. D.
+
+                                                        5
+“State verbatim or as close as possible Each statement by Dershowitz that You assert defamed You,”
+
+to which Edwards and Cassel responded with nine pages of statements made by Dershowitz in the
+
+press where Dershowitz states: 1) Plaintiff is lying; 2) Edwards and Cassel know Plaintiff is lying; 3)
+
+Edwards and Cassel helped Plaintiff lie and “put words in her mouth”; and 4) Edwards and Cassel
+
+failed to properly investigate Plaintiff’s allegations before publicizing Plaintiff’s statements.
+
+Menninger Decl., Ex. G at 3-11.
+
+        Edwards and Cassell further stated that the listed Dershowitz press statements were
+
+defamatory because “[t]he factual assertions contained or implied in the statements quoted in
+
+answer to Interrogatory Number 1 were not true, notably with regard to claims that Edwards and
+
+Cassell were deliberately lying, had failed to conduct an investigation of the allegations before
+
+filing them, had manipulated or conspired with Jane Doe No. 3 to make intentionally false
+
+allegations about Mr. Dershowitz, and that Plaintiffs were motivated to participate in the filing of
+
+knowingly false accusations against the Defendant by a desire to achieve personal economic
+
+gain.” Menninger Decl., Ex. G at 11, Response to Interrog. 2.
+
+        At the time the Dershowitz Case was filed, Edwards, Cassell and Boies represented
+
+Plaintiff regarding “potential litigations.” See supra at ¶ 3f.
+
+        Plaintiff, Edwards and Cassell claim to be in a joint defense or common interest
+
+agreement relating to the Dershowitz Case (Menninger Decl., Ex. H at 205:19-206:7), although
+
+no such agreement has ever been produced.
+
+        Plaintiff and her counsel actively participated in the Dershowitz Case. Plaintiff provided
+
+a declaration in the Dershowitz Case in support of the claims against Dershowitz. Menninger
+
+Decl., Ex. I. Plaintiff also sat for a deposition in the Dershowitz Case and testified in a manner
+
+expected to support Edwards’ and Cassell’s claims. Menninger Decl., Ex. H. Her counsel filed
+
+12 pleadings in that matter.
+
+                                                    6
+I.     The Attorney-Client and Work Product Privilege Standards and Limitations
+
+           a. The Attorney-Client Privilege
+
+       “The attorney-client privilege protects communications (1) between a client and his or
+
+her attorney (2) that are intended to be, and in fact were, kept confidential (3) for the purpose of
+
+obtaining or providing legal advice.” United States v. Mejia, 655 F.3d 126, 132 (2d Cir. 2011).
+
+The purpose of the privilege “is to encourage full and frank communication between attorneys
+
+and their clients and thereby promote broader public interests in the observance of law and
+
+administration of justice.” Upjohn Co. v. United States, 449 U.S. 383, 389 (1981). “In order to
+
+balance this protection of confidentiality with the competing value of public disclosure, however,
+
+courts apply the privilege only where necessary to achieve its purpose and construe the privilege
+
+narrowly because it renders relevant information undiscoverable.” Mejia, 655 F.3d at 132.
+
+Because the privilege “stands in derogation of the search for truth so essential to the effective
+
+operation of any system for justice ... the privilege must be narrowly construed.” Calvin Klein
+
+Trademark Trust v. Wachner, 198 F.R.D. 53, 55 (S.D.N.Y. 2000) (citing United States v. Nixon,
+
+418 U.S. 683, 710 (1974)). “The party invoking the privilege also has the burden to show that the
+
+privilege has not been waived.” Wultz v. Bank of China Ltd., 304 F.R.D. 384, 391
+
+(S.D.N.Y.2015).
+
+
+           b. Work Product Privilege
+
+       The work-product privilege protects documents either created by counsel or at counsel's
+
+directive, in anticipation of litigation. See In re Grand Jury Subpoenas Dated March 19, 2002 &
+
+August 2, 2002, 318 F.3d 379, 383 (2d Cir. 2003). The attorney work-product privilege “shelters
+
+the mental processes of the attorney, providing a privileged area within which he can analyze and
+
+prepare his client's case.” United States v. Nobles, 422 U.S. 225, 238 (1975). Again, the party
+
+                                                  7
+asserting the work-product privilege “bears the heavy burden of establishing its applicability.” In
+
+re Grand Jury Subpoena Dated July 6, 2005, 510 F.3d 180, 183 (2d Cir. 2007). Work product
+
+“includes both opinion work product, such as an attorney's mental impressions or legal theories,
+
+and fact work product, such as factual investigation results.” Koumoulis v. Indep. Fin. Mktg.
+
+Grp., Inc., 295 F.R.D. 28, 39-40 (E.D.N.Y. 2013), aff'd, 29 F. Supp. 3d 142 (E.D.N.Y. 2014).
+
+“Both the attorney-client and work-product privileges may be waived if a party puts the
+
+privileged communication at issue by relying on it to support a claim or defense.” Id.
+
+
+II.    Plaintiff and her Attorneys Waived Attorney-Client and Work Product Privileges
+       by Putting Plaintiff’s Representation At Issue in the Dershowitz Case
+
+       “The [attorney-client] privilege may implicitly be waived when [a party] asserts a claim
+
+that in fairness requires examination of protected communications.” United States v. Bilzerian,
+
+926 F.2d 1285, 1292 (2d Cir.1991); see also McGrath v. Nassau Cty. Health Care Corp., 204
+
+F.R.D. 240, 244 (E.D.N.Y. 2001) (“Parties may waive any work product protection by putting
+
+the privileged information at issue”). Courts determine whether a subject matter has been placed
+
+at issue based on whether “(1) assertion of the privilege was a result of some affirmative act,
+
+such as filing suit, by the asserting party; (2) through this affirmative act, the asserting party put
+
+the protected information at issue by making it relevant to the case; and (3) application of the
+
+privilege would have denied the opposing party to information vital to his defense.” Bank
+
+Brussels Lambert v. Credit Lyonnais (Suisse), S.A., 210 F.R.D. 506, 509-10 (S.D.N.Y. 2002)
+
+(quoting Hearn v. Rhay, 68 F.R.D. 574, 581 (E.D.Wash.1975)). “[C]ourts have generally
+
+applied the Hearn [at issue] doctrine liberally, finding a broad waiver of attorney-client privilege
+
+where a party asserts a position “the truth of which can only be assessed by examination of the
+
+privileged communication.” Bank Brussels Lambert, 210 F.R.D. at 508.
+
+
+
+                                                   8
+       After a party voluntarily discloses attorney-client communications or work-product
+
+information “to an adversary in one proceeding, it cannot withhold the same documents on the
+
+basis of privilege in a subsequent proceeding, even if that subsequent proceeding involves a
+
+different adversary.” Chevron Corp. v. Salazar, 275 F.R.D. 437, 445-46 (S.D.N.Y. 2011); see
+
+also In re Steinhardt Partners, 9 F.3d 230, 235 (2d. Cir. 1993) (“The waiver doctrine provides
+
+that voluntary disclosure of work product to an adversary waives the privilege as to other parties
+
+[in a subsequent proceeding].”); Urban Box Office Network, Inc. v. Interfase Managers, L.P.,
+
+No. 01 Civ. 8854, 2004 WL 2375819, at *3–4 (S.D.N.Y. Oct. 21, 2004) (applying same principle
+
+to waive attorney-client privilege). This, of course, makes sense because “where a party
+
+voluntarily undertakes actions that will predictably lead to the disclosure of [a] document, then
+
+waiver will follow.” Chevron Corp., 275 F.R.D. at 445-46 (internal citations omitted).
+
+       “The scope of the attorney-client privilege waiver is determined on a case by case basis
+
+by considering the context of the waiver and the prejudice caused to the other party by permitting
+
+partial disclosure of privileged communications.” McGrath, 204 F.R.D. at 244 (E.D.N.Y. 2001)
+
+(citing In re Grand Jury Proceedings, 219 F.3d 175, 190 (2d Cir.2000)). “As in the attorney-
+
+client context, fairness and prejudice concerns define the scope of any work product waiver.” Id.
+
+at 192. Factors considered by the Second Circuit to find a broad waiver appropriate include
+
+“(1) whether substantive information has been revealed; (2) prejudice to the opposing party
+
+caused by partial disclosure; (3) whether partial disclosure would be misleading to a court; (4)
+
+fairness; and (5) consistency.” Id.
+
+
+
+
+                                                 9
+             a. Plaintiff’s Waiver of the Attorney-Client Privilege
+
+          Edwards and Cassell sued Dershowitz for defamation claiming that Dershowitz’s public
+
+statements about their representation of client were false. At the time those claims were filed,
+
+Edwards and Cassell represented Plaintiff in the CVRA Case. She was also represented by
+
+Edwards, Cassell and Boies regarding “potential litigation.” The statements Edwards and
+
+Cassell claimed as false included that “Edwards and Cassell failed to minimally investigate the
+
+allegations advanced on behalf of their client [Virginia Giuffre] and even that they sat down with
+
+her to contrive the allegations.” The allegations Edwards and Cassell failed to minimally
+
+investigate and/or contrived where the allegations made by Plaintiff in the CVRA Joinder
+
+Motion. Dershowitz counterclaimed against Edwards and Cassell suing them for 1) the
+
+publication of the false allegations of Giuffre in the Joinder Motion and 2) defamation for their
+
+extra-judicial false statements concerning Dershowitz and his alleged involvement with Giuffre.
+
+         Plaintiff and her counsel McCawley actively participated in the Dershowitz Case and
+
+affirmatively waived any attorney-client privilege over Plaintiff’s communications. Plaintiff
+
+produced documents, sat for a deposition (Menninger Decl., Ex. H) and provided a sworn
+
+declaration (Menninger Decl., Ex. I). Through her participation in the case, Plaintiff specifically
+
+discussed her communications with Edwards and Cassell. In her sworn declaration, she
+
+discussed the following attorney communications:
+
+
+        Her conversation with Brad Edwards in 2011 when she first told him her story. This was
+         followed by a telephone conversation with Edwards and his attorney, Scarola, which was
+         recorded with her knowledge and consent and which has been filed in multiple court
+         papers and given to the press2 (Menninger Decl., Ex I at ¶ 55-56);
+
+
+2
+ Edwards participated in this call as Plaintiff’s attorney. Plaintiff believed that the conversation was covered by
+attorney-client privilege. See Menninger Decl., Ex. J, (email between Plaintiff and Sharon Churcher crafting
+communication to Edwards regarding publication of privileged communication). Yet, when the conversation was
+sent to the press, and used in later court filings, Plaintiff did nothing to stop the publication of this privileged
+
+                                                          10
+        Her discussions with Edwards and Cassell of her representation in the CVRA Case (id. at
+         ¶ 61);
+
+        Her directions to counsel to pursue criminal charges (id. at ¶ 65);
+
+        In her conversations with her attorneys “no one” has “pressured” her to identify
+         Dershowitz as a person who allegedly abused her (id. at ¶ 67);
+
+        Her authorization to her attorney to file various affidavits including her stories (id. at
+         ¶ 67);
+
+        Her attorneys’ belief in the truth of her statements (id. at ¶ 68).
+
+
+         Plaintiff’s waiver of her attorney-client privilege was solidified during her deposition in
+
+the Dershowitz Case. At the conclusion of questioning by Dershowitz’s counsel, and after off
+
+the records discussions between and among McCawley, Edwards, Cassell and Jack Scarola
+
+(counsel for Edwards and Cassell), Mr. Scarola then asked Plaintiff a series of questions directly
+
+discussing her communications with her counsel. McCawley made no objection and Plaintiff
+
+responded to each question. Scarola asked if Edwards pressured or encouraged her to lie:
+
+
+
+
+Menninger Decl., Ex. H at 202:5-202:12. Scarola asked similar questions concerning Cassell.
+
+Id. at 202-03. The questioning, however, was not limited to Plaintiff’s conversations with
+
+Edwards and Cassell. Scarola’s final question, again answered without objection by McCawley,
+
+was:
+
+communication. This alone is sufficient to waive the attorney-client privilege communication as between Edwards
+and Plaintiff. See infra, p. 19-20.
+
+                                                       11
+Menninger Decl., Ex. H at 203:18-204:7.
+
+       There is no mechanism by which Plaintiff could respond to any of these questions with
+
+the answer “never” unless she is recollecting and relying on the content of each and every
+
+communication she had with Edwards, Cassell and any other person (including each and every
+
+one of her attorneys) about the “topics covered” in the deposition. The topics covered in the
+
+deposition were wide ranging including the full breadth of statements she and her counsel had
+
+made in the CVRA Case, identification of the “high powered” individuals with whom she claims
+
+to have had sexual relations, when and how she allegedly met Epstein, the timing and specifics
+
+of her alleged encounters with Dershowitz, Prince Andrew, Maxwell and others, and her
+
+interviews with and statements to media outlets. In other words, the topics included every story
+
+Plaintiff has ever told concerning the time she claims she was a “sex slave.”
+
+       Notably, the Special Master overseeing Plaintiff’s deposition in the Dershowitz Case
+
+immediately recognized the waiver. On re-direct, the following colloquy occurred:
+
+
+
+
+                                                12
+Menninger Decl., Ex. H at 205:15-206:10.
+
+       This testimony directly placed Plaintiff’s attorney-client communications and work
+
+product at issue in the Dershowitz Case. Edwards and Cassell took the affirmative position that
+
+Dershowitz’s statements that Edwards and Cassell helped Plaintiff fabricate her stories were
+
+false and defamatory. See Menninger Decl., Ex E, p. 2 (“Dershowitz went so far as to repeatedly
+
+accuse Edwards and Cassell of criminal misconduct in actively suborning perjury and fabricating
+
+the allegations of misconduct against him - acts that would warrant their disbarment from the
+
+legal profession. . . . Put simply, Dershowitz has made highly defamatory allegations that have
+
+no basis in fact”). Communications between Plaintiff and her attorney were a central issue in the
+
+claims brought by Edwards and Cassell, and Plaintiff voluntarily testified regarding those
+
+communications.
+
+       Plaintiff was acutely aware of how the information was being utilized in the Dershowitz
+
+Case. According to Plaintiff, she is a party to a joint defense or common interest agreement with
+
+Messrs. Edwards and Cassell. When the Dershowitz Case was filed, a mere week after the filing
+
+of the Joinder Motion on Plaintiff’s behalf, Edwards and Cassell represented Plaintiff, who
+
+Dershowitz had also threatened to sue. Thus, Edwards and Cassell allegedly act both as
+
+Plaintiff’s attorneys and her joint-defense or common interest partners. Plaintiff was aware that
+
+what was, or in this case was allegedly not, said between her and her attorney would be
+
+affirmatively used by her counsel/joint defense partners in support of their claims. She
+
+authorized the disclosure and testified, both with the assistance of McCawley.
+
+                                                13
+       Plaintiff, on behalf of her joint defense partners, provided evidence to support the factual
+
+claim neither Edwards or Cassell (nor anyone else) asked Plaintiff to lie about her stories of
+
+alleged sexual abuse and trafficking. The only way the truth of that issue can be tested is
+
+through the examination of all her communications about her stories, with attorneys or
+
+otherwise. See Bowne v. AmBase Corporation, 150 F.R.D. 465, 488 (S.D.N.Y.1993), aff'd by
+
+161 F.R.D. 258 (S.D.N.Y.1995) (otherwise privileged communications put in issue where party
+
+“asserts a factual claim the truth of which can only be assessed by examination of a privileged
+
+communication”); United States v. Bilzerian, 926 F.2d 1285, 1292 (2d Cir.1991) (“[a] defendant
+
+may not use the privilege to prejudice his opponent's case or to disclose some selected
+
+communications for self-serving purposes. Thus, the privilege may implicitly be waived when
+
+defendant asserts a claim that in fairness requires examination of protected communications.”);
+
+In re von Bulow, 828 F.2d at 101–02 (“[I]t has been established law for a hundred years that
+
+when the client waives the privilege by testifying about what transpired between her and her
+
+attorney, she cannot thereafter insist that the mouth of the attorney be shut. From that has grown
+
+the rule that testimony as to part of a privileged communication, in fairness, requires production
+
+of the remainder.”); United States v. Schmidt, 105 F.3d 82, 89 (2d Cir. 1997) (criminal defendant
+
+who testified that she was never advised by her attorney of the fifth amendment implications of
+
+proceeding pro se put at issue all communications with her former attorney and her knowledge
+
+of the law as informed by her attorney-client communications).
+
+       “[T]he attorney-client privilege cannot at once be used as a shield and a sword. . . . A
+
+defendant may not use the privilege to prejudice his opponent's case or to disclose some selected
+
+communications for self-serving purposes.” Bilzerian, 926 F.2d 1285, 1292 (2d Cir. 1991)
+
+(internal citations omitted); Locascio, 357 F.Supp.2d 536, 550 (E.D.N.Y. 2004) (“The privilege
+
+
+                                                14
+may not simultaneously be used as a shield and a sword; where a defendant opens the door by
+
+waiving the attorney-client privilege, . . . the [party] cannot open the door only to the information
+
+he would like to admit.”) Plaintiff has used her attorney communications as a sword on behalf of
+
+her joint defense partners, and therefore her communications with her attorneys are no longer
+
+shielded.
+
+       Plaintiff also testified that she shared her conversations and communications with
+
+Edwards to unrelated third parties. In particular, she shared her communications with a reporter
+
+for the Daily Mail Online, Sharon Churcher. See Menninger Decl., Ex. K, at 297:5-300:6. There
+
+is no doubt that sharing attorney-client communications with a third-party, particularly when that
+
+third party is a member of the press, acts to waive any claim of privilege. Schaeffler v. United
+
+States, 806 F.3d 34, 40 (2d Cir.2015). (“A party that shares otherwise privileged communications
+
+with an outsider is deemed to waive the privilege by disabling itself from claiming that the
+
+communications were intended to be confidential.”).
+
+
+            b. Edwards and Cassell’s Waivers of Attorney-Client and Work Product Privilege in
+               the Dershowitz Case
+
+       In addition to Plaintiff’s direct waiver, Plaintiff’s counsel/joint defense partners Edwards
+
+and Cassell waived both attorney-client privilege and protection of their work product by putting
+
+those matters at issue in the Dershowitz Case. The scope of the subject matter put at issue in the
+
+Dershowitz Case could not be broader. Edwards and Cassell pleaded and argued at every
+
+conceivable turn that: 1) they had a good faith belief that Ms. Giuffre’s allegations –
+
+communicated to them by Giuffre -- were true; 2) they conducted a thorough investigation of
+
+Ms. Giuffre’s claims (their work product regarding Plaintiff and her allegations); 3) that Ms.
+
+Giuffre and her story were credible; 4) they did not have any communications or encourage
+
+
+                                                 15
+Plaintiff to fabricate facts or portions of her stories; and 5) they were not motivated in taking
+
+their actions by potential financial gain . Edwards and Cassell point to both communications
+
+with Plaintiff and their own work product in an attempt to prove their claims.
+
+       By way of example, in the Motion for Summary Judgement in the Dershowitz Case,
+
+Edwards and Cassell make the following assertions, citing attorney-client-privileged
+
+communications and work product documents in support of their claims and defenses:
+
+
+      “Ms. Giuffre has submitted a sworn affidavit, not only attesting to the truthfulness of her
+       allegations against Dershowitz but also about the fact that she told her lawyers about
+       these claims.” (emphasis supplied) (attorney-client communications);
+      “The assertions of sexual abuse are more than adequately corroborated by compelling
+       circumstantial evidence which is detailed at length by Cassell in his deposition.” (work
+       product/investigations);
+      “Regardless of whether Dershowitz sexually abused Ms. Giuffre, Edwards and Cassell
+       clearly had a good faith basis for relying on the sworn representations of their client.”
+       (attorney-client communications, attorney thought process);
+      “Edwards and Cassell had clearly conducted extensive investigation into the basis for Ms.
+       Giuffre's allegations” (work product);
+      “the undisputed record evidence establishes that Edwards and Cassell had every right
+       following their detailed investigation to rely on Ms. Giuffre's credibility” (attorney-client
+       communication, work-product and investigations, thought process and credibility
+       assessments);
+      “The good faith basis for Edwards and Cassell's reliance on Giuffre's allegations is laid
+       out in detail by Professor Cassell in more than 50 pages of sworn testimony during his
+       deposition. See Depo. Transcript of Paul Cassell (Oct. 16 & 17, 2015), at 61-117 (Exhibit
+       #3)” (attorney investigative activities, work-product and attorney thought process based
+       on what they “knew” through attorney-client communications).
+      “Edwards and Cassell clearly had a powerful basis for believing their client's allegation
+       that she had been sexually abused by Dershowitz, particularly where she had made this
+       allegation to them as far back as 2011” (attorney-client communications)
+      “Dershowitz made false and defamatory statements by alleging that two experienced and
+       capable attorneys who thoroughly investigated and believed Ms. Giuffre's allegations in
+       good faith should be disbarred” (work-product, investigation of alleged acts and
+       investigation of credibility).
+Menninger Decl., Ex E, at 1-13.
+
+
+
+                                                 16
+         In addition to the Motion for Summary Judgment, Mr. Cassell in his deposition spent
+
+more than 50 pages detailing the investigations and assessment of all of the evidence used as a
+
+factual basis for the Joinder Motion in the CVRA Case on behalf of Plaintiff. Menninger Decl.,
+
+Ex. L at 61-117. During this soliloquy, Cassell details his and Edwards thought processes in
+
+assessing the claims, their evaluation of the evidence they reviewed, and all other information
+
+that he had to believe Plaintiff’s stories. He specifically refers to Plaintiff, their evaluation of the
+
+evidence in light of the information they “knew” about Plaintiff, and their evaluation and thought
+
+process of how the evidence supported her stories. Of course, the information they “knew”
+
+about Plaintiff was a direct result of her attorney-client communications with them, and their
+
+evaluation of that evidence in the case is clearly work product. In reciting the work product he
+
+believes supports “Virginia’s” story, Cassell states that this is “important to Virginia” and “I
+
+want to do a good job for Virginia Roberts on -- on representing all the -- the evidence that is
+
+available to support her.” Menninger Decl.., Ex. L at 102:1-3 & 118:7-8. Having put these
+
+matters directly at issue, and utilizing both their work-product and attorney-client
+
+communications in support of the claims, there is a complete waiver of protection over 1) the
+
+content of communications between Plaintiff and her attorneys, and 2) her attorneys’ work
+
+product and thought process in investigating and “reasonable belief” in the claims.3
+
+
+
+
+3
+  In a joint press release relating to the settlement of the Dershowitz Case, Plaintiff and her attorneys again
+affirmatively cite to Plaintiff’s communications with them, their investigation of her statements, and their
+assessment of her credibility. The references include the time frame prior to their initial filing as well as information
+discovered throughout the course of the Dershowitz Cases. In that press release, Edwards and Cassel stated
+“Edwards and Cassell maintain that they filed their client's allegations in good faith and performed the necessary
+due diligence to do so, and have produced documents detailing those efforts.” Menninger Decl., Ex. M, p.1. The
+press release continues in stating that it was a “mistake” to have filed sexual misconduct allegations against
+Dershowitz citing, among other things, “the records and other documents produced by the parties.” Id. at 2. These
+public statements provide a further waiver over the work product that led to the public acknowledgement that filing
+the lawsuit and reliance on Plaintiff’s allegations was a “mistake.”
+
+                                                           17
+            c. The elements for finding an at issue waiver are satisfied
+
+        As discussed above, “courts have generally applied the [at issue] doctrine liberally,
+
+finding a broad waiver of attorney-client privilege where a party asserts a position “the truth of
+
+which can only be assessed by examination of the privileged communication.” Bank Brussels
+
+Lambert, 210 F.R.D. at 508. All of the factors for waiver have been met: “(1) assertion of the
+
+privilege was a result of some affirmative act, such as filing suit, by the asserting party; (2)
+
+through this affirmative act, the asserting party put the protected information at issue by making
+
+it relevant to the case; and (3) application of the privilege would have denied the opposing party
+
+to information vital to his defense.” Id. 210 F.R.D. at 509-10. Here, Edwards and Cassell, with
+
+the full knowledge and consent of Plaintiff, took the affirmative act of filing and participating in
+
+the Dershowitz Case. Through this affirmative act, they put at issues what Plaintiff told her
+
+attorneys, whether it was true, whether her attorneys helped her concoct additional allegations
+
+that would help her position, whether they adequately investigated her claims, their basis for
+
+believing Plaintiff was credible, and if they and their client were motivated to file false claims by
+
+a desire for financial gain.
+
+        As discussed above, Plaintiff voluntarily and affirmatively waived the attorney-client
+
+privilege through her testimony. That alone is sufficient to find an at issue waiver. Plaintiff also
+
+permitted the waiver of the attorney-client privilege by permitting Edwards and Cassell to put
+
+her communications with them and her attorneys’ work product at issue with her full knowledge
+
+and consent. Plaintiff is a party to a joint defense agreement with Edwards and Cassell. She and
+
+her attorneys were involved in communication about the Dershowitz Case beginning in January
+
+2015. The case was preemptively filed to beat Dershowitz to the courthouse, before he could act
+
+on his public statements that he intended to sue both Plaintiff and her attorneys for, among other
+
+
+                                                  18
+things, defamation. Plaintiff did nothing to stop her counsel from filing the Complaint, despite
+
+the fact that it would necessarily put her communications with her counsel at issue. And, she
+
+actively participated in the litigation. Indeed, the testimony of Cassell makes clear that the
+
+purpose of the litigation was for Plaintiff’s benefit, and that he wanted to do a “good job” for her.
+
+       Normally, an attorney cannot waive the attorney-client privilege without his client’s
+
+knowledge and consent. In re von Bulow, 828 F.2d at 101. But, “[a] client may nonetheless by
+
+his actions impliedly waive the privilege or consent to disclosure.” Id., 828 F.2d 94, 101 (2d Cir.
+
+1987) (citing See United States ex rel Edney v. Smith, 425 F.Supp. 1038, 1052 (E.D.N.Y. 1976)
+
+(implied waiver), aff'd, 556 F.2d 556 (2d Cir.), cert. denied, 431 U.S. 958 (1977); Drimmer v.
+
+Appleton, 628 F.Supp. 1249, 1252 (S.D.N.Y.1986) (implied consent); Wigmore, supra, § 2327)).
+
+In certain circumstances, an attorney may have “an implied authority to waive the privilege on
+
+behalf of his client.” Drimmer, 628 F.Supp. at 1251; see also In re von Bulow, 828 F.2d at 101.
+
+“It is the client's responsibility to ensure continued confidentiality of his communications.” Id.
+
+If a client is aware of her attorney’s waiver of privilege and takes no action to preserve
+
+confidentiality, the privilege is lost. Id.; In re Horowitz, 482 F.2d 72, 82 (2d Cir.), cert. denied,
+
+414 U.S. 867 (1973) (“[i]t is not asking too much to insist that if a client wishes to preserve the
+
+privilege under such circumstances, he must take some affirmative action to preserve
+
+confidentiality”).
+
+       This situation is analogous to a client asserting advice of counsel as a defense, a situation
+
+in which an at issue waiver of the full scope of attorney-client communications is automatic. See
+
+Bilzerian, 926 F.2d at 1292 (defendant’s testimony that he thought his actions were legal would
+
+have put his knowledge of the law and the basis for his understanding of what the law required
+
+into issue, directly implicating his conversations with counsel); Chin v. Rogoff & Co., P.C., No.
+
+
+                                                  19
+05 CIV. 8360(NRB), 2008 WL 2073934, at *6 (S.D.N.Y. May 8, 2008) (in suit for damages
+
+against tax advisor for negligence in providing tax advice, reliance and causation could only be
+
+assessed through invading the attorney-client privilege and examining the nature of counsel’s
+
+advice to determine different advice was given by attorneys). The at issue waiver is complete
+
+“even if a party does not attempt to make use of a privileged communication” Bowne of New
+
+York City, Inc. v. AmBase Corp., 150 F.R.D. 465, 488 (S.D.N.Y. 1993) (discussing Bilzerian,
+
+926 F.2d 1285); Chin, 2008 WL 2073934, at *6 (waiver occur even where client does not
+
+reference attorney communications if review of communications is necessary to establish an
+
+element of a claim). Here, Edwards and Cassell put the issue of their “good faith” reliance on
+
+Plaintiff’s communications to them affirmatively at issue, as well as their investigation of what
+
+she told them in those communications. Having done so with Plaintiff’s knowledge and consent,
+
+and without her protest, the waiver is complete.
+
+       The application of the privilege here, after it has been selectively waived, denies Ms.
+
+Maxwell information vital to her defense. By way of very limited example, in the case at bar,
+
+Plaintiff claims that she was defamed when Ms. Maxwell stated that the allegations Plaintiff
+
+made in the Joinder Motion, included allegations regarding Dershowitz, Ms. Maxwell and Prince
+
+Andrew, were false. In the Joinder Motion Edwards and Cassell boldly state “Epstein required
+
+Jane Doe #3 to have sexual relations with Dershowitz on numerous occasions while she was a
+
+minor, not only in Florida but also on private planes, in New York, New Mexico, and the U.S.
+
+Virgin Islands.” Menninger Decl., Ex. C at 4. Edwards and Cassell, however, had doubts about
+
+Plaintiff’s allegations based on their own investigation, including whether Dershowitz and
+
+Plaintiff were ever on Epstein’s plane together. Cassell identified flight logs Edwards and he
+
+reviewed as supporting the allegations made by Plaintiff. Menninger Decl., Ex. L at 69-70. He
+
+
+                                                20
+admits, however, that there is not a single log entry that put Dershowitz and Plaintiff on the same
+
+plane.4 Having put at issue their investigation and “good faith belief” in Plaintiff’s stories, they
+
+must provide all information about anything that both supports and undermines Plaintiff’s story
+
+and their own belief in the credibility of that story.
+
+         Plaintiff will undoubtedly attempt to prop-up her claims that she was telling the truth
+
+through use of the investigative material, work product, mental impressions and opinions on her
+
+credibility offered by her attorneys/joint defense partners, Edwards and Cassell. Ms. Maxwell
+
+cannot be denied access to information showing her attorney’s work and investigation shows
+
+Plaintiff’s stories were fabricated, including the details uncovered demonstrating Plaintiff’s lack
+
+of credibility.
+
+         Each of the factors considered by the Second Circuit to find a broad waiver weighs in
+
+favor of finding such a waiver here. The factors are “(1) whether substantive information has
+
+been revealed; (2) prejudice to the opposing party caused by partial disclosure; (3) whether
+
+partial disclosure would be misleading to a court; (4) fairness; and (5) consistency.” McGrath v.
+
+Nassau Cty. Health Care Corp., 204 F.R.D. 240, 244.
+
+         Cassell and Edwards have revealed in extensive detail their work-product demonstrating
+
+why they believed Plaintiff’s allegations and incorporated them in the Joinder Motion. It would
+
+be prejudicial for Plaintiff to be able to support her claim in this case that she is not a liar using
+
+her attorney’s testimony and work product, while preventing discovery of work-product and
+
+communications that would prove otherwise or cast doubts on Plaintiff’s credibility. It would be
+4
+  My question, Mr. Cassell, is: You reviewed the flight logs, correct?
+A. Correct.
+Q. You reviewed them in some detail, correct?
+A. Correct.
+Q. Is there any entry on those flight lines -- logs that you read as putting Professor Dershowitz and Miss Roberts on
+the same plane?
+A. No.
+Menninger Decl., Ex. L 206:3-11.
+
+                                                         21
+misleading to the court or any jury to hear testimony from Plaintiff’s counsel about all the factual
+
+basis, work product and thought process on which they relied in making the allegations in the
+
+Joinder Motion, but refusing to permit Ms. Maxwell discovering or presenting contradicting
+
+information that Plaintiff’s attorneys had, including information that led them to conclude that it
+
+was a “mistake” to have filed sexual misconduct allegations against Dershowitz. Fairness and
+
+consistency require that Plaintiff and her attorneys be required to disclose all work product and
+
+attorney-client communications relating their investigations of Plaintiff’s statements and story as
+
+alleged in the CVRA Case, their investigations of the allegations, their assessment of the
+
+credibility of the allegations, and contradictory evidence uncovered.
+
+III.   There is No Privilege as to Communications with Scarola
+
+       Plaintiff listed on her privilege log Jack Scarola, Edwards and Cassell’s attorney, as an
+
+individual who received or sent communications or documents relating to the CVRA Case. The
+
+log does not state what these documents are, instead including them as part of the “categorical”
+
+logging. The “Types of Privileges” identified are Attorney Client, Work Product, and Joint
+
+Defense/Common Interest. It is entirely unclear how any of these protections can be invoked
+
+regarding communications including Scarola or over documents provided by or to him.
+
+
+           a. There is no Attorney-Client Relationship
+
+
+       Plaintiff specifically states in her interrogatory responses that Scarola is not and has never
+
+been her attorney. Thus, there can be no attorney-client-communications between Plaintiff and
+
+Scarola. If there were, Plaintiff has clearly and voluntarily waived any privilege.
+
+
+
+
+                                                22
+            b. Work Product Privilege has been Waived
+
+         In 2011, Scarola acted as Edward’s attorney in a case captioned Epstein v. Edwards, Case
+
+No. 502009CA040800XXXMB, in the Circuit Court for the Fifteenth Judicial Circuit, Palm
+
+Beach County, Florida (the “Epstein v. Edwards Case.”). That action is still pending. According
+
+to the most recent discovery responses, Edwards represented Plaintiff in the CVRA Case at the
+
+same time. SOF, ¶(d).
+
+         On April 7, 2011, Edwards, Scarola and Plaintiff had a telephone conversation, recorded
+
+with the knowledge and consent of Plaintiff. Menninger Decl., Ex N at 1. The content of the
+
+conversation is a detailed interview of Plaintiff recounting her story of her time with Epstein.
+
+The transcript of that conversation, clearly marked “Work Product,” has been produced widely
+
+and attached to multiple court filings. It was used affirmatively in the Epstein v. Edwards Case
+
+and filed on May 17, 2011 in that case. See Menninger Decl., Ex. O (Notice of Filing). It was
+
+also used affirmatively in the CVRA Case. See Menninger Decl., Ex. P, DE #290, Exhibit 3. It
+
+was produced in this case and in the Dershowitz Case by Plaintiff and her counsel. See
+
+Menninger Decl., Ex. Q. It apparently was also transmitted to the press. See Menninger Decl.,
+
+Ex. J.
+
+         As discussed above, putting information contained in this “work product” document at
+
+issue waives of any protection and extends to any and all work product of Scarola related to
+
+Plaintiff or her claims and stories.
+
+
+            c. There is no basis to claim common interest or joint defense privilege
+
+         It bears repeating that “[t]he party asserting the privilege ... bears the burden of
+
+establishing its essential elements.” Mejia, 655 F.3d at 132; see also Wultz v. Bank of China Ltd.,
+
+
+
+
+                                                   23
+304 F.R.D. 384, 391 (S.D.N.Y.2015) (“The party invoking the privilege also has the burden to
+
+show that the privilege has not been waived.”).
+
+        Plaintiff provides no basis for claiming a common interest or joint defense with anyone
+
+related to the CVRA case. The only two people Scarola represents, to Ms. Maxwell’s
+
+knowledge, are Edwards and Cassell. They are the attorneys in the CVRA case, and by
+
+definition should not have a personal or common interest with the parties in that litigation.
+
+Regardless, it is Plaintiff’s burden to establish that such and interest exists, who is involved, and
+
+Scarola’s role. Having failed to provide any of the information necessary to establish the
+
+applicability of these privileges, they are waived. See S.E.C. v. Yorkville Advisors, LLC, 300
+
+F.R.D. 152, 162 (S.D.N.Y. 2014) (failure to provide adequate descriptions of the subject matter,
+
+authors and recipients of the withheld documents resulted in waiver of privilege). There is
+
+simply no basis for withholding any communication with or work product of Scarola.
+
+
+                                          CONCLUSION
+
+        Plaintiff and her lawyers waived any privilege as to their communications related to the
+
+subject matters of (a) the CVRA litigation and (b) the Edwards and Cassell v. Dershowitz Case.
+
+Similarly, Plaintiff’s lawyers waived any claim of work product to material gathered in relation
+
+to those litigations.
+
+        Accordingly, Ms. Maxwell requests that the Court enter an order finding (a) a waiver of
+
+the attorney-client privilege as to the subject matter of the CVRA and Dershowitz litigations and
+
+(b) a work product exemption for materials gathered in relation to those matters. She further
+
+requests an Order directing Plaintiff to provide Ms. Maxwell with all documents as to which
+
+such the attorney-client privilege and work product have been waived.
+
+
+        Dated: May 26, 2016.
+                                                  24
+                                              Respectfully submitted,
+
+
+
+                                              /s/ Laura A. Menninger
+                                              Laura A. Menninger (LM-1374)
+                                              Jeffrey S. Pagliuca (pro hac vice)
+                                              HADDON, MORGAN AND FOREMAN, P.C.
+                                              150 East 10th Avenue
+                                              Denver, CO 80203
+                                              Phone: 303.831.7364
+                                              Fax:     303.832.2628
+                                              lmenninger@hmflaw.com
+
+                                              Attorneys for Ghislaine Maxwell
+
+
+
+                              CERTIFICATE OF SERVICE
+
+       I certify that on May 26, 2016, I electronically served this Motion to Compel all
+Communications and Work Product Put At Issue by Plaintiff and Her Attorneys via ECF on the
+following:
+
+Sigrid S. McCawley                             Paul G. Cassell
+Meridith Schultz                               383 S. University Street
+BOIES, SCHILLER & FLEXNER, LLP                 Salt Lake City, UT 84112
+401 East Las Olas Boulevard, Ste. 1200         cassellp@law.utah.edu
+Ft. Lauderdale, FL 33301
+smccawley@bsfllp.com
+mschultz@bsfllp.com
+
+Bradley J. Edwards
+FARMER, JAFFE, WEISSING, EDWARDS,
+FISTOS & LEHRMAN, P.L.
+425 North Andrews Ave., Ste. 2
+Ft. Lauderdale, FL 33301
+brad@pathtojustice.com
+                                               /s/ Nicole Simmons
+                                               Nicole Simmons
+
+
+
+
+                                            25
+

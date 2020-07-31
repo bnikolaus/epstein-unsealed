@@ -1,0 +1,665 @@
+                             United States District Court
+                            Southern District of New York
+
+
+Virginia L. Giuffre,
+
+               Plaintiff,              Case No.: 15-cv-07433-RWS
+
+v.
+
+Ghislaine Maxwell,
+
+            Defendant.
+________________________________/
+
+     PLAINTIFF, VIRGINIA GIUFFRE’S CONSOLIDATED REPLY IN SUPPORT OF
+      MOTIONS TO COMPEL THE PRODUCTION OF DOCUMENTS SUBJECT TO
+         IMPROPER OBJECTIONS AND IMPROPER CLAIM OF PRIVILEGE
+
+
+
+                                       BOIES, SCHILLER & FLEXNER LLP
+
+
+                                        David Boies
+                                        Boies, Schiller & Flexner LLP
+                                        333 Main Street
+                                        Armonk, NY 10504
+
+                                        Sigrid McCawley (Pro Hac Vice)
+                                        Boies, Schiller & Flexner LLP
+                                        401 E. Las Olas Blvd., Suite 1200
+                                        Ft. Lauderdale, FL 33301
+                                        (954) 356-0011
+
+
+                                        Ellen Brockman
+                                        Boies, Schiller & Flexner LLP
+                                        575 Lexington Ave
+                                        New York, New York 10022
+                                        (212) 446-2300
+
+
+
+
+                                          1
+                                                 TABLE OF CONTENTS
+
+
+                                                                                                                                   Page
+
+TABLE OF AUTHORITIES.......................................................................................................... ii
+
+I.     PRELIMINARY STATEMENT ............................................................................................1
+
+II.    ARGUMENT .........................................................................................................................2
+
+       1.      Conference Is Futile When A Party Is Stonewalling Discovery. ..................................2
+
+       2.      This Court Should Reject Defendant’s Improper Objections........................................5
+
+       3.      This Court Should Grant Plaintiff’s Motion To Compel The
+               Production Of Documents Subject To Improper Claim Of Privilege. ..........................8
+
+CONCLUSION .............................................................................................................................10
+
+
+
+
+                                                                    i
+                                                TABLE OF AUTHORITIES
+
+                                                                                                                                        Page
+Cases
+
+Aqua Products, Inc. v. Aquaquality Pool & Spa, Inc.,
+  No. CV-05-2538 (DRH) (ARL), 2006 WL 2884913 (E.D.N.Y. Oct. 10, 2006).........................5
+
+Egiazaryan v. Zalmayev,
+  290 F.R.D. 421 (S.D.N.Y. 2013).................................................................................................9
+
+Gibbons v. Smith,
+  No. 01 CIV. 1224 (LAP), 2010 WL 582354 (S.D.N.Y. Feb. 11, 2010) .....................................2
+
+Graham v. Ortiz,
+  No. 07-CV-1690 (JG)(LB), 2009 WL 4016055 (E.D.N.Y. Nov. 18, 2009) ...............................5
+
+Metrokane, Inc. v. Built NY, Inc.,
+ No. 06-CIV-14447 (LAK-MHD), 2008 WL 4185865 (S.D.N.Y. Sept. 3, 2008) .......................2
+
+Ottoson v. SMBC Leasing and Finance, Inc.
+  2015 WL 4597542 (S.D.N.Y. July 30, 2015)..............................................................................7
+
+Rock Salt Co., LLC v. Norfolk S. Corp.,
+  228 F.R.D. 426 (W.D.N.Y. 2004) ...............................................................................................8
+
+Safeco Ins. Co. of America v. M.E.S., Inc.,
+  No. 09-CV-3312, 2013 WL 1680684 (E.D.N.Y. Apr. 17, 2013)................................................3
+
+Stinson v. City of New York,
+   No. 10 Civ. 4228(RWS), 2015 WL 4610422 (S.D.N.Y. July 23, 2015) ............................2, 5, 7
+
+Time Inc. v. Simpson,
+  No. 02 Civ. 4917, 2002 WL 31844914 (S.D.N.Y. Dec. 18, 2002) .........................................3, 5
+
+Veleron Holding, B.V. v. BNP Paribas SA,
+  No. 12-CV-5966 CM RLE, 2014 WL 4184806 (S.D.N.Y. Aug. 22, 2014)................................3
+
+Statutes
+
+Fed. R. Civ. P. 26 ........................................................................................................................1, 9
+
+
+
+
+                                                                      ii
+        Plaintiff Virginia L. Giuffre, by and through undersigned counsel, respectfully submits this
+
+Consolidated Reply in Support of her Motion to Compel the Production of Documents Subject to
+
+Improper Claim of Privilege and Motion to Compel the Production of Documents Subject to
+
+Improper Objections. For the reasons set forth below, this Court should grant Plaintiff’s Motions
+
+in their entirety.
+
+I.      PRELIMINARY STATEMENT
+
+        It took an Order from this Court to force the Defendant to participate in and begin the
+
+discovery process. From the moment this case began, it appears that the Defendant’s goal has
+
+been obstruction and delay, with the apparent aim of avoiding discovery altogether. The
+
+Defendant’s opposition brief is the perfect example of this ongoing tactic, because rather than
+
+address the merits of her inadequate discovery responses, Defendant relies only on the misguided
+
+argument that Ms. Giuffre failed to satisfy a meet and confer obligation. As Ms. Giuffre
+
+demonstrates herein, no such requirement existed for these motions, as the Defendant’s persistence
+
+in avoiding discovery rendered futile any attempt to engage in a meet and confer process.
+
+        From the outset of this litigation, the Defendant has consistently sought to avoid any
+
+participation in the discovery process. Indeed, Ms. Giuffre served her discovery requests in
+
+October – it is now March and the Defendant has only produced two (2) e-mails in response to
+
+Ms. Giuffre’s discovery requests. This conduct began with a motion to stay all discovery in the
+
+case, which this Court denied. Defendant also missed the deadline for filing her Rule 26
+
+disclosures and then waited an additional three months before filing the Rule 26 disclosures.1
+
+Additionally, when Ms. Giuffre’s counsel sought dates for Defendant’s deposition, Defendant’s
+
+counsel responded that her client would not sit for deposition unless Ms. Giuffre agreed to waive
+
+future rights in this case. See S. McCawley Decl. at Exhibit 1, Letter Brief to Judge Sweet
+
+1
+ Rule 26(a)(1)(a), Fed. R. Civ. P. requires that parties produce certain discovery without awaiting a
+discovery request.” (Emphasis added).
+                                                     1
+Regarding Defendant’s Refusal to Sit for a Deposition. To date, Defendant has still failed to agree
+
+to sit for her deposition which was noticed a second time for March 25, 2016. Now, in response to
+
+Ms. Giuffre’s requests for production, after requesting an additional extension of time to respond,
+
+the Defendant submitted wholesale, blanket objections that are facially improper, and moreover,
+
+Defendant unilaterally chose to eliminate over three-fourths of the time period of Ms. Giuffre’s
+
+requests. With these responses, Defendant served a facially overbroad and legally deficient
+
+privilege log, where, among other things, she repeatedly asserted attorney-client privilege over
+
+communications that did not even involve an attorney. This repeated pattern of avoidance of
+
+Defendant’s discovery obligations demonstrates the futility of any meet and confer.
+
+       Defendant’s meet and confer arguments are particularly ironic where, after waiting four
+
+months to produce any discovery or her initial disclosures (then producing a mere two e-mails),
+
+her opposition brief does not offer a single example of any willingness to reconsider her
+
+improper, blanket objections. This Defendant appears to simply not want to participate in the
+
+discovery process, and her failure to respond substantively is another effort to delay and prejudice
+
+Ms. Giuffre’s ability to prosecute her case.
+
+II.    ARGUMENT
+
+       1. Conference Is Futile When A Party Is Stonewalling Discovery
+
+       “[C]ourts have recognized that the meet-and-confer requirement is not a prerequisite to
+
+addressing the merits of a discovery motion and that it may be excused where the meet-and-confer
+
+would be futile.” Gibbons v. Smith, No. 01 CIV. 1224 (LAP), 2010 WL 582354, at *2 (S.D.N.Y.
+
+Feb. 11, 2010) (granting motion to compel). “[A] court may rule on a motion to compel even
+
+where the meet and confer requirement is entirely lacking.” Stinson v. City of New York, (Sweet,
+
+J.), No. 10 Civ. 4228(RWS), 2015 WL 4610422, at *5 (S.D.N.Y. July 23, 2015) (Internal citations
+
+omitted) (granting in part motion to compel documents). See also Metrokane, Inc. v. Built NY,
+
+
+                                                 2
+Inc., No. 06CIV14447LAKMHD, 2008 WL 4185865, at *3 (S.D.N.Y. Sept. 3, 2008) (granting in
+
+part motion for sanctions, finding that a met-and-confer session would have been futile); See also
+
+Time Inc. v. Simpson, No. 02 Civ. 4917, 2002 WL 31844914, at *2 (S.D.N.Y. Dec. 18, 2002)
+
+(holding that the moving party’s failure to satisfy meet and confer requirement does not warrant
+
+rejecting its motion). 2
+
+        Similarly, where claims of privilege are in dispute, courts have recognized that there is no
+
+“compromise” to be reached as to whether or not a document is privileged. See Veleron Holding,
+
+B.V. v. BNP Paribas SA, No. 12-CV-5966 CM RLE, 2014 WL 4184806, at *3 (S.D.N.Y. Aug. 22,
+
+2014) (“The principle separating the Parties was not amenable to compromise: either the privilege
+
+applied or it did not.”) (rejecting argument of failure to meet and confer). See also Safeco Ins. Co.
+
+of America v. M.E.S., Inc., No. 09–CV–3312, 2013 WL 1680684, at *4 (noting that “[i]n camera
+
+review is ‘a practice both long-standing and routine in cases involving claims of privilege.”).
+
+        Defendant’s current attempt to stall discovery is through the submission of improper,
+
+sweeping objections alleging overbreadth of Ms. Giuffre’s requests. As Ms. Giuffre demonstrated
+
+in her motion, such objections are legally deficient, and the only way to move discovery forward
+
+in this matter is to have the Court compel Defendant to produce the responsive documents that Ms.
+
+Giuffre properly requested. It is also apparent that the only way Ms. Giuffre will be able to depose
+
+Defendant – the opposing party in this case - is for this Court to Order her deposition. See S.
+
+McCawley Decl. at Exhibit 1, Letter Brief to Judge Sweet Regarding Defendant’s Refusal to Sit
+
+for a Deposition.
+
+        Defendant’s tactic of stonewalling and delay is the underlying problem, and requiring a
+
+meet and confer prior to the Court addressing this conduct would reward Defendant’s
+
+intransigence. The Complaint was filed September 21, 2015. Defendant’s responsive pleading
+
+2
+ Defendant cites several cases from outside the jurisdiction. None are relevant because the facts and
+circumstances in those cases make them inapposite as each result turned on specific facts not present here.
+                                                     3
+was due on October 13, 2015, but Defendant requested a month and a half extension of time until
+
+November 30, 2015 to respond to the Complaint. The Court set the parties on a tight discovery
+
+schedule with the close of discovery set for July 1, 2016. Ms. Giuffre served her discovery
+
+requests on October 27, 2016. Defendant then waited until November 30, 2016, and rather than
+
+respond to the discovery, she filed a Motion to Stay discovery which was ultimately denied by the
+
+Court on January 20, 2016 (D.E. 28). The Court, in its January 20, 2016 Order, acknowledged
+
+that Defendant already had substantial time to respond, noting that “Defendant was served with
+
+the request on October 27, 2015 and has therefore had an additional month and a half to digest the
+
+requests than is usually permitted by the Federal Rules of Civil Procedure.” See Order re Motion
+
+to Stay Discovery, D.E. 28, at 7. After having delayed through more than half of the discovery
+
+period granted by this Court, and after seeking an additional extension of time to respond to
+
+discovery, rather than properly respond to Ms. Giuffre’s discovery, Defendant stonewalled,
+
+lodging a litany of baseless objections including a substantial and unjustified reduction of the date
+
+range covered by the requests. Ms. Giuffre’s requests were served in October, 2015. It is now
+
+March, and Defendant has still failed to adequately respond to discovery.
+
+       Defendant has attempted to grant herself a de facto stay in discovery through intentional
+
+delay, in contravention of this Court’s Order, and the Court must put an end to the gamesmanship.
+
+These delay tactics are prejudicing Ms. Giuffre, as despite serving her requests in October of last
+
+year, and despite it being less than four months before the discovery cut-off deadline, Defendant
+
+has produced exactly two documents and has blocked any path forward in which to take her
+
+deposition absent a Court order. See D.E. 13.
+
+       Courts consistently recognize that no meet and confer obligation exists in such a
+
+circumstance, and this Court should reject defendant’s attempt at additional procedural delay.
+
+“[Meet and confer] requirements are designed to promote efficiency in litigation, and that goal
+
+
+                                                  4
+would not be advanced by further delay in resolving these issues on the merits.” See Time Inc. v.
+
+Simpson, No. 02 Civ. 4917, 2002 WL 31844914, at *2 (S.D.N.Y. Dec. 18, 2002) (holding that the
+
+moving party’s failure to satisfy meet and confer requirement does not warrant rejecting its
+
+motion).3
+
+        2. This Court Should Reject Defendant’s Improper Objections
+
+        Defendant’s overbreadth argument is a complete red herring, as Defendant does not -- and
+
+cannot -- make the argument that any of the requests constitute an undue burden due to the volume
+
+of the responsive documents at issue.4 Defendant is not a corporation; she is an individual with a
+
+single set of emails and related electronic documents that would be responsive. This is not a case
+
+where - and Defendant raises no claim that - complying with the document requests would result
+
+in an unmanageable number of documents. Instead, Defendant is picking and choosing which
+
+documents she will produce, and which documents she will keep hidden. She’s not making this
+
+determination based on responsiveness, or based on undue burden, but, instead, based on
+
+preference. This is impermissible.5 See Graham v. Ortiz, No. 07-CV-1690 (JG)(LB), 2009 WL
+
+4016055, at *1 (E.D.N.Y. Nov. 18, 2009)(“Plaintiff does not get to pick and choose what
+
+[discovery request] he will comply with”); Aqua Products, Inc. v. Aquaquality Pool & Spa, Inc.,
+
+No. CV 05-2538 DRH ARL, 2006 WL 2884913, at *1 (E.D.N.Y. Oct. 10, 2006) (“Counsel cannot
+
+
+
+
+3
+  While defendant argues that Ms. Giuffre’s counsel did not confer with her about her deficient discovery
+responses, Ms. Giuffre’s counsel understood the Court’s individual practices to not require such a pre-
+motion conference. Even if Ms. Giuffre’s counsel misunderstood the Court’s individual practices,
+Defendant’s response proves that such conferral would have been futile because even in the response,
+Defendant fails to make any concessions to her abusive refusal to produce responsive documents.
+4
+ Defendant communicated neither to Ms. Giuffre nor to the Court that the requests would yield a
+voluminous or unmanageable number of documents.
+5
+  “When determining a motion to compel the production of ESI, a district court conducts a two-stage
+inquiry: first, has the party resisting discovery shown that the information in question is not reasonably
+accessible because of undue cost, and second, has the party requesting discovery nonetheless shown good
+cause to obtain it?” Stinson v. City of New York, (Sweet, J.) 2015 WL 4610422, at *4 (Emphasis added).
+
+                                                     5
+pick and choose those documents that they believe satisfies the request; rather, they must provide
+
+the plaintiff with all non-privileged responsive documents in their client's possession.”)
+
+        Most significant is the fact that Defendant unilaterally purports to limit her production,
+
+which requested documents from 1999 to the present, to less than a quarter of what is requested,
+
+arbitrarily refusing to produce highly relevant discovery.6 At the same time, she has propounded
+
+discovery on Ms. Giuffre for a longer period of time: 1998 to the present.7 Ms. Giuffre sought
+
+documents from 1999 to the present because the first part of that period is when she contends
+
+convicted sex offender Jeffrey Epstein and Defendant were engaging in sexual trafficking conduct;
+
+the later part of that period includes the investigations by law enforcement and the co-
+
+conspirator’s efforts to coordinate and cover up the abuse that occurred. Therefore, the entire time
+
+period is highly relevant to the sexual abuse claims that underlie this defamation action.
+
+        Ms. Giuffre outlined in detail in her moving papers, using specific examples, why
+
+documents from 1999 to the present are highly relevant to this action. (See D.E. 35 at 4-6.) For
+
+example, flight logs show Defendant traveling on the convicted sex offender’s plane up to at least
+
+2005; police reports in the Palm Beach investigation reveal the abuse occurred into the mid-
+
+2000s; victim notification letters were sent in 2008; Defendant dodged a deposition in 2009 to
+
+avoid having to answer questions about the abuse of Ms. Giuffre and others; and Defendant
+
+continued to communicate with convicted sex offender Jeffrey Epstein until at least 2015. As
+
+explained in Ms. Giuffre’s Motion to Compel, the abuse underlying this case started in or around
+
+
+6
+ Defendant contends she will only produce documents for the month of December 31, 2014 to January 31,
+2015 and from 1999 – 2002. Ms. Giuffre requested documents from 1999 to the present.
+7
+  Specifically, Defendant does not define a “Relevant Period” in her Requests for Production. Instead, she
+defines the time period within the individual requests, asking for documents from “1998 to the present,”
+“since 1998,” “between 1998 and the present,” etc. This 1998-present “Relevant Period” applies to Nos. 5,
+12, 14, 15, 17, 18, and 35, and many requests have no date restrictions whatsoever. See, e.g., Request No.
+26, “All Documents concerning any prescription drugs taken by You, including the prescribing doctor, the
+dates of said prescription, and the dates of any fulfillment of any such prescription.” In short, Defendant
+requests documents from an even longer period of time than Ms. Giuffre does.
+
+                                                     6
+1999, and Defendant has continued her association with Jeffrey Epstein up until at least 2015,
+
+when the defamatory statement was made, as evidenced by her privilege log. See McCawley
+
+Decl. at Exhibit 2, Maxwell’s Privilege Log. Accordingly, Ms. Giuffre has shown good cause for
+
+requiring the production of these documents. Indeed, this is not a situation where Defendant does
+
+not have responsive documents during that time period. Defendant has admitted she has
+
+responsive documents, but is simply refusing to produce the documents. Therefore, based upon
+
+the timeline set forth in the moving papers, Ms. Giuffre respectfully requests that this Court direct
+
+Defendant to produce responsive documents from 1999 to the present.
+
+        Defendant argues that the Requests for Production are “presumptively broad,” thus
+
+apparently improper, because they employed terms such as “all documents” and “relating to.”8
+
+That is not the law. “Although not unlimited, relevance, for purposes of discovery, is an
+
+extremely broad concept.” Ottoson v. SMBC Leasing and Finance, Inc., (Sweet, J.) 2015 WL
+
+4597542 at * 2 (S.D.N.Y. July 30, 2015) (granting motion to compel) (internal quotations
+
+omitted); Stinson v. City of New York, (Sweet, J.), 2015 WL 4610422 (S.D.N.Y. July 23, 2015)
+
+(granting in part motion to compel production).
+
+
+
+8
+  In her Response, Defendant takes issue with Ms. Giuffre’s requests of “all documents” that “relate to”
+various topics. However, Defendant also seeks from Ms. Giuffre “all documents” in 22 of her discovery
+requests, and employs the term “relate” in 11 of her discovery requests, including requests such as “[a]ll
+documents relating to any Communications occurring from 1998 to the present with . . .Sky Roberts,” who
+is Ms. Giuffre’s father.
+
+         Furthermore, Defendant’s own definition of “relate” is expansive. Defendant states “relate,”
+“related,” and “relating” “means concerning, referring to, responding to, relating to, pertaining to,
+connected with, evidencing, commenting on, regarding, discussing, showing, describing, reflecting,
+analyzing or constituting.” Defendant’s First Set of Discovery Requests to Plaintiff. Notably, her definition
+also includes the terms “reflecting” and “regarding.”
+
+        Defendant’s Request for Production containing the term “all documents” are Nos. 2, 3, 4, 5, 10, 12,
+13, 15,17,18, 21, 23,24, 25, 26, 27, 28, 29, 30, 31, 33, and 36. Defendant’s Request for Production
+containing the term “any documents” are Nos. 9, 33, and 36. Defendant’s Request for Production
+containing the term “relate” or “relating” are Nos. 3, 5, 10, 17, 21, 32, 33, 34, 35, and 36. The Requests for
+Production containing the word “reflect” or “reflecting” are Nos. 4, 9, 11, 19, 20, 24, 28, 33, 35, and 36.
+
+
+                                                      7
+       The contention that Ms. Giuffre’s Requests for Production are “presumptively overbroad”
+
+is also directly refuted by the specific nature of the requests. Indeed, all of Ms. Giuffre’s
+
+discovery requests with the term “relating to” are linked to specific topics that are highly relevant
+
+to this action. For example, Request No. 6 seeks all communications that Defendant had with
+
+Sarah Kellen. These documents are critical to this case because Sarah Kellen was questioned at
+
+deposition in another action related to Defendant’s abuse of minor children, wherein Sarah Kellen
+
+invoked her Fifth Amendment Privilege:
+
+       Q. Would you agree with me that Ghislaine Maxwell provides underage girls to
+       Mr. Epstein for sex?
+       ***
+       A. Upon the instruction of my lawyer, I must invoke my Fifth Amendment
+           privilege.
+
+See McCawley Decl. at Exhibit 3, Defendant’s Response to Plaintiff’s Request for Production of
+
+Documents. For another example, Request No. 1 seeks “[a]ll documents relating to
+
+communications with Jeffery Epstein from 1999 – Present.” These requests go to key issues in
+
+this case. Defendant has admitted that she has documents responsive to request for documents
+
+that go to the heart of this matter, she is simply refusing to produce them.
+
+       Defendant’s sweeping “overbroad” objections should be rejected because it is a
+
+fundamentally misleading argument in furtherance of Defendant’s ongoing goal of delay. Am.
+
+Rock Salt Co., LLC v. Norfolk S. Corp., 228 F.R.D. 426, 432 (W.D.N.Y. 2004) (“generalized
+
+objections that discovery requests are vague, overly broad, or unduly burdensome are not
+
+acceptable, and will be overruled.”). Therefore, this Court should require Defendant to produce
+
+the documents she admits to withholding.
+
+       3. This Court Should Grant Plaintiff’s Motion To Compel The Production Of
+          Documents Subject To Improper Claim Of Privilege
+
+       There are four key problems with Defendant’s privilege log that result in finding of waiver,
+
+or at least warrant in camera review. First, Defendant attempts to wrongfully claim that the
+
+                                                   8
+attorney-client privilege shields documents from production as to her communications with non-
+
+attorneys (including communications between herself and public relations professional Ross Gow,
+
+who was Defendant’s press agent who issued the defamatory statements that lie at the heart of this
+
+matter). See Plaintiff’s Motion to Compel Improper Claim of Privilege D.E. 33 at 6-9).
+
+       Second, Defendant improperly claims a “common interest” privilege applies to her
+
+communications with convicted sex offender – and non-attorney -- Jeffrey Epstein for which no
+
+attorney-client privilege applies, thus, precluding the application of the “common interest”
+
+privilege. See Egiazaryan v. Zalmayev, 290 F.R.D. 421, 434 (S.D.N.Y. 2013) (“communications
+
+are protected where there is a disclosure by A to the attorney representing B and vice-versa”).
+
+Defendant’s communications with her co-conspirator Jeffrey Epstein are not privileged in any way
+
+and they are also highly relevant to the claim in this case.
+
+       Third, Defendant improperly claims the attorney-client privilege when the communications
+
+involved the presence of a third party not involved in providing legal services, such as Ross Gow
+
+or Mark Cohen. See Egiazaryan, 290 F.R.D. at 431 (finding waiver of attorney-client privilege
+
+when the public relations firm participated in attorney-client communications: “[the party] has not
+
+shown that [the public relation’s firm’s] involvement was necessary to facilitate communications
+
+between himself and his counsel, as in the case of a translator or an accountant clarifying
+
+communications between an attorney and client”).
+
+       Fourth, as explained in detail in Ms. Giuffre’s Motion to Compel (D.E. 33 at 12-14), the
+
+descriptions of the communications in the log are inadequate. Every single communication on the
+
+log, even those not involving any attorneys, is described as: “Communication re: legal advice.”
+
+These sparse and unvaried descriptions simply do not comply with Federal Rule of Civil
+
+Procedure 26(b)(5) and Local Rule 26.2(a)(2)(B), the former requiring that “the general subject
+
+matter of the communication” be stated in the privilege log. These bare bones descriptions do not
+
+
+                                                   9
+provide sufficient information to support the privilege claims asserted therein, and obviously fail
+
+to provide Ms. Giuffre with any ability to challenge those assertions.
+
+       Accordingly, this Court should find that Defendant has waived her privilege claim for
+
+every entry which describes the subject matter as “Communication re: legal advice,” or at the very
+
+least, require Defendant to submit the documents in question for in camera review to determine
+
+whether they are actually subject to any privilege claim. In addition, the Court should direct the
+
+production of documents on the privilege log that involve communications between the two non-
+
+lawyers.
+
+                                          CONCLUSION
+
+       This is a simple, straight-forward case that could stay on the Court’s imposed scheduled
+
+with a close of discovery in July, 2016 if the Defendant would simply comply in a timely manner
+
+with her discovery obligations. Since Defendant has refused to do so, Ms. Giuffre respectfully
+
+requests that this Court grant her Motions to Compel Production of Documents Subject to
+
+Improper Claim of Privilege and Improper Objections (D.E.’s 33 and 35), and require Defendant
+
+to produce the documents she is withholding for the time period of 1999 to the present, to produce
+
+the documents listed in her privilege log, or at the very least, conduct an in camera inspection to
+
+determine whether or not these documents are privileged.
+
+Dated: March 7, 2016
+
+                                              Respectfully Submitted,
+
+                                              BOIES, SCHILLER & FLEXNER LLP
+
+                                         By: /s/ Sigrid McCawley
+                                              Sigrid McCawley (Pro Hac Vice)
+                                              Boies, Schiller & Flexner LLP
+                                              401 E. Las Olas Blvd., Suite 1200
+                                              Ft. Lauderdale, FL 33301
+                                              (954) 356-0011
+
+                                               David Boies
+
+                                                 10
+Boies, Schiller & Flexner LLP
+333 Main Street
+Armonk, NY 10504
+
+Ellen Brockman
+Boies, Schiller & Flexner LLP
+575 Lexington Ave
+New York, New York 10022
+(212) 446-2300
+
+
+
+
+  11
+                                 CERTIFICATE OF SERVICE
+
+       I HEREBY CERTIFY that on March 7, 2016, I electronically filed the foregoing document
+
+with the Clerk of Court by using the CM/ECF system. I also certify that the foregoing document
+
+is being served this day on the individuals identified below via transmission of Notices of
+
+Electronic Filing generated by CM/ECF.
+
+       Laura A. Menninger, Esq.
+       HADDON, MORGAN & FOREMAN, P.C.
+       150 East 10th Avenue
+       Denver, Colorado 80203
+       Tel: (303) 831-7364
+       Fax: (303) 832-2628
+       Email: lmenninger@hmflaw.com
+
+
+                                                      /s/ Sigrid S. McCawley
+                                                          Sigrid S. McCawley
+
+
+
+
+                                                 12
+

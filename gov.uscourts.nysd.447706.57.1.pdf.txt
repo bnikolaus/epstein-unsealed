@@ -1,0 +1,1324 @@
+Case 1:15-cv-07433-RWS Document 57-1 Filed 03/14/16 Page 1 of 26
+
+
+
+
+                  EXHIBIT 1
+ Case 1:15-cv-07433-RWS Document 57-1 Filed 03/14/16 Page 2 of 26
+                                                                                521
+      A.C.
+
+                                   [HOUSE OF LORDS]
+
+      WAUGH                                                             APPELLANT
+                                           AND
+      BRITISH RAILWAYS BOARD                                         RESPONDENTS
+B
+      1979 May 16, 17, 21;               Lord Wilberforce, Lord Simon of Glaisdale,
+           July 12                  Lord Edmund-Davies, Lord Russell of Killowen
+                                                            and Lord Keith of Kinkel
+      Practice — Discovery — Privilege — Accident report by servants
+          of railways board in pursuance of practice of board—Partly
+p         prepared for safety purposes and partly for obtaining legal
+^         advice in anticipation of legal proceedings—Whether latter
+          purpose to be dominant for claim to privilege to succeed—
+          Whether form of wording of report conclusive as to purpose
+          for which prepared
+              The plaintiff's husband was employed by the defendant
+          railways board. In a collision between locomotives, he
+          received injuries from which he died. The practice of the
+D         board when an accident occurred was that on the day of the
+          accident a brief report was made to the railway inspectorate,
+          soon afterwards a joint internal report (" the joint inquiry
+          report") was prepared incorporating statements of witnesses,
+          which was also sent to the inspectorate, and in due course a
+          report was made by the inspectorate for the Department of the
+          Environment. The heading of the joint inquiry report stated
+          that it had finally to be sent to the board's solicitor for the
+E         purpose of enabling him to advise the board. The plaintiff
+          brought an action against the board under the Fatal Acci­
+          dents Acts, alleging that the collision had been caused by their
+          negligence, and sought discovery of, inter alia, the joint inquiry
+          report. The board, who denied negligence and alleged that
+          the collision had been caused or contributed to by the
+          deceased's own negligence, refused to disclose the report on
+          the ground, as stated in an affidavit sworn on their behalf,
+^         that one of the principal purposes of preparing it had been
+          so that it could be passed to their chief solicitor to enable
+          him to advise the board on its legal liability and, if necessary,
+          conduct their defence to the proceedings, and that it was
+          accordingly the subject of legal professional privilege. On
+          an interlocutory application by the plaintiff for discovery of
+          the report, the master ordered discovery, but an appeal by the
+_,        board from his order was allowed by Donaldson J., and the
+*-*       Court of Appeal by a majority (Eveleigh L.J. and Sir David
+          Cairns, Lord Denning M.R. dissenting) dismissed an appeal
+          by the plaintiff from Donaldson J.'s order.
+              On appeal by the plaintiff: —
+              Held, allowing the appeal, that the due administration of
+          justice strongly required that a document such as the internal
+          inquiry report, which was contemporary, contained statements
+n         by witnesses on the spot and would almost certainly be the
+          best evidence as to the cause of the accident, should be dis­
+          closed; that for that important public interest to be overridden
+          by a claim of privilege the purpose of submission to the party's
+          legal advisers in anticipation of litigation must be at least the
+Case 1:15-cv-07433-RWS Document 57-1 Filed 03/14/16 Page 3 of 26
+   522
+                              Waugh v. British Railways Board (H.L.(E.))                                 [19803
+                         dominant purpose for which it had been prepared; and that,
+                                                                                                                  A
+                         in the present case,, the purpose, of obtaining legal advice in
+                         anticipation of litigation having been no more than of equal
+                         rank and weight with the purpose of railway operation and
+                         safety, .the board's claim for privilege.failed and the.report
+                         should be disclosed (post, pp. 531A-B, H — 5 3 2 B ,                           533B-D,
+                         5 3 4 F - G , 5 3 5 B - C , 5 3 7 E - G , 5 3 8 A - B , 543c—545A, D - F ) .
+  ■:-;•■'..                 . Birmingham and Midland Motor Omnibus Co. Ltd: v.
+                          London and North Western Railway Co. [1913] 3 K.B. 850,
+                          C.A.; Ankinv. London and North Eastern Railway Co. [1930]        "
+                       . 1 K.B.' 527, C.A. and Ogden v. London Electric Railway Co.
+                      . (1933) 49 T.L.R. 542, C.A. overruled.
+                              Anderson v. Bank of British Columbia (1876) 2 Ch.D. 644,
+                          Sir George Jessel M.R. and C.A. and Grant v. Downs (1976)
+                          135 C.L.R. 674 considered.           ■•...•■,.-
+                              Per curiam. The fact that the report stated on its face that
+                          it had finally to be sent to the board's solicitor for the .-,
+                          purpose of- enabling him to advise it cannot be conclusive
+                      - as to the dominant purpose for which.it was prepared (post,
+                         pp. 53 1A, 5 3 8 A - B , 5 3 9 E - G , 5 4 5 E - F ) .   .
+                            Dictum of Lord Strathclyde, Lord. President, in Whitehill
+                         v. Glasgow Corporation, 1915 S.C. 1015, 1017 applied.
+                            Decision of the Court of Appeal reversed.
+
+              The following cases are referred to in their Lordships' opinions:                                   j)
+              Anderson v. Bank of British Columbia (1876) 2,Ch.D. 644, Sir George
+                   Jessel M.R. and C.A.
+              Ankin v. London and North Eastern Railway Co. [1930] 1 K.B. 527, C.A.
+              Birmingham and Midland Motor Omnibus Co. Ltd. v. London and North
+                   Western Railway Co. [1913] 3 K.B. 850, C.A.
+              Conway v. Rimmer [1968] A.C. 910; [1968] 2 W.L.R. 998; [1968] 1                                     F
+                   All E.R. 874, H.L.(E.).
+              Crofter Hand Woven Harris Tweed Co. Ltd. v. Veitch [1942] A.C. 435;
+                   [1942] 1 All E.R. 142, H.L.(Sc).
+              Crompton (Alfred) Amusement Machines Ltd. v. Customs and Excise
+                   Commissioners (No. 2) [1974] A.C. 405; [1973] 3 W.L.R. 268;
+                   [1973] 2 All E.R. 1169, H.L.(E.).
+              D. v. National Society for the Prevention of Cruelty to Children [1978]                             F
+                   A.C. 171; [1977] 2 W.L.R. 201; [1977] 1 All E.R. 589, H.L.(E.).
+              Grant v. Downs (1976) 135 C.L.R. 674; 11 A.L.R. 577.
+              Jones v. Great Central Railway Co. [1910] A.C. 4, H.L.(E.).
+              Jones v. Monte Video Gas Co. (1880) 5 Q.B.D. 556, C.A.
+              Konia v. Morley [1976] 1 N.Z.L.R. 455.
+              Lawrence v. Campbell (1859) 4 Drew. 485.
+                                                                                                                  G
+              Longthorn v. British Transport Commission [1959] 1 W.L.R. 530; [1959]
+                   2 All E.R. 32.
+              Northern Construction Co. v. British Columbia Hydro and Power Autho­
+                   rity (1970) 75 W.W.R. 21.
+              Ogden v. London Electric Railway Co. (1933) 49 T.L.R. 542, C.A.
+              Reg. in Right of Canada v. Hawker Siddeley Canada Ltd. (1976) 73
+                   D.L.R. (3d) 453.                                                                               H
+              Seabrook v. British Transport Commission [1959] 1 W.L.R. 509; [1959]
+                   2 All E.R. 15.
+              Southwark and Vauxhall Water Co. v. Quick (1878) 3 Q.B.D. 315, C.A.
+ Case 1:15-cv-07433-RWS Document 57-1 Filed 03/14/16 Page 4 of 26
+                                                                      523
+    A.C.                 Waugh v. British Railways Board (H.L.(E.) )
+           Vernon v. Board of Education for the Borough of North York (1975)
+A
+              9 O.R.(2d) 613.
+           Whitehill v. Glasgow Corporation, 1915 S.C. 1015.
+        The following additional cases were cited in argument:
+        Adam Steamship Co. Ltd. v. London Assurance Corporation [1914] 3
+            K.B. 1256, C.A.
+B       Collins v. London General Omnibus Co. (1893) 68 L.T. 831, D.C.
+        Cook v. North Metropolitan Tramway Co. (1889) 54 J.P. 263, D.C.
+        London and Tilbury Railway Co. v. Kirk and Randall (1884) 28 S.J. 688,
+            D.C.
+        Westminster Airways Ltd. v. Kuwait Oil Co. Ltd. [1951] 1 K.B. 134;
+            [1950] 2 All E.R. 596, C.A.
+        Woolley v. North London Railway Co. (1869) L.R. 4 C.P. 602.
+C
+       INTERLOCUTORY APPEAL      from the Court of Appeal.
+        By an action against the respondent defendants, the British Railways
+    Board, the appellant plaintiff, Alice Simpson Waugh (widow of John
+    Wallace Waugh, deceased), claimed damages against the board in respect
+    of the death of the deceased under the provisions of the Fatal Accidents
+J-J Acts 1846-1959, alleging that a collision between two of the board's
+    locomotives that had resulted in the death of the deceased, who had been
+    employed by the board, had been caused by the negligence of the board,
+    their servants or their agents. By their defence, the board denied negli­
+    gence, and alleged that the collision had been caused or contributed to by
+    the deceased's own negligence. The plaintiff sought discovery of an internal
+    inquiry report made by two officers of the board two days after the
+ E accident, but the board refused discovery on the ground of legal pro­
+    fessional privilege. On an interlocutory application by the plaintiff, Master
+    Bickford Smith, on January 26, 1978, ordered disclosure of the report, but
+    Donaldson J., on May 8, 1978, allowed an appeal by the board from that
+    order. The Court of Appeal, on July 28, 1978, by a majority (Eveleigh L.J.
+    and Sir David Cairns, Lord Denning M.R. dissenting) dismissed an appeal
+ p by the plaintiff. The plaintiff appealed by leave of the Court of Appeal.
+        The facts are set out in their Lordships' opinions.
+
+       Peter Weitzman Q.C. and Michael Brent for the plaintiff. Where a
+   report is brought into existence for several reasons or purposes only one
+   of which is to obtain professional legal advice in litigation that is pending
+   or anticipated, is it protected by legal professional privilege from dis-
+G covery? What is the test? There are a number of possible answers.
+   (1) It is enough to secure privilege if the intention to obtain legal advice is
+   a purpose, inter alia. (2) The intention to obtain legal advice must be at
+   least a substantial purpose. (3) The purpose for which the document is
+   brought into existence must be wholly or mainly that of obtaining profes­
+   sional legal advice, or it must have been " the primary," " the substan-
+JJ tive," or " the dominant," purpose (these different phrases have all been
+   used in the cases). (4) It must be the sole purpose. The plaintiff says
+   that the answer is (4), alternatively, possibly, (3).
+       As to the authorities, the following preliminary observations may be
+Case 1:15-cv-07433-RWS Document 57-1 Filed 03/14/16 Page 5 of 26
+   524
+                       Waugh v. British Railways Board (H.L.(E.))          [1980]
+   made. At one time, the practice differed as between equity and com- .
+   mon law. (2) R.S.C., Ord. 24, r. 5, first came into existence in 1894 as
+   R.S.C., Ord. 31, r. 19A. It was not until then that there was power in
+   the court to inspect the documents in respect of which privilege was
+   claimed. The authorities fall into three groups: (i) pre-1913; (ii) Birming­
+   ham and Midland Motor Omnibus Co. Ltd. v. London and North Western
+   Railway Co. [1913] 3 K.B. 850 and Ogden v. London Electric Railway
+   Co. (1939) 49 T.L.R. 542; (iii) the cases after that, which do not add B
+   much. Southwark and Vauxhall Water Co. v. Quick (1878) 3 Q.B.D. 315
+   is strong authority for the " sole purpose " test, and Collins v. London
+   General Omnibus Co. (1893) 68 L.T. 831 is also clear authority that at
+   that stage the test was the " sole purpose " test. [Reference was made
+   to Woolley v. North London Railway Co. (1869) L.R. 4 C.P. 602;
+   Anderson v. Bank of British Columbia (1876) 2 Ch.D. 644; London and
+   Tilbury Railway Co. v. Kirk and Randall (1884) 28 S.J. 688; Cook v. C
+   North Metropolitan Tramway Co. (1889) 54 J.P. 263; and the Sixteenth
+   Report of the Law Reform Committee (Privilege in Civil Proceedings)
+   (1967) (Cmnd. 3472), pp. 8 (para. 17), 13.]
+        Birmingham and Midland Motor Omnibus Co. Ltd. v. London and
+   North Western Railway Co. [1913] 3 K.B. 850 turns, to begin with, on
+   the form of words used in the affidavit (Eveleigh L.J. in the present case D
+   said that the judgment of Buckley L.J. there could be read in that way).
+   It was not, therefore, intended to deal with the proper principles or test to
+   be applied. Alternatively, Buckley and Hamilton L.JJ. were by implica­
+   tion referring to the " dominant purpose " test. The plaintiff relies on the
+   passage at p. 860: " The only authority . . ." Hamilton L.J. is at least
+   saying that there is no authority for the view that the purpose does not
+   at least have to be the primary or substantial purpose, and the judgment
+   of Buckley L.J., even taken on its own, does not go to the extent of
+   contradicting that of Hamilton L.J.: see at p. 856: " I t is not I think
+   necessary . . ." (In Southwark and Vauxhall Water Co. v. Quick, 3
+   Q.B.D. 315, the word " merely " was used a number of times by Brett L.J.)
+   The argument in the Birmingham case was directed largely to the form
+   of the affidavit. There is no suggestion in the report that there was any F
+   other purpose. The judgment of Buckley L.J. relates primarily to the
+   wording of the affidavit rather than to the substance of it. [Reference
+   was made to Adam Steamship Co. Ltd. v. London Assurance Corpora­
+   tion [1914] 3 K.B. 1256 and Ankin V. London and North Eastern Rail­
+   way Co. [1931] 1K.B.527.]
+        Ogden V. London Electric Railway Co., 49 T.L.R. 542, is moving to
+   the position that, as a matter of substance, it is enough that one, substan- ®
+   tial, purpose for bringing the document into existence is that it shall be
+   available for legal advice. This is inconsistent with the judgments in
+   Southwark and Vauxhall Water Co. v. Quick, 3 Q.B.D. 315. Scrutton L.J.
+   misinterpreted that case, and wrongly extended what the Birmingham case
+   decided. Ogden was wrongly decided, if it is authority that a substantial
+   purpose is sufficient. Westminster Airways Ltd. v. Kuwait Oil Co. Ltd; JJ
+    [1951] 1 K.B. 134 is against the plaintiff: it shows that, since Ogden, the
+   courts have been following Ogden and taking the view that a substantial
+   purpose is enough. There is a reference to " other purposes " at p. 143.
+Case 1:15-cv-07433-RWS Document 57-1 Filed 03/14/16 Page 6 of 26
+                                                                          525
+     A.C.              Waugh v. British Railways Board (H.L.(E.))
+     [Reference was made to Seabrook v. British Transport Commission [1959]
+A
+     1 W.L.R. 509; Longthorn v. British Transport Commission [1959] 1
+     W.L.R. 530 and Alfred Crompton Amusement Machines Ltd. v. Customs
+     and Excise Commissioners (No. 2) [1974] A.C. 405.]
+         The privilege should only be accorded where it is necessary in order
+     to achieve the purpose for which it is designed. Where the party would
+     have brought the document into existence apart from the seeking of legal
+B    advice, there is no need for the privilege. Before 1894, when only the
+     affidavit was produced, the inability of the court to inspect the actual
+     documents could lead to abuse or mistake. Birmingham and Midland
+     Motor Omnibus Co. Ltd. v. London and North Western Railway Co.
+      [1913] 3 K.B. 850 was the first case where the court examined what the
+     affidavit had to say and also looked at the documents. Thus, the language
+     of the affidavit was no longer vital. There were now two questions:
+C    should the court inspect the documents, and was the form of words
+     conclusive? Because the court could inspect the documents, the form of
+     words was no longer conclusive. [Reference was made to Grant v.
+     Downs (1976) 135 C.L.R. 674; Wigmore's Law of Evidence (1905), vol. iv,
+     paras. 2317-2319 and R.S.C., Ord. 38, r. 29.]
+         The plaintiff's submissions, in summary, are as follows. 1. Ogden v.
+D    London Electric Railway Co., 49 T.L.R. 542, was wrongly decided. One
+     can go back to the situation before Birmingham and Midland Motor
+     Omnibus Co. Ltd. v. London and North Western Railway Co. [1913] 3
+     K.B. 850, where, as was said in Southwark and Vauxhall Water Co. v.
+     Quick, 3 Q.B.D. 315, the sole purpose test was the appropriate test.
+     What is said by Lord Cross of Chelsea in Alfred Crompton Amusement
+     Machines Ltd. v. Customs and Excise Commissioners (No. 2) [1974]
+E    A.C. 405, with the concurrence of the others of their Lordships, is that
+     the matter is now open for the House to decide what is the appropriate
+     test to be applied—that is, presumably, that which is most desirable in
+     the interests of justice. If privilege is to be accorded to a document, it
+     is only to be accorded where that is necessary for the basic rationale
+     of the rule, as expressed, inter alia, by Sir George Jessel M.R. in
+p    Anderson v. Bank of British Columbia (1876) 2 Ch.D. 644, 648-649.
+     If a document comes into existence in circumstances such that it
+     cannot be shown that it would not have come into existence but for
+     the purposes of litigation, then in truth the privilege does not serve
+     the purpose that is the basis of the rule, but merely provides an adventi­
+     tious advantage. This is particularly the case with large corporate
+      employers who are obliged to collect knowledge, as in this case. These
+^     points were made in Grant v. Downs, 135 C.L.R. 674, on which
+      the plaintiff very much relies. The problem posed can best be met by
+      applying the sole purpose test; alternatively, the dominant purpose test,
+      on the basis that the dominant purpose is the one that, if it had not
+      existed, would mean that the document would not have come into exist­
+      ence. Here, the litigation purpose is at the highest one of two equal
+JJ    purposes.
+          Francis Irwin Q.C. and Frederick Marr-Johnson for the board. The
+     powers of the inspectors appointed by the Secretary of State are set out
+      in section 4 of the Regulation of Railways Act 1871. The report of
+Case 1:15-cv-07433-RWS Document 57-1 Filed 03/14/16 Page 7 of 26
+  526
+                       Waugh v. British Railways Board (H.L.(E.))           [1980]
+  October 29, 1976, can be obtained by. anyone from the Ministry of Trans-
+  port or Her Majesty's Stationery Office.
+       One of the objects of privilege is to prevent one party from seeing in
+  detail what the other party's case is. It is very difficult to define " sub­
+  stantial." As to the tests, (1) once duality has been raised, there is no
+  English case that has approved the sole purpose test. The only case,
+  relied on by the plaintiff, is Grant v. Downs, 135 C.L.R. 674. (2) the
+  dominant purpose test has not been used by any judge except Barwick
+  C.J. in Grant v. Downs. How does one assess dominance? Dominance
+  in whose eyes? At what particular time?
+       [LORD EDMUND-DAVIES. In a civilised society, would not the domin­
+  ant purpose be to find out what happened, so as to prevent it from
+  happening again?]
+       In this case, there was no dominant purpose. The second report, the C
+  joint inquiry report of May 6, 1976, was really the collection of evidence.
+  One difficulty of this approach is to distinguish between one aspect and
+  another: which is the important one? The answer here should therefore
+  be that the real test here can be described as a " substantial purpose "-r-
+  " a substantial purpose "—test, or an " appreciable purpose " test. " An
+  appreciable " means that it is something of consequence. The board does -Q
+  not accept the substantial purpose test because there was not a substantial
+  purpose here. If there had been one, they would not go as far as to
+  accept that test. They would accept that it is a question of "dominant
+  in whose eyes? " Even there, there is difficulty, because one might have,
+  for example, two members of a family charged with making a report about
+  an accident that had happened to them: one might regard the dominant
+  purpose of the report as liability, the other safety. " A dominant pur- E
+  pose " means a substantial purpose without the need to inquire whether it
+  was the dominant purpose. There are two basic criteria: (1) that the test
+  should be fair to both parties to the litigation; (2) that it should be simple
+  to understand and easy to apply in practice. Support for the " a substan­
+  tial purpose " test is found in the judgment of Diplock J. in Longthorn
+  V. British Transport Commission [1959] 1 W.L.R. 530, 534; see also Konia p
+   v. Morley [1976] 1 N.Z.L.R. 455 and the test that Eveleigh L.J. applied
+  in the present case. Provided that the board establish a substantial purpose,
+  they concede that there may be cases—not this one-^-where there may be
+  a more important function. Thus, the substantial, appreciable purpose
+   test ought to be applied. It represents the law and practice of at least
+   the last 60 years. It is fair to both parties, in the sense that the privilege
+  attaching to the document supports the case of the board in this instance. G
+  It has that advantage, but it precludes the plaintiff, on general grounds,
+  from having access to information to which otherwise she would be
+  •entitled.
+        [LORD SIMON OF GLAISDALE. There are two conflicting principles—
+  curiously, both advanced to further the administration of justice. They
+  point in different directions. One usually tries to resolve such a conflict JJ
+  [byfindinga middle line.]
+  ■< That is the difficulty here: to find a workable middle line. This
+  advances the board's case for "substantial" or "appreciable."
+ Case 1:15-cv-07433-RWS Document 57-1 Filed 03/14/16 Page 8 of 26
+                                                                               527
+     \.C.   '           ;Waugh V.British Railways Board (H.L.(E.))
+          [LORD.RUSSELL OF KILLOWEN. What about the preliminary accident
+     report?. There must also have been a report to the police?]
+          The accident report was not disclosed. The coroner's notes were dis­
+     closed. The board could hold two inquiries, one as to liability and..one
+     as to safety. It could not then be said that the first would be disclosable:
+     The second would be.
+          The plaintiff says.that Southwark and Vauxhall Water Co. v. Quick;
+B    3 Q.B.D. 315, is strong authority for the sole purpose test. There, the
+     court was not concerned with any duality of purpose, and they were not
+     directing their mind to that point. "Secondly, the plaintiff says that
+     Birmingham and Midland Motor Omnibus Co. Ltd. v. London and
+     North Western Railway Co. [1913] 3 K.B. 850 turned mainly on the
+     form of words used in the affidavit and was not, therefore, intended to
+     deal with the proper principles and the test to be applied; alternatively,
+C    she suggests that Buckley and Hamilton LJJ. were by implication referring
+     to the dominant purpose test. That case has been considered ever since
+     it was decided as settling matters of principle, and it is not correct to say
+     that within the language used the court were favouring the dominant
+     purpose test. There is no distinction between " primary " and " domim
+     ant"; that is why one should prefer the substantial purpose test.
+D       ' The plaintiff said that Ogden v. London Electric Railway Co., 49
+     T.L.R. 542, was Wrongly decided: Scrutton L.J. misinterpreted the
+     Southwark and Vauxhall case and extended what had been decided in the
+     Birmingham case. Ogden, like the Birmingham case, has been regarded
+     as settling matters of principle now for "a great number of years; Scrutton
+     L.J. took a correct view of the Southwark and Vauxhall Case and correctly
+     interpreted and applied the Birmingham case. The present state of the
+E    law, based principally on the Birmingham case, the Ogden case and othef
+     cases referred to in Seabrook. v. British Transport Commission [1959]
+     1 W.L;R. 509, may be summarised as follows. (1) All communications
+     between a client or his legal adviser and third parties are prima facie
+     privileged if one of the purposes for which they are made is the purpose
+     of pending or contemplated litigation. (2) This purpose need not be the
+p    " dominant" purpose for the document's existence, but it must be a
+     "substantial" or "appreciable" purpose. (3) Whether or not the pur­
+     pose is sufficiently substantial to attract the cloak of privilege will be a
+     question of fact and degree in every case. There is no magic in any
+     particular form of words, and (for example) it is not necessary that the
+     affidavit should state that information was obtained " solely " o r " merely "
+     or " primarily " for the legal adviser. (4) Such a communication remains
+G    privileged notwithstanding the fact that it is brought into existence as a
+     matter of routine, or in accordance with standing instructions, and not­
+     withstanding the fact that it may pass through various hands before
+     coming finally to the legal adviser.
+          If the test is dominant purpose, it is possible to argue that the dominant
+     purpose of the joint inquiry report was an inquiry into liability. The
+JJ    " label" on the affidavit of the assistant to the general manager of the
+     board's Eastern Region in support of the board's claim of privilege artd
+      on the joint inquiry report cannot be more than an indication of its pur-;
+     pose. Paragraph 2 of the board's list of documents, stating that they have
+Case 1:15-cv-07433-RWS Document 57-1 Filed 03/14/16 Page 9 of 26
+  528
+                    Waugh v. British Railways Board (H.L.(E.))         [1980]
+  in their possession, custody or power the documents " relating to the .
+  matters in question in this action" enumerated in the first schedule, is
+  standard form.
+      Marr-Johnson following on the Commonwealth authorities. As to
+  Grant v. Downs, 135 C.L.R. 674, the House should have in mind the
+  principle set out by the majority there. Using shorthand, they applied the
+  sole purpose test. The judgment of the majority is based on a fallacy,
+  based on a misunderstanding of Anderson v. Bank of British Columbia B
+  (1876) 2 Ch.D. 644: see at pp. 687-689. It can be reduced to four pro­
+  positions. (1) An ordinary individual can always be compelled to dis­
+  close his own knowledge of relevant facts. (2) A corporation generally
+  has to acquire knowledge of relevant facts through the written communi­
+  cations of its agents. (3) It would be extraordinary if a corporation could
+  claim the benefit of a privilege that was not available to an ordinary
+  individual. (4) The majority conclude that, if the dual purpose claim
+  is allowed the effect would be precisely that. The board agrees with
+  (3), but (4) does not follow from (1) and (2). (1) is correct, but " relevant
+  facts" means the basic facts of the transaction, the res gestae, one
+  might almost say: the written documents in an accident case—typically,
+  the entry in the accident book in a factory case—or, in a commercial
+  case, the bank account in question. Anderson v. Bank of British D
+  Columbia is probably right if one reads it from end to end. The facts
+  were wholly different from those in Grant v. Downs. That is plain,
+  especially from the judgment of Mellish L.J., at p. 658: " . . . as to the
+  question that we have to decide in this case . . . "
+      It is well-established that a client is entitled to act on behalf of his
+  legal adviser in obtaining information from third parties. A corporation
+  is in no different position from an individual. That point was made
+  clearly by Cotton L.J. in Southwark and Vauxhall Water Co. v. Quick,
+  3 Q.B.D. 315, 321. There is no difference at all that the board is aware
+  of. It is plain from all the judgments in Anderson v. Bank of British
+  Columbia, 2 Ch.D. 644, particularly that of Mellish L.J., that all the docu­
+  ments there would legitimately have been the subject of discovery if the
+  bank had been in England: they were, in truth, bankers' records.              F
+      The board is not aware of any case other than Grant v. Downs, 135
+  C.L.R. 674, where the sole purpose test has been applied. It is not right
+  to draw the line at that particular point. If one is to draw a line at
+  all, one should draw it where it is capable of being applied easily in
+  practice (it is not only High Court judges who have to apply it).
+  Apart from Australia, the Commonwealth authorities all apply the sub-
+  stantial purpose test, which does work adequately in practice. One "
+  might have two different safety officers, one concerned with safety, one
+  with liability. Or one might have a document 90 per cent, of which was
+  concerned with safety, 10 per cent, with liability. These Commonwealth
+  cases follow the practice in England and Wales, and in two of them where
+  the substantial purpose test was applied the claim to privilege failed:
+  Northern Construction Co. v. British Columbia Hydro and Power JJ
+  Authority (1970) 75 W.W.R. 21 and Vernon v. Board of Education
+  for the Borough of New York (1975) 9 O.R. (2d) 613. Alfred Crompton
+  Amusement Machines Ltd. v. Customs and Excise Commissioners (No. 2)
+    Case 1:15-cv-07433-RWS Document 57-1 Filed 03/14/16 Page 10 of 26
+                                                                                  529
+     A.C.             Waugh v. British Railways Board (H.L.(E.))
+    [1974] A.C. 405 was considered in Reg. in Right of Canada v. Hawker
+A
+   Siddeley Canada Ltd. (1976) 73 D.L.R. (3d) 453. [Reference was made
+   to Konia v. Morley [1976] 1 N.Z.L.R. 455.]
+       Weitzman Q.C. in reply. One should not go through this report line
+   by line, but should look at what the person says who inspired it. There
+   is confusion in the board's argument between the function of pleadings on
+   the one hand and particulars on the other. One should distinguish
+B between the purpose for which the report was made and the use even­
+   tually made of its contents. As to the proposition that the test should be
+   simple to understand and easy to apply, that is the whole question here.
+   It is very difficult to say exactly where such a test as " a substantial
+   purpose " draws the line. It seems as though the Law Reform Committee
+   in its Sixteenth Report (Privilege in Civil Proceedings) (1967) (Cmnd.
+r  3472) were recommending the dominant purpose test: see at p. 8, para.
+C
+    17: "wholly or mainly."
+       Even if the board's historical summation of the authorities be right,
+   the House in Alfred Crompton Amusement Machines Ltd. v. Customs
+   and Excise Commissioners (No. 2) [1974] A.C. 405 regarded the matter
+   as open for reconsideration.
+       It is quite impossible that the board should succeed on the dominant
+D purpose test, because their affidavit falls far short of it. That was
+   recognised by Eveleigh L.J.
+       As to the Commonwealth authorities, see Grant v. Downs, 135 C.L.R.
+    674: the Commonwealth cases more or less follow what was said in
+    Seabrook v. British Transport Commission [1959] 1 W.L.R. 509 and
+    Longthorn v. British Transport Commission [1959] 1 W.L.R. 530.
+ E     Fairness and good sense suggest that the privilege should be limited to
+    those cases where it is essential that it should be granted. Where a docu­
+    ment would have been produced anyway, whether there was to be litigation
+   or not, that suggests that the privilege is not necessary.
+
+        Their Lordships took time for consideration.
+F
+       July 12. LORD WILBERFORCE. My Lords, the appellant's husband was
+   an employee of the British Railways Board. A locomotive which he was
+   driving collided with another so that he was crushed against a tank wagon.
+   He received injuries from which he died. The present action is brought
+   under the Fatal Accidents Acts 1846-1959 and this appeal arises out of an
+   interlocutory application for discovery by the board of a report called the
+G " joint inquiry report," made by two officers of the board two days after
+   the accident. This was resisted by the board on the ground of legal pro­
+   fessional privilege. The Court of Appeal, Eveleigh L.J. and Sir David
+   Cairns, Lord Denning M.R. dissenting, refused the application.
+      When an accident occurs on the board's railways, there are three reports
+   which are made. 1. On the day of the accident a brief report of the
+JJ accident is made to the Railway Inspectorate. 2. Soon afterwards a joint
+   internal report is prepared incorporating statements of witnesses. This too
+   is sent to the Railway Inspectorate. Preparation of this report, it appears,
+   is a matter of practice: it is not required by statute or statutory regula-
+                                                                   A.C. 1980—20
+Case 1:15-cv-07433-RWS Document 57-1 Filed 03/14/16 Page 11 of 26
+    530
+   Lord Wilberforce    .Waugh v. British Railways Board (H.L.(E.))             [1980]
+   tion. 3. In due course a report is made by the Railway Inspectorate for .
+   the Department of the Environment.
+        The document now in question is that numbered 2. The circumstances
+   in which it came to be prepared, and the basis for the claim of privilege,
+   were stated in an affidavit sworn on behalf of the board by Mr. G. T.
+   Hastings, assistant to the general manager of the Eastern Region. I find
+   it necessary to quote the significant passages in this affidavit.
+                                                                                        D
+          " 3. The general manager of the Eastern Region is required (as are the
+          general managers of the other railways regions) to submit returns to the
+          Department of [the] Environment in respect of accidents occurring on
+          or about any railway . . . 6. It has long been the practice of the board
+          and its predecessors to require that returns and reports on all accidents
+          occurring on the railway and joint internal departmental inquiries
+         into the causes of the said accident be made by the local officers of C
+         the board who would forward them to their superiors in order to
+         assist in establishing the causes of such accidents. 7. Such reports
+         and the statements of witnesses to such accidents are made for the
+         purposes mentioned in paragraphs 3 and 6 of this affidavit and equally
+         for the purpose of being submitted to the board's solicitor as material
+          upon, which he can advise the board upon its legal liability and for ]-»
+         the purpose of conducting on behalf of the board any proceedings
+         arising out of such accidents . . . 9. It is commonly anticipated by the
+         board that: (a) where an employee of the board suffers personal injury
+         or death at. work or (b) where a passenger suffers loss [or] personal
+         injury- or death while on or about the railway a claim for damages
+         will be made against the board and proceedings will ensue if liability
+         is repudiated. The present action is brought as the result of a fatal E
+         accident suffered at. work by the late husband of the plaintiff and
+         it was anticipated from the very outset that a claim for damages would
+          almost certainly ensue.i 10. The documents in this action namely the
+          reports made by the board's officers and servants and the report
+          referred to in correspondence as the internal inquiry report for
+          which the defendants have claimed privilege in part 2 of the first p
+          schedule of their list of documents dated November 11, 1977, came
+          into existence by reason of the fact that the appropriate officer, in
+          this case the divisional manager at Newcastle, in accordance with long
+          standing practice was required to and did so call for such reports and
+           statements. One of the principal purposes for so doing was so that
+         they could be passed to the board's chief solicitor to enable him to
+           advise the board on its legal liability and if necessary conduct its G
+           defence to these proceedings. 11. The internal inquiry report in fact
+           states on the face of it that it has finally to be sent to the solicitor for
+           the purpose of enabling him to advise the board."
+   This last paragraph refers to the wording which appears at the head of the
+   report: '
+    .                                                            '                      JJ
+       : : " For the information of the board's solicitor: This form is to be
+           used by every person reporting an occurrence when litigation by or
+    -:: against the B.R.B.: is anticipated. It as to beprovided by the person
+ Case 1:15-cv-07433-RWS Document 57-1 Filed 03/14/16 531
+                                                       Page 12 of 26
+     A.C. .             Waugh v. British Railways Board (H.L.(E.))   Lord Wilberforce
+         making it to his immediate superior officer and has finally to be sent
+         to the solicitor for the purpose of enabling him to advise the B.R.B.
+         in regard thereto."
+     Whatever this heading may say, the affidavit makes it clear that the
+     report was prepared for a dual purpose: for what may be called railway
+     operation and safety purposes and for the purpose of obtaining legal
+B    advice in anticipation of litigation, the first being more immediate than
+     the second, but both being described as of equal rank or weight. So
+     the question arises whether this is enough to support a claim of privilege,
+     or whether, in order to do so, the second purpose must be the sole purpose,
+     or the dominant or main purpose. If either of the latter is correct, the
+     claim of privilege in this case must fail.
+          My Lords, before I consider the authorities, I think it desirable to
+C    attempt to discern the reason why what is (inaccurately) called legal pro­
+      fessional privilege exists. It is sometimes ascribed to the exigencies of the
+     adversary system of litigation under which a litigant is entitled within limits
+     to refuse to disclose the nature of his case until the trial. Thus one side
+     may not ask to see the proofs of the other side's witnesses ■ or the
+      opponent's brief or even know what witnesses will be called: he must
+D     wait until the card is played and cannot try to see it in the hand. This
+      argument cannot be denied some validity even where the defendant is a
+      public corporation whose duty it is, so it might be thought, while taking
+      all proper steps to protect its revenues, to place all the facts before the
+     public and to pay proper compensation to those it has injured. A more
+     powerful argument to my mind is that everything should be done in order
+      to encourage anyone who knows the facts to state them fully and candidly
+E     ^-as Sir George Jessel M.R. said, to bare his breast to his lawyer: Anderson
+      y. Bank of British Columbia (1876) 2 Ch.D. 644, 699. This he may not do
+      unless he knows that his communication is privileged.                        <
+     ■' But the preparation of a case for litigation is not the only interest
+      which call for candour. In accident cases " . . . the safety of the public
+     may well depend on the candour and completeness of reports made by
+P     subordinates whose duty it is to draw attention to defects": Conway v.
+     Rimmer [1968] A.C. 910, per Lord Reid, at p. 941. This however does
+     not by itself justify a claim to privilege since, as Lord Reid continues:
+            " . . . no one has ever suggested that public safety has been endangered
+           by the candour or completeness of such reports having been inhibited
+           by the fact that they may have to be produced if the interests of the
+Q    (     due administration of justice should ever require production at any
+           time."                                     " " . . ' : ' ' : .'. .
+          So one may deduce from this the principle that while privilege may
+     be required in order to induce candour in statements made for the purposes
+     of litigation it is not required in relation to statements whose purpose is
+     different—for example to enable a railway to operate safety.
+JJ        It is clear that the due administration of justice strongly requires dis­
+     closure and production of this report: it was contemporary; it contained
+     statements by witnesses on the spot; it would be not merely, relevant
+     evidence, but almost certainly the best evidence as to the cause of the
+Case532
+     1:15-cv-07433-RWS Document 57-1 Filed 03/14/16 Page 13 of 26
+    Lord Wilberforcc   Waugh v. British Railways Board (H.L.(E.))        [1980]
+   accident. If one accepts that this important public interest can be over-       .
+   ridden, in order that the defendant may properly prepare his case, how
+   close must the connection be between the preparation of the document
+   and the anticipation of litigation? On principle I would think that the
+   purpose of preparing for litigation ought to be either the sole purpose
+    or at least the dominant purpose of it: to carry the protection further into
+    cases where that purpose was secondary or equal with another purpose
+    would seem to be excessive, and unnecessary in the interest of encouraging     B
+    truthful revelation. At the lowest such desirability of protection as might
+    exist in such cases is not strong enough to outweigh the need for all rele­
+   vant documents to be made available.
+        There are numerous cases in which this kind of privilege has been con­
+   sidered. A very useful review of them is to be found in the judgment
+   of Havers J. in Seabrook v. British Transport Commission [1959] 1
+   W.L.R. 509 which I shall not repeat. It is not easy to extract a coherent
+   principle from them. The two dominant authorities at the present time
+   are Birmingham and Midland Motor Omnibus Co. Ltd. v. London and
+   North Western Railway Co. [1913] 3 K.B. 850 and Ogden V. London
+   Electric Railway Co. (1933) 49 T.L.R. 542, both decisions of the Court
+   of Appeal. These cases were taken by the majority of the Court of
+   Appeal in the present case to require the granting of privilege in cases        D
+   where one purpose of preparing the document(s) in question was to enable
+   the defendants' case to be prepared whether or not they were to be
+   used for another substantial purpose. Whether in fact they compel such a
+   conclusion may be doubtful—in particular I do not understand the
+   Birmingham case to be one of dual purposes at all: but it is enough that
+   they have been taken so to require. What is clear is that, though loyally
+   followed, they do not now enjoy rational acceptance: in Longthorn v.            ^
+   British Transport Commission [1959] 1 W.L.R. 530 the manner in which
+   Diplock J. managed to escape from them, and the tenor of his judgment,
+   shows him to have been unenthusiastic as to their merits. And in Alfred
+   Crompton Amusement Machines Ltd. v. Customs and Excise Com­
+   missioners (No. 2) [1974] A.C. 405 Lord Cross of Chelsea, at p. 432,
+   pointedly left their correctness open, while Lord Kilbrandon stated, at         p
+   p. 435, that he found the judgment of Scrutton L.J. in Ogden v. London
+   Electric Railway Co., 49 T.L.R. 542, 543-544, "hard to accept." Only
+    Viscount Dilhorne (dissenting) felt able to follow them in holding it to be
+    enough if one purpose was the use by solicitors when litigation was
+    anticipated.
+        The whole question came to be considered by the High Court of
+                                                                                   G
+    Australia in 1976: Grant V. Downs, 135 C.L.R. 674. This case involved
+    reports which had " as one of the material purposes for their preparation "
+    submission to legal advisers in the event of litigation. It was held that
+    privilege could not be claimed. In the joint judgment of Stephen, Mason
+    and Murphy JJ., in which the English cases I have mentioned were dis­
+    cussed and analysed, it was held that " legal professional privilege " must
+   be confined to documents brought into existence for the sole purpose of         JJ
+    submission to legal advisers for advice or use in legal proceedings.
+    Jacobs J. put the test in the form of a question, at p. 692: " . . . does
+   the purpose "—in the sense of intention, the intended use—" of supplying
+Case 1:15-cv-07433-RWS Document 57-1 Filed 03/14/16 Page 14 of 26
+                                                                               533
+    A.C.              Waugh v. British Railways Board (H.L.(E.))   Lord Wilberforce
+  the material to the legal adviser account for the existence of the
+^ material? " Barwick C.J. stated it in terms of " dominant" purpose.
+  This is closely in line with the opinion of Lord Denning M.R. in the
+  present case that the privilege extends only to material prepared
+  " wholly or mainly for the purpose of preparing [the defendant's] case."
+  The High Court of Australia and Lord Denning M.R. agree in refusing
+  to follow Birmingham and Midland Motor Omnibus Co. Ltd. v. London
+B and North Western Railway Co. [1913] 3 K.B. 850 and Ogden v. London
+  Electric Railway Co., 49 T.L.R. 542, as generally understood.
+       My Lords, for the reasons I have given, when discussing the case in
+  principle, I too would refuse to follow those cases. It appears to me that
+  unless the purpose of submission to the legal adviser in view of litigation
+  is at least the dominant purpose for which the relevant document was
+  prepared, the reasons which require privilege to be extended to it cannot
+^ apply. On the other hand to hold that the purpose, as above, must be the
+   sole purpose would, apart from difficulties of proof, in my opinion, be
+   too strict a requirement, and would confine the privilege too narrowly: as
+   to this I agree with Barwick C.J. in Grant v. Downs, 135 C.L.R. 674, and
+   in substance with Lord Denning M.R. While fully respecting the necessity
+   for the Lords Justices to follow previous decisions of their court, I find
+D myself in the result in agreement with Lord Denning's judgment. I would
+   allow the appeal and order disclosure of the joint report.
+        LORD SIMON OF GLAISDALE. My Lords, the appellant's late husband,
+    an employee of the respondents, was killed in an accident on part of their
+    railway system. In accordance with their usual practice, shared by many
+    industrial and commercial undertakings in such circumstances, a report
+E   was made about the accident. As so often, the report came into being
+    partly for the purpose of ascertaining whether the working system was
+    defective and could be improved so as to obviate such accidents, partly
+    for the purpose of informing the respondents' solicitors in case of the
+    threat or initiation of litigation, which, at the time when the report was
+    made, was contemplated by the respondents as possible or probable.
+p   The report, as is usual, contains statements by all such persons
+    as could throw light on the circumstances of the accident, the majority of
+    whom could be witnesses in any ensuing litigation. Litigation having in
+    fact been started by the appellant against the respondents, the former has
+    sought disclosure of the report to assist her in the preparation and /or
+    conduct of her case. The respondents resist its disclosure, on the ground
+    that it is protected by legal professional privilege.
+G       The situation being far from unusual, the issue has quite frequently
+    been before the courts. The English authorities were meticulously reviewed
+    by Havers J. in Seabrook v. British Transport Commission [1959] 1
+    W.L.R. 509. His conclusion was that he was bound by what had been
+    said by the majority of the Court of Appeal in Birmingham and Midland
+    Motor Omnibus Co. Ltd. v. London and North Western Railway Co.
+H    [1913] 3 K.B. 850, and by the ensuing Court of Appeal decisions in Ankin
+    v. London and North Eastern Railway Co. [1930] 1 K.B. 527 and Ogden
+    v. London Electric Railway Co., 49 T.L.R. 542. The law thus laid
+    down was that such a report need not be disclosed if one of its purposes
+Case 1:15-cv-07433-RWS Document 57-1 Filed 03/14/16 Page 15 of 26
+    §34
+    J-?1* Simon      Waugh v. British Railways Board (H.L.(E.))      [1980]
+    of Glaisdale         "
+    (even though subsidiary) was to inform the solicitor with a view to »
+    litigation contemplated as possible or probable. That this was the correct
+    distillation of the prevailing case law was recognised by Diplock J. in
+    Longthorn V. British Transport Commission [1959] 1 W.L.R. 530; though
+    he deftly avoided its application. It was also recognised as the prevailing
+    English law, and applied, by various Canadian courts: see Northern
+    Construction Co. v. British Columbia Hydro and Power Authority (1970)
+    75 W.W.R. 21; Vernon v. Board of Education for the Borough of North B
+    York (1975) 9 O.R.(2d) 613; Reg. in Right of Canada v. Hawker Siddeley
+    'Canada Ltd, (1976) 73 D.L.R. (3d) 453. In New Zealand, too, the
+   Court of Appeal held that to attract privilege its use in reasonably
+   apprehended litigation need not be the only purpose of the document
+   (though it must be an appreciable purpose): Konia v. Morley [1976] 1
+   N.Z.L.R. 455. Ankin V. London and North Eastern Railway Co. [1930] r
+    1 K.B. 527 and Ogden v. London Electric Railway Co., 49 T.L.R. 542 ^
+   being English Court of Appeal decisions, the law declared there was
+   binding on, and applied by the majority of, the Court of Appeal in the
+   instant case.
+        The earlier authorities are, however, by no means so categorical; and
+   the views of Hamilton LJ. in Birmingham and Midland Motor Omnibus
+   Co. Ltd. v. London and North Western Railway Co. [1913] 3 K.B. 850 D
+   were preferred, though not as a matter of decision, by the majority of the
+   members of the Appellate Committee in Alfred Crompton Amusement
+   Machines Ltd. V. Customs and Excise Commissioners (No. 2) [1974]
+   A.C. 405; and it was the Birmingham case which was the foundation of
+   Ankin and Ogden. In Grant v. Downs, 135 C.L.R. 674, the majority of
+   the High Court in Australia took those earlier authorities into account p
+   and also the doubt that had been thrown on the more recent ones in
+   Alfred Crompton Amusement Machines Ltd. V. Customs and Excise
+   Commissioners (No. 2); and, weighing various other considerations, held
+   that to attract privilege the use of the document for reasonably anticipated
+   litigation must be its sole purpose. Barwick C.J., at p. 677, " Having
+   considered the decisions, the writings and the various aspects of the
+   public interest which claim attention," thought that use of the document F
+   either for legal advice or to be used in reasonably apprehended litigation
+   had to be the dominant purpose in order to attract privilege from dis­
+   closure. The Law Reform Committee, in its Sixteenth Report (Privilege
+   in Civil Proceedings) (1967) (Cmnd. 3472) thought that, under the sub­
+   sisting English law, the test of privilege was that the document should
+   be " wholly or mainly" for the purpose of preparing one's case in _,
+   litigation then pending or contemplated (para. 17); and, although I do not
+    myself consider that that was the prevailing law (nor, indeed, I think, did
+   Lord Denning M.R. in the instant case, for all that he favoured it as the
+   test), the views of such an eminent committee are entitled to great
+    respect.
+         The upshot of this cursory conspectus of the authorities is that your
+   Lordships are, in my view, free to consider the issue on grounds of
+   principle and convenience, unembarrassed by previous authority, which,
+   rather, constitutes diverse springboards. The appellant argues that the
+ Case 1:15-cv-07433-RWS Document 57-1 Filed 03/14/16 Page 16 of 26
+                                                                                535'
+   A.C.               Waugh v. British Railways Board (H.L.(E.) )       Lord Simon!
+                                                       V    V
+                                             *                  "      of   QIajsda|e-
+A correct test is that preferred by the majority of the High Court in-
+  Grant v. Downs, 135 C.L.R. 674, namely the sole purpose; or, alterna­
+  tively, that preferred by Barwick C.J. in that case, namely the dominant
+  purpose. The respondents argue that Ankin v. London and North
+  Eastern Railway Co. [1930] 1 K.B. 527 and Ogdenv. London Electric
+  Railway Co., 49 T.L.R. 542, were correctly decided, and that it is
+  sufficient to attract privilege from disclosure if one of the purposes
+B (however subsidiary) is with a view to apprehended litigation.
+      The issue exemplifies a situation which frequently causes difficulties—
+  where the forensic situation is covered by two valid legal principles which
+  point each to a different forensic conclusion. Here, indeed, both principles
+  subserve the same legal end—the administration of justice. The first
+  principle is that the relevant rules of law should be applied to the
+Q whole body of relevant evidence—in other words, in principle all relevant
+  evidence should be adduced to the court. The report in question in this
+  appeal undoubtedly contains information relevant to the matters in issue
+  in the litigation here. The first principle thus indicates that it should be
+  disclosed, so that the appellant may make use of it if she wishes.
+       The second general principle arises out of the adversary (in contradic-
+   tion to the inquisitorial) system of administration of justice. Society
+   provides an objective code of law and courts where civil contentions
+   can be decided. But it contents itself with so providing a forum and a
+   code (and nowadays some finance for those who could not otherwise
+   get justice). Having done so much, society considers that it can safely
+   leave each party to bring forward the evidence and argument to establish
+   his/her case, detaching the judge from the hurly-burly of contestation
+E and so enabling him to view the rival contentions dispassionately. It is
+   true that this does not in itself give rise to legal professional privilege.
+   Sir Thomas More, before his time for judicial and administrative
+   responsibility, had a different system for the Utopians:             .
+       ' " For they thinke it most mete, that euery man shuld pleade his owne
+         matter, and tell the same tale before the iudge, that he'would'tel to
+F        his man of lawe. So shall there be lesse circumstaunce of wordes,
+         and the trwth shal soner cum to light; whiles the • iudge with a
+         discrete judgement doth waye the wordes of hyni whom no lawier
+         hath instruct with deceit; and whiles he helpeth and beareth out
+         simple wittes agaynst the false and malicious circumuertions "of craftie'
+         chyldren." (Utopia, 1516, tr. Ralph Robinson, 1551, Bk. 2, [ch. 7].)
+G This is all very fine; but that great moralist and master of. common
+   sense, Dr. Johnson, saw. the snag. Quite apart, from the descent of the
+   judge into the arena:
+        "As if rarely happens that a man is fit to plead his own'cause,
+        lawyers are a class of the community, who, by study and experience,
+        have acquired the art and power of arranging evidence, and- of
+JJ      applying to the points at issue what the law has settled. A lawyer
+        is to do for his client all that his client might fairly do for himself;
+       if he could." (Boswell, Life of Johnson, ed. Birkbeck Hill (1950),
+        vol. v, 26),
+Case 1:15-cv-07433-RWS Document 57-1 Filed 03/14/16 Page 17 of 26
+    536;
+    of°Giiis°ai°e     Waugh v. British Railways Board (H.L.(E.))           [1980]
+   So the adversary system calls for legal representation if it is to operate        .
+    with such justice as is vouchsafed to humankind.
+     ., This system of adversary forensic procedure with legal professional
+   advice and, representation demands that communications between lawyer
+   and client should be confidential, since the lawyer is for the purpose of
+   litigation merely the client's alter ego. So too material which is to go
+   into the lawyer's (i.e. the client's) brief or file for litigation. This is the
+   basis for the privilege against disclosure of material collected by or on         B
+   behalf of a client for the use of his lawyer in pending or anticipated
+   litigation: see Cotton L.J. in Southwark and Vauxhall Water Co. v.
+   Quick (1878) 3 Q.B.D. 315, 321-322; D. v. National Society for the
+   Prevention of Cruelty to Children [1978] A.C. 171, 231; Sixteenth
+   Report of the Law Reform Committee, paras. 17-21. Apart from
+   the limited exception of some expert evidence, for which the Rules
+   of the Supreme Court make express provision (Ord. 38, r. 37), a
+   party in civil litigation is not entitled to see the adversary's proofs of
+   what his witnesses will say at the trial; there has been no suggestion
+   that he should be so entitled; and any such development would require
+   the most careful consideration based on widespread consultation. The
+   report in question in this appeal undoubtedly contains material collected
+   by or on behalf of the respondents for the use of their solicitors in anti-       D
+   cipated litigation. The second principle thus indicates that the respon­
+   dents are entitled to claim that it is confidential as between themselves
+   and their solicitors and that they are not bound to disclose it.
+        Historically, the second principle—that a litigant must bring forward
+   his own evidence to support his case, and cannot call on his adversary
+   to make or aid it—was fundamental to the outlook of the courts of
+   common law. The first principle—that the opponent might be compelled              "
+   to disclose relevant evidence in his possession—was the doctrine of the
+   Chancery, a court whose conscience would be affronted by forensic success
+   contrary to justice obtained merely through the silent non-cooperation
+   of the defendant (see Y.B. 9 Ed. IV, Trin. 9), and which therefore had
+   some inclination to limited inquisitorial procedures. The conflict between
+   the Chancery and the courts of common law was, here as elsewhere,                 p
+    ultimately resolved by compromise and accommodation.
+        I can see no intrinsic reason why the one principle rather than the
+    other should prevail in a situation where they are counter-indicative.
+    Neither is absolute: both' are subject to numerous exceptions. For
+    example, if a document protected by legal professional privilege (or
+    secondary evidence of it) has been obtained by the opposite party
+    independently—even through the default of the legal adviser—even by               "
+    dishonesty—either will probably be admissible: Phipson on Evidence,
+    12th ed. (1976), p. 241, para. 584; Sixteenth Report of the Law Reform
+    Committee, para. 31. The numerous exceptions to the principle that all
+    relevant evidence should be disclosed arise partly from historical reasons
+    (the tensions between the courts of common law, where questions of
+    fact were tried, and the Court of Chancery, where the remedy of discovery        JJ
+    was developed), partly from considerations of justice, partly from wider
+    social considerations: see D. v. National Society for the Prevention of
+    Cruelty to Children [1978] A.C. 171, at pp. 231 et seq. Thus the
+Case 1:15-cv-07433-RWS Document 57-1 Filed 03/14/16 Page 18 of 26
+                                                                            537
+                                                                     L
+    A.C.             Waugh v. British Railways Board (H.L.(E.))      „ord Simon
+                                                                     of Glaisdale
+. historical exclusion of hearsay evidence, " the best evidence " rule and
+  " without prejudice" communications are examples of exceptions to
+  the principle of adduction of all relevant evidence. So too is the rule
+  excluding, in general, evidence going merely to the discredit of a witness,
+  even though the credibility of the witness may be decisive of the case.
+  But the exception which most nearly touches the issue facing your
+  Lordships was cogently invoked in this very connection by James L.J.
+B in Anderson v. Bank of British Columbia, 2 Ch.D. 644, 656:
+       " . . . as you have no right to see your adversary's brief, you have
+       no right to see that which comes into existence merely as the materials
+       for the brief."
+  The adversary's brief will contain much relevant material; nevertheless,
+Q you cannot see it because that would be inconsistent with the adversary
+  forensic process based on legal representation. I would, though, draw
+  attention to the word " merely " in James L.J.'s dictum.
+      There is, then, no a priori reason why the one general principle should
+  yield to the other. But in my judgment each party's main contention
+  would virtually result in the total exclusion of the principle relied on by
+  the other. The rule in Ogden in effect means that reports such as that
+D in the instant case will always be excluded, because it is unlikely that
+  there is not in such circumstances even the subsidiary purpose of inform­
+  ing the legal advisers. On the other hand, to enjoin that privilege can
+  only be claimed if the information of legal advisers is the sole purpose
+  of the report will in effect mean that such reports must always be dis­
+  closed, because it is unlikely that in such circumstances there will not be
+g even the subsidiary purpose of ascertaining whether the system of work
+  can be improved. Indeed, in this type of report causation and fault can
+  hardly be kept apart.
+      Your Lordships will therefore, I apprehend, be seeking some inter­
+  mediate line which will allow each of the two general principles scope
+  in its proper sphere. Various intermediate formulae as a basis for
+  the privilege have been canvassed in argument before your Lordships,
+  most based on some authority—the obtaining of legal advice was " an
+  appreciable purpose"; " a substantial purpose"; " the substantial
+  purpose"; it was "wholly or mainly" for that purpose; that was its
+  " dominant" purpose; that was its " primary " purpose.
+      Some of these are in my view too vague. Some give little or no
+  scope to the principle of open litigation with the minimum exclusion of
+G relevant evidence. The one that appeals most to me is " dominant"
+  purpose, as it did to Barwick C.J. in Grant v. Downs, 135 C.L.R. 674.
+  It allows scope to each of the governing principles. It seems to me less
+  quantitative than " mainly "; and I think it would be easier to apply—
+  the law is already cognisant of the concept of a dominant purpose—in
+  the law of conspiracy, for example (see Crofter Hand Woven Harris
+H Tweed Co. Ltd. v. Veitch [1942] A.C. 435, especially at pp. 445
+  (Viscount Simon L.C.), 452 (Viscount Maugham)), and in the law as to
+  fraudulent preference in bankruptcy (see Halsbury's Laws of England,
+  4th ed., vol. 3 (1973), pp. 496, 499, paras. 908, 913).
+Case 1:15-cv-07433-RWS Document 57-1 Filed 03/14/16 Page 19 of 26
+   538
+   I
+    fi1'^,50?        Waugh v. British Railways Board (HX.(E.))         [1980]
+   of Glaisdale
+      I would therefore overrule Ankih v. London and North Eastern *
+   Railway Co. [1930] 1 K.B. 527 and Ogden v. London Electric Railway
+   Co., 49 T.L.R. 542.
+      My noble and learned friend on the Woolsack has already cited the
+   crucial passages from the affidavit of Mr. Hastings. These show that
+   the procuring of legal advice or preparation for litigation was not the
+   dominant purpose of the report. It follows that the claim for legal
+   professional privilege fails, and the report must be disclosed.         B
+      Accordingly, I would allow the appeal.
+        LORD EDMUND-DAVIES. My Lords, the circumstances of the fatal
+   accident on May 4, 1976, giving rise to this litigation have already been
+   related by my noble and learned friend Lord Wilberforce. A copy of
+   the short report sent the same day by the respondent board to the c
+   Ministry of Transport in accordance with section 6 of the Regulation of
+   Railways Act 1871 has been furnished to the appellant's solicitors. They
+   have also been supplied with a copy of the report of October 29, 1976,
+   prepared by the Railway Inspectorate of the Department of Transport.
+   But what has not been disclosed is the May 6, 1976, report based upon
+   a joint internal inquiry conducted by the board's personnel. The
+   importance to the appellant of such a report, made only two days after ^
+   the accident and when the memory of witnesses were fresh, is manifest.
+   But from the outset disclosure of its contents has been resisted. In their
+   list of documents the board claimed that they were
+         " . . . documents which came into existence and were made by the
+         defendants or their officers or servants after this litigation was in
+         contemplation and in view of such litigation for the purpose of E
+         obtaining for and furnishing to the solicitor of the defendants
+         evidence and information as to the evidence which will be obtained
+         or otherwise for the use of the said solicitor to enable him to
+         conduct the defence in this action or to advise the defendants."
+        But that the reports referred to were not made solely for litigation
+   purposes emerged when the board, being nevertheless pressed for dis-
+   closure of the internal inquiry report, responded by an affidavit sworn
+   by Mr. Hastings, assistant to the general manager of their Eastern
+   Region. So important is it that I must quote from it at some length:
+   ;. " 6 . It has long been.the practice of the board and its predecessors
+   '::, to require that returns and reports on all accidents occurring on the
+         railway and joint internal departmental inquiries into the causes of *■*
+   .'.". the said accident be.made by the local officers of the board who
+         would forward them to their superiors in order to assist in establish­
+         ing the causes of such accidents. 7. Such reports and the statements
+         of witnesses to such accidents are made for the purposes mentioned
+         in paragraphs 3 and 6 of this affidavit and equally for the purpose
+         of being submitted to the board's solicitor as material upon which JJ
+         he can advise the board upon its legal liability and for the purpose
+       . of conducting on behalf of the board any proceedings arising out of
+         such accidents. 8. This system of reporting accidents and making
+Case 1:15-cv-07433-RWS Document 57-1 Filed 03/14/16 Page 20 of 26
+                                                                              539
+    A.C.           Waugh v. British Railways Board (H.L.(E.))   Lord Edmund-Davies
+         joint internal departmental inquiries into the causes of the said,
+^        accidents and laying down the necessary instructions to the relevant
+         staff to do so for the purposes aforesaid continues today. '9. It-is
+         commonly anticipated by the board that: (a) where an employee of
+         the board suffers personal injury or death at work or.(b) where a
+         passenger suffers loss [or] personal, injury or, death while on or
+         about the railway a claim for damages will be made against the
+B        board and proceedings will ensue if liability is repudiated. The
+       ■ present action is brought as the result of a fatal accident suffered at
+         work by the late husband of the plaintiff and it was anticipated from
+         the very outset that a claim for damages would almost certainly
+         ensue. 10. The documents in this action namely the reports made
+         by the board's officers and servants and the report referred to in
+         correspondence as the infernal inquiry report for which the defendants
+^        have claimed privilege in part 2 of the first schedule of their list of
+         documents dated November 11, 1977, came into existence by reason
+         of the fact that the appropriate officer, in this case the divisional
+         manager at Newcastle, in accordance with long standing practice
+         was required to and did so call for such reports and statements.
+         One of the principal purposes for so doing was so that they could
+D        be passed to the board's chief solicitor to enable him to advise the
+         board on its legal liability and if necessary conduct its defence to
+          these proceedings. 11. The internal inquiry report in fact states on
+          the face of it that' it has finally to be sent to the solicitor for the
+          purpose of enabling him to advise the board."
+    In the light of such affidavit, counsel for the appellant accepts that he
+E   cannot challenge that litigation arising out of the fatal accident was
+    anticipated when the report of May 6, 1976, was prepared: see Jones
+    v. Monte Video Gas Co. (1880) 5 Q.B.D. 556. The fact that the report
+    states on its face that it has finally to be sent to the solicitor for the
+    purpose of enabling him to advise the board cannot, however, be deter-"
+    minative of the outcome of this appeal, for, as the Lord President (Lord
+F   Strathclyde) said in Whitehill V. Glasgow Corporation, 1915 S.C. 1015,
+    1017—quoted with approval by Lord Kilbrandon in Alfred Crompton
+    Amusement Machines Ltd. V. Customs and Excise Commissioners (No. 2)
+    [1974] A.C. 405, 435^*36:
+         " These words cannot alter the character of the report which is.made
+         by the employee for the purpose of informing his employers of the
+Q        accident, and made at the time."
+      My Lords, in the light of their own affidavit, are the board. entitled
+  to resist disclosure? There is a very large body of case law on the topic
+  of legal professional privilege, much of which was reviewed in Seabrook
+  v. British Transport Commission [1959] 1 W.L.R. 509 by Havers J.,
+  who quoted extensively from earlier decisions. It would not, I think, be
+H helpful were I to make a further attempt to do that which that learned
+  judge so admirably accomplished. Instead, I propose to consider first
+  whether Eveleigh L.J. and Sir David Cairns in the present case were
+  right in holding that the earlier Court of Appeal decisions in Birmingham
+Case 1:15-cv-07433-RWS Document 57-1 Filed 03/14/16 Page 21 of 26
+   540
+   Lord Edmund-Davies    Waugh v. British Railways Board (H.L.(E.))     [1980]
+   and Midland Motor Omnibus Co. Ltd. V. London and North Western .
+   Railway Co. [1913] 3 K.B. 850 and Ogden v. London Electric Railway A
+   Co., 49 T.L.R. 542 compelled them to dismiss the plaintiff's appeal from
+   the decision of Donaldson J. refusing disclosure.
+       In the Birmingham case Buckley L.J. (with whom Vaughan Williams
+   L.J. concurred) said, at p. 856:
+        "It is not I think necessary that the affidavit should state that the
+        information was obtained solely or merely or primarily for the B
+        solicitor, if it was obtained for the solicitor, in the sense of being
+        procured as materials upon which professional advice should be
+        taken in proceedings pending, or threatened, or anticipated."
+   That passage was cited with approval in Ogden v. London Electric
+   Railway Co., the facts of which were strikingly similar to those of the
+   present case, Scrutton L.J. saying, at pp. 543-544, with reference to a C
+   non-privileged purpose for which accident reports had been obtained:
+       "It may be that that is part of the purpose of making the reports,
+       but there is also the substantial purpose that if a writ is issued these
+       are the materials that will be wanted by the solicitor conducting the
+       litigation, and they are obtained for that purpose, among others, and
+       as appears from the form at which we look . . . the reports are made
+       on a form headed: ' For the information of the company's solicitors
+       only,' which is a very important heading to have, because if you
+       know that you are making a confidential report to the solicitor you
+       are much more likely to state accurately what has happened than if
+       you are afraid that somebody presently seeing that report may take
+       proceedings against you in respect of the statements that you have ^
+       made, which may be defamatory." (Italics added.)
+   I have already indicated my inability (in concurrence with Lord Denning
+   M.R. in the present case) to have regard to such a heading. Nevertheless,
+   Birmingham and Midland Motor Omnibus Co. Ltd. v. London and
+   North Western Railway Co. [1913] 3 K.B. 850 and Ogden v. London „
+   Electric Railway Co., 49 T.L.R. 542, are authorities for the proposition
+   that reports such as that compiled in the instant case two days after the
+   fatal accident are privileged even though they were obtained for other
+   purposes as well as to meet impending or anticipated litigation. And
+   they led the majority of the Court of Appeal to hold here that the
+   internal inquiry report need not be disclosed, Eveleigh L.J. going to the
+   length of saying:                                                             G
+        " . . . I believe that in so far as this court is concerned it has been
+        firmly established that the documents in question in the present case
+        are privileged. They were obtained for the purpose of being sent to
+        the solicitors to serve in preparing the defendant's case for litigation
+        which was anticipated. And they would also be used for another
+        very substantial and even more important purpose. On the authori- JJ
+        ties I do not believe that this entitles me to say that the privilege
+        which otherwise would have attached [to them] has been removed."
+        (Italics added.)
+Case 1:15-cv-07433-RWS Document 57-1 Filed 03/14/16 Page 22 of 26
+                                                                              541
+    A.C.           Waugh v. British Railways Board (H.L.(E.))   Lord Edmund-Davics
+    But Lord Denning M.R., in the course of his dissenting judgment, refused
+    to be bound by such earlier Court of Appeal decisions. Instead, he
+    adverted to the view expressed in the Sixteenth Report of the Law
+    Reform Committee, para. 17, that
+        " . . . it is, we think, essential . . . that [a party] should be entitled
+        to insist upon there being withheld from the court any material
+        which came into existence . . . wholly or mainly for the purpose.of
+        preparing his case in litigation then pending or contemplated by him."
+  Lord Denning M.R. added:
+      " We should not extend it further. If material comes into being for
+      a dual purpose—one to find out the cause of the accident—the other
+      to furnish information to the solicitor—it should be disclosed,
+C     because it is not then ' wholly or mainly' for litigation. On this
+      basis all the reports and inquiries into accidents—which are made
+      shordy after the accident—should be disclosed on discovery and
+      made available in evidence at the trial."
+    Applying that test to the facts of this case, Lord Denning M.R. said:
+        " The main purpose of this inquiry and report was to ascertain the
+        cause of the accident and to prevent further accidents or similar
+        occurrences. Its nearby purpose was to put before the departmental
+        inspectorate. Its far-off purpose was to put before the solicitors of
+        the board, should a claim be made and litigation ensue."
+        My Lords, it will later emerge how closely I am at one with Lord
+ E Denning M.R. in this matter. I must, however, say that I am in respectful
+    agreement with the view adopted by Eveleigh L.J. and Sir David Cairns
+    that Birmingham and Midland Motor Omnibus Co. Ltd. v. London and
+    North Western Railway Co. [1913] 3 K.B. 850 and Ogden V. London
+    Electric Railway Co., 49 T.L.R. 542, were binding upon the Court of
+   Appeal and that none of the many other cases cited—such as Jones v.
+   Great Central Railway Co. [1910] A.C. 4, Alfred Crompton Amusement
+F Machines Ltd. v. Customs and Excise Commissioners (No. 2) [1974]
+   A.C. 405, Seabrook v. British Transport Commission [1959] 1 W.L.R. 509
+   and Longthorn V. British Transport Commission [1959] 1 W.L.R. 530—
+   enabled them to escape from that thraldom. In these circumstances, I
+   regard it as fortunate for justice that an appeal has reached this House,
+   for in my judgment a grievous wrong might have been done had Master
+Q Bickford Smith's original order in favour of disclosure not been finally
+   upheld.
+       It is for the party refusing disclosure to establish his right to refuse.
+   It may well be that in some cases where that right has in the past been
+   upheld the courts have failed to keep clear the distinction between (a)
+   communications between client and legal adviser, and (b) communications
+   between the client and third parties, made (as the Law Reform Committee
+H
+   put it)
+         " . . . for the purpose of obtaining information to be submitted to the
+         client's professional legal advisers for the purpose of obtaining advice
+Case 1:15-cv-07433-RWS Document 57-1 Filed 03/14/16 Page 23 of 26
+   542
+   Lord Edmund-Davies     Waugh v. British Railways Board (H.L.(E.))       [1980]
+         upon pending 'or contemplated litigation."           (Sixteenth Report,     .
+                                                                                     A
+         para. 17 (c).)
+   In cases falling within (a), privilege from disclosure attaches to com­
+   munications for the purpose of obtaining legal advice and it is immaterial
+   whether or not the possibility of litigation were even contemplated,
+   Kindersley V.-C. saying in Lawrence v. Campbell (1859) 4 Drew. 485,
+   490:                                                                              fi
+        " . . . it is not now necessary as it formerly was for the purpose of
+        obtaining production that the communications should be made either
+        during or relating to an actual or even to an expected litigation. It
+        is sufficient if they pass as professional communications in a
+        professional capacity."
+   But in cases falling within (b) the position is quite otherwise. Litigation,      C
+   apprehended or actual, is its hallmark. Referring to " the rule which
+   protects confidential communications from discovery as regards the other
+   side," Sir George Jessel M.R. said in Anderson v. Bank of British
+   Columbia, 2 Ch.D. 644, 649:
+        "The object and meaning of the rule is this: that as, by reason of
+        the complexity and difficulty of our law, litigation can only be             D
+        properly conducted by professional men, it is absolutely necessary
+        that a man, in order to prosecute his rights or to defend himself
+        from an improper claim, should have recourse to the assistance of
+        professional lawyers, and it being so absolutely necessary, it is equally
+        necessary,. to use a vulgar phrase, that he should be able to make a
+        clean breast of it to the gentleman whom he consults with a view             ._
+        to the prosecution of his claim, or the substantiating his defence
+        against the claim of others; that he should be able to place un­
+        restricted and unbounded confidence in the professional agent, and
+        that the communications he so makes to him should be kept secret,
+        unless with his consent (for it is his privilege, and not the privilege
+        of the confidential agent), that he should be enabled properly to
+        conduct his litigation. That is the meaning of the rule."                [   F
+   And in the Court of Appeal James L.J. summed up the position, at
+   p. 656, by speaking succinctly of
+        " . . . an intelligible principle, that as you have no right to see your
+        adversary's brief, you have no right to see that which comes into
+        existence merely as the materials for the brief."                        Q
+      Preparation with a view to litigation—pending or anticipated—being
+   thus the essential purpose which protects a communication from disclosure
+   in such cases as the present, what in the last resort is the touchstone of
+   the privilege? Is it sufficient that the prospect of litigation be merely
+   one of the several purposes leading to the communication coming into
+   being? And is that sufficient (as Eveleigh L.J. in the present case held) JJ
+   despite the fact that there is also " another . . . and even more important
+   purpose " ? Is it enough that the prospect of litigation is a substantial
+   purpose, though there may be others equally substantial? Is an
+Case 1:15-cv-07433-RWS Document 57-1 Filed 03/14/16 Page 24 of 26
+                                                                                   543
+    X.C.               Waugh v. British Railways Board (H.L.(E.))   Lord Edmund-Davies
+     appreciable'purpose sufficient? Or does it have to be the main purpose?
+     Or one of its main purposes (as in Ogden v. London Electric Railway
+     Co., 49 T.L.R. 542)? Ought your Lordships to declare that privilege
+     attaches only to material which (in the words of Lord Denning M.R.)
+     "comes within the words 'wholly or mainly' for the purpose of
+     litigation " ? Or should this House adopt the majority decision of the
+     High Court of Australia in Grant v. Downs, 135 C.L.R. 674, that legal
+B    professional privilege must be confined to documents brought into
+     existence for the sole purpose of submission to legal advisers for advice
+     or for use in legal proceedings?
+          An affirmative answer to each of the foregoing questions can be
+     supported by one or more of the many reported decisions. And so can
+     a negative answer. But no decision is binding upon this House, and
+„    your Lordships are accordingly in the fortunate position of being free to
+     choose and declare what is the proper test. And in my judgment we
+     should start from the basis that the public interest is, on balance, best
+     served by rigidly confining within narrow limits the cases where material
+     relevant to litigation may be lawfully withheld. Justice is better served
+     by candour than by suppression. For, as it was put in the Grant v.,
+     Downs majority judgment, at p. 686: " . . . the privilege . . . detracts
+D    from the fairness of the trial by denying a party access to relevant
+     documents or at least subjecting him to surprise."
+          Adopting that approach, I would certainly deny a claim to privilege
+     when litigation was merely one of several purposes of equal or similar
+     importance intended to be served by the material sought to be withheld
+     from disclosure, and a fortiori where it was merely a minor purpose.
+p   On the other hand, I consider that it would be going too far to adopt
+     the " sole purpose" test applied by the majority in Grant v. Downs,
+    which has been adopted in no United Kingdom decision nor, as far as
+    we are aware, elsewhere in the Commonwealth. Its. adoption would
+    deny privilege even to material whose outstanding purpose is to serve
+    litigation, simply because another and very minor purpose was also being
+„   served. But, inasmuch as the only basis of the claim to privilege in such
+    cases as the present one is that the material in question was brought:
+    into existence for use' in legal proceedings, it is surely right to insist
+    that, before the claim is conceded or upheld, such a purpose must be
+    shown to have played a paramount part. Which phrase or epithet should
+    be selected to designate this is,a matter of individual judgment. Lord
+P   Denning M.R., as we have seen, favoured adoption of the phrase employed
+    in the Law Reform Committee's Sixteenth Report, viz., " material which.
+    came into existence . . . wholly or mainly " for the purpose of litigation
+    (para. 17). " Wholly " I personally would reject for the same reason as
+    I dislike "solely," but "mainly" is nearer what I regard as the prefer­
+    able test. Even so, it lacks the element of. clear paramouhtcy which
+„   should, as I think, be the touchstone. After considerable deliberation, I
+    have finally come down in favour of the test propounded by. Barwick
+    C.J. in Grant v. Downs, 135 C.L.R. 674, in the following words, at.
+    p. 6 7 7 :   ...                                      '   ■' ■ -                 >
+Case 1:15-cv-07433-RWS Document 57-1 Filed 03/14/16 Page 25 of 26
+   544
+   Lord Edmund-Davies     Waugh v. British Railways Board (H.L.(E))      [1980]
+       "Having considered the decisions, the writings and the various
+       aspects of the public interest which claim attention, I have come to
+       the conclusion that the court should state the relevant principle as
+   '.. follows: a document which was produced or brought into existence
+       either with the dominant purpose of its author, or of the person or
+       authority under whose direction, whether particular or general, it
+       was produced or brought into existence, of using it or its contents
+       in order to obtain legal advice or to conduct or aid in the conduct B
+       of litigation, at the time of its production in reasonable prospect,
+       should be privileged and excluded from inspection." (Italics added.)
+       Dominant purpose, then, in my judgment, should now be declared by
+   this House to be the touchstone. It is less stringent a test than " sole "
+   purpose, for, as Barwick C.J. added, 135 C.L.R. 674, 677:
+        " . . . the fact that the person . . . had in mind other uses of the C
+        document will not preclude that document being accorded privilege,
+        if it were produced with the requisite dominant purpose."
+       Applying such test to the facts of the present case, we have already
+   seen that privilege was claimed in Mr. Hastings's affidavit on several
+   grounds. Thus, the report of May 6, 1976, was produced in accordance
+   with the long-standing practice of the board regarding " accidents occur­
+   ring on or about any railway . . . in order to assist in establishing the
+   causes of such accidents," and this whether or not (so your Lordships
+   were informed) any personal injuries were sustained and even where
+   there was no prospect of litigation ensuing. This particular report was
+   called for in accordance with such practice and:
+        "One of the principal purposes for so doing was so that they could E
+        be passed to the board's chief solicitor to enable him to advise the
+        board on its legal liability and if necessary conduct its defence to
+        these proceedings." (Italics added.)
+   Were the " sole purpose " test adopted and applied, on the board's own
+   showing their claim to privilege must fail. Then what of the " dominant p
+   purpose " test which I favour? Dominance again is not claimed by the
+   board, but merely that use in litigation was " one of the principal
+   purposes." Such moderation is only to be expected in the face of a
+   claim arising out of a fatal accident. Indeed, the claims of humanity
+   must surely make the dominant purpose of any report upon an accident
+   (particularly where personal injuries have been sustained) that of discover­
+   ing what happened and why it happened, so that measures to prevent G
+   its recurrence could be discussed and, if possible, devised. And, although
+   Barwick C.J. in Grant v. Downs, 135 C.L.R. 674, observed, at p. 677, that
+         " . . . the circumstance that the document is a ' routine document'
+         will not be definitive. The dominant purpose of its production may
+         none the less qualify it for professional privilege,"
+                                                                                  H
+   the test of dominance will, as I think, be difficult to satisfy when inquiries
+   are instituted and reports produced automatically whenever any mishap
+   occurs, whatever its nature, its gravity, or even its triviality,
+Case 1:15-cv-07433-RWS Document 57-1 Filed 03/14/16 Page 26 of 26
+                                                                              545
+    A.C.            Waugh v. British Railways Board (H.L.(E))   Lord Edmund-Davies
+        My Lords, if, as I hold, "dominant purpose" be the right test of
+    privilege from disclosure, it follows that the board's claim to privilege
+    must be disallowed, and the same applies if the " sole purpose " test be
+    applied. I would therefore allow this appeal and restore the order of
+    Master Bickford Smith in favour of disclosure.
+
+      LORD RUSSELL OF KILLOWEN. My Lords, it has already been
+B demonstrated by my noble and learned friend Lord Wilberforce that if,
+  in order to attract privilege from its production, it is necessary that the
+  joint internal report should owe its genesis to either the sole or the
+  dominant purpose that it should be used for the purpose of obtaining
+  legal advice in possible or probable litigation, the evidence in this case
+  falls short of both those standards. At the conclusion of the arguments
+_ in this appeal I was minded, while agreeing that anything less than the
+  standard of the dominant purpose would not suffice to support a claim
+  for privilege from production, to prefer the higher standard of the sole
+  purpose, in line with as I understand them the judgments of the majority
+  in the High Court of Australia in Grant v. Downs, 135 C.L.R. 674. It
+  appeared to me that such a standard had the merit of greater simplicity
+  in a decision on a claim for privilege from production, as being a line
+D easier to draw and to apply to the facts of a particular case. However
+  on reflection I am persuaded that the standard of sole purpose would be
+  in most, if not all, cases impossible to attain, and that to impose it would
+  tilt the balance of policy in this field too sharply against the possible
+   defendant. Moreover to select the standard of dominant purpose is not
+   to impose a definition too difficult of measurement. It is to be met
+  with in other fields of the law, of which I need instance only the question
+   in bankruptcy law whether there has been a fraudulent preference of a
+   creditor.
+       In summary, therefore, my Lords, I am in agreement with the speech
+   of my noble and learned friend Lord Wilberforce, and would allow this
+   appeal and order the production to the plaintiff of the joint internal
+   report.
+F
+       LORD KEITH OF KINKEL. My Lords, I have had the advantage of
+   reading in draft the speech of my noble and learned friend Lord
+   Wilberforce. I agree with it, and accordingly I too would allow the
+   appeal.
+                                                     Appeal allowed with costs.
+G
+           Solicitors: Robin Thompson & Partners; Evan Harding.
+
+
+                                                                         M. G.
+
+
+H
+

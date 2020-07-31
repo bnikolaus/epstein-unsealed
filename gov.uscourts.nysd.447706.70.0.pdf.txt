@@ -1,0 +1,695 @@
+                             United States District Court
+                            Southern District of New York
+
+
+Virginia L. Giuffre,
+
+               Plaintiff,              Case No.: 15-cv-07433-RWS
+
+v.
+
+Ghislaine Maxwell,
+
+            Defendant.
+________________________________/
+
+PLAINTIFF, VIRGINIA GIUFFRE’S RESPONSE IN OPPOSITION TO DEFENDANT’S
+MOTION FOR PROTECTIVE ORDER REGARDING DEPOSITION OF DEFENDANT
+
+
+
+                                       BOIES, SCHILLER & FLEXNER LLP
+
+
+                                        David Boies
+                                        Boies, Schiller & Flexner LLP
+                                        333 Main Street
+                                        Armonk, NY 10504
+
+                                        Sigrid McCawley (Pro Hac Vice)
+                                        Boies, Schiller & Flexner LLP
+                                        401 E. Las Olas Blvd., Suite 1200
+                                        Ft. Lauderdale, FL 33301
+                                        (954) 356-0011
+
+                                        Ellen Brockman
+                                        Boies, Schiller & Flexner LLP
+                                        575 Lexington Ave
+                                        New York, New York 10022
+                                        (212) 446-2300
+
+
+
+
+                                          1
+                                                 TABLE OF CONTENTS
+
+
+                                                                                                                                    Page
+
+TABLE OF AUTHORITIES.......................................................................................................... ii
+
+I.     PRELIMINARY STATEMENT ............................................................................................1
+
+II.    ARGUMENT .........................................................................................................................2
+
+       A.      All Of Defendant’s Interrgatories Seek Information Beyond The Scope Permitted
+               Under Rule 33.3.............................................................................................................8
+
+       B.      Interrogatory Nos. 6, 8, And 11 Are Premature Contention Interrogatories. ..............10
+
+CONCLUSION .............................................................................................................................11
+
+
+
+
+                                                                    i
+                                                TABLE OF AUTHORITIES
+
+                                                                                                                                       Page
+Cases
+
+Ferguson v. Ferrante,
+ No. 13 CIV 4468 VEC, 2014 WL 1327968 (S.D.N.Y. Apr. 3, 2014) .........................................9
+
+In re Payment Card Interchange Fee & Merch. Dis.,
+  No. MD-05-1720 (JG)(JO), 2007 WL 121426 (E.D.N.Y. Jan. 12, 2007)....................................5
+
+J. Goldman & Co., L.P. v. Kowal,
+  96 CIV. 7868 DAB HBP, 1997 WL 452332 (S.D.N.Y. Aug. 8, 1997) .......................................8
+
+Kunstler v. City of New York,
+ No. 04CIV1145(RWS)(MHD), 2006 WL 2516625 (S.D.N.Y. Aug. 29, 2006) ......................8, 9
+
+Labarbera v. Ulster Cty. Soc'y for Prevention of Cruelty to Animals,
+ 277 A.D.2d 672, 673, 716 N.Y.S.2d 421, 422 (N.Y. App. Div. 2000) ........................................3
+
+Liveperson, Inc. v. 24/7 Customer, Inc.,,
+  No. 14 CIV. 1559 RWS, 2015 WL 4597546 (S.D.N.Y. July 30, 2015) ....................................10
+
+Matter of Klein v. Lake George Park Commn.,
+ 261 A.D. 2d 774, 689 N.Y.S.2d 782 (N.Y. App. Div. 1999) .......................................................3
+
+Nunez v. City of New York,
+ No. 04CIV1145(RWS)(MHD), 2006 WL 2516625 (S.D.N.Y. Aug. 29, 2006) ..........................9
+
+Regeneron Pharm, Inc. v. Merus B.V.,
+ No 14 CIV. 1650 KBF, 2014 WL 2447600 (S.D.N.Y. May 29, 2014) .....................................10
+
+Shannon v. New York City Transit Auth.,
+ No. 00 Civ. 5079, 2001 U.S. Dist. LEXIS 3162 (S.D.N.Y. Mar. 22, 2001) ..............................10
+
+Trilegian Corp. v. Sitel Corp.,
+ 272 F.R.D. 360 (S.D.N.Y. 2010)................................................................................................10
+
+Statutes
+
+Fed. R. Civ. Proc. 26 .......................................................................................................................7
+
+Fed. R. Civ. Proc. 33.3 ....................................................................................................................4
+
+Fed. R. Civ. Proc. 34 ..............................................................................................................passim
+
+
+
+
+                                                                      ii
+        Plaintiff Virginia L. Giuffre, by and through undersigned counsel, respectfully submits this
+
+Response in Opposition to Defendant’s Motion for Protective Order Regarding Defendant’s
+
+Deposition [D.E. 63]. For the reasons set forth below, this Court should deny Defendant’s motion
+
+in its entirety.
+
+I.      PRELIMINARY STATEMENT
+
+        Unfortunately, even after the Court’s strong words to the parties at the hearing last
+
+Thursday, March 17, 2016, Defendant continues to misrepresent basic facts in an effort to
+
+wrongfully postpone the deposition of the Defendant in this case. The facts are that Plaintiff
+
+issued a formal Notice of Deposition to the Defendant on February 2, 2016, well before Defendant
+
+issued her first set of discovery requests. Allowing the Defendant to dictate when she is deposed
+
+based on her dilatory discovery practices turns the Rules of Civil Procedure on their head. If this
+
+were the rule, then a defendant could continuously issue discovery requests to a plaintiff in order
+
+to postpone being deposed until the close of discovery. Such a ridiculous result is not
+
+contemplated by the Federal Rules of Civil Procedure.
+
+        More importantly, Defendant can claim no prejudice here because, as Plaintiff agreed to do
+
+at the hearing last Thursday, Plaintiff has provided the Defendant with a list of all the documents
+
+Plaintiff intends to use at the deposition on Friday, March 25, 2016, along with all the
+
+documents. See Declaration of Sigrid McCawley (“McCawley Decl.”) at Exhibit 1, March 22,
+
+2016 correspondence listing documents to be used at deposition.
+
+        The parties participated in a meet and confer on Monday, March 21, 2016, that lasted close
+
+to two hours, during which Plaintiff made a number of concessions in order to avoid additional
+
+and unnecessary motion practice with this Court. Despite this, Defendant persists in trying to
+
+create issues with Plaintiff’s discovery production and responses. Plaintiff served discovery
+
+requests back in October - four months ago - which still have not been properly responded to. At
+
+
+                                                  1
+a minimum, she should be entitled to move discovery forward by taking the deposition of the
+
+Defendant. Indeed Local Rule 33.3 provides that rather than serving interrogatories, the parties
+
+should press discovery forward by seeking information through depositions. That is exactly what
+
+the Plaintiff is trying to do here and she is being stonewalled. Critical to this case is whether the
+
+Defendant is going to answer questions about her involvement in the alleged sexual trafficking
+
+and abuse of females or whether she is going to invoke her Fifth Amendment rights. Plaintiff
+
+should be entitled to answers, by way of a deposition, in order to shape her discovery going
+
+forward in this case. Discovery closes in three months and Plaintiff has not yet been able to
+
+depose the Defendant. That is simply wrong.
+
+       Defendant, who has only produced two e-mails in response to Plaintiff’s thirty-nine (39)
+
+discovery requests now complains that Plaintiff produced too many documents in response to
+
+Defendant’s expansive discovery requests. If Defendant did not want to receive responsive
+
+documents of that magnitude, she should have narrowly tailored her discovery requests. In fact, if
+
+anyone should be complaining about prejudice, it should be the Plaintiff who has only received
+
+two documents in Defendant’s discovery production. There is absolutely no valid reason that
+
+Defendant’s deposition should be postponed.
+
+                                            ARGUMENT
+
+       Despite engaging in a lengthy meet and confer call during which Plaintiff made a number
+
+of concessions in an effort to move this case forward, Defendant filed this baseless motion without
+
+acknowledging any of those concessions and instead relying on Plaintiff’s original response,
+
+instead of her supplemental response, in an effort to convince the Court to postpone the
+
+Defendant’s deposition. Defendant misrepresents Plaintiff’s discovery in this case in the
+
+following ways:
+
+
+
+
+                                                   2
+   Defendant’s Position: Defendant says Plaintiff lodged baseless objections and is
+
+    withholding documents.
+
+   Reality: Plaintiff produced non-privileged documents without withholding anything,
+
+    except pictures of her minor children, in response to 34 of the 37 document requests and
+
+    thus far has produced 4,134 pages of documents.
+
+   Defendant’s Position: Defendant says Plaintiff should not have listed certain objections
+
+    like “agency” or “investigative privilege.”
+
+   Reality: Plaintiff agreed during the meet and confer to revise, and did in fact revise, her
+
+    objections to narrow her objections and they now mirror exactly the Defendant’s privilege
+
+    objections. Thus, Defendant has no basis for complaint. See McCawley Decl. at Exhibit 2,
+
+    Plaintiff’s Supplemental Responses and Objections to Defendant’s First Set of Discovery
+
+    Requests to Plaintiff. Plaintiff has asserted the “public interest privilege” to protect
+
+    information she has regarding ongoing criminal investigations regarding the Defendant’s
+
+    alleged sexual abuse. New York law “recognizes a public interest privilege which shields
+
+    from disclosure information received by governmental entities where the public interest
+
+    requires that such communications, or the sources thereof, should be kept confidential and
+
+    not subject to the normal, liberal discovery rules.” Labarbera v. Ulster Cty. Soc'y for
+
+    Prevention of Cruelty to Animals, 277 A.D.2d 672, 673, 716 N.Y.S.2d 421, 422 (N.Y.
+
+    App. Div. 2000) (citing Matter of World Trade Ctr. Bombing Litig., 93 N.Y.2d 1, 8, 686
+
+    N.Y.S.2d 743, 709 N.E.2d 452 (N.Y. 1999); Matter of Klein v. Lake George Park Commn.,
+
+    261 A.D.2d 774, 689 N.Y.S.2d 782 (N.Y. App. Div. 1999)).
+
+   Defendant’s Position: Defendant says Plaintiff should not reference in her objection that
+
+    the Defendant has in its possession, custody and control the information being requested.
+
+
+
+
+                                               3
+   Reality: Plaintiff preserved her objections because if Defendant had timely produced
+
+    documents in this case, Plaintiff would have the material necessary to respond to the
+
+    discovery request. There is no prejudice in asserting this objection because Plaintiff did
+
+    not withhold documents based on this objection.
+
+   Defendant’s Position: Defendant complains that Plaintiff asserted a copyright protection.
+
+   Reality: Plaintiff did not withhold any documents based on her copyright protection
+
+    assertion, but rather she marked any copyright material as such to preserve her rights, as
+
+    she is entitled to do.
+
+   Defendant’s Position: Defendant wrongly states that Plaintiff failed to state whether she
+
+    was withholding documents.
+
+   Reality: Plaintiff could not have been clearer – in accordance with Rule 34(b)(2)(c),
+
+    Plaintiff clearly stated when she was withholding documents. For the small amount of
+
+    documents she did withhold, she plainly stated that she is “withholding documents based
+
+    on her objections.” Due to the concerns Defendant raised at the meet and confer about
+
+    Defendant’s apparent confusion, Plaintiff went a step further and revised her answers to
+
+    mirror the language that the Defendant used when she was withholding a documents. See
+
+    McCawley Decl. at Exhibit 3, Original Responses and Objections, and Exhibit 4
+
+    Supplemental Responses and Objections. Accordingly, there is no way Defendant can
+
+    claim confusion.
+
+   Defendant’s Position: Defendant, who only produced two emails in this case, complains
+
+    that Plaintiff produced duplicate documents in her production of documents.
+
+   Reality: In accordance with her obligations when dealing with electronic discovery,
+
+    Plaintiff retained an electronic discovery and litigation support firm, Rational Retention, to
+
+    assist with the forensic searching and producing of responsive electronic files in this case.
+
+
+                                              4
+    Rational Retention performed, as part of their contract, de-duping services, which
+
+    eliminates duplicates. See McCawley Decl. at Exhibit 5, Affidavit of Robert Conley from
+
+    Rational Retention. As with any electronic discovery production, a document may appear
+
+    to be a “duplicate” but if it has different metadata it must be produced. Defendant’s
+
+    misguided argument that Plaintiff has artificially inflated the volume of her document
+
+    production by producing “duplicate” documents reveals a misunderstanding of basic
+
+    electronic discovery law and practices. Plaintiff utilized an electronic deduplication
+
+    process prior to production. True duplicates were eliminated from the production.
+
+    However, even documents that look alike contain different metadata. Any variance in
+
+    metadata from document-to-document renders documents non-duplicative, even if they
+
+    appear identical on their face. As courts in the Second Circuit has instructed, metadata is
+
+    different for each document, but it may not show up when the documents are reduced to
+
+    print. See In re Payment Card Interchange Fee & Merch. Disc., No. MD 05-1720(JG)(JO),
+
+    2007 WL 121426, at *1 (E.D.N.Y. Jan. 12, 2007) (“metadata (that is, data about data; in
+
+    this context, information about an electronically stored document that may or not be visible
+
+    if the document is reduced to printed form)”). Defendant served incredibly broad requests
+
+    and is now complaining about the results they yielded. Defendant’s complaint about
+
+    duplicates should be rejected because if a document is produced in a particular context, for
+
+    example in a different litigation, and that was covered by a request, it was reproduced so
+
+    that Defendant would have the exact information that satisfied her request. Moreover,
+
+    there is no prejudice to Defendant in receiving a duplicate copy of a document.
+
+   Defendant’s Position: Defendant argues that Plaintiff has failed to produce certain
+
+    documents so she would be prejudiced by her deposition going forward on Friday, March
+
+    25, 2016.
+
+
+                                              5
+   Reality: There is no prejudice to Defendant because, on March 22, 2016, Ms. Giuffre
+
+    produced and provided to Defendant a list of all the documents she may use at the
+
+    deposition as well as all of those documents.
+
+       o Defendant wrongfully states that Plaintiff has not produced travel records when she
+         has indeed produced travel records.
+
+       o Defendant wrongfully states that Plaintiff has not produced education records,
+         when she has indeed produced everything she has relating to education.
+
+       o Defendant wrongfully states that Plaintiff has not produced her communications
+         with Epstein and Maxwell when she has indeed produced everything she has
+         relating to those communications.
+
+       o Defendant complains that Plaintiff has not produced “employment records for Mara
+         Lago” but Plaintiff’s search did not yield any responsive documents, and she stated
+         that in her responses.
+
+       o Defendant wrongfully states that Plaintiff will not produce a copy of her settlement
+         agreement with Epstein when in fact, Plaintiff agreed to produce the settlement
+         agreement upon receipt of the necessary waiver from Defendant and Epstein so she
+         will not be in violation of its confidentiality provision. See McCawley Decl. at
+         Exhibit 2, Supplemental Responses and Objections.
+
+       o Defendant wrongfully states that Plaintiff has not produced a deposition transcript
+         from the case of Edwards/Cassell v. Dershowitz, Case no. CACE 15-000072, when
+         Defendant knows that Plaintiff is precluded from producing the transcript as it has
+         been sealed by the Court in that matter, and Ms. Giuffre produced to Defendant a
+         copy of the order sealing it.
+
+       o Most importantly, none of these issues preclude the Defendant from being deposed
+         in this case.
+
+   Defendant’s Position: Defendant argues that Plaintiff failed to make timely Rule 26
+
+    disclosures. Defendant admits it is wasting the Court’s time by stating: “[w]hile these
+
+    disclosures may not directly impact the subject matter of Defendant’s deposition, they
+
+    demonstrate the bad-faith of Plaintiff fulfilling her discovery obligations, and also,
+
+    ultimately may likely impact the discovery deadlines that have been set in this case.”
+
+    (Def’s MPO at 14.) Defendant is throwing everything but the kitchen sink at the Court in
+
+    the desperate attempt to avoid discovery by way of a deposition in this case.
+
+
+                                               6
+      Reality: Plaintiff filed her initial Rule 26 disclosures on November 11, 2015 in accordance
+
+       with the Rules. Defendant delayed four months until February 2016 before submitting her
+
+       initial Rule 26 disclosures. Plaintiff supplemented her Rule 26 disclosures on March 11,
+
+       2016 and added an addendum of information requested during the meet and confer on
+
+       March 22, 2016. Ms. Giuffre has fully complied with her Rule 26 obligations, as fully
+
+       briefed in her Response In Opposition to Defendant’s Motion to Compel Plaintiff to
+
+       Disclose Pursuant to Fed. R. Civ. P. 26(a)(1). See McCawley Decl. at Exhibit 6, March 20,
+
+       2016 Correspondence from Sigrid McCawley to Defendant’s counsel.
+
+      Defendant’s Position: Defendant says Plaintiff has wrongfully objected to interrogatories.
+
+      Reality: Local Rule 33.3 is clear that Defendant’s interrogatories are premature at this
+
+       stage of the litigation and in violation of that Rule. Rule 33.3 provides:
+
+       (a) Unless otherwise ordered by the Court, at the commencement of discovery,
+       interrogatories will be restricted to those seeking names of witnesses with knowledge of
+       information relevant to the subject matter of the action, the computation of each category
+       of damage alleged, and the existence, custodian, location and general description of
+       relevant documents, including pertinent insurance agreements, and other physical
+       evidence, or information of a similar nature.
+
+       (b) During discovery, interrogatories other than those seeking information described in
+       paragraph (a) above may only be served (1) if they are a more practical method of
+       obtaining the information sought than a request for production or a deposition, or (2) if
+       ordered by the Court.
+
+       (c) At the conclusion of other discovery, and at least 30 days prior to the discovery cut-off
+       date, interrogatories seeking the claims and contentions of the opposing party may be
+       served unless the Court has ordered otherwise.
+
+S.D.N.Y. Civil R. 33.3.
+
+       Defendant’s interrogatories seek information far beyond the scope of information specified
+
+in subparagraph (a) and Defendant has not demonstrated that these interrogatories are a more
+
+practical method of obtaining the requested information. See McCawley Decl. at Exhibit 7,
+
+Correspondence requesting Defendant’s counsel withdraw her premature Interrogatories.
+
+                                                  7
+Additionally, several of Defendant’s interrogatories are contention interrogatories, which
+
+subparagraph (c) makes clear are improper and premature at this early stage of discovery.
+
+       A. Defendant’s interrogatories seek information beyond the scope permitted under
+          Rule 33.3.
+
+       Rule 33.3 limits interrogatories at the outset of discovery “to requests for witness names,
+
+computation of damages, and the location, custodian and general nature of pertinent documents.”
+
+Kunstler v. City of New York, No. 04CIV1145(RWS)(MHD), 2006 WL 2516625, at *5 (S.D.N.Y.
+
+Aug. 29, 2006) aff'd, 242 F.R.D. 261 (S.D.N.Y. 2007) (Sweet, J.) (citing S.D.N.Y. Civil R. 33.3(a)
+
+& (b)). These limits are to be enforced unless (1) interrogatories “are a more practical method of
+
+obtaining the information sought than a request for production or a deposition, or (2) if ordered by
+
+the court.” Id.
+
+       Defendant’s Interrogatories seek information that does not fall into those exceptions. The
+
+requested information includes descriptions of medical treatment (Nos. 12-13) and employment
+
+records (No. 9); details and descriptions regarding income Ms. Giuffre has received over a period
+
+of 20 years (No. 10); information about Ms. Giuffre’s email and social media accounts (No. 2);
+
+descriptions of “the nature” of legal representation that Ms. Giuffre received (No. 3); details and
+
+descriptions concerning specific communications (Nos. 4-5), details about other incidents of
+
+defamation not at issue in this case (No. 7); and details concerning incidents of sexual assaults
+
+(No. 14). Defendant claims that “many of the interrogatories sought, consistent with Local Rule
+
+33.3(a), seek the names of witnesses and the custodians of records,” (Def’s MPO at FN 1). That
+
+does not excuse her violation of the rule since each interrogatory seeks far more than the
+
+identification of a name. J. Goldman & Co., L.P. v. Kowal, No. 96 CIV. 7868 DAB HBP, 1997
+
+WL 452332, at *1 (S.D.N.Y. Aug. 8, 1997) (“To the extent the interrogatories seek information
+
+beyond the identification of persons and transactions, depositions are more practical vehicles for
+
+obtaining the information.”).
+
+                                                  8
+       The information that Defendant’s interrogatories seek can be obtained more practically
+
+through other discovery methods. For instance, the information that Defendant seeks concerning
+
+Ms. Giuffre’s medical and employment histories and sources of income can be obtained more
+
+practically by deposing her and through issuing requests for production. See Kunstler, 2006 WL
+
+2516625, at *5 (denying defendants' request to compel response to interrogatory because
+
+“descriptions of the nature and extent of injuries, medical diagnoses, the course of treatment, and
+
+prescriptions are ordinarily more efficiently obtained through the production of pertinent medical
+
+records and through depositions” and thus exceed the scope of Local Civil Rule 33.3); Ferguson v.
+
+Ferrante, No. 13 CIV. 4468 VEC, 2014 WL 1327968, at *2 (S.D.N.Y. Apr. 3, 2014) (finding that
+
+request for identifying information of certain bank accounts could be more efficiently obtained
+
+from plaintiff at a deposition rather than through interrogatories); Nunez v. City of New York, No.
+
+11 CIV. 5845 LTS JCF, 2013 WL 2149869, at *8 (S.D.N.Y. May 17, 2013) (denying motion to
+
+compel response to interrogatory seeking information about plaintiff’s injuries and medical
+
+treatment because requests exceeded the scope of interrogatories permitted by Rule 33.3). As in
+
+the cases cited, the information that Defendant seeks regarding specific incidents and
+
+communications are more properly obtained through deposition testimony or document requests.
+
+       In an attempt to justify her clear contravention of Rule 33.3, Defendant asserts that her
+
+interrogatories seek “the kind of minutiae that Plaintiff is unlikely to ‘recall’ at the time of her
+
+deposition.” (Def’s MPO at FN 1.) However, to date, Defendant has yet to take a single
+
+deposition in this case. Moreover, Defendant did not serve her first request for production until
+
+February 12, 2016, and the production in response to those requests is ongoing. Thus, her
+
+conclusory claim that “the remainder of interrogatories propounded” are “a more practical method
+
+of obtaining the information sought than a request for production or deposition,” id., is purely
+
+speculative and without any basis. For example, Ms. Giuffre has produced medical records, and
+
+
+                                                    9
+will produce more, that will satisfy Interrogatory No. 9. At this early stage in discovery,
+
+Defendant has not and cannot justify interrogatories as a more practical way of obtaining the
+
+breadth of information requested in her interrogatories.
+
+       B. Interrogatory Nos. 6, 8, And 11 Are Premature Contention Interrogatories.
+
+       In addition to seeking information outside the scope permitted under Rule 33.3(a),
+
+Interrogatories Nos. 6, 8 and 11 are contention interrogatories, which seek identification of Ms.
+
+Giuffre’s claims and the facts underlying them. For instance, Interrogatory No. 6 directs Ms.
+
+Giuffre to “[i]dentify any ‘false statements’ attributed to Ghislaine Maxwell which were
+
+‘published globally’ … as You contend in … Your Complaint[.]” Interrogatory No. 8 directs Ms.
+
+Giuffre to identify, among other things, the dates, locations, and witnesses to Mr. Epstein’s sexual
+
+trafficking of Ms. Giuffre described in pleadings that Ms. Giuffre has filed in another action.
+
+       Local Rule 33.3(c) clearly proscribes contention interrogatories such as these until “the
+
+conclusion of other discovery.” S.D.N.Y. Civil R. 33.3(c); see also Liveperson, Inc. v. 24/7
+
+Customer, Inc., No. 14 CIV. 1559 RWS, 2015 WL 4597546, at *7 (S.D.N.Y. July 30, 2015)
+
+(Sweet, J.) (noting that “contention interrogatories” are “available at the close rather than the
+
+beginning of discovery”). In applying this rule, this Court has found that contention
+
+interrogatories are improper when served early in discovery, before any depositions have been
+
+taken. Shannon v. New York City Transit Auth., No 00 Civ. 5079, 2001 U.S. Dist. LEXIS 3162, at
+
+*9-10 (S.D.N.Y. Mar. 22, 2001) (Sweet, J.)(denying motion to compel responses to contention
+
+interrogatories where the only discovery that had occurred to date was document discovery and
+
+depositions had yet to be conducted); see also Regeneron Pharm., Inc. v. Merus B.V., No. 14 CIV.
+
+1650 KBF, 2014 WL 2447600, at *3 (S.D.N.Y. May 29, 2014) (denying party’s motion to compel
+
+responses to contention interrogatories at early stage in discovery); Trilegiant Corp. v. Sitel Corp.,
+
+272 F.R.D. 360, 367 (S.D.N.Y. 2010) (same).
+
+
+                                                  10
+          Defendant was not entitled to serve improper and premature interrogatories in clear
+
+violation of Local Rule 33.3, and Ms. Giuffre was under no obligation to respond. While
+
+Defendant has elected to ignore the limitations in Rule 33.3, Ms. Giuffre has complied with the
+
+terms of the rule and, to date, has not served any interrogatories whatsoever. Moreover, Ms.
+
+Giuffre provided responses to some of Defendant’s interrogatories, subject to objections, and
+
+despite the fact that she was not required to do so. Defendant’s attempt to base her Motion for a
+
+Protective Order on interrogatory responses is in direct violation of Local Rule 33.3 and should be
+
+denied.
+
+                                           CONCLUSION
+
+          For the reasons set forth above, Ms. Giuffre respectfully requests that the Court deny
+
+Defendant’s Motion for Protective Order and direct Defendant to sit for her deposition scheduled
+
+for March 25, 2016.
+
+
+
+Dated: March 23, 2016                          Respectfully Submitted,
+
+                                               BOIES, SCHILLER & FLEXNER LLP
+
+                                           By: /s/ Sigrid McCawley
+                                                Sigrid McCawley (Pro Hac Vice)
+                                                Boies, Schiller & Flexner LLP
+                                                401 E. Las Olas Blvd., Suite 1200
+                                                Ft. Lauderdale, FL 33301
+                                                (954) 356-0011
+
+                                                David Boies
+                                                Boies, Schiller & Flexner LLP
+                                                333 Main Street
+                                                Armonk, NY 10504
+
+                                                Ellen Brockman
+                                                Boies, Schiller & Flexner LLP
+                                                575 Lexington Ave
+                                                New York, New York 10022
+                                                (212) 446-2300
+
+
+                                                   11
+                                CERTIFICATE OF SERVICE
+
+       I HEREBY CERTIFY that on March 23, 2016, I electronically filed the foregoing
+
+document with the Clerk of Court by using the CM/ECF system. I also certify that the foregoing
+
+document is being served this day on the individuals identified below via transmission of Notices
+
+of Electronic Filing generated by CM/ECF.
+
+       Laura A. Menninger, Esq.
+       Jeffrey S. Pagliuca, , Esq.
+       HADDON, MORGAN & FOREMAN, P.C.
+       150 East 10th Avenue
+       Denver, Colorado 80203
+       Tel: (303) 831-7364
+       Fax: (303) 832-2628
+       Email: lmenninger@hmflaw.com
+       Email: jpagliuca@hmflaw.com
+
+
+                                                     /s/ Sigrid S. McCawley
+                                                         Sigrid S. McCawley
+
+
+
+
+                                                12
+

@@ -1,0 +1,598 @@
+                             United States District Court
+                            Southern District of New York
+
+
+Virginia L. Giuffre,
+
+               Plaintiff,              Case No.: 15-cv-07433-RWS
+
+v.
+
+Ghislaine Maxwell,
+
+            Defendant.
+________________________________/
+
+
+
+
+          PLAINTIFF, VIRGINIA GIUFFRE’S REPLY IN RESPONSE TO
+     DEFENDANT’S SUPPLEMENTAL MEMORANDUM OF LAW IN RESPONSE
+           TO PLAINTIFF’S MOTION TO COMPEL THE PRODUCTION
+        OF DOCUMENTS SUBJECT TO IMPROPER CLAIM OF PRIVILEGE
+
+
+
+                                        BOIES, SCHILLER & FLEXNER LLP
+
+                                        David Boies
+                                        Boies, Schiller & Flexner LLP
+                                        333 Main Street
+                                        Armonk, NY 10504
+
+                                        Sigrid McCawley (Pro Hac Vice)
+                                        Boies, Schiller & Flexner LLP
+                                        401 E. Las Olas Blvd., Suite 1200
+                                        Ft. Lauderdale, FL 33301
+                                        (954) 356-0011
+
+
+                                        Ellen Brockman
+                                        Boies, Schiller & Flexner LLP
+                                        575 Lexington Ave
+                                        New York, New York 10022
+                                        (212) 446-2300
+                                                  TABLE OF CONTENTS
+
+                                                                                                                                   Page
+
+TABLE OF AUTHORITIES.......................................................................................................... ii
+
+I.      PRELIMINARY STATEMENT ............................................................................................1
+
+II.     ARGUMENT .........................................................................................................................1
+
+        A.      Under The Second Circuit’s “Touch Base” Test, New York Law Applies. .................1
+
+        B.      Under English Law, The Privilege Log Is Still Deficient. ............................................4
+
+                1.        The English “Legal Advice” Privilege Does Not Apply...................................4
+
+                          a.      Confidentiality Under English Law..........................................................5
+
+                          b.      Communication Via An Agent Under English Law.................................6
+
+                          c.      Under English Law, The Communications Must Be For
+                                  The Purpose Of Giving Or Receiving Legal Advice................................6
+
+        C.      Under New York Law, The Privilege Log Is Deficient. ...............................................7
+
+CONCLUSION ...............................................................................................................................8
+
+
+
+
+                                                                     i
+                                              TABLE OF AUTHORITIES
+
+                                                                                                                                  Page
+
+Cases
+
+Aetna Cas. & Sur. Co. v. Certain Underwriters at Lloyd's London,
+  176 Misc. 2d 605, 676 N.Y.S. 2d 727 (Sup. Ct. 1998)................................................................2
+
+Aetna Cas. & Sur. Co. v. Certain Underwriters at Lloyd's
+  263 A.D. 2d 367, 692 N.Y.S. 2d 384 (1999)...............................................................................2
+
+Anwar v. Fairfield Greenwich Ltd,,
+  982 F. Supp. 2d 260 (S.D.N.Y. 2013) .........................................................................................1
+
+Astra Aktiebolag v. Andrx Pharm., Inc.,
+  208 F.R.D. 92 (S.D.N.Y. 2002)...................................................................................................2
+
+Curley v. AMR Corp.,
+  153 F. 3d 5, (2d Cir. 1998) ..........................................................................................................4
+
+Egiazaryan v. Zalmayev,
+  290 F.R.D. 421 (S.D.N.Y. 2013).................................................................................................7
+
+In re A2P SMS Antitrust Litigation,
+   972 F. Supp. 2d 465 (S.D.N.Y. 2013) .........................................................................................1
+
+In re Grand Jury Subpoenas Dated March 24, 2003,
+   265 F. Supp. 2d 321 (S.D.N.Y. 2003) .........................................................................................7
+
+In re: Lyondell Chem. Co.,
+   543 B.R. 428 (Bankr. S.D.N.Y. 2016) ........................................................................................4
+
+Nance v. Thompson Med. Co.,
+  173 F.R.D. 178 (E.D. Tex. 1997) ................................................................................................7
+
+On Time Aviation, Inc. v Bombardier Capital, Inc.,
+  354 F. App'x 448 (2d Cir. 2009)..................................................................................................2
+
+Pem-Am., Inc. v. Sunham Home Fashions, LLC,
+  No. 03 CIV. 1377JFKRLE, 2007 WL 3226156 (S.D.N.Y. Oct. 31, 2007).................................7
+
+Rutgerswerke AG & Frendo A.p.A. v. Abex Corp.,
+  No. 93 Civ. 2914 (JFK), 2002 WL 1203836 (S.D.N.Y. June 4, 2002) .......................................4
+
+Tansey v. Cochlear Ltd.,
+  No. 13-CV-4628 SJF SIL, 2014 WL 4676588 (E.D.N.Y. Sept. 18, 2014) .................................4
+
+
+
+
+                                                                   ii
+USP Strategies v. London General Holdings Ltd.,
+  [2004] EWHC 373 (Ch) ..........................................................................................................5, 6
+
+Waugh v. British Railways Board,
+ [1980] AC 521 (H.L.) ..................................................................................................................2
+
+West London Pipeline and Storage v Total UK,
+ [2008] 2 CLC 258........................................................................................................................5
+
+Statutes
+
+Fed. R. Civ. P. 26(b)(5) ...................................................................................................................7
+
+Fed. R. Civ. P. 26.2(a)(2)(B) ...........................................................................................................7
+
+Fed. R. Civ. P. 44.1 .........................................................................................................................4
+
+
+
+
+                                                                      iii
+        Plaintiff Virginia L. Giuffre, by and through undersigned counsel, respectfully submits this
+
+Reply in Response to Defendant’s Supplemental Memorandum of Law in Response to Plaintiff’s
+
+Motion to Compel the Production of Documents Subject to Improper Claim of Privilege (D.E.
+
+46).1 For the reasons set forth below, this Court should grant Ms. Giuffre’s Motions to Compel in
+
+their entirety.
+
+I.      PRELIMINARY STATEMENT2
+
+        This Reply references and incorporates Ms. Giuffre’s arguments on Defendant’s improper
+
+assertion of privilege on Defendant’s privilege log as iterated in Ms. Giuffre’s Motion to Compel
+
+the Production of Documents Subject to Improper Claim of Privilege (D.E. 33). In order to
+
+comply with page limit restrictions, this Reply primarily addresses new arguments raised in
+
+Defendant’s Supplemental Memorandum of Law in Response to Plaintiff’s Motion to Compel the
+
+Production of Documents Subject to Improper Claim of Privilege (D.E. 46).
+
+II.     ARGUMENT
+
+        A.        Under The Second Circuit’s “Touch Base” Test, New York Law Applies
+
+        This Court need not even reach a choice-of-law analysis for three reasons. First, while
+
+Defendant claims that English privilege law applies, she does not claim a privilege under English
+
+law. For every entry on her privilege log, she claims attorney-client privilege, a privilege
+
+
+
+
+1
+  Ms. Giuffre notes that Defendant’s combined “responses” are over the page limit pursuant to this Court’s
+individual practice rules.
+2
+ Ms. Giuffre views Defendant’s “Supplemental Responses” (D.E. 45 and 46) as impermissible sur-replies.
+Defendant already filed a Response, and her “supplemental” responses were filed after Ms. Giuffre filed
+her Reply to Defendant’s Response. See In re A2P SMS Antitrust Litig., 972 F. Supp. 2d 465, 500
+(S.D.N.Y. 2013) (striking sur-reply because it does not respond to “new issues which are material to the
+disposition of the question before the [C]ourt,”); Anwar v. Fairfield Greenwich Ltd., 982 F. Supp. 2d 260,
+263 (S.D.N.Y. 2013) (“the Court notes that Plaintiffs’ letter is a sur-reply filed without permission of the
+Court and does not identify new controlling law, and therefore will not be considered.”).
+        To the extent that this Court has not yet made a sua sponte ruling to strike them from the docket to
+date, Ms. Giuffre hereby files her reply briefs within the time allotted under the Local Rules.
+
+                                                     1
+recognized by New York (and the remainder of United States jurisdictions). She does not claim
+
+the “legal advice privilege,” the analog to the attorney-client privilege in England.
+
+        Second, English “legal advice privilege” law is substantially similar to that of New York’s
+
+“attorney-client privilege” law (the privilege claimed in Defendant’s privilege log), making the
+
+analysis unnecessary. On Time Aviation, Inc. v. Bombardier Capital, Inc., 354 F. App'x 448, 450
+
+(2d Cir. 2009) (declining to reach a choice of law analysis as the result would the same under the
+
+various jurisdiction’s law). “The parties appear to agree that the relevant privilege law is that of
+
+New York, rather than of England . . . the court will follow the parties' decision to apply New
+
+York law. The English rule, which is apparently similar, appears also to require that legal
+
+advice be a predominant purpose of the communication (see Waugh v. British Ry. Bd., [1980]
+
+AC 521 (H.L.).”3 Aetna Cas. & Sur. Co. v. Certain Underwriters at Lloyd's London, 176 Misc. 2d
+
+605, 609, 676 N.Y.S.2d 727, 730 (Sup. Ct. 1998) aff'd sub nom. Aetna Cas. & Sur. Co. v. Certain
+
+Underwriters at Lloyd's, 263 A.D.2d 367, 692 N.Y.S.2d 384 (1999) (Emphasis added). Therefore,
+
+because New York’s “attorney-client privilege” is substantially similar to the British “legal advice
+
+privilege,” this Court need not reach a choice-of-law analysis.
+
+        Third, the facts do not support the application of the choice-of-law test cited by defendant.
+
+In Astra Aktiebolag v. Andrx Pharm., Inc., the court explained, “[w]here, as here, alleged
+
+privileged communications took place in a foreign country or involved foreign attorneys or
+
+proceedings, this court defers to the law of the country that has the ‘predominant’ or ‘the most
+
+direct and compelling interest’ in whether those communications should remain confidential,
+
+unless that foreign law is contrary to the public policy of this forum.” 208 F.R.D. 92, 98
+
+3
+  Waugh v. British Ry. Bd., [1980] AC 521 (H.L.), attached hereto to the McCawley Decl. at Exhibit 1,
+states, at p. 521-522, “Held . . . that the due administration of justice strongly required that a document such
+as the internal inquiry report, which was contemporary, contained statements by witnesses on the spot and
+would almost certainly be the best evidence as to the cause of the accident, should be disclosed; that for the
+important public interest to be overridden by a claim of privilege the purpose of submission to the party’s
+legal advisers in anticipation of litigation must be at least the dominant purpose for which it had been
+prepared.”
+                                                       2
+(S.D.N.Y. 2002). Here, there are not sufficient facts to trigger the application of this
+
+“predominance” analysis, but several facts militate against its application. First, the
+
+communication as at issue did not “take place in a foreign country,” as defendant participated in
+
+these communications from the United States.4 Second, the communications at issue5 did not all
+
+involve a “foreign attorney;” many were just between Defendant and her non-attorney press agent.
+
+Finally, this analysis does not apply as there are no “foreign proceedings” involved, as discussed
+
+in greater detail infra. Therefore, the Court need not reach a choice-of-law analysis because New
+
+York’s attorney-client privilege law and English legal advice privilege law are substantially
+
+similar, and the facts do not trigger the application of Defendant’s choice-of-law test.
+
+        However, should the Court choose to employ a choice-of-law analysis regarding the
+
+applicable privilege law, New York law controls. There were no foreign proceedings, the damage
+
+control on Defendant’s tarnished New York socialite reputation was the predominant purpose of
+
+the communications involving Gow, and Defendant’s reputation that was harmed, primarily, in
+
+New York where she resides. Finally, absent any declaration or other evidentiary showings that
+
+English law applies, this Court should find that New York law applies.
+
+
+
+
+4
+  Defendant addressed a journalist on a Manhattan street the day after her initial defamatory statement was
+released and she referred reporters to her statement.
+5
+ For example, Defendant claims attorney-client privilege with communications from Ross Gow to
+Defendant. See log entry from January 2, 2015 email on Defendant’s Privilege Log.
+
+                                                     3
+        B.      Under English Law, the Privilege Log is Still Deficient6
+
+        Should the Court determine Defendant has met her burden in showing that English law
+
+should apply to the determinations of privilege, 7 Ms. Giuffre submits that it must reach the same
+
+conclusion as under New York law: (1) there is no legal advice privilege (i.e. the English
+
+equivalent of attorney-client privilege) that attaches to the communications in which an attorney is
+
+not present, (2) no legal advice privilege attaches to communications with attorneys when made in
+
+the presence of a third party, such that the communications are not confidential and (3) no
+
+litigation privilege applies when litigation is not reasonably in prospect or ongoing at the time the
+
+communications are made.
+
+                1.        The English “Legal Advice” Privilege Does Not Apply
+
+        Under English law, a document can be withheld from disclosure on grounds of legal advice
+
+privilege if it is: (1) a confidential communication; which passes between a client and his/her
+
+lawyer (including via an agent); and (2) which has come into existence for the purpose of giving
+
+
+6
+ This discussion in this brief on the application of English privilege law is based upon the legal opinions of
+attorneys in the London branch of the undersigned’s law firm, as well as English case law, cited through
+and attached as exhibits.
+  Under Rule 44.1 of the Federal Rules of Civil Procedure, in determining foreign law, “the court may
+consider any relevant material or source, including testimony, whether or not submitted by a party or
+admissible under the Federal Rules of Evidence.” Fed. R. Civ. P. 44.1. Rule 44.1 gives a court “wide
+latitude” to determine foreign law, Rutgerswerke AG & Frendo S.p.A. v. Abex Corp., No. 93 Civ.
+2914(JFK), 2002 WL 1203836, at *16 (S.D.N.Y. June 4, 2002), and the Second Circuit has “urge[d]
+district courts to invoke the flexible provisions of Rule 44.1 to determine issues relating to the law of
+foreign nations,” Curley v. AMR Corp., 153 F.3d 5, 13 (2d Cir.1998).
+         “In making rulings regarding foreign law, courts have employed various methods: they have
+considered the plain text of applicable foreign law; made assumptions regarding the interpretation of
+translated foreign law sources; considered expert affidavits submitted by parties; evaluated experts’
+credibility; assessed experts’ opinions and the basis of such opinions as supported by the foreign country’s
+civil law, cases, treatises, and logic.” In re: Lyondell Chem. Co., 543 B.R. 428, 444 (Bankr. S.D.N.Y.
+2016).
+        Accordingly, Ms. Giuffre respectfully requests that the Court consider the plain text of the attached
+case law should the Court decide to make a ruling based upon English law.
+7
+  “[T]he party relying on foreign law has the burden of showing such law bars production of documents.”
+Tansey v. Cochlear Ltd., No. 13-CV-4628 SJF SIL, 2014 WL 4676588, at *4 (E.D.N.Y. Sept. 18, 2014)
+(Internal quotation and citation omitted).
+
+                                                      4
+or receiving legal advice about what should prudently and sensibly be done in the relevant legal
+
+context. Where there is no attorney involved in the communication (such as those
+
+communications between Defendant and other non-attorneys), there can be no “legal advice”
+
+privilege under English Law.
+
+                         a.      Confidentiality Under English Law
+
+          Under English law, the fact that a third party is present at the time legal advice is
+
+sought/obtained (as with communications Defendant made with attorneys with a third party
+
+involved) does not necessarily prevent the communication from being confidential. If a
+
+communication is provided to a third party on express terms that it is to remain confidential and
+
+was not generally available outside the limited group of recipients, privilege will not necessarily
+
+be lost to the outside world (USP Strategies v London General Holdings Ltd, [2004] EWHC 373
+
+(Ch)).8 On that basis, Defendant must bear the burden of proving that the documents are
+
+privileged.9 Defendant has not submitted any evidence, such as a Non-Disclosure Agreement, that
+
+expressly places Ross Gow under an obligation of confidence in respect to information received
+
+by him relating to legal advice/litigation. In absence of any express obligation of confidentiality,
+
+Ms. Giuffre submits that privilege does not attach to communications involving Ross Gow and the
+
+lawyer.
+
+8
+  USP Strategies v London General Holdings Ltd, [2004] EWHC 373 (Ch), attached hereto to the
+McCawley Decl. at Exhibit 2, states, “[i]f A shows a privileged document to his six best friends, he will not
+be able to assert privilege if one of the friends sues him because the document is not confidential as
+between him and the friend. But the fact six other people have seen it does not prevent him claiming
+privilege as against the rest of the world.” I think that it follows from that that A would be able to restrain
+each of the friends from disclosing to the outside world what they were told on the basis that it remained
+privileged. The friends could not give secondary evidence of the privileged material – it would be
+“evidence of [privileged] communications”, or their evidence would be “evidencing such communications”
+within the formulation in Three Rivers. By the same token, if a client summarizes or extracts advice in a
+letter to a third party, that written communication is capable of retaining or attracting the privilege which
+attached to the original advice, subject to waiver. It, too, is something which evidences a privileged
+communication.”
+9
+ Under English law, “the burden of establishing that a communication is privileged lies on the party
+claiming privilege”. West London Pipeline and Storage v Total UK [2008] 2 CLC 258, at para. 50,
+McCawley Decl. at Exhibit 3.
+
+                                                       5
+                         b.      Communication Via An Agent Under English Law
+
+        Under English Law, communications between client and lawyer through an agent will be
+
+protected by legal advice privilege, but this will only apply in situations where the agent functions
+
+as no more than a mere conduit (e.g. a translator). Third parties engaged to provide their own
+
+intellectual input (e.g. accountants) will not be regarded as agents for the purposes of legal advice
+
+privilege. Whether Ross Gow functioned as a true agent for the purposes of privilege must be
+
+assessed by reference to the type of information that was being provided to the attorney. USP
+
+Strategies v London General Holdings Ltd, [2004] EWHC 373 (Ch). 10
+
+                         c.      Under English Law, The Communication Must Be For The Purpose
+                                 Of Giving Or Receiving Legal Advice
+
+        Ross Gow’s website notes that he is a “Reputation Manager” – not a lawyer. Maxwell
+
+states that Mr. Gow provided information to Mr. Barden “regarding press inquiries so as to further
+
+Mr. Barden’s ability to give appropriate legal advice to Ms. Maxwell regarding potential
+
+defamation litigation in the United Kingdom” (D.E. 46 at 9). Even if legal advice were obtained
+
+from Mr. Barden as a result of the information provided by Mr. Gow, it is not clear that the
+
+information provided by Ross Gow was itself confidential, particularly if it related to information
+
+that is already in the press/public domain. Maxwell should be put to prove that the written
+
+communications were confidential, came into existence specifically for the purpose of giving or
+
+
+
+10
+  USP Strategies v London General Holdings Ltd, [2004] EWHC 373 (Ch), attached hereto to the
+McCawley Decl. at Exhibit 2, states, “[i]f A shows a privileged document to his six best friends, he will not
+be able to assert privilege if one of the friends sues him because the document is not confidential as
+between him and the friend. But the fact six other people have seen it does not prevent him claiming
+privilege as against the rest of the world.” I think that it follows from that that A would be able to restrain
+each of the friends from disclosing to the outside world what they were told on the basis that it remained
+privileged. The friends could not give secondary evidence of the privileged material – it would be
+“evidence of [privileged] communications”, or their evidence would be “evidencing such communications”
+within the formulation in Three Rivers. By the same token, if a client summaries or extracts advice in a
+letter to a third party, that written communication is capable of retaining or attracting the privilege which
+attached to the original advice, subject to waiver. It, too, is something which evidences a privileged
+communication.”
+
+                                                       6
+receiving legal advice and were not simply for damage control purposes to her socialite reputation
+
+relating to her intimate involvement with convicted sex offender Jeffrey Epstein.
+
+        C.      Under New York Law, The Privilege Log Is Deficient
+
+        Defendant submitted a 16-entry, facially deficient log under Federal Rule of Civil
+
+Procedure 26(b)(5) and Local Rule 26.2(a)(2)(B) and the governing case law. First, Defendant
+
+attempts to wrongfully claim that the attorney-client privilege shields documents from production
+
+as to her communications with non-attorneys. Second, Defendant improperly claims a “common
+
+interest” privilege applies to her communications with convicted sex offender – and non-attorney -
+
+- Jeffrey Epstein, for which no attorney-client privilege applies, thus, precluding the application of
+
+the “common interest” privilege. This is simply wrong. “The common interest rule is an extension
+
+of the attorney-client privilege and not an independent basis for privilege.” Pem-Am., Inc. v.
+
+Sunham Home Fashions, LLC, No. 03 CIV. 1377JFKRLE, 2007 WL 3226156, at *2 (S.D.N.Y.
+
+Oct. 31, 2007). “In order for a communication to be privileged within the common interest rule, it
+
+. . . must still meet the requirements of a privileged attorney-client communication.” Id.
+
+(Emphasis added). See Egiazaryan v. Zalmayev, 290 F.R.D. 421, 434 (S.D.N.Y. 2013)
+
+(“communications are protected where there is a disclosure by A to the attorney representing B
+
+and vice-versa”).
+
+        Third, Defendant improperly claims the attorney-client privilege when the communications
+
+involved the presence of a third party not involved in providing legal services, such as Ross Gow
+
+or Mark Cohen. See Egiazaryan, 290 F.R.D. at 431.11 Fourth, the descriptions of the
+
+
+11
+   Defendant attempts to base her argument on In re Grand Jury Subpoenas Dated March 24, 2003, 265 F.
+Supp. 2d 321, 330 (S.D.N.Y. 2003), but that the facts are so different between that case and the instant case
+that the comparison is inapt. Instead, for this case, Egiazaryan v. Zalmayev, 290 F.R.D. 421 (S.D.N.Y.
+2013) and NXIVM Corp. v. O’Hara, 241 F.R.D. 109, 141 (N.D.N.Y. 2007) should control. See also Nance
+v. Thompson Med. Co., 173 F.R.D. 178, 182–83 (E.D. Tex. 1997). The bulk of the relevant authority, in
+circumstances similar to the case at hand, does not extend attorney-client privilege to communications with
+public relations firms - even if attorneys are present for the communications - and for good reason. Public
+relations firms are not in the business of giving legal advice; they exist to manage their client’s public
+                                                      7
+communications in the log are inadequate. Every single communication on the log, even those not
+
+involving any attorneys, is described as “Communication re: legal advice.”
+
+        These sparse and unvaried descriptions simply do not comply with Federal Rule of Civil
+
+Procedure 26(b)(5) and Local Rule 26.2(a)(2)(B), and are not sufficient to support the privilege
+
+claims asserted therein.
+
+        Accordingly, this Court should find that Defendant has waived her privilege claim for
+
+every entry which describes the subject matter as “Communication re: legal advice,” or at the very
+
+least, require Defendant to submit the documents in question for in camera review to determine
+
+whether they are actually subject to any privilege claim. In addition, the Court should direct the
+
+production of documents on the privilege log that involve communications between the two non-
+
+lawyers.12
+
+                                             CONCLUSION
+
+        For the foregoing reasons this Court should order Defendant to produce the documents
+
+listed in her privilege log, or at the very least, conduct an in camera inspection to determine
+
+whether or not these documents are privileged under applicable law.
+
+
+
+
+reputations. And management of her public reputation is why Defendant retains Gow, and has for many
+years. (D.E. 56 at 9).
+12
+   Defendant inexplicably states that Ms. Giuffre has somehow waived her argument that she is entitled to
+communications from Gow subsequent to the issuance of the press release. In the section on
+communications with Gow, Ms. Giuffre stated: Accordingly, Ms. Giuffre is entitled to communications
+relating to Mr. Gow - particularly the January 2, 2015 email - for the entire Relevant Period. (D.E. 35 at p.
+19, emphasis added). The Relevant Period is defined as 1999 through the present. Therefore, there is no
+waiver.
+                                                      8
+Dated: March 14, 2016
+
+                            Respectfully Submitted,
+
+                            BOIES, SCHILLER & FLEXNER LLP
+
+                        By: /s/ Sigrid McCawley
+                             Sigrid McCawley (Pro Hac Vice)
+                             Boies, Schiller & Flexner LLP
+                             401 E. Las Olas Blvd., Suite 1200
+                             Ft. Lauderdale, FL 33301
+                             (954) 356-0011
+
+                             David Boies
+                             Boies, Schiller & Flexner LLP
+                             333 Main Street
+                             Armonk, NY 10504
+
+                             Ellen Brockman
+                             Boies, Schiller & Flexner LLP
+                             575 Lexington Ave
+                             New York, New York 10022
+                             (212) 446-2300
+
+
+
+
+                                9
+                                CERTIFICATE OF SERVICE
+
+       I HEREBY CERTIFY that on March 14, 2016, I electronically filed the foregoing
+
+document with the Clerk of Court by using the CM/ECF system. I also certify that the foregoing
+
+document is being served this day on the individuals identified below via transmission of Notices
+
+of Electronic Filing generated by CM/ECF.
+
+       Laura A. Menninger, Esq.
+       HADDON, MORGAN & FOREMAN, P.C.
+       150 East 10th Avenue
+       Denver, Colorado 80203
+       Tel: (303) 831-7364
+       Fax: (303) 832-2628
+       Email: lmenninger@hmflaw.com
+
+
+                                                     /s/ Sigrid S. McCawley
+                                                         Sigrid S. McCawley
+
+
+
+
+                                                10
+

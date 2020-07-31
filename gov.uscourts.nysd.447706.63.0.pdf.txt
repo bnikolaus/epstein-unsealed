@@ -1,0 +1,946 @@
+                           UNITED STATES DISTRICT COURT
+                          SOUTHERN DISTRICT OF NEW YORK
+
+--------------------------------------------------X
+
+
+
+
+                                              ......
+                                              .........................................
+VIRGINIA L. GIUFFRE,
+
+        Plaintiff,
+v.
+
+GHISLAINE MAXWELL,                                                                               15-cv-07433-RWS
+
+        Defendant.
+
+
+--------------------------------------------------X
+
+
+
+
+                                 Motion for Protective Order
+                              Regarding Deposition of Defendant
+
+
+
+
+                                                                                          Laura A. Menninger
+                                                                                          Jeffrey S. Pagliuca
+                                                                                          HADDON, MORGAN, AND FOREMAN, P.C.
+                                                                                          East 10th Avenue
+                                                                                          Denver, CO 80203
+                                                                                          303.831.7364
+                                                 TABLE OF CONTENTS
+
+TABLE OF AUTHORITIES ............................................................................................................ iii
+
+INTRODUCTION ..............................................................................................................................1
+
+ARGUMENT ......................................................................................................................................5
+
+I.     PLAINTIFF PROPOUNDED IMPROPER RESPONSES, OBJECTIONS AND
+       PRIVILEGES TO DEFENDANT’S DISCOVERY REQUESTS ............................................5
+
+      A.     Plaintiff interposed improper objections . ............................................................................5
+
+
+      B.     Plaintiff propounded inapplicable Privileges, Responses & Objections to the Request
+             for Production of Documents. ..............................................................................................8
+
+                  1. Plaintiff asserted inapplicable privileges..................................................................8
+
+                  2. Plaintiff interposed inapplicable objections. ..........................................................10
+
+                  3. Plaintiff failed to state whether she was withholding documents ..........................11
+
+II.    PLAINTIFF’S INTERROGATORY RESPONSES AND PRODUCTION CONTAINED
+       ALMOST NONE OF THE REQUESTED ANSWERS OR DOCUMENTS .........................12
+
+III. PLAINTIFF FAILED TO TIMELY AND PROPERLY MAKE DISCLOSURES ................14
+
+IV. OTHER DISCOVERY ISSUES NOT YET RESOLVED ......................................................15
+
+V.     PLAINTIFF’S DISCOVERY TACTICS DESIGNED TO AMBUSH DEFENDANT AT
+       HER DEPOSITION .................................................................................................................15
+
+VI. PLAINTIFF WILL SUFFER NO HARM BY POSTPONING DEPOSITION ......................16
+
+CONCLUSION .................................................................................................................................17
+
+
+
+
+                                                                     ii
+                                                 TABLE OF AUTHORITIES Cases
+
+
+In re Waterscape Resort LLC, No. 11-11593 (SMB), 2014 WL 302856 (Bankr. S.D.N.Y. Jan. 28,
+   2014) ........................................................................................................................................... 9
+
+Johnson v. Kraft Foods North America, Inc., 236 F.R.D.535 (D. Kans. 2006) ............................. 8
+
+Jones v. J.C. Penny’s Dep’t Stores, Inc., 228 F.R.D. 190 (W.D.N.Y. 2005) ............................... 10
+
+
+Kolenc v. Bellizzi, No. 95 CIV. 4494 (LMM KNF), 1999 WL 92604 (S.D.N.Y. Feb. 22, 1999) .. 8
+
+Lyman v. Felter, No. 1:12-CV-530 MAD/RFT, 2015 WL 1415270, (N.D.N.Y. Mar. 26, 2015) .. 9
+
+SEC v. Yorkville Advisors, LLC, No. 12 Civ. 7728 (GBD)(HBP), 2015 WL 855796 (S.D.N.Y.
+  Feb. 27, 2015) ........................................................................................................................... 10
+
+Walls v. Paulson, 250 F.R.D. 48 (D.D.C. 2008) ............................................................................. 6
+
+
+
+
+                                                                         iii
+                                        INTRODUCTION
+
+       This Court has inherent authority to control the order, means and method of discovery in
+
+an action to promote fairness and justice between the parties.
+
+       Here, Defendant properly served discovery requests for Plaintiff, due on March 16, and
+
+thereafter accepted a deposition date of March 25, after the discovery responses and document
+
+productions were due so that she would properly have time to review the documents and prepare
+
+her client for her deposition.
+
+       Following the scheduling of the deposition, Plaintiff failed to (a) properly and timely
+
+respond to interrogatories and a request for production of documents due before the deposition
+
+date, (b) improperly asserted privileges and objections for which she has no good faith basis, and
+
+(c) failed to properly disclose matters subject to Fed. R. Civ. P. 26(a)(1). Plaintiff touted to this
+
+Court her “thousands of pages” produced in response to the discovery requests, but upon closer
+
+inspection, that production is essentially empty: it consists largely of numerous copies of
+
+lengthy transcripts, and defendant’s pleadings in this case, which are not responsive to any
+
+discovery request. Now Plaintiff has stated her intent to produce thousands more pages on the
+
+eve of Ms. Maxwell’s deposition, knowing that her counsel will have insufficient time to review
+
+the materials, show them to their client, and use them to properly prepare her for her deposition.
+
+Plaintiff’s counsel clearly hopes to ambush Ms. Maxwell at her deposition, either by showing her
+
+a document that she has not had a chance to review, or by making her look foolish on videotape
+
+for not remembering the contents of documents that relate back to witnesses and events
+
+occurring more than 17 years ago.
+
+       The Federal Rules of Civil Procedure are designed to preclude such litigation by ambush
+
+and surprise. Plaintiff has articulated no good reason, nor any reason at all, why the deposition
+
+
+                                                  1
+cannot be held in 2-3 weeks’ time, after proper Responses & Objections are produced, after her
+
+key documents in this case have been produced, after privilege issues have been resolved, and
+
+after counsel has had an opportunity to review the documents and to properly prepare their client
+
+for her deposition. Plaintiff has created the problem by failing to timely produce interrogatory
+
+responses, documents and her Rule 26 disclosures. She should not be rewarded for gaming the
+
+system.
+
+       Rule 26(c) permits the Court to issue, for good cause, a protective order in order to
+
+“protect a party or person from annoyance, embarrassment, oppression or undue burden or
+
+expense” by “specifying terms, including time and place…for the disclosure or discovery”
+
+and/or “prescribing a discovery method other than the one selected by the party seeking
+
+discovery.” Fed. R. Civ. P. 26(c)(1)(B) & (C). Ms. Maxwell asks the Court to adjourn her
+
+deposition until mid-April so that the above-listed discovery issues can be properly resolved in
+
+advance of that time.
+
+                                    Certificate of Conferral
+       Counsel has conferred numerous times regarding the issues contained herein, most
+
+recently in a one hour and 45 minute phone call on March 21, 2016. Although Plaintiff has
+
+promised to supplement her production, revise her Responses & Objections, and to withdraw
+
+some of her privilege assertions, sign her Interrogatories and Objections and to consult with her
+
+client and her client’s other attorneys as to whether she can produce other information (like her
+
+client’s current address), Plaintiff refuses to postpone the deposition of Ms. Maxwell for even the
+
+period of time it would take for her to make complete disclosures. Therefore, defense counsel
+
+believes that their obligations pursuant to Rule 26(c) as well as this Court’s directive of March
+
+17, 2016, have been fulfilled.
+
+
+
+                                                 2
+                                    Procedural Background
+       Ms. Maxwell served her First Discovery Requests on Plaintiff on February 12, 2016.
+
+Responses were thus due by March 16, 2016. Thereafter, counsel conferred regarding deposition
+
+dates for Ms. Maxwell and two other witnesses. It was on February 20, 2016 that defense
+
+counsel proposed that she could be available for Ms. Maxwell’s deposition in New York on
+
+either March 24 or March 25, 2016, anticipating that discovery responses would timely be
+
+provided 8-9 days prior to the deposition. Declaration of Laura A. Menninger In Support of
+
+Motions (“Menninger Decl.”) Ex. E. The parties kept that date open, though Ms. Maxwell
+
+repeatedly reiterated the need for a protective order prior to the deposition.
+
+       Three weeks passed, and it was not until March 8, that Plaintiff’s counsel wrote a letter
+
+claiming that she would not be able to timely produce all responsive documents. In that letter,
+
+she expressed her desire to produce documents on a “rolling basis,” to be completed on or about
+
+April 15, 2016. Defense counsel responded saying that would be fine, however, Ms. Maxwell’s
+
+deposition should then be postponed until after the document production was complete. Defense
+
+counsel proposed dates as early as mid-April for the continued deposition. Menninger Decl.
+
+Ex. I. Plaintiff disagreed and she filed a motion seeking permission from the Court to (a)
+
+produce her documents over the course of a month but (b) keep Ms. Maxwell’s deposition on
+
+March 25, 2016, despite her incomplete and untimely production, and incorrectly stating that Ms.
+
+Maxwell had demanded she “cancel” her deposition. (Doc. # 59 at 3)
+
+       On March 16, 2016, Plaintiff served Response and Objections to Defendant’s First Set of
+
+Discovery Requests and provided 3,190 pages of documents. The next day, argument was heard
+
+by this Court concerning, inter alia, Plaintiff’s Motion for Leave to Serve Production on a
+
+Rolling Basis. During that argument, Plaintiff’s counsel represented a number of times to this
+
+Court the supposed breadth of her production the night before and minimized the number of
+                                                  3
+outstanding documents there remained to be produced. See Transcript of March 17, 2016
+
+Hearing (“Tr.”) at 12:7-10 (“We produced 3,000 pages last night. We are continuing that
+
+production. We are moving as fast as we can. We produced a privilege log with over 134
+
+entries on it.”); id. at 15:21 (“Like I said, we produced 3,000 pages yesterday.”); id. at 17:5 (“I
+
+produced 3,000 pages”). She also offered to produce any documents that she intended to “use”
+
+at the March 25 deposition.
+
+       Counsel engaged in a conferral on March 21, 2016, regarding the deficiencies in
+
+Plaintiff’s document production, the improper privileges and objections, and her incomplete Rule
+
+26 disclosures. During conferral, Plaintiff’s counsel conceded that many of her objections and
+
+assertions of privilege were improper and that her responses failed to adhere to Rule
+
+34(b)(2)(C)’s requirement that she state whether she has withheld documents. Counsel for
+
+Plaintiff stated she will “supplement” her Response and Objections and will provide numerous
+
+additional documents in the coming days and weeks. As to other categories of documents,
+
+Plaintiff demanded that she be provided with legal authority to support the request, and as to
+
+others, she stated her need to confer with her client and her client’s other attorneys before even
+
+knowing whether she had or could respond to the requests.
+
+       As of the date of this Motion, three days prior to the deposition, no additional documents
+
+have been produced. Defense counsel will be traveling to New York tomorrow for the court
+
+appearance on Thursday.
+
+
+
+
+                                                  4
+                                           ARGUMENT
+
+I.      PLAINTIFF PROPOUNDED IMPROPER RESPONSES, OBJECTIONS AND
+        PRIVILEGES TO DEFENDANT’S DISCOVERY REQUESTS IN ORDER TO
+        AVOID TIMELY PRODUCING DOCUMENTS PRIOR TO DEFENDANT’S
+        DEPOSITION
+
+        Defendant’s First Set of Discovery Requests included 14 interrogatories and 37 document
+
+requests. Because Plaintiff stated yesterday her intent to amend her Response & Objections and
+
+to supplement her discovery, a Motion to Compel pursuant to Rule 37 is premature. However,
+
+this Court can and should consider Plaintiff’s deficient Response & Objections in deciding
+
+whether or not a deposition of Ms. Maxwell should proceed without the benefit of legally sound
+
+and appropriate responses to interrogatories and document production.
+
+        A.      Plaintiff interposed improper objections to – and failed to even answer most
+                – interrogatories.
+
+        Plaintiff requested of this Court leave to produce documents on a rolling basis. She made
+
+no such request with respect to her Interrogatory Responses, and thus, one can presume, she
+
+believes her Interrogatory Responses of March 16, 2016, to be complete. They are not.
+
+        The Responses are not signed by Plaintiff, nor are the Objections signed by Ms.
+
+McCawley. See Rule 33(b)(5); Menninger Decl. at Ex. A. “The plaintiff apparently
+
+misinterprets the Federal Rules as optional. They are not. Rule 33(b)(5) could not be more
+
+clear: “The person who makes the answers must sign them, and the attorney who objects must
+
+sign any objection. This requirement is critical because ‘interrogatories serve not only as a
+
+discovery device but as a means of producing admissible evidence; there is no better example of
+
+an admission of a party opponent, which is admissible because it is not hearsay, than an answer
+
+to an interrogatory.’” Walls v. Paulson, 250 F.R.D. 48 (D.D.C. 2008) (sanctioning Plaintiff for
+
+failure to sign interrogatories) (internal citations omitted).
+
+
+
+                                                   5
+       Plaintiff refused to answer at all Interrogatory Nos. 5-14. Id. at 10-17. With respect to
+
+Interrogatory Nos. 1-4, she gave incomplete and partial answers. Id. at 5-10. Her assertions of
+
+privilege track the same nonsensical bases as she used in Response to the Requests for
+
+Production of Documents, discussed more fully below.1 By way of example, again, she
+
+propounds the same assertion of all possible privileges, and completely refuses to answer, in
+
+response to Interrogatories seeking:
+
+              Her and her attorneys’ communications with journalists, media organizations, and
+               publishers (Interrog. No. 5).
+
+              Any employment she has had since 1996, including the names and contact
+               information for her employers, the dates of her employment, and her titles and
+               income from such employment (Interrog. No. 9).
+
+              Income she has received apart from employment (Interrog. No. 10).
+
+              Facts in support of her claims for lost wages (Interrog. No. 11).
+
+              Her past and current treating physicians and psychiatrists (Interrog. No. 12, 13).
+
+       Most egregiously, Plaintiff refused to answer interrogatories which strike at the heart of
+
+her allegations. Ms. Maxwell interposed Interrogatories concerning which “false statements”
+
+attributed to Ms. Maxwell were “published globally” as contended in paragraph 9 of Count 1 of
+
+the Complaint (Interrog. No. 6) and whether Plaintiff has been defamed by anyone other than
+
+
+1
+   Plaintiff additionally asserts that no interrogatories are permitted pursuant to Local Rule 33.3
+prior to the last 30 days of discovery. See Menninger Decl. Ex. A. Her objection is unfounded,
+as defense counsel explained to her by letter of February 20, 2016. Id.at Ex. D. First, many of
+the interrogatories sought, consistent with Local Rule 33.3(a), the names of witnesses and the
+custodians of records, such as her treating physicians, her employers, her attorneys, as well as the
+bases for her computation of damages, such as any employment income, non-employment
+income and facts supporting her claim for lost wages. Second, Local Rule 33.3(b) authorizes,
+“during discovery,” interrogatories which “are a more practical method of obtaining the
+information sought than a request for production or deposition. The remainder of the
+interrogatories propounded fall within this category – the kind of minutiae that Plaintiff is
+unlikely to “recall” at the time of her deposition, such as all cellphone numbers she has used, the
+dates she and her attorneys communicated with the media, etc. Plaintiff’s blanket assertion of
+Local Rule 33.3 is clearly interposed in bad faith.
+                                                 6
+Ms. Maxwell (Interrog. No. 7). Both of these requests are standard requests in a defamation suit
+
+and directly relate to the liability and damages claimed by Plaintiff. Plaintiff refused, claiming
+
+the laundry-privilege list and stating that the “information is in the possession of Defendant who
+
+has failed to comply with her production obligations.”
+
+       Likewise, Plaintiff refused to identify, in advance of Ms. Maxwell’s deposition or ever,
+
+the individuals to whom Plaintiff claims Ms. Maxwell sexually trafficked her. Interrogatory No.
+
+8 asked her to specify the individuals referred to generally in her Florida CVRA pleading that
+
+were the supposed participants of the alleged sexual trafficking, “including numerous prominent
+
+American politicians, powerful business executives, foreign presidents, a well-known Prime
+
+Minister and other world leaders.” Plaintiff refused, claiming every applicable privilege, and
+
+additionally “because naming some such individuals would jeopardize her physical safety based
+
+on credible threats to the same (sic).” Menninger Decl. Ex. A at 12-13. Does that mean that
+
+Plaintiff’s counsel does not intend to ask about these world leaders during Ms. Maxwell’s
+
+deposition? Does it mean that Ms. Maxwell’s statements to the press that Plaintiff’s claims
+
+regarding world leaders were “obvious lies” cannot be tested for their truth or falsity during this
+
+litigation? Or by failing to name these individuals does Plaintiff seek to use the deposition as a
+
+fishing expedition as to any famous person Ms. Maxwell has ever met?
+
+       Plaintiff has brought a lawsuit claiming her allegations about Ms. Maxwell are true, now
+
+she doesn’t even want to say what her allegations are, or she wants to wait and try to conform her
+
+proof to sometime after Ms. Maxwell is deposed. There is no excuse for these untimely,
+
+improper and incomplete responses, and fairness dictates that the answers be provided in
+
+advance of defendant’s deposition. Kolenc v. Bellizzi, No. 95 CIV. 4494 (LMM KNF), 1999 WL
+
+
+
+
+                                                 7
+92604, at *3 (S.D.N.Y. Feb. 22, 1999) (“Failure to respond timely to a party’s request for
+
+documents results in a waiver of all objections which could have been seasonably asserted.”).
+
+       B.       Plaintiff propounded inapplicable Privileges, Responses & Objections to the
+                Request for Production of Documents.
+
+                1.     Plaintiff asserted inapplicable privileges.
+
+       As discussed during oral argument before this Court on March 17, Plaintiff’s counsel
+
+interposed every single possible objection to every single discovery request, without regard to
+
+whether that privilege was applicable to the specific request. Such a blanket objection amounts
+
+to no objection at all. Johnson v. Kraft Foods North America, Inc., 236 F.R.D.535, 538 (D. Kan.
+
+2006) (a general objection which objects to a discovery request “to the extent” it may apply is
+
+tantamount to asserting no objection at all as it makes “no meaningful effort to show the
+
+application of any such theoretical objection to any request for discovery.”). Plaintiff responded
+
+to each and every of the thirty-seven (37) Requests for Production of Documents with the
+
+following privilege assertion: “Ms. Giuffre objects to this request in that it seeks information
+
+that is protected by the attorney-client, work product, joint defense, investigative, spousal and
+
+other applicable privileges.” See Menninger Decl. Ex. A.2 Among the type of items to which
+
+Plaintiff asserted these privileges:
+
+
+               Request No. 9 – “Any Documents reflecting rental agreements or purchase
+                agreements for residential addresses identified by You in response to
+                Interrogatory No. 1.”
+
+               Request No. 10 – “All Documents relating to Your Employment and/or
+                association with the Mar-A-Lago Club located in Palm Beach, FL, including any
+                application for Employment.”
+
+2
+   Today at 3:15 p.m. EST, Plaintiff served “Supplemental Response and Objections to
+Defendant’s First Set of Discovery Requests.” The new version does not indicate where, if any,
+supplements were provided and a cursory review does not reveal any. Counsel will be prepared
+to address at the argument on Thursday whether any of these additions alter the arguments
+presented herein.
+                                                 8
+              Request No. 21 – “All Documents relating to Your driver’s license from 1998-
+               2002.”
+
+              Request No. 22 – “A copy of Your marriage license(s) from 1999 to present.”
+
+              Request No. 24 – “All Documents concerning Your employment in Australia,
+               including, but not limited to employment applications, pay stubs, Documents
+               reflecting Your Income including any tax Documents.”
+
+There is simply no good faith basis to assert “attorney-client” or “work product” privileges to
+
+documents such as a marriage license or employment records.
+
+       Plaintiff added equally non-applicable privileges to other of her responses. For example,
+
+she claimed an “agency privilege,” “investigative privilege” and “accountant client privilege”
+
+with respect to Request No. 13 – “All Documents concerning any allegations of theft by You
+
+from the Roadhouse Grill in Palm Beach, Florida from 1999-2002.” A simple Westlaw search
+
+for “agency privilege” in New York and in the Second Circuit did not reveal that one exists,
+
+certainly not for an individual rather than an “agency”. Nor is an “investigative privilege” a
+
+recognized privilege. See Lyman v. Felter, No. 1:12-CV-530 MAD/RFT, 2015 WL 1415270, at
+
+*3 (N.D.N.Y. Mar. 26, 2015) report and recommendation adopted, No. 1:12-CV-530
+
+MAD/DEP, 2015 WL 3549667 (N.D.N.Y. June 8, 2015) (chastising a pro se plaintiff for
+
+assertion of non-applicable privileges such as the “investigative” privilege). Further, “New York
+
+does not recognize an accountant-client privilege.” In re Waterscape Resort LLC, No. 11-11593
+
+(SMB), 2014 WL 302856, at *3 (Bankr. S.D.N.Y. Jan. 28, 2014). But that did not stop Plaintiff
+
+from asserting this privilege in response to a request for her tax returns, Request No. 14.
+
+       Because Plaintiff asserted privileges that do not exist under New York or federal law, and
+
+asserted privileges that clearly do not apply to certain documents, her assertions cannot have
+
+been propounded in good faith. See Jones v. J.C. Penny’s Dep’t Stores, Inc., 228 F.R.D. 190,
+
+201 (W.D.N.Y. 2005) (concluding that the plaintiff and her attorney engaged in bad faith and
+
+
+                                                 9
+willful misconduct in conducting discovery, warranting sanctions, where, among other things,
+
+counsel “merely asserted a general objection to the production [of a relevant] file based on the
+
+attorney-client privilege lacking any colorable basis.”). Such improper assertions of privilege
+
+amount to a waiver of any applicable privilege. SEC v. Yorkville Advisors, LLC, No. 12 Civ.
+
+7728 (GBD)(HBP), 2015 WL 855796, at *1 (S.D.N.Y. Feb. 27, 2015) (holding that plaintiff’s
+
+unjustified failure to serve indices of privileged documents in a timely and proper manner
+
+operated as a waiver of any applicable privilege.)
+
+               2.      Plaintiff interposed inapplicable objections.
+
+       Plaintiff also interposed equally inapplicable objections to her responses to document
+
+requests. For example, Plaintiff asserted:
+
+              Response to Requests No. 5, 7, 8, 21, 25 – “Ms. Giuffre objects to this request in
+               that documents responsive to this request are within the possession, custody and
+               control of the defendant and Jeffrey Epstein with whom she claims a joint defense
+               privilege and defendant has refused to produce responsive documents to Ms.
+               Giuffre’s request seeking communications between the Defendant and Ms.
+               Giuffre and between Jeffrey Epstein and Ms. Giuffre.”
+
+              Response to Request No. 6 - “Defendant has documents responsive to this request
+               that she should produce.”
+
+              Response to Request No. 16, 28, 29, 30, 31, 32, 34 – “Ms. Giuffre objects to this
+               request to the extent it seeks proprietary and copyright protected materials.”
+
+
+       It is well-settled that a party may not object to a discovery request on the grounds that she
+
+thinks the other party “already has the materials,” nor is there any legal authority for saying that
+
+because a party thinks a third party has the same materials, they do not have to produce it and the
+
+requesting party must secure them elsewhere. Nor does Plaintiff have a good faith basis to assert
+
+a “copyright” or “proprietary protection” for her “diary, calendar and journal” that she sold to a
+
+
+
+
+                                                 10
+news organization, Radar Online,3 or a book deal that she is attempting to sell (or has sold) to a
+
+publisher, regarding her allegations at issue in this Complaint. Resp. to Req. No. 32.
+
+       These responses, like Plaintiff’s assertions of privilege, were interposed in bad faith.
+
+               3.      Plaintiff failed to state whether she was withholding documents
+
+       Rule 34(b)2)(C), as amended December 2, 2015, now requires that “an objection must
+
+state whether any responsive materials are being withheld on the basis of that objection. An
+
+objection to part of a request must specify the part and permit inspection of the rest.” Despite the
+
+clear requirements of the rule, Plaintiff interposed numerous objections and then failed
+
+repeatedly to state whether she was withholding any documents on the basis of any particular
+
+objection or to permit discovery of the un-objected to portions of the request.
+
+       For example, in Response to Request No. 1, Plaintiff interposed objections based on
+
+Local Rule 33.3, the numerous privileges listed above, the request was “overly broad,” “seeks to
+
+invade the privacy rights of a sex abuse victims (sic),” and “is meant for the improper purpose of
+
+harassing and intimidating this victim.” Then Plaintiff stated that “subject to the forgoing
+
+objections,” she is producing 3,190 documents and will continue to supplement this production,
+
+but “is withholding documents based on her objections.” Additionally adding to the confusion,
+
+Plaintiff repeatedly states that she either “has produced non-privileged documents” or she “does
+
+not have any non-privileged documents”, but fails to say whether she is withholding any
+
+“privileged” documents, which Rule 34 clearly requires her to state. It is absolutely impossible
+
+to tell from Plaintiff’s responses whether (a) she is persisting in any particular objection, (b)
+
+3
+   Compare Response to Request No. 16 – “Any diary, journal or calendar concerning Your
+activities between 1996-2002” with “Diary of Virginia Roberts Who Claims She Had Sex With
+Prince Andrew Reveals Details,” Daily Mail.com (Jan. 13, 2015),
+http://www.dailymail.co.uk/news/article-2908852/Teen-diary-belonging-woman-claims-
+underage-sex-Prince-Andrew-reveals-explicit-details-night-London.html (last accessed March
+20, 2016).
+                                                  11
+persisting in any particular privilege, (c) she placed responsive documents on a privilege log, (d)
+
+what grounds she asserts for withholding documents, and (e) which portion is being disclosed
+
+and which portion withheld. See also Responses to Requests No. 2, 3, 4,
+
+       The Advisory Committee Notes reflecting the 2015 amendment to Rule 34 provide that
+
+“[t]his amendment should end the confusion that frequently arises when a producing party states
+
+several objections and still produces information, leaving the requesting party uncertain whether
+
+any relevant and responsive information has been withheld on the basis of the objections.” Far
+
+from ending the confusion, Plaintiff’s responses amplify it.
+
+II.    PLAINTIFF’S INTERROGATORY RESPONSES AND 3,190 PAGE
+       PRODUCTION CONTAINED ALMOST NONE OF THE REQUESTED
+       ANSWERS OR DOCUMENTS, INCLUDING KEY DOCUMENTS FOR THIS
+       CASE
+
+       Plaintiff stated over and over during Court that she had made a good-faith production of
+
+thousands of pages of documents and therefore could be excused for not having timely produced
+
+all of the requested documents, nor would Ms. Maxwell suffer prejudice in going forward with
+
+her deposition in the absence of a timely production.
+
+       After having had a chance to review the 3,190 page document production, however, it is
+
+clear that it contains almost none of the requested documents, but rather is filled with multiple
+
+copies of a few lengthy deposition transcripts, pleadings in this case, and other similarly non-
+
+responsive documents. Plaintiff has simply inflated her document production to make it look
+
+like she did a thorough job of reviewing and producing documents, when the opposite is true. To
+
+wit:
+
+              Juan Alessi deposition (139 pages), produced twice.
+
+              Alfredo Rodriguez deposition (68 pages), produced thrice
+
+              Palm Beach police reports (redacted), (89 pages), produced twice
+
+                                                12
+              Sarah Kellen deposition (116 pages), produced once
+
+              Nadia Marcincova deposition (50 pages), produced once
+
+              Message book (185 pages)
+
+              Flight logs (138 pages), produced twice
+
+              Photos (21 pages), produced four times.
+
+Thus, the same eight documents account for more than half of the total production.
+
+       More telling are the documents that Plaintiff failed to produce, including documents that
+
+are key to this case. Plaintiff contends that Ms. Maxwell began her “campaign to discredit” her
+
+following her December 30, 2014 pleading in the U.S. District Court in which she attempted to
+
+join the Crime Victims’ Rights Act lawsuit there. Indeed, that is the pleading in which some of
+
+Plaintiff’s most outlandish claims were first set forth, and that pleading preceded by three days
+
+Ms. Maxwell’s denial of Plaintiff’s allegations. Yet Plaintiff has not even produced an
+
+unredacted copy of the pleading setting forth her allegations about Ms. Maxwell. Instead, she
+
+produced a redacted copy in which the allegations about Ms. Maxwell and the legions of famous
+
+people to whom she claims Ms. Maxwell trafficked her are blacked out. They were blacked out
+
+in response to Judge Marra’s Order which struck those allegations as “impertinent” but does
+
+Plaintiff and her counsel not even possess an unredacted version? Plaintiff wants to take the
+
+deposition of Ms. Maxwell concerning her denial of a statement that Plaintiff won’t even provide
+
+in advance.
+
+       Other documents that Plaintiff has failed to timely produce include:
+
+              Her own deposition testimony in the defamation suit between her counsel and
+               Alan Dershowitz, in which she no doubt discussed Ms. Maxwell
+
+              Her fee agreements with her counsel
+
+              Her communications with Mr. Epstein and with Ms. Maxwell
+
+
+                                                13
+              Her employment records with Mar-A-Lago (which is where she claimed she met
+               Ms. Maxwell when she was 14, or 15 or 16, depending on her various versions of
+               events).
+
+              Her education records (reflecting not only whether she was in school when she
+               was a 14-16 year old) but also reflective of her potential future earnings.
+
+              Her travel records (which might help refute her claims that she was sexually
+               trafficking incidents abroad).
+
+              Her confidential settlement agreement with Mr. Epstein.
+
+       Plaintiff now agrees that she will look for some of these documents and produce them at
+
+some time in the future, presumably after her deposition of Ms. Maxwell.
+
+III.   PLAINTIFF FAILED TO TIMELY AND PROPERLY MAKE DISCLOSURES
+       PURSUANT TO FED. R. CIV. P. 26
+
+       As detailed in the simultaneously filed pleading, Plaintiff has failed to properly make
+
+disclosures pursuant to Rule 26(a)(1). While these disclosures may not directly impact the
+
+subject matter of Defendant’s depositions, they demonstrate the bad-faith of Plaintiff in fulfilling
+
+her discovery obligations and also, ultimately, may likely impact the discovery deadlines that
+
+have been set in this case.
+
+       Plaintiff’s argument to go forward on March 25, 2016, rather than some date in mid-April
+
+after her own disclosures and discovery responses are complete, is due to the “looming” fact
+
+discovery cut-off of July 1. Yet she has been denying Ms. Maxwell all the clearly disclosable
+
+items that Ms. Maxwell is entitled to in order to defend her case – the computation of damages
+
+and any supporting documentation, the names of medical professionals who can supposedly
+
+verify her past and future medical treatment needs, her prior wages (if any), her bases for
+
+claiming $30 million in non-economic damages. Plaintiff has admitted that some of the treating
+
+professionals she will be relying on live in Australia but said she couldn’t understand why we
+
+
+
+
+                                                14
+thought we would need to take their depositions or that it might be difficult to get those
+
+depositions scheduled in the remaining 99 days of discovery.
+
+       To the extent Plaintiff complains of difficulties in completing discovery as the basis for
+
+need to take Ms. Maxwell’s deposition on March 25 versus mid-April, the discovery deadlines
+
+are equally problematic for Defendant to complete discovery based on Plaintiff’s lack of
+
+diligence and forthrightness in providing proper Rule 26 disclosures.
+
+IV.    OTHER DISCOVERY ISSUES NOT YET RESOLVED INCLUDING PRIVILEGE
+       BEFORE THIS DEPOSITION
+
+       Based on this Court’s Order, Ms. Maxwell will be providing supplemental materials in
+
+support of her claims of privilege within the two week deadline established by this Court.
+
+Presumably there will be a ruling sometime shortly thereafter, and, should any additional
+
+documents be disclosed to Plaintiff, she will not have had access to those records on March 25.
+
+       Similarly, Ms. Maxwell fully intends to submit a complete Motion to Compel regarding
+
+Plaintiff’s deficient discovery responses should Plaintiff fail to withdraw improper objections
+
+and privileges, comply with the requirement that she state whether she is withholding
+
+documents, the deficiencies in Plaintiff’s privilege log, and her incomplete and non-responsive
+
+Interrogatory responses.
+
+V.     PLAINTIFF’S DISCOVERY TACTICS DESIGNED TO AMBUSH DEFENDANT
+       AT HER DEPOSITION
+
+       Plaintiff has been litigating the matters in this case since 2009, with cadres of expensive
+
+lawyers, and big law firms, behind her. Her lawyers have been working together to coordinate
+
+her media strategy, to make book deals, to give on-air interviews about Plaintiff’s allegations,
+
+securing hundreds of thousands of dollars in media-money. Ms. Maxwell has not. She has not
+
+previously been a party to any criminal or civil litigation. Despite the years of litigation, here on
+
+the eve of her deposition, Plaintiff and her counsel are still sitting on thousands of pages of
+
+                                                 15
+documents representing Plaintiff’s version of events, statements taken by witnesses,
+
+communications to the press, which published false and defamatory statements about Ms.
+
+Maxwell, and they have interposed baseless, frivolous and frankly sanctionable privileges,
+
+discovery responses and have refused to even answer the most simple of interrogatories. Those
+
+discovery requests were due on March 16, and Plaintiff knew when she proposed the deposition
+
+date of March 25 that her discovery was due prior to that time. Three days before the deposition,
+
+she still has not rendered answers or provided documents that go to the heart of this case – what
+
+were her statements to the Florida court and to the press to which Ms. Maxwell was responding?
+
+What statements were false? To whom did Ms. Maxwell supposedly sexually traffic her?
+
+       Plaintiff’s gamesmanship is clear: she wants to get Ms. Maxwell on a videotaped
+
+deposition camera, show her documents that she has not had a chance to review either because
+
+they were not produced or because they were produced so late in the day buried amidst
+
+thousands of pages of meaningless discovery that her attorneys have not had the opportunity to
+
+review and to refresh her recollection. Or Plaintiffs want to ask Ms. Maxwell questions about
+
+events that occurred 17 years ago, while in possession of documents that would refresh her
+
+recollection but not show those to her, so that they can later spring them on her at trial and ask
+
+about her new refreshed memories.
+
+       This is a discovery ambush and the Court should not permit it, certainly not when the
+
+discovery requests came first, and were propounded before the deposition date was set.
+
+
+VI.    PLAINTIFF WILL SUFFER NO HARM BY POSTPONING DEPOSITION FOR
+       2-3 WEEKS
+
+       Notably absent from any of Plaintiff’s pleadings or argument is the harm she would
+
+suffer by having to wait 2-3 weeks for a deposition delay caused by her own lack of diligence in
+
+
+                                                 16
+producing interrogatory responses and documents. There is none. No other witnesses
+
+depositions have now been scheduled, no other discovery requests are outstanding, no expert
+
+disclosures have been made.
+
+
+                                         CONCLUSION
+       Plaintiff’s discovery responses are riddled with improper objections, non-existent
+
+privileges, failures to respond, failures to follow the basic requirements of the Rules, and her
+
+initial disclosures are the same. In a case where Plaintiff has made the most serious of
+
+allegations against Ms. Maxwell, that she is a sexual abuser and trafficker, she should be held to
+
+the requirements of the Rules of Civil Procedure. Allowing her to game the system, to sit on
+
+responsive documents, to evade providing the very allegations that she has decried Ms. Maxwell
+
+from denying, is to permit her the opportunity to try to game the system and ambush Ms.
+
+Maxwell at her videotaped deposition. Particularly in the absence of any articulated harm to
+
+postponing the deposition until she serves responsive answers, provides responsive documents
+
+and withdraws frivolous objections, a delay of defendant’s deposition for a period of 2-3 weeks
+
+will serve the interests of justice and fairness as well as the spirit of the Rules of Civil Procedure.
+
+
+
+
+                                                  17
+Dated: March 22, 2016
+
+
+
+                         Respectfully submitted,
+
+
+
+                         /s/ Laura A. Menninger
+                         Laura A. Menninger (LM-1374)
+                         HADDON, MORGAN AND FOREMAN, P.C.
+                         150 East 10th Avenue
+                         Denver, CO 80203
+                         Phone: 303.831.7364
+                         Fax:     303.832.2628
+                         lmenninger@hmflaw.com
+
+                         Attorney for Ghislaine Maxwell
+
+
+
+
+                        18
+                               CERTIFICATE OF SERVICE
+
+I certify that on March 22, 2016, I electronically served this MOTION FOR PROTECTIVE
+ORDER REGARDING DEFENDANT’S DEPOSITION with the clerk of the court using the
+CM/ECF system which will send notification to all counsel of record including the following:
+
+Sigrid S. McCawley
+BOIES, SCHILLER & FLEXNER, LLP
+401 East Las Olas Boulevard, Ste. 1200
+Ft. Lauderdale, FL 33301
+smccawley@bsfllp.com
+
+                                                /s/ Nicole Simmons
+
+
+
+
+                                              19
+

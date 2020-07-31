@@ -1,0 +1,904 @@
+                             United States District Court
+                            Southern District of New York
+
+
+Virginia L. Giuffre,
+
+               Plaintiff,              Case No.: 15-cv-07433-RWS
+
+v.
+
+Ghislaine Maxwell,
+
+            Defendant.
+________________________________/
+
+PLAIINTIFF, VIRGINIA GIUFFRE’S MOTION TO COMPEL THE PRODUCTION OF
+        DOCUMENTS SUBJECT TO IMPROPER CLAIM OF PRIVILEGE
+
+
+
+
+                                       BOIES, SCHILLER & FLEXNER LLP
+
+                                        Sigrid McCawley (Admitted Pro Hac Vice)
+                                        Boies, Schiller & Flexner LLP
+                                        401 E. Las Olas Blvd., Suite 1200
+                                        Ft. Lauderdale, FL 33301
+                                        (954) 356-0011
+
+                                        David Boies
+                                        Boies, Schiller & Flexner LLP
+                                        333 Main Street
+                                        Armonk, NY 10504
+
+                                        Ellen Brockman
+                                        Boies, Schiller & Flexner LLP
+                                        575 Lexington Ave
+                                        New York, New York 10022
+                                        (212) 446-2300
+                                                  TABLE OF CONTENTS
+
+                                                                                                                                     Page
+
+TABLE OF AUTHORITIES.......................................................................................................... ii
+
+I.     PRELIMINARY STATEMENT ............................................................................................1
+
+II.    LEGAL ARGUMENT ...........................................................................................................2
+
+       1.      Legal Standard...............................................................................................................2
+
+               a.      New York Privilege Law Controls. ......................................................................2
+
+               b.      The Common Interest Privilege Does Not Apply. ...............................................3
+
+       2.      No Privilege Attaches To Communications Between Maxwell And
+               Non-Attorneys. ..............................................................................................................6
+
+               a.      Communications With Non-Attorney Jeffrey Epstein And
+                       Non-Attorney Ross Gow. .....................................................................................6
+
+               b.      Communications Among Maxwell, Non-Attorney Ross Gow,
+                       And Attorneys. .....................................................................................................7
+
+               c.      Communications Among Maxwell, Non-Attorney Mark Cohen,
+                       And Attorney ........................................................................................................9
+
+               d.      Communications Involving Maxwell And Brett Jaffe Or
+                       Philip Barden ......................................................................................................10
+
+       3.      Maxwell’s Privilege Log Descriptions Are Inadequate. .............................................12
+
+CONCLUSION .............................................................................................................................14
+
+
+
+
+                                                                     i
+                                              TABLE OF AUTHORITIES
+
+                                                                                                                                 Page
+Cases
+
+Allied Irish Banks v. Bank of Am., N.A.,
+  240 F.R.D. 96 (S.D.N.Y. 2007)...............................................................................................2, 3
+
+Aurora Loan Servs., Inc. v. Posner, Posner & Assocs., P.C.,
+  499 F. Supp. 2d 475 (S.D.N.Y. 2007) .......................................................................................12
+
+Browne of N.Y.C., Inc. v. AmBase Corp.,
+  150 F.R.D. 465 (S.D.N.Y. 1993).................................................................................................3
+
+Century Indem. Co. v. Brooklyn Union Gas Co.,
+  22 Misc. 3d 1109(A), 880 N.Y.S. 2d 222 (Sup. Ct. 2008) ........................................................11
+
+Chevron Corp. v. Donziger
+  296 F.R.D. 168 (S.D.N.Y. 2013).......................................................................................4, 6, 13
+
+Delta Fin. Corp. v. Morrison,
+  13 Misc. 3d 442, 820 N.Y.S. 2d 745 (Sup. Ct. 2006)..................................................................3
+
+Dixon v. 80 Pine St. Corp.,
+  516 F. 2d 1278 (2d Cir. 1975) .....................................................................................................2
+
+Egiazaryan v. Zalmayev,
+  290 F.R.D. 421 (S.D.N.Y. 2013)........................................................................................passim
+
+Fine v. Facet Aerospace Prod. Co.,
+  133 F.R.D. 439 (S.D.N.Y. 1990) ..............................................................................................11
+
+Finkelman v. Klaus,
+  2007 WL 4303538 (N.Y.Sup. Ct. Nov. 28, 2007)...................................................................6, 7
+
+Grinnell Corp. v. ITT Corp.
+  222 F.R.D. 74 (S.D.N.Y. 2003).................................................................................................13
+
+In re Grand Jury Subpoena Duces Tecum Served Upon Shargel,
+   742 F.2d 61 (2d Cir. 1984) ........................................................................................................10
+
+In re Nassau Cnty. Grand Jury Subpoena Duces Tecum Dated June 24, 2003,
+   4 N.Y. 3d 665, 797 N.Y.S. 2d 790, 830 N.E. 2d 1118 ................................................................2
+
+In re Rivastigmine II Patent Litig.,
+   237 F.R.D. 69 (S.D.N.Y. 2006)...................................................................................................7
+
+
+
+
+                                                                   ii
+Klein, Varble & Associates, P.C. v. DeCrescenzo,
+  39 Misc. 3d 1240(A), 975 N.Y.S. 2d 366 (Sup. Ct. 2013)......................................................7, 9
+
+Nance v. Thompson Med. Co.,
+  173 F.R.D. 178 (E.D. Tex. 1997) ................................................................................................8
+
+NXIVM Corp. v. O'Hara,
+  241 F.R.D. 109 (N.D.N.Y. 2007) ................................................................................................8
+
+Pem-Am, Inc. v. Sunham Home Fashions, LLC,
+  No. 03 CIV. 1377JFKRLE, 2007 WL 3226156 (S.D.N.Y. Oct. 31, 2007).................................4
+
+People v. Mitchell,
+  58 N.Y.2d 368, 461 N.Y.S. 2d 267, 448 N.E.2d 121 (1983) ......................................................3
+
+Safeco Ins. Co. of America v. M.E.S., Inc.,
+  No. 09-CV-3312, 2013 WL 1680684 (E.D.N.Y. Apr. 17, 2013)..............................................13
+
+Sarfati v. Bertino,
+  24 Misc. 3d 133(A), 890 N.Y.S.2d 371 (App. Term 2009) ......................................................10
+
+S.E.C. v. Yorkville Advisors, LLC,
+  300 F.R.D. 152 (S.D.N.Y. 2014).....................................................................................1, 12, 13
+
+Stenovich v. Wachtell, Lipton, Rosen & Katz
+  195 Misc. 2d 99, 756 N.Y.S. 2d 376 (Sup. Ct. 2003)................................................................11
+
+United States v. Ackert,
+  169 F.3d 136 (2d Cir. 1999) ........................................................................................................9
+
+United States v. Bilzerian,
+  926 F.2d 1285 (2d Cir. 1991) ....................................................................................................11
+
+Von Bulow by Auersperg v. Von Bulow,
+  811 F. 2d 136 (2d Cir. 1987), 481 U.S. 1015, 107 S.Ct. 1891, 95 L.Ed. 2d 498 (1987) ............3
+
+Statutes
+
+Fed. R. Civ. P. 26 ..........................................................................................................................15
+
+
+
+
+                                                                      iii
+          Plaintiff Virginia L. Giuffre, by and through undersigned counsel, respectfully submits
+
+this Motion to Compel Production of Documents Subject to Improper Claim of Attorney-Client
+
+Privilege and Common Interest Privilege. For the reasons set forth below, this Court should grant
+
+Plaintiff’s Motion in its entirety.
+
+I.        PRELIMINARY STATEMENT
+
+          Defendant Maxwell asserts improper claims of attorney-client privilege and common
+
+interest in her privilege log in a wrongful attempt to withhold responsive documents from
+
+discovery. See Declaration of Sigrid McCawley (“McCawley Decl.”) at Exhibit 1, Maxwell’s
+
+Privilege Log1. The documents at issue include communications solely between Maxwell and
+
+other non-attorneys, and communications between Maxwell and an attorney in which third
+
+parties are present, waiving the privilege. New York privilege law does not recognize such
+
+communications as being privileged in any way. To the contrary, New York state and federal
+
+courts require that such communications be produced.
+
+          In addition, Maxwell has failed to furnish an adequate privilege log, making it impossible
+
+for Plaintiff to assess the propriety of the privilege claims, and that is grounds for rejecting a
+
+claim of privilege, as discussed below. S.E.C. v. Yorkville Advisors, LLC, 300 F.R.D. 152, 164
+
+(S.D.N.Y. 2014).
+
+          Finally, Ms. Maxwell’s privilege log states that she is withholding documents “pursuant
+
+to British law” and Colorado law. However, British law and Colorado law do not apply to this
+
+case, as Maxwell has already conceded. New York law applies to this case. See Defendant
+
+Ghislaine Maxwell’s Memorandum of Law In Support of Motion to Dismiss [D.E. 15]
+
+(“Maxwell MTD”) at 7. (“Here, because Ms. Maxwell is a resident of New York, and one of the
+
+purported statements was made in New York, this state has arguably a more substantial
+
+1
+    The number of each log entry has been added for ease of reference in this Motion.
+
+
+                                                      1
+relationship to the alleged tort . . . For these reasons, Ms. Maxwell asks the Court to apply New
+
+York law . . .”). Accordingly, the privileges she claims must be under New York law, and all
+
+other claims of purported privilege are invalid.
+
+II.    LEGAL ARGUMENT
+
+       1.      Legal Standard
+
+               a.      New York Privilege Law Controls
+
+       New York law governs the analysis of attorney-client privilege claims in this diversity
+
+action arising out of New York law.2 See Allied Irish Banks v. Bank of Am., N.A., 240 F.R.D. 96,
+
+102 (S.D.N.Y. 2007) (“Because this Court's subject matter jurisdiction is based upon diversity . .
+
+. state law provides the rule of decision concerning the claim of attorney-client privilege”),
+
+citing Fed.R.Evid. 501; Dixon v. 80 Pine St. Corp., 516 F.2d 1278, 1280 (2d Cir.1975). The
+
+privilege laws of any other jurisdiction, including Colorado and the United Kingdom, do not
+
+apply to Ms. Maxwell’s documents.
+
+       New York's statutory codification of the attorney-client privilege provides as follows: “an
+
+attorney or his or her employee, or any person who obtains without the knowledge of the client
+
+evidence of a confidential communication made between the attorney or his or her employee and
+
+the client in the course of professional employment, shall not disclose, or be allowed to disclose
+
+such communication, nor shall the client be compelled to disclose such communication ....” N.Y.
+
+C.P.L.R. § 4503(a)(1).
+
+       “The attorney-client privilege protects confidential communications between a lawyer
+
+and client relating to legal advice sought by the client.” In re Nassau Cnty. Grand Jury Subpoena
+
+Duces Tecum Dated June 24, 2003, 4 N.Y.3d 665, 678, 797 N.Y.S.2d 790, 830 N.E.2d 1118
+
+
+2
+ In the Motion to Dismiss, Maxwell does not dispute that NY law applies. See D.E. 15, Maxwell MTD
+at 7.
+
+
+                                                   2
+(2005) (citing Priest v. Hennessy, 51 N.Y.2d 62, 68–69, 431 N.Y.S.2d 511, 409 N.E.2d 983
+
+(1980)) (additional citation omitted). For the privilege to apply, the communication itself must
+
+be “primarily or predominantly of a legal character.” Delta Fin. Corp. v. Morrison, 13 Misc. 3d
+
+441, 444, 820 N.Y.S.2d 745, 748 (Sup. Ct. 2006) “The critical inquiry is whether, viewing the
+
+lawyer's communication in its full content and context, it was made in order to render legal
+
+advice or services to the client.” Allied Irish Banks, 240 F.R.D. at 103 (2007) (finding that party
+
+had not met its burden showing the applicability of the attorney-client privilege nor met its
+
+burden showing that any privilege has not been waived).
+
+       The party asserting privilege carries the burden to prove every element of the privilege.
+
+People v. Mitchell, 58 N.Y.2d 368, 373, 461 N.Y.S.2d 267, 448 N.E.2d 121 (1983). The party
+
+asserting privilege also has the burden to establish that there has been no waiver. Egiazaryan v.
+
+Zalmayev, 290 F.R.D. 421, 428 (S.D.N.Y. 2013). Such showings must be based on competent
+
+evidence, usually through affidavits, deposition testimony, or other admissible evidence. See Von
+
+Bulow by Auersperg v. Von Bulow, 811 F.2d 136, 147 (2d Cir.), cert. denied, 481 U.S. 1015, 107
+
+S.Ct. 1891, 95 L.Ed.2d 498 (1987); Bowne of N.Y.C., Inc. v. AmBase Corp., 150 F.R.D. 465, 472
+
+(S.D.N.Y.1993). Egiazaryan v. Zalmayev, 290 F.R.D. 421, 428 (S.D.N.Y. 2013)
+
+               b.      The Common Interest Privilege Dose Not Apply
+
+       Maxwell asserts a “common interest” privilege in entries 6, 7, 11, 14, 15, 19, and 20, but
+
+on their face, as Maxwell herself describes them, these entries do not qualify for this privilege
+
+because no attorney is involved in the communications. The common interest privilege also fails
+
+for entry 16 because Ms. Maxwell fails to satisfy her burden in making such a claim.
+
+       “New York courts applying the common interest rule to civil proceedings have often
+
+looked to federal case law for guidance.” Egiazaryan, 290 F.R.D. at 433. “The common interest
+
+
+
+
+                                                 3
+rule is an extension of the attorney-client privilege and not an independent basis for privilege.”
+
+Pem-Am., Inc. v. Sunham Home Fashions, LLC, No. 03 CIV. 1377JFKRLE, 2007 WL 3226156,
+
+at *2 (S.D.N.Y. Oct. 31, 2007). “In order for a communication to be privileged within the
+
+common interest rule, it . . . must still meet the requirements of a privileged attorney-client
+
+communication.” Id. (Emphasis added).
+
+       “[T]he so-called joint defense privilege or common interest rule . . . serves to protect the
+
+confidentiality of communications passing from one party to the attorney for another party
+
+where a joint defense effort or strategy has been decided upon and undertaken by the parties and
+
+their respective counsel.” Chevron Corp. v. Donziger, 296 F.R.D. 168, 203 (S.D.N.Y. 2013)
+
+(internal quotation marks omitted) (emphasis added). “A party asserting it first must establish
+
+that the documents purportedly subject to the rule are in fact attorney-client communications
+
+subject to the attorney-client privilege.” Id. Further:
+
+       [a]s in all claims of privilege arising out of the attorney-client relationship, a claim
+       resting on the common interest rule requires a showing that the communication in
+       question was given in confidence and that the client reasonably understood it to be so
+       given. And once the party claiming common interest privilege has established that the
+       documents in question are subject to the attorney-client privilege, it must further show
+       that (1) it shares a common legal interest with the party with whom the documents or
+       information were shared, and (2) the statements for which protection is sought were
+       designed to further that interest.
+
+
+Id. (internal quotes omitted, emphasis added). The “joint defense” or “common interest”
+
+privilege does not protect any of the documents for which Ms. Maxwell invokes the privilege.
+
+       The “common interest” or “joint defense” privilege can only be invoked when at least
+
+one attorney for one of the parties is present for the communication. Egiazaryan v. Zalmayev,
+
+290 F.R.D. 421, 434 (S.D.N.Y. 2013) (“communications are protected where there is a
+
+disclosure by A to the attorney representing B and vice-versa”). Therefore, Maxwell’s
+
+
+
+
+                                                   4
+communications with other parties, outside the presence of counsel for either party, does not
+
+come under the common interest or joint defense privilege under New York law, and Maxwell
+
+must produce these communications.
+
+       Despite there being no attorney involved in the communications, Maxwell asserts the
+
+common interest privilege in all her communications with convicted pedophile Jeffrey Epstein.
+
+See entries 6, 7, 11, 14, 15, 19, and 20, Maxwell Privilege Log. In addition to the reasons above,
+
+this assertion also fails because “[t]he common interest rule does not apply merely because two
+
+parties share the same attorney or because one party has an interest in a litigation involving
+
+another party. Rather, ‘[t]here must be a substantial showing by parties attempting to invoke the
+
+protections of the privilege of the need for a common defense as opposed to the mere existence
+
+of a common problem.’ Finkelman v. Klaus, 2007 WL 4303538, at *4 (N.Y.Sup.Ct. Nov. 28,
+
+2007).” Egiazaryan v. Zalmayev, 290 F.R.D. at 434. To be sure, Ms. Maxwell and Jeffrey
+
+Epstein share a common problem: they both trafficked an underage girl for prostitution.
+
+However, Ms. Maxwell has offered no proof of a common interest under the applicable law
+
+between herself and Epstein that would satisfy this doctrine, a doctrine which cannot be invoked
+
+anyway, due to the absence of the attorney-client privilege for these non-attorney
+
+communications.
+
+       The remaining document that purports to be covered by the “common interest” privilege,
+
+entry 16, is an email communication between Philip Barden, Esq. and Martin Weinberg, Esq.
+
+This assertion of privilege also fails. Ms. Maxwell has made no showing whatsoever that any
+
+“common interest” exists between Barden and Weinberg; she doesn’t even identify who they are
+
+or what clients they represent. Therefore, this communication does not fall within that privilege.
+
+
+
+
+                                                 5
+          Furthermore, the burden of establishing that a “common interest” privilege applies
+
+always rests upon the person asserting it. Chevron Corp. v. Donziger, 296 F.R.D. 168, 203
+
+(S.D.N.Y. 2013). This showing must be made on a document-by-document basis, and based on
+
+competent evidence, usually through the admission of affidavits, deposition testimony or other
+
+admissible evidence. Id. Ms. Maxwell has put forth no evidence or argument that there exists a
+
+joint defense agreement between the parties represented by Mr. Barden and Mr. Weinberg;
+
+therefore, Maxwell has not met her burden in establishing that a “joint defense” agreement even
+
+exists.
+
+          For the foregoing reasons, Ms. Maxwell should produce entries 6, 7, 11, 14, 15, 16, 19,
+
+and 20 because she cannot, as a matter of law, show that the common interest privilege exist as
+
+to entries 6, 7, 11, 14, 15, 19, and 20, and she has failed to satisfy her burden to make any
+
+showing that there exists a common interest agreement that would protect entry number 16.
+
+          2.     No Privilege Attaches to Communications Between Maxwell and Non-
+                 Attorneys
+
+                 a.     Communications with Non-Attorney Jeffrey Epstein and Non-Attorney
+                        Ross Gow3
+
+          Maxwell wrongly asserts a “common interest” privilege for communications with
+
+convicted pedophile Jeffrey Epstein in entries 6, 7, 11, 14, 15, 19, 20, and with Ross Gow in
+
+entries 3, 4, and 5. As discussed above, no privilege can attach because no legal advice was
+
+sought or rendered among these three non-attorneys. Moreover, neither billionaire Epstein nor
+
+Ms. Maxwell is a legal professional, paralegal, or part of a related trade, nor are they directly
+
+supervised by an attorney. Therefore, the communications made among each other are not
+
+covered by any privilege that attaches to the communications to those acting “under the authority
+
+3
+ Ms. Maxwell’s communications with Gow are key documents in this case, as the sole claim concerns
+Ms. Maxwell defaming Ms. Giuffre in the press, yet Maxwell has arbitrarily refused to produce this
+highly relevant discovery.
+
+
+                                                  6
+or control of an attorney.” See, e.g., In re Rivastigmine II, 237 F.R.D. 69, 82 (S.D.N.Y. 2006).
+
+Even if legal advice was being discussed back and forth among those non-attorneys, such
+
+communications still would not fall under the ambit of attorney-client privilege (or, derivatively,
+
+common interest privilege) under New York law. See Finkelman v. Klaus, 17 Misc. 3d 1138(A),
+
+856 N.Y.S.2d 23 (Sup. Ct. 2007) (“[The attorney-client privilege] does not, however, cover
+
+communications between a non-lawyer and a client that involve the conveyance of legal advice
+
+offered by the non-attorney, except perhaps when the non-lawyer is acting under the supervision
+
+or the direction of an attorney.”). Accordingly, there is no mechanism that would attach any
+
+privilege to the communications between Ms. Maxwell and Jeffrey Epstein and between Ms.
+
+Maxwell and Ross Gow.
+
+                b.        Communications among Maxwell, Non-Attorney Ross Gow, and
+                          Attorneys
+
+        Ms. Maxwell wrongly asserts attorney-client privilege for communications among her
+
+press agent and attorneys in entries 8, 10, 12, 13, and 18. This also fails. Under New York law,
+
+coordination of a media campaign among counsel and a public relations firm is not “legal
+
+advice” subject to attorney-client privilege. See Egiazaryan v. Zalmayev, 290 F.R.D. 421, 431
+
+(S.D.N.Y. 2013) (finding waiver of attorney-client privilege when the public relations firm
+
+participated in attorney-client communications: “[the party] has not shown that [the public
+
+relation’s firm’s] involvement was necessary to facilitate communications between himself and
+
+his counsel, as in the case of a translator or an accountant clarifying communications between an
+
+attorney and client”).4
+
+
+
+
+4
+ “It is settled that communications made between a client and lawyer in the presence of a third party are
+not privileged.” Klein, Varble & Associates, P.C. v. DeCrescenzo, 39 Misc. 3d 1240(A), 975 N.Y.S.2d
+366 (Sup. Ct. 2013) aff'd as modified, 119 A.D.3d 655, 988 N.Y.S.2d 897 (2014).
+
+
+                                                    7
+          The Egiazaryan court explained: “[the public relations firm] was not competent to act as
+
+[the party’s] attorney and the mere fact that it was inserted into the legal decisionmaking process
+
+does nothing to explain why [the public relation’s firm’s] involvement was necessary to [the
+
+party’s] obtaining legal advice from his actual attorneys. Instead, it simply demonstrates the
+
+circumstances under which the waiver occurred.” Id. See also NXIVM Corp. v. O'Hara, 241
+
+F.R.D. 109, 141 (N.D.N.Y. 2007) (agency exception to the attorney-client privilege is
+
+inapplicable under New York law to communications with a public relations firm “providing
+
+ordinary public relations advice and assist[ing] counsel in assessing the probable public reaction
+
+to various strategic alternatives”) (citation and internal quotation marks omitted); Nance v.
+
+Thompson Med. Co., 173 F.R.D. 178, 182–83 (E.D.Tex. 1997) (waiver of attorney-client
+
+privilege occurred under New York law when otherwise privileged documents were shared with
+
+a public relations firm).
+
+          Ross Gow is a public relations professional. He is a managing partner at ACUITY
+
+Reputation in London, a public relations firm.5 ACUITY Reputation does not provide legal
+
+advice, but instead helps clients “manage reputation and forge opinion through Public Relations,
+
+strategic communications and high-level networking.”6 Ms. Maxwell has made no representation
+
+or showing that Gow was “called upon to perform a specific litigation task that the attorneys
+
+needed to accomplish in order to advance their litigation goals - let alone a task that could be
+
+characterized as relating to the “‘administration of justice.’” Egiazaryan, 290 F.R.D. at 432.
+
+Rather, Ross Gow “was involved in . . . public relations activities aimed at burnishing” Ms.
+
+Maxwell’s image. Id.
+
+
+5
+ Upon information and belief, Ross Gow’s LinkedIn profile, detailing his profession, See McCawley
+Decl. at Exhibit 2.
+6
+    ACUITY Reputation website at: http://acuityreputation.com/
+
+
+                                                    8
+        Therefore, any attorney-client privilege that may, have attached to her communications
+
+with attorneys Jaffe and Barden7, was waived through their disclosure to the third-party public
+
+relations professional because there has been no showing that Gow’s involvement was necessary
+
+to facilitate communications between Ms. Maxwell and attorneys Jaffe and Barden. See
+
+Egiazaryan, 290 F.R.D. at 433. In fact, such a showing would be impossible for Ms. Maxwell to
+
+make under existing case law. There are no foreign language barriers or complex technical
+
+jargon barriers between Maxwell and her counsel that would require a public relations
+
+professional to act as an intermediary to translate the communications between attorney and
+
+client.8 Gow is merely a public relations professional, working at a public relations firm, who
+
+issued a statement to the press on behalf of Ms. Maxwell. Accordingly, Maxwell’s claims of
+
+attorney-client privilege for entries 8, 10, 12, 13, and 18 fail.
+
+                c.      The Communication among Maxwell, Not-Attorney Mark Cohen, and
+                        Attorney
+
+        As stated above, “[i]t is settled that communications made between a client and lawyer in
+
+the presence of a third party are not privileged.” Klein, Varble & Associates, P.C. v.
+
+DeCrescenzo, 39 Misc. 3d 1240(A), 975 N.Y.S.2d 366 (Sup. Ct. 2013) aff'd as modified, 119
+
+A.D.3d 655, 988 N.Y.S.2d 897 (2014). The communication between Ms. Maxwell and Philip
+
+Barden, Esq. was in the presence of third party, non-attorney Mark Cohen. Therefore, Ms.
+
+Maxwell’s claim of attorney-client privilege fails, and she must produce entry 17.
+
+
+
+
+7
+ Ms. Maxwell has not met her burden to demonstrate that any attorney-client privilege attaches to her
+communications with Jaffe and Barden. Indeed, she has not even alleged that they represent her.
+8
+  “[A] communication between an attorney and a third party does not become shielded by the attorney-
+client privilege solely because the communication proves important to the attorney's ability to represent
+the client.” United States v. Ackert, 169 F.3d 136, 140 (2d Cir.1999).
+
+
+                                                     9
+               d.      Communications Involving Maxwell and Brett Jaffe or Philip Barden
+
+       Maxwell has not carried out her burden of establishing that the attorney-client privilege
+
+attaches to the communications with Brett Jaffe, Esq. or Philip Barden, Esq. First, she has not
+
+even claimed that she has an attorney-client relationship with either Jaffe or Barden. Second, she
+
+has not claimed that the communications were seeking legal advice or receiving legal advice, as
+
+her “descriptions” are wholly inadequate, as discussed below. Every one of them simply states:
+
+“Communication re: legal advice.” This is the same, rote description she gives even to her
+
+emails with non-lawyers.
+
+       As this Court is aware, not all communications with an attorney are privileged. The
+
+attorney-client privilege only encompasses confidential communications necessary to obtain
+
+informed legal advice and advocacy. See In re Grand Jury Subpoena Duces Tecum Served Upon
+
+Shargel, 742 F.2d 61, 62 (2d Cir.1984). Indeed, “[a] communication which has no direct
+
+relevance to the legal advice to be given, unlike a communication which relates to the subject
+
+matter of the attorney's professional employment, is a collateral matter, which is not privileged.”
+
+Sarfati v. Bertino, 24 Misc. 3d 133(A), 890 N.Y.S.2d 371 (App. Term 2009).
+
+       The attorney-client privilege is also narrowly interpreted: “[s]ince the privilege prevents
+
+disclosure of relevant evidence and thus impedes the quest for truth, ... it must ‘be strictly
+
+confined within the narrowest possible limits consistent with the logic of its principle.” ’ See In
+
+re Shargel, 742 F.2d at 62 . (quoting 8 J. WIGMORE, EVIDENCE § 2291 (McNaughton rev.
+
+ed.1961)).
+
+       That Gow, a public relations professional, was involved in so many of the
+
+communications with Jaffe and Barden, creates a presumption that these communications
+
+focused on public relations matters, and were not centered on giving legal advice. The attorney-
+
+
+
+
+                                                 10
+client privilege “does not extend to business advice, even if provided by an attorney.” Stenovich
+
+v. Wachtell, Lipton, Rosen & Katz, 195 Misc. 2d 99, 106-07, 756 N.Y.S.2d 367, 376 (Sup. Ct.
+
+2003), citing Fine v. Facet Aerospace Prod. Co., 133 F.R.D. 439, 444 (S.D.N.Y.1990). By the
+
+same principle, public relations advice, even if given by an attorney, is not privileged. For the
+
+foregoing reasons, Maxwell has not met her burden to show that these communications are
+
+privileged.
+
+       Finally, this Court should note that in Defendant’s Initial Disclosures, she stated that
+
+“Email correspondence between Philip Barden and Ghislaine Maxwell concerning the issuance
+
+of statements to the press (March 2011 – January 2015)” are among the documents that “may be
+
+used to support Defendant’s claim or defenses.” Despite this statement in her Rule 26
+
+disclosures, Maxwell still wrongfully asserts attorney-client privilege for these documents.
+
+       This is more evidence that this defendant is attempting to impermissibly use the attorney-
+
+client privilege as a sword and a shield, as her disclosures reveal she intends to selectively use
+
+these purportedly privileged documents to make her defense. New York law does not permit
+
+self-serving, selective disclosure of privileged materials. “[P]rivilege is a shield and must not be
+
+used as a sword. Where a party places the subject matter of a normally privileged communication
+
+or document at issue, or, where invasion of the privilege is required to determine the validity of
+
+the claim or defense and the application of the privilege would deprive the adversary of vital
+
+information, fairness requires the finding of waiver.” Century Indem. Co. v. Brooklyn Union Gas
+
+Co., 22 Misc. 3d 1109(A), 880 N.Y.S.2d 222 (Sup. Ct. 2008) (internal quotations and citations
+
+omitted). See also United States v. Bilzerian, 926 F.2d 1285, 1292 (2d Cir. 1991) (“[T]he
+
+attorney-client privilege cannot at once be used as a shield and a sword. … The privilege takes
+
+flight if the relation is abused…. A defendant may not use the privilege to prejudice his
+
+
+
+
+                                                 11
+opponent's case or to disclose some selected communications for self-serving purposes. …Thus,
+
+the privilege may implicitly be waived when defendant asserts a claim that in fairness requires
+
+examination of protected communications.”) (internal quotations and citations omitted).
+
+       For all of the foregoing reasons, Ms. Maxwell should disclose these documents relevant
+
+to entry numbers 1, 2, and 9.
+
+       3.      Maxwell’s Privilege Log Descriptions Are Inadequate
+
+       “Failure to furnish an adequate privilege log is grounds for rejecting a claim of attorney
+
+client privilege.” Aurora Loan Servs., Inc. v. Posner, Posner & Assocs., P.C., supra, 499
+
+F.Supp.2d 475, 479 (S.D.N.Y. 2007). The information set forth in Maxwell’s log is too sparse to
+
+comply with Federal Rule of Civil Procedure 26(b)(5) and Local Rule 26.2(a)(2)(B)'s
+
+requirement that a party asserting privilege disclose information sufficient “to enable other
+
+parties to assess the claim.” The limited “descriptions” on the privilege log make it impossible
+
+for Plaintiffs to assess the propriety of the privilege claims.
+
+       Over, and over again, each and every entry on the Maxwell Privilege Log insufficiently
+
+describes the subject matter of the communications as “Communication re: legal advice.” See
+
+McCawley Decl. at Composite Exhibit 1. Maxwell, has failed to comply with Local Rule
+
+26.2(a)(2)(B), which requires that “the general subject matter of the communication” be stated in
+
+the privilege log. The “subject matter” is not stated; it does not even indicate the matter or
+
+general topic upon which the purported attorney-client communication was made. Therefore,
+
+there is no “basis to conclude that the document contains legal advice that reelects a client
+
+confidence.” Yorkville Advisors, LLC, 300 F.R.D. at 164. With these unvarying and scanty
+
+descriptions, there is no way to assess if the withheld documents do, in fact, contain privileged
+
+material.
+
+
+
+
+                                                  12
+        For example, in Chevron Corp. v. Donziger, the Court held that descriptions such as,
+
+“Email concerning litigation status and strategy,” and “Email concerning litigation status and
+
+strategy re Lago Agrio litigation” were inadequate. No. 11 CIV. 0691 LAK JCF, 2013 WL
+
+4045326, at *2 (S.D.N.Y. Aug. 9, 2013). Yet even those brief descriptions, rejected by the
+
+Chevron Court, are a surfeit of information and detail compared to Ms. Maxwell’s paltry, one-
+
+size-fits-all “Communication re: legal advice.” Therefore, controlling precedent requires a
+
+finding that the Maxwell Privilege Log is inadequate.9
+
+        Furthermore, the descriptions do not provide the titles or the roles of the authors and
+
+recipients, which also makes this privilege log inadequate. See S.E.C. v. Yorkville Advisors, LLC,
+
+300 F.R.D. 152, 164 (S.D.N.Y. 2014). For example, for claims of attorney-client privilege, Ms.
+
+Maxwell does not even assert that individuals such as Brett Jaffe, Philip Barden, or Martin
+
+Weinberg represent her, or that any attorney-client relationship exists between them.
+
+Furthermore, there is no explanation as to how she could possibly claim an attorney-client
+
+privilege with non-attorney Ross Gow and non-attorney Jeffrey Epstein, as discussed above.
+
+        For the foregoing reasons, Maxwell’s Privilege Log fails to provide the information
+
+required by Federal Rule of Civil Procedure 26(b)(5) and Local Civil Rule 26.2(a)(2)(A), and it
+
+does not provide sufficient information to support the privilege claims asserted therein.
+
+Accordingly, this Court should find that Maxwell has waived her privilege claim for every entry
+
+which describes the subject matter as “Communication re: legal advice,” or at the very least,
+
+
+9
+  At the very least, the Court must conduct an in camera inspection of these documents to test the
+propriety of a claim of privilege where no attorney is part of the communication and the privilege log
+description does not provide adequate detail. See Grinnell Corp. v. ITT Corp., 222 F.R.D. 74, 78
+(S.D.N.Y.2003) (examining privilege log as well as documents themselves in order to determine
+applicability of the privilege); Safeco Ins. Co. of America v. M.E.S., Inc., No. 09–CV–3312, 2013 WL
+1680684, at *4 (noting that “[i]n camera review is ‘a practice both long-standing and routine in cases
+involving claims of privilege.’ ”) (quoting In re Grand Jury Subpoenas Dated Mar. 19, 2002 & Aug. 2,
+2002, 318 F.3d 379, 386 (2d Cir.2003)).
+
+
+                                                   13
+require Maxwell to submit the documents in question for in camera review to determine whether
+
+they are actually subject to any privilege claim.
+
+                                            CONCLUSION
+
+        For the foregoing reasons, this Court should order Ms. Maxwell to produce the
+
+documents listed in her privilege log, or at the very least, conduct an in camera inspection to
+
+determine whether or not these documents are privileged under applicable law.10
+
+
+Dated: February 26, 2016
+
+                                                 Respectfully Submitted,
+
+                                                 BOIES, SCHILLER & FLEXNER LLP
+
+                                            By: /s/ Sigrid McCawley
+                                                 Sigrid McCawley (Pro Hac Vice)
+                                                 Boies, Schiller & Flexner LLP
+                                                 401 E. Las Olas Blvd., Suite 1200
+                                                 Ft. Lauderdale, FL 33301
+                                                 (954) 356-0011
+
+                                                  David Boies
+                                                  Boies, Schiller & Flexner LLP
+                                                  333 Main Street
+                                                  Armonk, NY 10504
+
+                                                  Ellen Brockman
+                                                  Boies, Schiller & Flexner LLP
+                                                  575 Lexington Ave
+                                                  New York, New York 10022
+                                                  (212) 446-2300
+
+
+
+
+10
+  Ms. Maxwell’s Privilege Log is also incomplete because she has unilaterally, arbitrarily, and
+wrongfully withheld production of responsive documents from a great portion of the Relevant Period, as
+addressed in detail in Ms. Giuffre’s Motion to Compel the Production of Documents Subject to Improper
+Objections. Accordingly, to the extent that Ms. Maxwell claims responsive documents from the remainder
+of the Relevant Period are privileged, she must furnish a revised privilege log bearing description of those
+documents as well.
+
+
+                                                    14
+                                CERTIFICATE OF SERVICE
+
+       I HEREBY CERTIFY that on February 26, 2016, I electronically filed the foregoing
+
+document with the Clerk of Court by using the CM/ECF system. I also certify that the foregoing
+
+document is being served this day on the individuals identified below via transmission of Notices
+
+of Electronic Filing generated by CM/ECF.
+
+       Laura A. Menninger, Esq.
+       HADDON, MORGAN & FOREMAN, P.C.
+       150 East 10th Avenue
+       Denver, Colorado 80203
+       Tel: (303) 831-7364
+       Fax: (303) 832-2628
+       Email: lmenninger@hmflaw.com
+
+
+                                                    /s/ Sigrid S. McCawley
+                                                        Sigrid S. McCawley
+
+
+
+
+                                               15
+

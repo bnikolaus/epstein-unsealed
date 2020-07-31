@@ -1,0 +1,1665 @@
+        Case 1:15-cv-07433-RWS Document 23 Filed 12/17/15 Page 1 of 32
+
+
+
+                             United States District Court
+                            Southern District of New York
+
+
+Virginia L. Giuffre,
+
+               Plaintiff,              Case No.: 15-cv-07433-RWS
+
+v.
+
+Ghislaine Maxwell,
+
+            Defendant.
+________________________________/
+
+     PLAINTIFF VIRGINIA L. GIUFFRE’S OPPOSITION AND INCORPORATED
+       MEMORANDUM OF LAW TO DEFENDANT’S MOTION TO DISMISS
+
+
+                                        BOIES, SCHILLER & FLEXNER LLP
+
+                                        David Boies
+                                        Boies, Schiller & Flexner LLP
+                                        333 Main Street
+                                        Armonk, NY 10504
+
+                                        Sigrid McCawley (Pro Hac Vice)
+                                        Boies, Schiller & Flexner LLP
+                                        401 E. Las Olas Blvd., Suite 1200
+                                        Ft. Lauderdale, FL 33301
+                                        (954) 356-0011
+
+                                        Ellen Brockman
+                                        Boies, Schiller & Flexner LLP
+                                        575 Lexington Ave
+                                        New York, New York 10022
+                                        (212) 446-2300
+            Case 1:15-cv-07433-RWS Document 23 Filed 12/17/15 Page 2 of 32
+
+
+
+                                                   TABLE OF CONTENTS
+                                                                                                                                       Page
+
+TABLE OF AUTHORITIES.......................................................................................................... ii
+
+INTRODUCTION ...........................................................................................................................1
+
+ARGUMENT ..................................................................................................................................5
+
+          I..        Maxwell’s Statements Are Not Protected By A Qualified Privilege ......................5
+
+                     A.         It Is Premature For The Court To Determine Qualified Privilege...............7
+
+                     B.         The Qualified “Self-Defense” Privilege Does Not Exonerate
+                                Defendant From Her Malicious Defamatory Statements ............................9
+
+                                1. The Statements Were Made With Malice And With Knowledge
+                                   Of Their Falsity, Thus Defeating Any Privilege.. .................................9
+
+                                2. Calling A Sexual Abuse Victim A “Liar” Is More Than
+                                   A “General Denial” And Qualifies As Defamation.............................10
+
+                                3. Defendant’s Cited Cases Do Not Support Her Assertion
+                                   Of The Self-Defense Privilege... .........................................................11
+
+                     C.         The Qualified Pre-Litigation Privilege Does Not Exonerate
+                                Defendant From Her Malicious Defamatory Statements. .........................13
+
+                                1. Defendant’s Statements Are Outside The Scope Of The
+                                   “Pre-litigation” Qualified Privilege Because They Are Not
+                                   Made “Pertinent To Anticipated Good Faith Litigation.” ...................14
+
+                                2. Defendant’s Statements Are Outside The Scope Of The
+                                   “Pre-Litigation” Qualified Privilege Because They Were Made
+                                   To Bully, Harass, And Intimidate........................................................17
+
+          II.        Ms. Giuffre Has Properly Pled A Defamation Claim............................................18
+
+                     A.         Viewed In Context, Defendant’s Assault On Ms. Giuffre
+                                Is Defamatory.. ..........................................................................................18
+
+                     B.         The Complaint Alleges Whom, Where, And In What Manner
+                                The January Statement Was Made With Specificity And
+                                Supporting Facts.. ......................................................................................20
+
+                     C.         Ms. Giuffre Has Pled Defamation Per Se And Does Not Need
+                                To Plead Special Damages. .......................................................................23
+
+CONCLUSION .............................................................................................................................25
+
+
+                                                                      i
+           Case 1:15-cv-07433-RWS Document 23 Filed 12/17/15 Page 3 of 32
+
+
+
+                                               TABLE OF AUTHORITIES
+
+                                                                                                                                   Page
+Cases
+
+Albert v. Loksen,
+  239 F.3d 256 (2d Cir. 2001) ........................................................................................................6
+
+Biro v. Conde Nast,
+  883 F. Supp. 2d 441 (S.D.N.Y. 2012) ...................................................................................7, 10
+
+Block v. First Blood Associates,
+  691 F. Supp. 685 (S.D.N.Y. 1988) .....................................................................................passim
+
+Brach v. Congregation Yetev Lev D'Satmar, Inc.,
+  265 A.D.2d 360, 696 N.Y.S.2d 496 (2d Dep't. 1999) ...............................................................10
+
+Caplan v. Winslet,
+  218 A.D.2d 148, 637 N.Y.S.2d 967 (1996)...............................................................................15
+
+Catalanello v. Kramer,
+  18 F. Supp. 2d 504 (S.D.N.Y. 2014) .........................................................................................20
+
+Celle v. Felipino Reporter Enterprises Inc.
+  209 F.3d 163 (2d Cir. 2000) ......................................................................................................23
+
+Colantonio v. Mercy Med. Ctr..
+  115 A.D.3d 902, 982 N.Y.S.2d 563 (2014).................................................................................8
+
+Collier v. Postum Cereal Co.,
+  150 A.D. 169, 134 N.Y.S. 847 (App. Div. 1912)........................................................................8
+
+Davis v. Boeheim,
+  24 N.Y.3d 262, 22 N.E.3d 999 (2014) ............................................................................4, 10, 19
+
+Deutsche Asset Mgmt., Inc. v. Callaghan,
+  No. 01 Civ. 4426 CBM, 2004 WL 758303 (S.D.N.Y. Apr. 7, 2004)........................................22
+
+Dillon v. City of New York,
+  261 A.D.2d 34, 704 N.Y.S.2d (1999)..................................................................................19, 21
+
+Edwards v. Great N. Ins. Co.,
+  No. 03CV2947(NG)RML, 2006 WL 2053717 (E.D.N.Y. July 21, 2006) ................................19
+
+Edwards v. National Audubon Society, Inc.,
+  556 F.2d 113 (2d Cir. 1977) ......................................................................................................10
+
+Fowler v. New York Herald Co.,
+  184 A.D. 608, 172 N.Y.S. 423 (App. Div. 1918)........................................................................8
+
+
+                                                                   ii
+           Case 1:15-cv-07433-RWS Document 23 Filed 12/17/15 Page 4 of 32
+
+
+
+Frechtman v. Gutterman,
+  115 A.D.3d 102, 979 N.Y.S.2d 58 (2014).................................................................................15
+
+Front v. Khalil,
+  24 N.Y.3d 713 (2015)..............................................................................................14, 16, 17, 18
+
+Ge Dandong v. Pinnacle Performance Ltd.,
+  966 F. Supp. 2d 374 (S.D.N.Y. 2013) .........................................................................................3
+
+Idema v. Wager,
+  120 F. Supp. 2d 361 (S.D.N.Y. 2000) aff'd, 29 F. App'x 676 (2d Cir. 2002) ...........................24
+
+Independent Living Aids, Inc. v. Maxi-Aids, Inc.,
+  981 F. Supp. 124 (E.D.N.Y. 1997) ............................................................................................11
+
+Int'l Pub. Concepts, LLC v. Locatelli,
+   46 Misc. 3d 1213(A), 9 N.Y.S.3d 593 (NY Sup. Ct. 2015) ......................................................15
+
+Kamchi v. Weissman
+  125 A.D.3d 142, 1 N.Y.S.3d 169 (N.Y. App. Div. 2014) ...........................................................8
+
+Kaminester v. Weintraub,
+  131 A.D.2d 440, 516 N.Y.S.2d 234 (1987)...............................................................................10
+
+Kane v. Orange Cty. Publications,
+  232 A.D.2d 526, 649 N.Y.S.2d 23 (1996).................................................................................13
+
+Kirk v. Heppt,
+  532 F. Supp. 2d 586 (S.D.N.Y. 2008) .......................................................................................15
+
+Lawson v. Stow,
+  2014 COA 26, 327 P.3d 340 .....................................................................................................21
+
+Liberman v. Gelstein,
+  80 N.Y.2d 429, 605 N.E.2d 344 (1992) ....................................................................................24
+
+Long v. Marubeni Am. Corp.,
+  406 F. Supp. 2d 285 (S.D.N.Y. 2005) .........................................................................................8
+
+Mase v. Reilly,
+ 206 A.D. 434, 201 N.Y.S. 470 (App. Div. 1923)......................................................................11
+
+Massre v. Bibiyan,
+ No. 12 CIV 6615 KPF, 2014 WL 2722849 (S.D.N.Y. June 16, 2014) .....................................25
+
+Matherson v. Marchello,
+ 100 A.D.2d 233, 473 N.Y.S.2d 998 (1984)...............................................................................23
+
+McCarthy v. Dun & Bradstreet Corp.,
+ 482 F.3d 184 (2d Cir. 2007) ........................................................................................................3
+
+                                                                  iii
+           Case 1:15-cv-07433-RWS Document 23 Filed 12/17/15 Page 5 of 32
+
+
+
+McNamee v. Clemens,
+ 762 F. Supp. 2d 584 (E.D.N.Y. 2011) ...................................................................................4, 10
+
+Mencher v. Chesley,
+ 193 Misc. 829, 85 N.Y.S.2d 431 (Sup. Ct. 1948) .......................................................................8
+
+Park Knoll Associates v. Schmidt,
+  59 N.Y.2d 205, 451 N.E. 2d 182 (1983) .....................................................................................6
+
+Pure Power Boot Camp, Inc. v. Warrior Fitness Boot Camp,
+  813 F. Supp. 2d 489 (S.D.N.Y. 2011) .......................................................................................24
+
+Roberti v. Schroder Inv. Mgmt. N. Am., Inc.,
+  No. 04CIV2404 (LTS) (THK), 2006 WL 647718 (S.D.N.Y. Mar. 14, 2006) ............................7
+
+Seung Jin Lee v. Tai Chul Kim,
+  16 Misc. 3d 1118(A), 847 N.Y.S.2d 899 (Sup. Ct. 2007) .........................................................12
+
+Shenkman v. O'Malley,
+  2 A.D.2d 567, 157 N.Y.S.2d 290 (1956)...............................................................................8, 12
+
+Teicher v. Bellan,
+  7 A.D.2d 247, 181 N.Y.S.2d 842 (1959).....................................................................................8
+
+Thompson v. Bosswick,
+  855 F. Supp. 2d 67 (S.D.N.Y. 2012) .........................................................................................24
+
+Wannamaker v. Columbian Rope Co.,
+ 713 F. Supp. 533 (N.D.N.Y. 1989) aff'd, 108 F.3d 462 (2d Cir. 1997) ....................................19
+
+Weldy v. Piedmont Airlines, Inc.,
+ 985 F.2d 57 (2d Cir. 1993) ......................................................................................................6, 7
+
+Whelehan v. Yazback,
+ 84 A.D.2d 673, 446 N.Y.S.2d 626 (1981)...............................................................................7, 9
+
+Worldhomecenter.com, Inc. v. M.J. Resurrection, Inc.,
+ No. 11 CIV. 3371 (RWS), 2012 WL 12922 (S.D.N.Y. Jan. 3, 2012).........................................5
+
+
+
+
+                                                                  iv
+          Case 1:15-cv-07433-RWS Document 23 Filed 12/17/15 Page 6 of 32
+
+
+
+
+        Plaintiff Virginia L. Giuffre, by and through her undersigned counsel, hereby files this
+
+Opposition to Defendant’s Motion to Dismiss, and in support thereof, states as follows:
+
+                                               INTRODUCTION
+
+        This is an old and familiar story. A Defendant, who committed repeated acts of sexual
+
+abuse, publicly proclaims the victim is lying to try to deflect attention from the crimes and to bully
+
+the victim back into silence. But this story will not end here. Defamation law protects victims
+
+when they are courageous enough to stand up against their abuser’s false character assaults. Based
+
+on her well-pled Complaint, Ms. Giuffre has stated a defamation claim, and, therefore, is entitled
+
+to move forward with discovery to prove that Defendant’s statements were not only false, but
+
+entirely fabricated out of malice.
+
+        The allegations Ms. Giuffre has made in her Complaint present a straightforward claim of
+
+defamation. As she alleges in her Complaint, convicted sex offender Jeffrey Epstein and
+
+Defendant, Ghislaine Maxwell, sexually abused Ms. Giuffre. Indeed, the Defendant herself
+
+recruited and groomed Ms. Giuffre to be sexually abused when Ms. Giuffre was only fifteen (15)
+
+years old. Over the next several years, Epstein and Defendant trafficked Ms. Giuffre to their
+
+friends worldwide. Ultimately, Ms. Giuffre escaped.
+
+        Several years later, having gained a sense of safety and perspective, Ms. Giuffre sought to
+
+join a long-running Crime Victims’ Rights Act (“CVRA”) lawsuit, which was brought by other
+
+young girls who were also abused, and sought to challenge Jeffrey Epstein’s non-prosecution
+
+agreement which also pardoned co-conspirators. Through lawyers1, Ms. Giuffre explained what
+
+Epstein and Defendant had done to her, prompting a broadside of attacks earlier this year from the
+
+
+
+1
+ Ms. Giuffre is represented in the CVRA case by a former Federal Judge for the District of Utah, Paul Cassell, and a
+victim’s rights lawyer, Bradley Edwards. (Case No. 08-cv-80736-KAM, Southern District of Florida.)
+
+
+                                                          1
+          Case 1:15-cv-07433-RWS Document 23 Filed 12/17/15 Page 7 of 32
+
+
+
+Defendant.2
+
+         After sexually trafficking Ms. Giuffre for years, Defendant now has the audacity to
+
+broadcast that Ms. Giuffre is a “liar” and that her life story is concocted. And Defendant even
+
+claims that she is somehow “privileged” to launch these assaults.
+
+         Of course, the Court need not decide today who is lying and who is telling the truth. The
+
+narrow issue before the Court now is only whether Ms. Giuffre has pled an actionable defamation
+
+case. Ms. Giuffre’s Complaint sets forth specific well-pled allegations that present the elements of
+
+a defamation claim, including precisely-described defamatory statements that the Defendant made
+
+with actual malice:
+
+        Ms. Giuffre “became a victim of sexual trafficking and repeated sexual abuse after being
+         recruited by Ghislaine Maxwell and Jeffrey Epstein when Giuffre was under the age of
+         eighteen…Between 1999 and 2002, with the assistance and participation of Maxwell,
+         Epstein sexually abused Giuffre at numerous locations including his mansions in West
+         Palm Beach Florida and in this District.” See Declaration of Sigrid McCawley
+         (“McCawley Decl.”), Ex. 1, Compl. at ¶¶ 8, 9 and 16.
+
+        “As part of their sex trafficking efforts, Epstein and Maxwell intimidated Giuffre into
+         remaining silent about what happened to her.” Id. at ¶10.
+
+        “With the assistance of Maxwell, Epstein was able to sexually abuse Giuffre for years until
+         Giuffre eventually escaped.” Id. at ¶18.
+
+        “Ultimately as a mother and one of Epstein’s many victims, Giuffre believes that she
+         should speak out about her sexual abuse experience in the hopes of helping
+
+2
+  Defendant spends a significant amount of time in her Motion to Dismiss discussing Judge Marra’s ruling in the
+CVRA case that dealt with Alan Dershowitz’s Motion to Strike. Defendant flatly mischaracterizes the Order, which,
+in any event, is irrelevant to this Motion to Dismiss. In the CVRA case, Ms. Giuffre filed a joinder motion to attempt
+to join the other victims who were prosecuting the case. The Court found that joinder of another victim was
+unnecessary because the two named plaintiffs were sufficient to represent the group of victims in their claim that the
+government failed to properly notify them of the plea agreement with Jeffrey Epstein. Judge Marra held that “at this
+juncture in the proceedings” the details about the sexual abuse that Ms. Giuffre had suffered was unnecessary to the
+Court making a determination “of whether Jane Doe 3 [Ms. Giuffre] and Jane Doe 4 should be permitted to join [the
+other victims’] claim that the Government violated their rights under the CVRA. The factual details regarding with
+whom and where the Jane Does engaged in sexual activities are impertinent to this central claim (i.e. that they were
+known victims of Mr. Epstein and the Government owed them CVRA duties) especially considering that the details
+involve non-parties who are not related to the respondent Government.” No. 08-cv-80736-KAM, D.E. 324 at 5
+(emphasis original). The Judge explained that Ms. Giuffre would be entitled to participate as a witness in the case to
+offer her evidence as needed. (D.E. 324 at 8.)
+
+
+                                                           2
+          Case 1:15-cv-07433-RWS Document 23 Filed 12/17/15 Page 8 of 32
+
+
+
+         others…Giuffre incorporated an organization called Victims Refuse Silence…Giuffre has
+         now dedicated her professional life to helping victims of sex trafficking.” Id. at ¶ 23-25.
+
+        “In January 2015, Maxwell undertook a concerted and malicious campaign to discredit
+         Giuffre and damage her reputation that Giuffre’s factual reporting of what happened to her
+         would not be credited.” Id. at ¶ 28.
+
+        “As part of Maxwell’s campaign she directed her agent, Ross Gow, to attack Giuffre’s
+         honesty and truthfulness and accuse Giuffre of lying.” Id. at ¶ 29.
+
+        Defendant stated through her press agent that Ms. Giuffre’s reports of her child sexual
+         abuse were “obvious lies.” Id. at ¶ 30.
+
+        Defendant published the defamatory statements to third parties including: “issu[ing] an
+         additional false statement to the media and public,” and to “a reporter on a Manhattan
+         street.” Id. at ¶ 30, ¶ 3.
+
+        “Maxwell made the…defamatory statements…in the Southern District of New York…in a
+         deliberate effort to maliciously discredit Giuffre and silence her efforts to expose sex
+         crimes committed around the world by Maxwell, Epstein and other powerful persons…”
+         Id. at ¶ 32.
+
+        “Maxwell’s statements were published intentionally for the malicious purpose of further
+         damaging a sexual abuse and sexual trafficking victim; to destroy Giuffre’s reputation and
+         credibility” and that Defendant “made her false statements knowing full well that they
+         were completely false. Accordingly, she made her statements with actual and deliberate
+         malice, the highest degree of awareness of falsity.” Id. at ¶¶ 8-9.
+
+        Defendant’s defamatory statements “tended to injure Giuffre in her professional capacity
+         as the president of a non-profit corporation designed to help victims of sex trafficking,
+         inasmuch as they destroyed her credibility and reputation among members of the
+         community that seek her help and that she seeks to serve.”3 Id. at ¶ 11.
+
+         In response to the straight-forward Complaint, Defendant first argues that she was
+
+privileged to launch these attacks on Ms. Giuffre because of either a self-defense privilege or a
+
+
+3
+  Defendant’s effort to include information outside the four corners of the complaint should be rejected. See Ge
+Dandong v. Pinnacle Performance Ltd., 966 F. Supp. 2d 374 (S.D.N.Y. 2013) (“It is well-established that when
+deciding a motion to dismiss… a court's ‘review is limited to the facts as asserted within the four corners of the
+complaint, the documents attached to the complaint as exhibits, and any documents incorporated in the complaint by
+reference.’”) (quoting McCarthy v. Dun & Bradstreet Corp., 482 F.3d 184, 191 (2d Cir. 2007)). Notably, Defendant
+switches gears in her Reply in Support of her Motion to Stay and agrees that the Court “must limit itself to facts stated
+in the complaint.” (Maxwell’s Reply in Support of Stay Motion at 9). Accordingly, the 2011 article at Ex. A of Laura
+Menninger’s Declaration in Support of her Motion to Dismiss should not be considered because it does not contain the
+actionable statement set forth in the Complaint. (See Declaration of Laura Menninger at Ex. A). By her own words, it
+must be disregarded.
+
+                                                           3
+         Case 1:15-cv-07433-RWS Document 23 Filed 12/17/15 Page 9 of 32
+
+
+
+pre-litigation privilege. As part of a motion to dismiss, these arguments must be rejected. First,
+
+qualified privileges are forfeited when the defamatory statement is made with malice and is false.
+
+Because Ms. Giuffre has specifically alleged that Defendant defamed her with actual malice, the
+
+privileges provide no defense. Second, the Court should not consider Defendant’s qualified
+
+privilege argument at the Motion to Dismiss stage because it is premature. See Block v. First
+
+Blood Associates, 691 F. Supp. 685, 699-700 (Sweet, J.) (S.D.N.Y. 1988) (In a case in which
+
+another defendant claimed a pre-litigation privilege based upon statements to the press, this Court
+
+held, “[t]o prevail on a qualified privilege defense [defendant] must show that his claim of
+
+privilege does not raise triable issues of fact that would defeat it. Here, sufficient evidence has
+
+been adduced to support the inference that [defendant] acted with malice, and may not, therefore,
+
+claim a qualified privilege under New York law . . . a genuine issue as to malice and appropriate
+
+purpose has properly been raised and is sufficient to preclude summary judgment.”). Defendant’s
+
+asserted qualified privileges are merely affirmative defenses to be raised in her answer.
+
+       Third, Defendant discusses a 2011 statement, which is not the statement at issue, in an
+
+effort to confuse the Court into accepting her “pre-litigation privilege” argument. The actionable
+
+statement was Defendant’s 2015 press release to the media charging Ms. Giuffre with lying about
+
+being sexually abused. New York’s highest court found, in this exact situation, that where a sexual
+
+abuse victim is called a “liar,” she has an actionable claim for defamation and it is more than a
+
+“mere denial.” In Davis v. Boeheim, 245 N.Y.3d 262, 268, 22 N.E.3d 999 (2014), the court found
+
+that stating that a person is lying about their sexual abuse is “susceptible of a defamatory
+
+connotation” because the statement “tends to expose [Plaintiff] to public contempt, hatred,
+
+ridicule, aversion or disgrace.” See also McNamee v. Clemens, 762 F. Supp. 2d 584, 602
+
+(E.D.N.Y. 2011) (court explaining “[t]he statements that brand McNamee a liar and suggest that
+
+there are unknown facts that when disclosed will support Clemens' denials and that suggest that
+
+                                                   4
+        Case 1:15-cv-07433-RWS Document 23 Filed 12/17/15 Page 10 of 32
+
+
+
+the statements meet the definition of defamation go beyond a general denial of accusations or
+
+rhetorical name calling. The statements were direct and often forcefully made, there was nothing
+
+loose or vague about them.”). Finally, Ms. Giuffre has pled all necessary elements of a defamation
+
+claim in detail with supporting facts. For those reasons, as explained in full below, Defendant’s
+
+Motion to Dismiss should be denied.
+
+                                           ARGUMENT
+
+        In ruling on a motion to dismiss, the Court must take all allegations in the Complaint as
+
+true and all inferences are drawn in favor of the pleader. Worldhomecenter.com, Inc. v. M.J.
+
+Resurrection, Inc., (Sweet, J.) No. 11 CIV. 3371 (RWS), 2012 WL 12922, at *2 (S.D.N.Y. Jan. 3,
+
+2012). “The issue ‘is not whether a plaintiff will ultimately prevail but whether the claimant is
+
+entitled to offer evidence to support the claims.’” Id. Ms. Giuffre has stated a colorable claim with
+
+specificity, therefore, she is entitled to move forward and prove her claim.
+
+   I.      Maxwell’s Statements Are Not Protected By A Qualified Privilege.
+
+        Defendant’s qualified privilege argument fails for three independent reasons, each
+
+requiring this Court to deny Defendant’s Motion to Dismiss. First, a privilege is an affirmative
+
+defense, which must be pled in an answer to a complaint and then properly proved. A motion to
+
+dismiss is not a proper vehicle for presenting such an argument. Second, the qualified privileges
+
+raised by Defendant (self-defense and pre-litigation) are forfeited if they are abused. Because Ms.
+
+Giuffre has alleged that Defendant launched her assault with actual malice and for an improper
+
+purpose, the privileges provide no defense. Third, the circumstances alleged by Defendant do not
+
+fit the privileges she is alleging: under New York law, no qualified privilege, - neither “self-
+
+defense” nor “pre-litigation” - applies to Defendant’s statements.
+
+        As this Court has explained, “[u]nder New York law, a qualified or conditional privilege
+
+may exist where statements are made, without malice, in furtherance of a common interest. There
+
+                                                  5
+        Case 1:15-cv-07433-RWS Document 23 Filed 12/17/15 Page 11 of 32
+
+
+
+is no qualified privilege under New York law when such statements are spoken with malice,
+
+knowledge of their falsity, or reckless disregard for their truth.” Block at 699 (Sweet, J.) (Internal
+
+citations omitted).
+
+        A defendant forfeits an alleged qualified privilege “by making a false, defamatory
+
+statement with ‘malice’ of either the common-law or constitutional variety.” Albert v. Loksen, 239
+
+F.3d 256, 272 (2d Cir. 2001). See also Park Knoll Associates v. Schmidt, 59 N.Y.2d 205, 211, 451
+
+N.E.2d 182, 185 (1983) (“The complaint here contains sufficient allegations of malice to
+
+withstand the motion to dismiss.”).
+
+        Even if a qualified privilege otherwise applies, it “is nevertheless forfeited if the defendant
+
+steps outside the scope of the privilege and abuses the occasion.” Weldy v. Piedmont Airlines, Inc.,
+
+985 F.2d 57, 62 (2d Cir. 1993) (internal quotations omitted). In Weldy, the Second Circuit
+
+explained that a Plaintiff may defeat an assertion of a qualified privilege by demonstrating abuse
+
+of the privilege “by proving that the defendant acted (1) with common law malice, or (2) outside
+
+the scope of the privilege, or (3) with knowledge that the statement was false or with a reckless
+
+disregard as to its truth.” Id. at 62. In this case, the Defendant has fulfilled all three of the above
+
+conditions.
+
+        Here, Ms. Giuffre has pled facts to support her claim that Defendant’s defamatory
+
+statements are false, and were published with the “malicious intent of discrediting and further
+
+damaging [Ms. Giuffre] worldwide.” See McCawley Decl., Ex. 1, Compl. at ¶ 1. Defendant can
+
+cite to no authority that supports her position that publicly stating that a victim of sexual abuse is
+
+lying about being sexually abused as a minor child falls within any qualified privilege, and her
+
+assertion of that proposition is a complete misreading of the law.
+
+
+
+
+                                                    6
+         Case 1:15-cv-07433-RWS Document 23 Filed 12/17/15 Page 12 of 32
+
+
+
+         A. It Is Premature For The Court To Determine Qualified Privilege.
+
+         As an initial matter, under both federal and New York law, determining whether a
+
+qualified privilege applies is premature and should not be decided at the Motion to Dismiss stage
+
+because Ms. Giuffre is entitled to establish that Defendant knew the defamatory statement was
+
+false and made for an improper purpose, thereby extinguishing any claim for a qualified privilege.
+
+In another defamation case brought before this Court, in which the defendant also made
+
+defamatory statements to the press and then tried to claim the pre-litigation privilege, this Court
+
+held that where a genuine issue as to the malice and appropriate purpose has properly been raised,
+
+a determination on the application of the privilege was precluded, even at the summary judgment
+
+stage. See Block, 691 F. Supp. at 699-700 (Sweet, J.); see also Roberti v. Schroder Inv. Mgmt. N.
+
+Am., Inc., No. 04CIV2404 (LTS) (THK), 2006 WL 647718, at *9 (Swain, J.) (S.D.N.Y. Mar. 14,
+
+2006) (Judge Swain found the same, denying the motion to dismiss on a defamation claim because
+
+“a claim of qualified privilege may be rebutted by a showing that the statement, or the implication
+
+thereof, was made with spite or ill will or with a high degree of awareness of [its] probable falsity”
+
+and plaintiff’s complaint “could support a finding that the statement was made with the requisite
+
+high degree of awareness that it was probably false.”) (internal quotations omitted);4 Weldy, 985
+
+F.2d at 63 (the Second Circuit found that whether the privilege had been abused and, therefore,
+
+lost was a question for the jury to decide.).
+
+         New York state courts, examining alleged qualified privileges in defamation cases, have
+
+held the same. For example, in Whelehan v. Yazback, 84 A.D.2d 673, 673, 446 N.Y.S.2d 626, 627
+
+4
+  Defendant misleadingly cites Biro v. Conde Nast for the proposition that the affirmative defense of privileges may be
+resolved on a motion to dismiss, but Biro dismissed claims based on absolute privileges, whose application required
+no factual determinations, but could be determined on the face of the pleadings, in contrast to the qualified privileges
+Defendant asserts here, which require a determination of malice and improper purpose. 883 F. Supp. 2d 441, 458
+(S.D.N.Y. 2012) (dismissing some claims due to their being nonactionable opinion and protected by New York Civil
+Rights Law § 74 (fair report privilege) because the court need only “consider the allegations and the statements in the
+court records in order to determine whether the Article provides a ‘fair and true’ report of those allegations and
+statements, but will not consider the documents to be evidence of any of the facts stated therein.”).
+
+                                                           7
+         Case 1:15-cv-07433-RWS Document 23 Filed 12/17/15 Page 13 of 32
+
+
+
+(1981), the court denied the motion for summary judgment based on the affirmative defense of
+
+qualified privilege: “defendant's motion for summary judgment based on qualified privilege and
+
+plaintiff's motion to strike this defense were properly denied since qualified privilege is a defense
+
+to be pleaded and proved… and questions of fact exist as to its applicability here.” Further, as the
+
+Bellan court explained, when reversing an order dismissing a defamation claim, “the defendant
+
+cannot prevail upon this motion on the ground of a qualified privilege. Qualified privilege is an
+
+affirmative defense to be pleaded and proved by the defendant.” Teichner v. Bellan, 7 A.D.2d 247,
+
+252, 181 N.Y.S.2d 842 (1959). See also Colantonio v. Mercy Med. Ctr., 115 A.D.3d 902, 903,
+
+982 N.Y.S.2d 563, 566 (2014) (“…this privilege…can be overcome by a showing of malice … At
+
+this juncture [motion to dismiss], the allegations of malice that were set forth in the complaint …
+
+preclude dismissal of the complaint…”); Kamchi v. Weissman, 125 A.D.3d 142, 159, 1 N.Y.S.3d
+
+169, 182 (N.Y. App. Div. 2014) (the complaint “sufficiently alleged that [Defendant] made false
+
+statements of fact with common-law malice so as to overcome the common interest qualified
+
+privilege”); Long v. Marubeni Am. Corp., 406 F. Supp. 2d 285, 298 (S.D.N.Y. 2005) (denying a
+
+motion to dismiss based, inter alia, upon an qualified privilege argument because the complaint
+
+alleged the defamatory statements were made “with knowledge of their falsity,” and supported that
+
+claim “with at least some facts,” and, therefore, “[n]othing more is required at this stage of
+
+litigation [to maintain the claim]”).5 Accordingly, Defendant’s qualified privilege arguments are
+
+not ripe for judicial determination upon a Motion to Dismiss.
+
+
+5
+  Notably, the case law cited by Defendant also holds that qualified privilege is an issue for the jury to decide. See
+Maxwell’s Memorandum in Support of Motion to Dismiss (“MTD”) at 8, Shenkman v. O'Malley, 2 A.D.2d 567, 576,
+157 N.Y.S.2d 290, 299 (1956) (whether defendant’s statement fell under the self-defense qualified privilege “cannot
+be said on the pleading alone,” but instead is “a proper question for the jury to determine”); MTD at 8, Fowler v. New
+York Herald Co., 184 A.D. 608, 611, 172 N.Y.S. 423, 425 (App. Div. 1918), (“Whether the defendant in its
+publication went beyond its legal privilege, and should be charged with malice, was a question of fact for the jury”);
+MTD at 9, Mencher v. Chesley, 193 Misc. 829, 832, 85 N.Y.S.2d 431, 434 (Sup. Ct. 1948) (“Plaintiff contends,
+however, that the defendant in any event went beyond his legal privilege in repelling the attack and that consequently
+his privilege affords him no protection . . . the question whether the defendant went beyond his privilege is one of fact
+for the jury to determine, and that it cannot be disposed of as a matter of law.”); MTD at 9, Collier v. Postum Cereal
+
+                                                            8
+         Case 1:15-cv-07433-RWS Document 23 Filed 12/17/15 Page 14 of 32
+
+
+
+        B. The Qualified Self-Defense Privilege Does Not Exonerate Defendant From Her
+           Malicious Defamatory Statements
+
+        Defendant contends that her statements are subject to a qualified privilege because they
+
+were made in “self-defense.” Defendant’s statements went beyond simply denying the allegations;
+
+instead, she attacked the moral character of this sexual abuse victim by publicly proclaiming her
+
+claims of sexual abuse were “obvious lies” and suggesting that Defendant knew facts that were
+
+unknown to the public. Defamatory statements of that type, as explained further below, are not
+
+protected by a “self-defense” privilege, particularly when, as here, they are knowingly false.
+
+             1. The Statements Were Made With Malice And With Knowledge Of Their Falsity,
+                Thus Defeating Any Privilege.
+
+        Defendant’s attempts to fit her defamatory statements against a victim of sexual abuse
+
+within the parameters of a qualified privilege must be rejected because Defendant made the
+
+statements with malice, knowing that they were false. Plaintiff will be able to show, without
+
+question, that Defendant knows that Plaintiff is not lying when she describes how Defendant
+
+recruited her for sex as an underage girl and when she describes the other trafficking activities
+
+Defendant engaged in. Once a defendant has proven the affirmative defense of qualified privilege,
+
+which Defendant has not yet done, that privilege is nonetheless defeated if “plaintiff can establish
+
+that the communication was actuated by malice.” See Block, 691 F. Supp. at 699 (Sweet, J.);
+
+Whelehan, 446 N.Y.S.2d at 674 (“defendant's motion to dismiss the complaint for failure to state a
+
+cause of action should have been denied. Plaintiff's pleading of ‘malice aforethought’ is sufficient
+
+to avoid dismissal in view of the fact that qualified privilege is an affirmative defense to be
+
+pleaded and proved by defendant and that, when malice is required to be pleaded, conclusory
+
+
+
+
+Co., 150 A.D. 169, 179, 134 N.Y.S. 847 (App. Div. 1912) (evidence bearing on questions of privilege “were plainly
+questions for the jury”).
+
+
+
+                                                         9
+         Case 1:15-cv-07433-RWS Document 23 Filed 12/17/15 Page 15 of 32
+
+
+
+allegations of malice have been held sufficient.”).6 As pled in the Complaint, Defendant knew the
+
+statements were false because Defendant engaged in and facilitated the sexual abuse of this minor
+
+child.
+
+             2. Calling A Sexual Abuse Victim A “Liar” Is More Than A “General Denial” And
+                Qualifies As Defamation.
+
+         Though Defendant claims that she was merely issuing a “general denial,” she went well
+
+beyond that and accused Ms. Giuffre of making claims that were “obvious lies,” with the clear
+
+implication that Defendant had knowledge unknown to the audience that would support her
+
+statement. Under New York law, such a statement constitutes grounds for a defamation claim. See
+
+Davis, 245 N.Y.3d at 268 (New York’s highest court holding that stating someone is lying about
+
+sexual abuse is “susceptible of a defamatory connotation.”); see also McNamee v. Clemens, 762 F.
+
+Supp. 2d 584 (E.D.N.Y. 2011) (“[a]n attack on a person's integrity by impugning his character as
+
+dishonest or immoral may form the basis of a defamation if an ordinary listener would tend to
+
+credit the statements as true.”); Kaminester v. Weintraub, 131 A.D.2d 440, 516 N.Y.S.2d 234 (2d
+
+Dep't 1987) (statements accusing plaintiff of personal dishonesty were not constitutionally
+
+protected expressions of opinion); Edwards v. Nat’l Audubon Soc., Inc., 556 F.2d 113, 121-22 (2d
+
+Cir. 1977) (“The appellees were charged with being ‘paid to lie’. It is difficult to conceive of any
+
+epithet better calculated to subject a scholar to the scorn and ridicule of his colleagues than ‘paid
+
+liar.’ It is this completely foundationless accusation of venality that constitutes the essence of the
+
+calumny against the appellees.”); Brach v. Congregation Yetev Lev D'Satmar, Inc., 265 A.D.2d
+
+360, 361, 696 N.Y.S.2d 496, 498 (2d Dep't 1999) (reversing an order of dismissal and reinstating
+
+6
+  Defendant cites Biro v. Conde Nast, 2014 WL 4851901 (S.D.N.Y. Sept. 30, 2014) for the proposition that Ms.
+Giuffre has not sufficiently pled malice. However, in Biro, the only accusation of malice was that the defendant
+“‘knew or should have known’ that the statements were false,” and “the Complaint contains no factual allegations
+indicating that [defendant] acted recklessly in making that assumption – or had any reason to entertain doubts about
+the truth.” Id., 2014 WL 4851901, at *2. The facts here could not be more different: not only has Ms. Giuffre alleged
+that Defendant knows the allegations are false because she was an active participant in the sexual abuse, but she
+detailed Defendant’s involvement with the corroborating evidence of her involvement.
+
+                                                          10
+        Case 1:15-cv-07433-RWS Document 23 Filed 12/17/15 Page 16 of 32
+
+
+
+defamation action based upon a publication stating that a court action was won “by lies and
+
+deceit,” finding that the statements at issue were actionable statements of “mixed opinion,” and
+
+noting that they suggested to the average reader that they were supported by some unknown facts);
+
+Mase v. Reilly, 206 A.D. 434, 436, 201 N.Y.S. 470, 472 (App. Div. 1923) (reversing dismissal of
+
+the complaint and holding: “The charge that a man is lying, at least, in a matter of public interest,
+
+is such a charge as tends to hold him up to scorn, as matter of law, and prima facie a complaint
+
+stating the making in writing of such a charge is good.”).
+
+       Here, Defendant has attacked Ms. Giuffre’s integrity, calling her dishonest and stating that
+
+her claims of abuse were “obvious lies,” implying that Defendant knows certain facts unknown to
+
+her audience that support her opinion. An ordinary listener would tend to credit the statements as
+
+true because Defendant traveled with, and lived with, Ms. Giuffre while she was a child abuse
+
+victim. As the Clemens court explained: “Clemens’ statements that McNamee is a liar are facts
+
+capable of being proven true or false by a determination of whether or not McNamee injected
+
+Clemens with steroids. The statements can be proven true or false by either truthful testimony or
+
+conclusive evidence.” Id. at 601. Similarly, Defendant’s statement that Ms. Giuffre is lying is a
+
+fact capable of being proven true or false by a determination of whether Ms. Giuffre was sexually
+
+abused by Defendant.
+
+           3. Defendant’s Cited Cases Do Not Support Her Assertion Of The Self-Defense
+              Privilege.
+
+       Interestingly, the only case Defendant cites wherein a court holds that calling someone a
+
+liar isn’t defamatory, Independent Living Aids, Inc. v. Maxi-Aids, Inc., 981 F. Supp. 124, 128
+
+(E.D.N.Y. 1997), is a case that sounded in slander (spoken defamation), whereas this is a libel
+
+
+
+
+                                                  11
+         Case 1:15-cv-07433-RWS Document 23 Filed 12/17/15 Page 17 of 32
+
+
+
+case (written defamation).7 What constitutes defamation for libel under New York law is a much
+
+broader category, while defamation under slander is restricted to four specific categories of
+
+statements, as discussed infra. Ms. Giuffre has sufficiently pled libel, and many New York courts
+
+have held that calling someone a liar constitutes libel. Buried in a string cite, and presented
+
+without explanation or argument, Defendant cites Shenkman v. O'Malley, 2 A.D.2d 567, 157
+
+N.Y.S.2d 290, (1956), in which the Court reversed the lower court’s striking of the affirmative
+
+defense of the self-defense qualified privilege. MTD at 8. Notably, Shenkman not only held that
+
+the self-defense qualified privilege was a question for the jury to decide, but it also held that this
+
+affirmative defense only applies when the defendant’s statement is in response to another
+
+defamatory statement: the “defamatory reply to attack, if it is to be privileged, must, among other
+
+things, be a reply to a defamatory attack.” Id. at 576. Therefore, under Shenkman, in order to meet
+
+her burden, Defendant would have to prove - after the motion to dismiss stage - that Ms. Giuffre’s
+
+accusations are defamatory - something she has not done, and never can, because the allegations
+
+of sexual abuse are true.
+
+         Defendant’s other cases are also readily distinguished. For example, she cites Kane v.
+
+Orange Cty. Publications, 232 A.D.2d 526, 649 N.Y.S.2d 23 (1996) in support of her self-defense
+
+privilege, but this was an action brought pursuant to Civil Rights Law § 51, which authorizes a
+
+civil action when the name or likeness of any living person is used for advertising without written
+
+consent. Moreover, since it wasn’t a defamation claim, the court never made a ruling as to whether
+
+to apply any privilege, but merely noted that the complaint allegations “correspond to elements of
+
+a cause of action sounding in libel” and, then, “further note[d]” that it would be “covered by a
+
+
+
+7
+ At least one New York court has found that calling someone a liar is defamation even under the slander standard.
+See Seung Jin Lee v. Tai Chul Kim, 16 Misc. 3d 1118(A), 847 N.Y.S.2d 899 (Sup. Ct. 2007) (denying a motion to
+dismiss when the defendant stated that the plaintiff “is a liar; she tried to cover all the truth; how could she serve the
+Lord with lies; and she and her followers are satanic.”).
+
+                                                            12
+         Case 1:15-cv-07433-RWS Document 23 Filed 12/17/15 Page 18 of 32
+
+
+
+qualified privilege” if the complaint had been brought in libel – which it wasn’t. There is no
+
+holding in Kane applicable to this case.
+
+         C. The Qualified Pre-Litigation Privilege Does Not Exonerate Defendant From Her
+            Malicious Defamatory Statements.
+
+         Defendant’s assertion of the “pre-litigation privilege” is misplaced for several reasons, as
+
+detailed below, but primarily because the pre-litigation privilege is meant to protect parties to a
+
+justiciable controversy in their attempts to narrow or resolve their claims to avoid litigation.
+
+Defendant relies upon a vaguely-worded portion of a 2015 statement that she “reserves her right to
+
+seek redress at the repetition of such old defamatory claims.”8 The indeterminate portion of the
+
+2015 statement does not so much as imply, let alone name, the person or entity against whom
+
+Defendant has supposedly “reserve[d] the right to seek redress,” nor does it hint at what type of
+
+“redress” she may seek. This unclear and vaguely-worded statement is insufficient to shroud
+
+Defendant’s defamatory statements, contained in a press release, with the protection of a qualified
+
+privilege that is intended to protect parties trying to resolve or narrow their issues in advance of
+
+litigation.
+
+         Due to that obvious deficiency, Defendant spends many pages of her brief discussing a
+
+statement she made four years ago, with the hope that the Court will evaluate that statement in
+
+making a determination on the pre-litigation privilege because she knows that no privilege
+
+attaches to her 2015 statements. But, no matter how much she references the 2011 statement, it is
+
+
+
+
+8
+  The January 3, 2015 statement, issued by Ross Gow, Maxwell’s press agent and referred to by Maxwell provides:
+“The allegations made…against Ghislaine Maxwell are untrue. The original allegations are not new and have been
+fully responded to and shown to be untrue. Each time the story is retold it changes, with new salacious details about
+public figures. (The woman’s) claims are obvious lies and should be treated as such and not publicized as news, as
+they are defamatory. Ghislaine Maxwell’s original response to the lies and defamatory claims remains the same. Miss
+Maxwell strongly denies allegations of an unsavory nature, which have appeared in the British press and elsewhere
+and reserves her right to seek redress at the repetition of such claims.” (emphasis added to mirror quotation in ¶ 30 of
+Plaintiff’s Complaint. See McCawley Decl. at Ex. C, January 4, 2015 Express Article.
+
+
+                                                           13
+          Case 1:15-cv-07433-RWS Document 23 Filed 12/17/15 Page 19 of 32
+
+
+
+still not, and never will be, the statement at issue in this case.9 There is no controversy over the
+
+2011 statement. Ms. Giuffre is bringing suit based on a defamatory statement made in 2015.
+
+             1. Defendant’s Statements Are Outside The Scope Of The “Pre-Litigation” Qualified
+                Privilege Because They Are Not Made “Pertinent To Anticipated Good Faith
+                Litigation.”
+
+          Defendant’s statements are outside the scope of any pre-litigation privilege because they
+
+are not pertinent to a good faith anticipated ligation, and because they were made for the improper
+
+purpose of bullying, harassing, and intimidation. This Court has already held that summary
+
+judgment based upon an asserted privilege protecting defamatory pre-litigation communications is
+
+precluded when a plaintiff raises “a genuine issue as to malice and appropriate purpose.” Block,
+
+691 F. Supp. 685, 699 (Sweet, J.). Defendant’s statements that she is lying and her claims of
+
+sexual abuse are “obvious lies” are not pertinent to a good faith anticipated litigation but, instead,
+
+they were made for an inappropriate purpose, to bully, harass, and intimidate Ms. Giuffre. As pled
+
+in the Complaint, Defendant knew the statements were false because Defendant engaged in and
+
+facilitated the sexual abuse of this minor child, therefore, they were made for the inappropriate
+
+purpose of “bullying,” “harassment,” and “intimidation.” See Front v. Khalil, 24 N.Y.3d 713, 720
+
+(2015).
+
+          Defendant’s statements were a message for the public, not a message to the attorneys for
+
+the British press. They were also not made by an attorney, but by a press agent, and they did
+
+nothing to reduce or avoid the need to actually commence litigation because they neither discussed
+
+9
+  The March 10, 2011 statement provides: “Ghislaine Maxwell denies the various allegations about her that have
+appeared recently in the media. These allegations are all entirely false. It is unacceptable that letters sent by Ms.
+Maxwell’s legal representatives to certain newspapers pointing out the truth and asking for the allegations to be
+withdrawn have simply been ignored. In the circumstances, Ms. Maxwell is now proceeding to take legal action
+against those newspapers. ‘I understand newspapers need stories to sell copies. It is well know that certain newspapers
+live by the adage, “why let the truth get in the way of a good story”. However the allegations made against me are
+abhorrent and entirely untrue and I ask that they stop.’ Said Ghislaine Maxwell. ‘A number of newspapers have shown
+a complete lack of accuracy in their reporting of this story and a failure to carry out the most elementary investigation
+or any real due diligence. I am now taking action to clear my name.’ she said.” See McCawley Decl. at Ex. B, March
+2011 Statement.
+
+
+                                                           14
+         Case 1:15-cv-07433-RWS Document 23 Filed 12/17/15 Page 20 of 32
+
+
+
+a justiciable controversy with the British press nor demanded that the coverage discontinue. The
+
+2015, statement plainly shows Defendant using the press to bully, intimidate, and harass Ms.
+
+Giuffre.
+
+         New York’s pre-litigation qualified privilege does not apply to the facts in this case.
+
+Historically, statements made in the course of litigation were entitled to privilege from
+
+defamations claims “so that those discharging a public function may speak freely to zealously
+
+represent their clients without fear of reprisal or financial hazard.” Id. at 718. A 2015 New York
+
+Court of Appeals case somewhat extended this privilege by holding that statements made by
+
+attorneys prior to the commencement of the litigation are protected by a qualified privilege if those
+
+statements are pertinent to a good faith anticipated litigation. Id. at 718. (“Although it is well-
+
+settled that statements made in the course of litigation are entitled to absolute privilege, the Court
+
+has not directly addressed whether statements made by an attorney on behalf of his or her client in
+
+connection with prospective litigation are privileged” . . . “to advance the goals of encouraging
+
+communication prior to the commencement of litigation” . . . “we hold that statements made prior
+
+to the commencement of an anticipated litigation are privileged, and that the privilege is lost
+
+where a defendant proves that the statements were not pertinent to a good faith anticipated
+
+litigation.”).10
+
+
+10
+   The cases cited in Defendant’s own brief in support of this qualified privilege argument all concern actual
+anticipated litigation over a justiciable controversy, where the protected communications involved statements like
+cease and desist letters and counsel’s speech around the courthouse, and they exclusively involve statements made by
+attorneys, or statements to and among parties to the anticipated litigation, and, in one case, the affected malpractice
+insurance carrier. For example in, Int'l Pub. Concepts, LLC v. Locatelli, the communications at issue concerned cease
+and desist letters written by an attorney. 46 Misc. 3d 1213(A), 9 N.Y.S.3d 593 (N.Y. Sup. Ct. 2015). Similarly, in
+Frechtman v. Gutterman, the communication at issue was a letter sent by a client to his attorney terminating the
+representation. 115 A.D.3d 102, 103, 979 N.Y.S.2d 58, 61 (2014). In Kirk v. Heppt, the communication at issue was
+made by an attorney’s client to the attorney’s malpractice carrier concerning the client’s justiciable controversy
+against the attorney. 532 F. Supp. 2d 586, 593 (S.D.N.Y. 2008). Finally, Caplan v. Winslet, cited by Defendant, is
+wholly inapposite to Defendant’s argument as the statement at issue was not within the pre-litigation context at all, but
+in the course of ongoing litigation: the alleged defamatory statement was a lawyer-to-lawyer remark made exiting the
+courthouse. 218 A.D.2d 148, 150-51, 637 N.Y.S.2d 967 (1996). None of these cases involved statements that were
+widely publicized.
+
+
+                                                           15
+         Case 1:15-cv-07433-RWS Document 23 Filed 12/17/15 Page 21 of 32
+
+
+
+         The Court of Appeals’ reason for allowing this qualified privilege could not be more clear:
+
+“When litigation is anticipated, attorneys and parties should be free to communicate in order to
+
+reduce or avoid the need to actually commence litigation. Attorneys often send cease and desist
+
+letters to avoid litigation. Applying privilege to such preliminary communication encourages
+
+potential defendants to negotiate with potential plaintiffs in order to prevent costly and time-
+
+consuming judicial intervention.” Id. at 719-20.
+
+         Under this rationale, the Khalil court found that an attorney’s letters to the potential
+
+defendant were privileged because they were sent “in an attempt to avoid litigation by requesting,
+
+among other things, that Khalil return the alleged stolen proprietary information and cease and
+
+desist his use of that information.” Id. at 720. Neither the dicta in Khalil, the policy rationale
+
+discussed, nor the holding suggests that the privilege should apply to a defamatory statement like
+
+the one at issue in this case. Here, unlike Khalil, the Defendant’s statements were 1) made by a
+
+non-attorney; 2) concerning a non-party to the alleged anticipated litigation; 3) making a
+
+knowingly false statement; and 4) that was directed at, and disseminated to, the public at large.
+
+Defendant’s statements cannot be can be considered “pertinent to a good faith anticipated
+
+litigation,” such that the qualified privilege should apply.
+
+         Moreover, it strains credulity to ask the Court to somehow read the actionable 2015 press
+
+release, calling Ms. Giuffre’s sex abuse claims “obvious lies,” as any type of “cease-and-desist”
+
+statement. This statement was not a communication among the “attorneys and parties,” and it did
+
+nothing to “reduce or avoid” or resolve any “anticipated” litigation. Indeed, Defendant’s
+
+statements make no reference to any cause of action, and they lie in stark contrast to the protected
+
+statements made in Khalil and in all the other cases Defendant cites.11
+
+
+11
+  Unsurprisingly, Defendant cites to no case in which this qualified privilege has been extended to internationally
+disseminated press releases slamming a non-party to the “anticipated” litigation.
+
+
+                                                          16
+        Case 1:15-cv-07433-RWS Document 23 Filed 12/17/15 Page 22 of 32
+
+
+
+       Most important, Defendant may never prevail in asserting this qualified privilege because,
+
+in order to invoke this privilege, she must have “meritorious claims” for “good faith” litigation.
+
+Defendant has neither. Defendant cannot have a “meritorious claim” for “good faith anticipated
+
+litigation” because Ms. Giuffre’s reports of her sexual abuse are true, Defendant knows that they
+
+are true, and Defendant made a knowingly false statement when she called Ms. Giuffre a liar.
+
+Under these circumstances, Defendant has no “meritorious” claim to make in “good faith” relating
+
+to either Ms. Giuffre’s statements or their coverage in the press, thereby making her defamatory
+
+statements wholly outside the protection of this qualified privilege.
+
+           2. Defendant’s Statements Are Outside The Scope Of The “Pre-Litigation” Qualified
+              Privilege Because They Were Made To Bully, Harass, And Intimidate.
+
+       Khalil specifically states that the qualified privilege “does not protect attorneys who are
+
+seeking to bully, harass, or intimidate their client's adversaries by threatening baseless litigation or
+
+by asserting wholly unmeritorious claims, unsupported in law and fact, in violation of counsel's
+
+ethical obligations.” Khalil, 24 N.Y.3d at 720. Defendant’s defamatory statement, that a sexual
+
+abuse victim is lying about her abuse, is purposefully calculated to “bully, harass, or intimidate”
+
+that victim, and keep her silent about Defendant’s wrongdoing. Again, this is an old story.
+
+Defendant, through her press release, is merely trying to discredit Ms. Giuffre in the public eye,
+
+and thereby deflect blame; calling Ms. Giuffre a liar has nothing to do with advancing her interest
+
+in any pretended litigation with the British press. Defendant used the press to defame, discredit,
+
+and intimidate Ms. Giuffre and, therefore, these statements lie wholly outside the scope of a
+
+qualified pre-litigation privilege. See also Block, at 699 (Sweet, J.) (denying summary judgment
+
+on the pre-litigation qualified privilege affirmative defense because there was “a genuine issue as
+
+to malice and appropriate purpose”).
+
+
+
+
+                                                   17
+         Case 1:15-cv-07433-RWS Document 23 Filed 12/17/15 Page 23 of 32
+
+
+
+         In sum, the cases cited by both the Court of Appeals in Khalil and by Defendant’s Motion
+
+to Dismiss applied this privilege only to statements made pertinent to good faith anticipated
+
+litigation, among interested parties, because this qualified privileged is designed to facilitate the
+
+negotiation, settlement, or refinement of claims prior to an action being filed. It should not be
+
+applied to a socialite using her press agent to disseminate defamatory statements to the entire
+
+world, least of all where it maligns a non-party to alleged anticipated litigation that cannot, in any
+
+event, be brought in good faith because of Defendant’s personal role in the underlying sexual
+
+abuse.
+
+   II.      Ms. Giuffre Has Properly Pled A Defamation Claim.
+
+         As a fallback argument, Defendant raises various alleged technical deficiencies in Ms.
+
+Giuffre’s complaints. These arguments, too, are totally without merit. Defendant claims that Ms.
+
+Giuffre did not provide the “context” of Defendant’s defamatory statement, but (1) a motion to
+
+dismiss is not a proper vehicle to litigate the “context” in which statements are made, and (2) Ms.
+
+Giuffre did, in fact, provide sufficient “context” under New York law. What’s more, even if
+
+further context were appropriate in the pleadings, it would only show that Defendant deliberately
+
+made false, defamatory, and injurious statements about Ms. Giuffre. Defendant also alleges that
+
+Ms. Giuffre failed to provide sufficient detail. This claim, too, lacks any merit because the
+
+Complaint clearly specifies the nature of the statements made by Defendant.
+
+         A. Viewed In Context, Defendant’s Assault On Ms. Giuffre Is Defamatory.
+
+         Defendant asks the Court to conclude, on a motion to dismiss, that “when viewed in
+
+context, the statements are not actionable defamatory statements.” MTD at p. 17. The Defendant
+
+does not advise the Court how it could possibly begin to make such a “context” determination.
+
+Presumably, the Court would have to have the full context for all statements covered by the
+
+Complaint and then evaluate the context for defamatory meaning. Of course, because Ms. Giuffre
+
+                                                  18
+            Case 1:15-cv-07433-RWS Document 23 Filed 12/17/15 Page 24 of 32
+
+
+
+has just filed her Complaint, a fully-developed record does not exist for any such evaluation. The
+
+Defendant’s argument should be rejected for this reason.
+
+           Defendant also contends that because the Complaint did not set forth the immaterial and
+
+nonactionable portions of Defendant’s defamatory press release, the Complaint is insufficiently
+
+pled, but that is not the standard under New York law. The Complaint does not employ “vague
+
+and conclusory allegation[s]”12 without specifying “the actual defamatory words,”13 nor does the
+
+Complaint fail to “set forth in any manner the words which he claims are actionable so as to give
+
+defendants notice of the statements at issue,”14 as was the situation in the inapposite cases
+
+Defendant cites. To the contrary, the Complaint uses direct, word-for-word quotes of Defendant’s
+
+press statements, giving all the particulars of their origination. For that reason, Ms. Giuffre’s
+
+Complaint satisfies the pleading requirements.15
+
+           On the issue of context, this case is most closely akin to the recent New York Court of
+
+Appeals case Davis v. Boeheim, 24 N.Y.3d 262, 265, 22 N.E.3d 999 (2014). In Boeheim, plaintiffs
+
+were victims of sexual molestation by Bernie Fine, a former associate head basketball coach for
+
+Syracuse University. Following plaintiffs’ accusations of sex abuse, James Boeheim, Fine’s
+
+friend, published statements calling plaintiffs liars, and stating their allegations were financially
+
+motivated. Plaintiffs sued for defamation.
+
+           The Court of Appeals specifically held that such defamation allegations easily survive a
+
+motion to dismiss. The Court explained that, on a motion to dismiss, a court “merely examines
+12
+     Dillon v. City of New York, 261 A.D.2d 34, 39-40, 704 N.Y.S.2d 1 (1999).
+13
+     Edwards v. Great N. Ins. Co., No. 03cv2947(NG)(RML), 2006 WL 2053717, at *5 (E.D.N.Y. July 21, 2006).
+14
+  Wanamaker v. Columbian Rope Co., 713 F. Supp. 533, 545 (N.D.N.Y. 1989) aff'd, 108 F.3d 462 (2d Cir. 1997) and
+aff'd, 108 F.3d 462 (2d Cir. 1997).
+15
+   Further, the Complaint incorporates by reference the remainder of Defendant’s published statements in the January
+3, 2015, statement. See, e.g., McCawley Decl., Ex. 1, Compl. at ¶ 31, 37. All of Defendant’s published statements are
+publically available, and Defendant has full notice of the statements at issue because she issued them to the press and
+Defendant does not deny making them. In an abundance of caution, Plaintiff has the quotes herein and attached the
+press release statements to her declaration as Ex.’s B and C.
+
+
+                                                          19
+         Case 1:15-cv-07433-RWS Document 23 Filed 12/17/15 Page 25 of 32
+
+
+
+the adequacy of the pleadings,” asking “whether the contested statements are reasonably
+
+susceptible of a defamatory connotation.” 22 N.E.3d at 1003. (Internal citations omitted.) The
+
+Court emphasized that “[i]f, upon any reasonable view of the stated facts, plaintiff would be
+
+entitled to recovery for defamation, the complaint must be deemed to sufficiently state a cause of
+
+action.” Id. The Court minded trial courts to be wary of dismissing claims at the outset in light of
+
+a plaintiff's “right to seek redress, and not have the courthouse doors closed at the very inception
+
+of an action, where the pleading meets [the] minimal standard necessary to resist dismissal of [the]
+
+complaint.” Id. at 1003-04.
+
+        The Court of Appeals went on to find the complaint fully stated a cause of action because
+
+statements alleging that a person told lies about accusations of sexual abuse are “susceptible of a
+
+defamatory connotation” because they “tend[] to expose [Plaintiff] to public contempt, hatred,
+
+ridicule, aversion or disgrace.” Id. at 1004. The Court of Appeals also emphasized that the
+
+statements were defamatory because they “are capable of being proven true or false, as they
+
+concern whether plaintiffs made false sexual abuse allegations against Fine in order to get money,
+
+and whether [one of the plaintiffs] had made false statements in the past.” Id. at 1006. Of course,
+
+exactly the same points that the Court of Appeals made about the statements attacking the victims
+
+of Fine apply to Defendant’s statements attacking Ms. Giuffre.
+
+        B. The Complaint Alleges Whom, Where, And In What Manner The January
+           Statement Was Made With Specificity And Supporting Facts.
+
+        Ms. Giuffre has pled every element for a cause of action for defamation under New York
+
+and Colorado law which are substantively similar.16 Under New York law, the elements of a
+
+defamation claim are: (1) a false statement, published to a third party; (2) without authorization or
+
+
+16
+   The defamatory statements were made in New York, the Defendant resides in New York, and there is no conflict
+between New York and Colorado law, therefore, New York has the most significant interest in the issue of this
+litigation and New York law should apply. Catalanello v. Kramer, 18 F. Supp. 3d 504, 511 (S.D.N.Y. 2014).
+
+
+                                                       20
+         Case 1:15-cv-07433-RWS Document 23 Filed 12/17/15 Page 26 of 32
+
+
+
+privilege; (3) fault, judged at a minimum by a negligence standard; and (4) special harm or
+
+defamation per se. Dillon v. City of New York, 261 A.D.2d 34 (1999).17
+
+         Ms. Giuffre has met every requirement in her Complaint. Ms. Giuffre explained in her
+
+Complaint that she “became a victim of sexual trafficking and repeated sexual abuse after being
+
+recruited by Ghislaine Maxwell and Jeffrey Epstein when Giuffre was under the age of
+
+eighteen…Between 1999 and 2002, with the assistance and participation of Maxwell, Epstein
+
+sexually abused Giuffre at numerous locations including his mansions in West Palm Beach,
+
+Florida, and in this District. With the assistance of Maxwell, Epstein was able to sexually abuse
+
+Giuffre for years until Giuffre eventually escaped.” See McCawley Decl., Ex. 1, Compl. at ¶¶ 8, 9
+
+and 16. With respect to the first elements of a defamation claim, Giuffre has pled a defamatory
+
+statement concerning another: Defendant stated through her press agent that Ms. Giuffre’s reports
+
+of her child sexual abuse were “obvious lies.” See McCawley Decl., Ex. 1, Compl. at ¶ 30.
+
+Second, she has pled publication to a third parties, stating that Defendant’s agent “issued an
+
+additional false statement to the media and public,” and to “a reporter on a Manhattan street.” Id.
+
+at ¶ 30, ¶ 37. Third, Ms. Giuffre has alleged more than “fault amounting to at least negligence on
+
+the part of the publisher;” she has alleged malice and that Defendant made the statements
+
+knowingly because Defendant herself participated in the abuse. See McCawley Decl., Ex. 1,
+
+Compl. at ¶ 9. (“Between 1999 and 2002, with the assistance and participation of Maxwell,
+
+Epstein sexually abused Giuffre at numerous locations including his mansion in West Palm Beach,
+
+Florida, and in this District.”). Among other similar allegations, the Complaint states: “Maxwell’s
+
+statements were published intentionally for the malicious purpose of further damaging a sexual
+
+
+17
+  Accord, Lawson v. Stow, 2014 COA 26, ¶ 15, 327 P.3d 340, 345 (Under Colorado law, the elements of a defamation
+claim are “(1) a defamatory statement concerning another; (2) published to a third party; (3) with fault amounting to at
+least negligence on the part of the publisher; and (4) either actionability of the statement irrespective of special
+damages or the existence of special damages to the plaintiff caused by the publication.”).
+
+
+                                                          21
+        Case 1:15-cv-07433-RWS Document 23 Filed 12/17/15 Page 27 of 32
+
+
+
+abuse and sexual trafficking victim; to destroy Giuffre’s reputation and credibility” and that
+
+Defendant “made her false statements knowing full well that they were completely false.
+
+Accordingly, she made her statements with actual and deliberate malice, the highest degree of
+
+awareness of falsity.” Compl. at ¶¶ 8-9. Fourth, Ms. Giuffre pled defamation per se, alleging that
+
+the false statements “exposed Giuffre to public contempt, ridicule, aversion, and disgrace, and
+
+induced an evil opinion of her in the minds of right-thinking persons.” Furthermore, the Complaint
+
+alleges that Defendant’s defamatory statements “tended to injure Giuffre in her professional
+
+capacity as the president of a non-profit corporation designed to help victims of sex trafficking,
+
+inasmuch as they destroyed her credibility and reputation among members of the community that
+
+seeks her help and that she seeks to serve.” See McCawley Decl., Ex. 1, Compl. at ¶ 11.
+
+       Not only has Ms. Giuffre fully pled defamation, but also the Complaint alleges many
+
+supporting facts, giving Defendant full notice of the nature of the action. Ms. Giuffre has
+
+“specif[ied] who made the statements, when they were made, to whom they were made and in
+
+what context they were made.” Deutsche Asset Mgmt., Inc. v. Callaghan, No. 01 Civ 4426 CBM,
+
+2004 WL 758303, at *12. As to “who” made the statements, Ms. Giuffre specified that
+
+Defendant’s “agent, Ross Gow” gave the statement under Defendant’s authority, and that
+
+Defendant made the statement in Manhattan. See McCawley Decl., Ex. 1, Compl. at ¶ 29 and ¶ 37.
+
+As to the “when,” the Complaint alleges the very days they were made: “On or about January 3,
+
+2014” and “[o]n or about January 4, 2015.” See McCawley Decl., Ex. 1, Compl. at ¶ 29 and ¶ 37.
+
+Additionally, paragraphs 9 through 29 of the Complaint provides ample “context,” narrating the
+
+factual history of Defendant’s abuse of Ms. Giuffre and referring to Defendant’s statements
+
+published by the media. These defamatory statements, as alleged in the Complaint, were widely
+
+disseminated internationally and online, as acknowledged by Defendant in the instant motion.
+
+MTD at p. 18. Accordingly, not only does the Complaint plead all of the elements of defamation
+
+                                                 22
+        Case 1:15-cv-07433-RWS Document 23 Filed 12/17/15 Page 28 of 32
+
+
+
+per se, but it gives ample factual backing to support those elements. Defendant does not deny
+
+making these statements, nor challenge the accuracy of their dissemination by the media.
+
+       Finally, Defendant’s statements impugning Ms. Giuffre honesty and calling her a liar are
+
+especially defamatory because they disparage Ms. Giuffre in her profession as president and
+
+founder of the not-for-profit whose mission is to fight sexual abuse and human trafficking. Celle v.
+
+Filipino Reporter Enterprises, Inc., 209 F.3d 163, 179-80 (2d Cir. 2000) (“[I]t is actionable
+
+without proof of damage to say of a physician that he is a butcher ..., of an attorney that he is a
+
+shyster, of a school teacher that he has been guilty of improper conduct as to his pupils, of a
+
+clergyman that he is the subject of scandalous rumors, of a chauffeur that he is habitually drinking,
+
+of a merchant that his credit is bad or that he sells adulterated goods, of a public officer that he has
+
+accepted a bribe or has used his office for corrupt purposes … - since these things discredit [one]
+
+in his chosen calling.”). Defendant’s statements that Ms. Giuffre lied about her own past sex abuse
+
+discredits Ms. Giuffre in her “chosen calling” and profession of being an advocate for sex abuse
+
+victims. They paint her as a faker. Defendant’s statements tell the audience that Defendant knows
+
+that Ms. Giuffre’s professional endeavors are built upon a lie, thus destroying both Ms. Giuffre’s
+
+reputation and the reputation and credibility of her foundation.
+
+       C. Ms. Giuffre Has Pled Defamation Per Se And Does Not Need To Plead Special
+          Damages.
+
+       Ms. Giuffre has sufficiently alleged defamation per se under New York law, suing in libel
+
+based on Defendant’s published defamatory statements. Ms. Giuffre need not plead or prove
+
+special damages because the defamatory statements “tend to expose the plaintiff to public
+
+contempt, ridicule, aversion or disgrace, or induce an evil opinion of [her] in the minds of right-
+
+thinking person, and to deprive [her] of their friendly intercourse in society.” Matherson v.
+
+Marchello, 100 A.D.2d 233, 235, 473 N.Y.S.2d 998, 1000-01 (1984). Furthermore, Defendant is
+
+
+
+                                                   23
+         Case 1:15-cv-07433-RWS Document 23 Filed 12/17/15 Page 29 of 32
+
+
+
+wholly incorrect in stating that a defamation per se claim is limited to professionals who are
+
+defamed within the context of their profession and suffer damages relating to their profession.
+
+         Here, Defendant confuses, or deliberately conflates, slander and libel, two types of
+
+defamation with substantially different elements required to state a claim. Defendant cites
+
+Liberman v. Gelstein, for the proposition that, in order to be actionable, Defendant’s statements
+
+“‘must be made with reference to a matter of significance and importance for [the plaintiff’s
+
+profession, trade or office].’” 80 N.Y.2d 429, 431, 605 N.E.2d 344 (1992). However, Liberman
+
+concerned a slander case. Slander is defamation that is spoken by defendant, and an action lies in
+
+slander for very limited types of speech. However, those limitations are irrelevant in this case
+
+because this case concerns libel, a form of defamation that is a written or published statement
+
+(and, as such, typically far more widely disseminated). Pleading and proving libel per se is not
+
+limited to the four circumstances required for slander, but has a much broader definition.18
+
+Similarly, the other cases cited by Defendant, Thompson v. Bosswick, 855 F. Supp. 2d 67
+
+(S.D.N.Y. 2012) and Pure Power Boot Camp, Inc. v. Warrior Fitness Boot Camp, LLC, 813 F.
+
+Supp. 2d 489, 503 (S.D.N.Y. 2011), also concerned slander, not libel and, therefore, their holdings
+
+are inapplicable.
+
+         Instead, in libel actions, the “challenged language is actionable per se if it tends to expose
+
+another to ‘public hatred, shame, obloquy, contempt, ridicule, aversion, ostracism, degradation, or
+
+disgrace’ or ‘to induce an evil opinion of one in the minds of right-thinking persons and to deprive
+
+one of one's confidence and friendly intercourse in society’ or tends to disparage a person in the
+
+way of his office, profession or trade.” Idema v. Wager, 120 F. Supp. 2d 361, 367 (S.D.N.Y. 2000)
+
+
+
+18
+  “[S]lander per se” consists of statements (i) charging plaintiff with a serious crime; (ii) that end to injure another in
+his or her trade, business or profession; (iii) that plaintiff has a loathsome disease; or (iv) imputing unchastity to a
+woman. Liberman v. Gelstein, 80 N.Y.2d 429, 435, 605 N.E.2d 344 (1992).
+
+
+                                                            24
+        Case 1:15-cv-07433-RWS Document 23 Filed 12/17/15 Page 30 of 32
+
+
+
+aff'd, 29 F. App'x 676 (2d Cir. 2002) (internal citations omitted); Massre v. Bibiyan, No. 12 CIV.
+
+6615 KPF, 2014 WL 2722849, at *10 (S.D.N.Y. June 16, 2014).
+
+       Ms. Giuffre has pled libel per se, as the statement that Defendant lied about being a sexual
+
+abuse victim is more than sufficient to expose her to “public contempt, ridicule, aversion, and
+
+disgrace, and induced an evil opinion of her in the minds of right-thinking persons.” See
+
+McCawley Decl., Ex. 1, Compl. at ¶ 10. Additionally, Ms. Giuffre pled that “Maxwell’s false
+
+statements also constitute libel per se inasmuch as they tended to injure Giuffre in her professional
+
+capacity as the president of a non-profit corporation designed to help victims of sex trafficking,
+
+and inasmuch as they destroyed her credibility and reputation among members of the community
+
+that seeks her help and that she seeks to serve.” See McCawley Decl., Ex. 1, Compl. at ¶ 11.
+
+Accordingly, Ms. Giuffre has pled libel per se.
+
+                                          CONCLUSION
+
+       Ms. Giuffre has set forth a well pled claim for defamation. The Court should accordingly
+
+deny Defendant’s Motion to Dismiss and allow the case to proceed.
+
+Dated: December 17, 2015
+
+                                              Respectfully Submitted,
+
+                                              BOIES, SCHILLER & FLEXNER LLP
+
+                                         By: /s/ Sigrid McCawley
+                                              Sigrid McCawley (Pro Hac Vice)
+                                              Boies, Schiller & Flexner LLP
+                                              401 E. Las Olas Blvd., Suite 1200
+                                              Ft. Lauderdale, FL 33301
+                                              (954) 356-0011
+
+                                               David Boies
+                                               Boies, Schiller & Flexner LLP
+                                               333 Main Street
+                                               Armonk, NY 10504
+
+
+
+                                                  25
+Case 1:15-cv-07433-RWS Document 23 Filed 12/17/15 Page 31 of 32
+
+
+
+                             Ellen Brockman
+                             Boies, Schiller & Flexner LLP
+                             575 Lexington Ave
+                             New York, New York 10022
+                             (212) 446-2300
+
+
+
+
+                               26
+        Case 1:15-cv-07433-RWS Document 23 Filed 12/17/15 Page 32 of 32
+
+
+
+
+                                  CERTIFICATE OF SERVICE
+
+       I HEREBY CERTIFY that on December 17, 2015, I electronically filed the foregoing
+
+document with the Clerk of Court by using the CM/ECF system. I also certify that the foregoing
+
+document is being served this day on the individuals identified below via transmission of Notices of
+
+Electronic Filing generated by CM/ECF.
+
+       Laura A. Menninger, Esq.
+       HADDON, MORGAN & FOREMAN, P.C.
+       150 East 10th Avenue
+       Denver, Colorado 80203
+       Tel: (303) 831-7364
+       Fax: (303) 832-2628
+       Email: lmenninger@hmflaw.com
+
+
+                                                       /s/ Sigrid S. McCawley
+                                                           Sigrid S. McCawley
+
+
+
+
+                                                  27
+

@@ -1,0 +1,1371 @@
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+
+--------------------------------------------------X
+
+
+
+
+                                                      ...............................................
+VIRGINIA L. GIUFFRE,
+
+        PLAINTIFF,
+V.
+                                                                                                                     15-cv-07433-RWS
+GHISLAINE MAXWELL,
+
+        DEFENDANT.
+
+
+----------------------------------------------X
+
+
+
+                    GHISLAINE MAXWELL’S MEMORANDUM OF LAW
+                    IN SUPPORT OF MOTION TO DISMISS COMPLAINT
+
+
+
+
+                                                                                                        Laura A. Menninger, Esq.
+                                                                                                        HADDON, MORGAN AND FOREMAN, P.C.
+                                                                                                        150 East 10th Avenue
+                                                                                                        Denver, CO 80203
+                                                                                                        Tel: 303.831.7364
+
+Dated: November 30, 2015
+
+
+
+
+                                                                                                        i
+                                                 Table of Contents
+
+
+I.     MS. MAXWELL’S STATEMENTS ARE PRIVILEGED .......................................... 9
+
+     A. The Self-Defense Privilege Protects Ms. Maxwell’s Statements .............................. 9
+
+     B. The Pre-Litigation Privilege Protects Ms. Maxwell’s Statements .......................... 14
+
+II. PLAINTIFF FAILED TO PLAUSIBLY PLEAD DEFAMATION .......................... 17
+
+     A. Viewed In Context, the Statements are Non-Actionable ........................................ 18
+
+     B. The Complaint Does Not Allege to Whom, Where or in What Manner the January
+        3 Statement Was Made ............................................................................................ 22
+
+     C. Plaintiff Has Not Properly Pled Special Damages .................................................. 23
+
+        a. The Alleged Defamatory Statement is Not Defamatory Per Se .......................... 23
+
+        b. Failure to Allege Special Damages Warrants Dismissal ..................................... 24
+
+CONCLUSION ................................................................................................................. 25
+
+
+
+
+                                                              ii
+                                                              Cases
+
+Abrams v. United States, 250 U.S. 616, 630 (1919) .......................................................... 17
+
+Adelson v. Harris, 973 F. Supp.2d 467, 477 (S.D.N.Y. 2013) ............................................ 7
+
+Armstrong v. Simon & Schuster, Inc., 625 N.Y.S.2d 477 (1995) ....................................... 7
+
+Ashcroft v. Iqbal, 129 S. Ct. 1937, 1949 (2009) .................................................................. 6
+
+Bell Atlantic Corp. v. Twombly, 550 U.S. 544, 570 (2007) ................................................ 7
+
+Biro v. Conde Nast, 883 F.Supp.2d 441, 457 (S.D.N.Y. 2012) .................................... 7, 12
+
+Caplan v. Winslet, 218 A.D.2d 148, 153 (1st Dep’t 1996) ............................................... 13
+
+Celle v. Fillipino Reporter Enters, Inc., 209 F.3d 163 (2d Cir. 2000) .............................. 17
+
+Club Valencia Homeowners Ass’n, Inc. v. Valencia Associates, 712 P.2d 1024 (Colo.
+
+   App. 1985) ..................................................................................................................... 13
+
+Cohen v. Stevanovich, 772 F.Supp.2d 416, 423 (S.D.N.Y. 2010) ...................................... 7
+
+Collier v. Possum Cereal Co., Ltd., 134 N.Y.S. 847, 853 (1st Dep’t 1912) ....................... 9
+
+Couloute, Jr. v. Rynarz, No. 11 CV 5986 (HB), 2012 WL 541089, (S.D.N.Y. 2012) ..... 17
+
+Cruz v. Marchetto, No. 11 Civ. 8378, 2012 WL 4513484 (S.D.N.Y. 2012) .......... 7, 20, 21
+
+Culver v. Merrill Lynch & Co., 1995 US Dist. LEXIS 10017 (S.D.N.Y. 1995) .............. 13
+
+Deutsche Asset Mgmt, Inc. v. Callaghan, No. 01 Civ 4426 CBM, 2004 WL 758303 ...... 16
+
+Dillon v. City of New York, 704 N.Y.S.2d 1, 5 (1st Dep’t 1999) ................................... 8,18
+
+Edwards v. Great Northern Ins. Co., No. 03 CV 2947 (NG) (RML), 2006 WL 2053717,
+
+   (E.D.N.Y. July 21, 2006) ............................................................................................... 18
+
+Foretich v. Capital Cities/ABC, Inc., 37 F.3d 1541 (4th Cir. 1994) ............................. 8, 11
+
+Fowler v. New York Herald, 172 N.Y.S. 423 (1st Dep’t 1918) ........................................... 8
+
+                                                                 iii
+Frechtman v. Gutterman, 979 N.Y.S.2d 58 (1st Dep’t 2014) ........................................... 14
+
+Front, Inc. v. Khalil, 24 N.Y.3d 713, 720 (2015) .............................................................. 13
+
+Fuji Photo Film U.S.A., Inc. v. McNulty, 669 F.Supp.2d 405 (S.D.N.Y. 2009) ................. 8
+
+Gertz v. Robert Welch, Inc., 418 U.S. 323, 325 (1974) ..................................................... 17
+
+Hawkins v. City of New York, No. 99 Civ. 11704 (RWS), 2005 WL 1861855 (S.D.N.Y.
+
+   Aug. 4, 2005) ..................................................................................................... 20, 21, 23
+
+Hoesten v. Best, 821 N.Y.S.2d 40 (1st Dep't 2006) .......................................................... 12
+
+Independent Living Aids, Inc. v. Maxi-Aids, Inc., 981 F.Supp. 124 (E.D.N.Y. 1997) ...... 19
+
+International Publishing Concepts, LLC v. Locatelli, 9 N.Y.S.3d 593, 2015 N.Y. Slip Op.
+
+   50049 (N.Y. Sup. Ct. Jan. 15, 2015) ............................................................................. 14
+
+J.P.R. Cafeteria, Inc. v. Kingsborough Community College of City University of New
+
+   York, 847 N.Y.S.2d 902 (N.Y. Sup. Ct. Aug. 21, 2007) ............................................... 21
+
+Kane v. Orange Cnty. Publ’n, 232 A.D.2d 526, 527 (2d Dept. 1996) ................................ 8
+
+Keohane v. Stewart, 882 P.2d 1293 (Colo. 1994) ............................................................. 17
+
+Kforce, Inc. v. Alden Personnel, Inc., 288 F.Supp.2d 513, 516 (S.D.N.Y. 2003) ...... 16, 21
+
+Kirk v. Heppt, 532 F.Supp.2d 586 (S.D.N.Y. 2008) ......................................................... 14
+
+Krepps v. Reiner, 588 F.Supp.2d 471, 483 (S.D.N.Y. 2008) .............................................. 7
+
+Liberman v. Gelstein, 80 N.Y.2d 429, 590 (N.Y. 1992) ................................................... 22
+
+McNamee v. Clemens, 762 F.Supp.2d 584, 601 (E.D.N.Y. 2011) .................................... 19
+
+Mencher v. Chesley, 85 N.Y.S.2d 431 (N.Y. Sup. Ct. 1948) .............................................. 9
+
+Orenstein v. Figel, 677 F.Supp.2d 706, 711 (S.D.N.Y. 2009) ............................................ 8
+
+Preston v. Hobbs, 146 N.Y.S. 419 (1st Dep’t 1914) ............................................................ 9
+
+                                                              iv
+Pure Power Boot Camp, Inc. v. Warrior Fitness Boot Camp, LLC, 813 F.Supp.2d 489,
+
+  550 (S.D.N.Y. 2011) ...................................................................................................... 22
+
+Sexter v. Warmflash, P.C. v. Margrabe, 828 N.Y.S.2d 315 (1st Dep’t 2007) .................. 14
+
+Shenkman v. O’Malley, 157 N.Y.S.2d 290, 297-98 (1st Dep’t 1956).................................. 8
+
+Siegel v. Metropolitan Life Ins. Co., 32 N.Y.S.2d 658 (1st Dep’t 1942) ............................. 8
+
+Thai v. Cayre Group, Ltd., 726 F.Supp.2d 323, 330 (S.D.N.Y. 2010) ............................. 23
+
+Thai v. Cayre Grp., Ltd., 726 F. Supp. 2d 323, 330 (S.D.N.Y. 2010) .............................. 16
+
+Thompson v. Bosswick, 855 F.Supp.2d 67, 77 (S.D.N.Y. 2012) ................................. 21, 22
+
+TMJ Implants, Inc. v. Aetna, Inc., 498 F.3d 1175, 1182-83 (10th Cir. 2007) ...................... 9
+
+Treppel v. Biovail Corp., No. 03 Civ. 3002 (PKL), 2005 WL 2086339, at *7 (S.D.N.Y.
+
+  Aug. 30, 2005) ................................................................................................................. 7
+
+U.S. S.E.C. v. Power, 525 F. Supp.2d 415, 418 (S.D.N.Y. 2007) ....................................... 3
+
+Wanamaker v. Columbian Rope Co., 713 F.Supp.533, 545 (S.D.N.Y. 1989) .................. 18
+
+Weldy v. Piedmont Airlines, Inc., 985 F.2d 57, 62 (2d Cir. 1993) .................................... 11
+
+Williams v. Burns, 463 F.Supp. 1278, 1282 (D. Colo. 1979) .............................................. 9
+
+Yuan v. Rivera, 1998 WL 63404, at *5 (S.D.N.Y. Feb. 17, 1998) .................................... 12
+
+Zerr v. Johnson, 894 F. Supp. 374, 376 (D. Colo. 1995) .................................................. 16
+
+
+
+
+                                                                v
+                                    INTRODUCTION
+
+       The Plaintiff in this case falsely and maliciously launched a media campaign
+
+several years ago in the United Kingdom accusing Defendant Ghislaine Maxwell of
+
+serious and criminal sexual abuse from 1999-2002. Plaintiff repeated those allegations in
+
+litigation pleadings to which Ms. Maxwell was not a party and which since have been
+
+stricken as “immaterial and impertinent.” Those pleadings were widely circulated to the
+
+public by various media outlets in the United States and abroad, further generating
+
+interest in Plaintiff’s spurious claims. Plaintiff’s allegations of sexual abuse extend
+
+beyond just Ms. Maxwell and encompass many notable public figures, such as Prince
+
+Andrew and Harvard Law Professor Alan Dershowitz, as well as un-named “numerous
+
+American politicians, powerful business executives, foreign presidents, a well-known
+
+Prime Minister, and other world leaders.” Plaintiff’s targeting of such notable public
+
+figures has served only to enhance the media spotlight on the false accusations directed at
+
+Ms. Maxwell.
+
+       In response to Plaintiff’s published claims, Ms. Maxwell (like Prince Andrew and
+
+Professor Dershowitz), issued general denials to the allegations. Those two denials form
+
+the basis of this defamation action: Plaintiff claims it defamatory for Ms. Maxwell to
+
+have issued statements through her London agent that Plaintiff’s allegations “are untrue,”
+
+“shown to be untrue” and “obvious lies.”
+
+       Long-settled New York law renders denials such as Ms. Maxwell’s privileged
+
+under the law and requires dismissal of this defamation action. As one commentator
+
+wrote in 1881, “If I am attacked in a newspaper, I may write to that paper to rebut the
+
+                                              1
+charges, and I may at the same time retort upon my assailant, when such retort is a
+
+necessary part of my defense, or fairly arises out of the charges he has made against me.”
+
+William Blade Odgers, A Digest of the Law of Libel and Slander (1st Am. ed. Bigelow
+
+1881). Because Ms. Maxwell’s denials were proportionate, relevant and not excessively
+
+publicized replies to Plaintiff’s claims, rendered without malice, she is entitled to the
+
+privilege of self-defense and this Complaint should be dismissed. Moreover, because the
+
+denials when viewed in context demonstrate that they were pre-litigation demands to the
+
+British newspapers to cease and desist, they likewise are entitled to the litigation
+
+privilege.
+
+       Finally, the Complaint falls woefully short of a well-pled defamation claim. New
+
+York law makes clear that general denials, as compared to specific defamatory denials,
+
+are non-actionable in defamation. Plaintiff also neglected to state when, to whom and in
+
+what manner the statements were made and she omitted any special damages or facts
+
+establishing defamation per se.
+
+       Each of these reasons forms a separate and independent basis to dismiss the
+
+Complaint pursuant to Rule 12(b)(6). Ms. Maxwell seeks this Court’s assistance in
+
+serving as a gatekeeper to dismiss this spurious defamation claim.Be clear: Maxwell
+
+absolutely denies VR’s claims made about her in pleadings filed in cases to which she was not a
+
+party and in paid media interviews to trashy British publications.
+
+       “General denials are not actionable” in defamation. General denials issued as a part of a
+
+cease and desist to the news organizations publishing the false and salacious accusations are
+
+privileged. No special damages and no defamation per se.
+
+
+                                                2
+                                       FACTUAL ALLEGATIONS1
+
+         Plaintiff has repeatedly and falsely accused Ms. Ghislaine Maxwell of sexual abuse
+
+occurring between 1999 and 2002. Since 2009, Plaintiff has set forth these false claims in
+
+pleadings filed in various federal civil actions in Florida. Compl. ¶ 8-21, 26-27. Ms. Maxwell
+
+was not a party to any of those litigations: not the criminal case against Mr. Epstein (Compl.
+
+¶ 14), any non-prosecution agreement between Mr. Epstein and the U.S. Attorney’s Office
+
+(Compl. ¶¶ 11-13), the litigation concerning the Crime Victim’s Rights Act (CVRA) still
+
+pending in U.S. District Court for the Southern District of Florida (Compl. ¶¶ 15-16), and not
+
+Plaintiff’s 2009 civil suit against Mr. Epstein (Compl. ¶¶ 17-21). No criminal charges were ever
+
+brought against Ms. Maxwell, and Plaintiff never sought to join Ms. Maxwell to any of her civil
+
+matters involving Mr. Epstein.
+
+         Plaintiff’s accusations against Ms. Maxwell were not confined to legal proceedings,
+
+however. Beginning in or around March 2011, Plaintiff granted “exclusive” interviews to the
+
+British press, using her real name, during which she repeated her false allegations against Ms.
+
+Maxwell and also levied accusations against countless prominent public figures such as Prince
+
+Andrew, Harvard Law professor Alan Dershowitz, and “a well-known businessman (whose
+
+pregnant wife was asleep in the next room), a world-renowned scientist, a respected liberal
+
+politician and a foreign head of state.” See Declaration of Laura A. Menninger (“Menninger
+
+Decl.”) Ex. A, at 3.
+
+
+
+
+         1
+           This statement of facts is based on (1) the allegations set forth in the Complaint; and (2) documents
+referenced in the Complaint, but which were not attached to the pleading. U.S. S.E.C. v. Power, 525 F. Supp.2d
+415, 418 (S.D.N.Y. 2007) (J. Sweet) (On a motion to dismiss, “[t]he Court may also consider any
+documents…incorporated by reference into the complaint.”). Further, pursuant to Fed. R. Civ. P. 12(d), if the
+motion is treated as one for summary judgment, “[a]ll parties must be given a reasonable opportunity to present all
+the material that is pertinent to the motion.”
+
+                                                         3
+         In response to Plaintiff’s 2011 British tabloid interviews, on March 9, 2011 a “Statement
+
+on Behalf of Ghislaine Maxwell” was issued by Devonshires Solicitors (“2011 Statement”).
+
+Menninger Decl. Ex. B.2 The 2011 Statement provides in its entirety:
+
+         Ghislaine Maxwell denies the various allegations about her that have appeared
+         recently in the media. These allegations are all entirely false.
+
+         It is unacceptable that letters sent by Ms. Maxwell’s legal representatives to
+         certain newspapers pointing out the truth and asking for the allegations to be
+         withdrawn have simply been ignored.
+
+         In the circumstances, Ms. Maxwell is now proceeding to take legal action against
+         those newspapers.
+
+         “I understand newspapers need stories to sell copies. It is well known that certain
+         newspapers live by the adage, ‘why let the truth get in the way of a good story.’
+         However, the allegations made against me are abhorrent and entirely untrue and I
+         ask that they stop,” said Ghislaine Maxwell.
+
+         “A number of newspapers have shown a complete lack of accuracy in their
+         reporting of this story and a failure to carry out the most elementary investigation
+         or any real due diligence. I am now taking action to clear my name,” she said.
+
+Plaintiff did not bring suit against Ms. Maxwell for defamation based on the 2011 Statement.
+
+         More than three years later, on December 30, 2014, Plaintiff moved under Rule 21 to join
+
+the 2008 CVRA litigation in the U.S. District for the Southern District of Florida (“Joinder
+
+Motion”). Compl. ¶¶ 16, 26, 27. Plaintiff included in her Joinder Motion “lurid details”
+
+concerning her supposed sexual abuse by Ms. Maxwell and other non-parties to that CVRA
+
+action, including professor Alan Dershowitz, “numerous American politicians, powerful business
+
+executives, foreign presidents, a well-known Prime Minister, and other world leaders.”
+
+Menninger Decl. Ex. C at 4-5. On April 7, 2015, U.S. District Court Judge Marra denied
+
+Plaintiff’s Joinder Motion, ordered the portions of the Joinder Motion pertaining to non-parties
+
+
+
+         2
+           Although the Complaint does not explicitly mention the 2011 Statement, it appears Plaintiff believes it to
+be the “additional” statement referenced on paragraphs 30 and 31 based on her production of the statement as a part
+of her Rule 26 disclosures.
+
+                                                          4
+such as Ms. Maxwell stricken as “immaterial and impertinent,” and restricted the documents
+
+mentioning those “lurid details” from public access. Id.; Menninger Decl. Ex.D. Despite the
+
+court’s attempt to shield the false statements, the bell could not be un-rung. The same day the
+
+Joinder Motion was filed, British and U.S. press began publishing numerous stories based on its
+
+contents. See, e.g., Politico, “Woman Who Sued Convicted Billionaire Over Sex Abuse Levels
+
+Claims at his Friends.” (Dec. 31, 2014).3
+
+        According to the Complaint, it was on January 3, 2015, a few days after the Joinder
+
+Motion was publicly filed, that Ms. Maxwell is alleged to have “spoken through her authorized
+
+agent” to “issue an additional false statement to the media and public.” Compl. ¶ 30. According
+
+to the Complaint, this January 3, 2015 Statement “contained the following deliberate
+
+falsehoods”: (a) Plaintiff’s sworn allegations “against Ghislaine Maxwell are untrue,” (b) the
+
+allegations have been “shown to be untrue;” and (c) Plaintiff’s “claims are obvious lies.” Id. The
+
+January 3 Statement also “incorporated by reference” an “original response to the lies and
+
+defamatory claims” made by Ms. Maxwell, which response purportedly had described Plaintiff’s
+
+allegations as “entirely false” and “entirely untrue.” Compl. ¶ 31. Copies of the entire January 3
+
+Statement and the “original response” were not included in or attached to the Complaint. The
+
+Complaint also did not detail where the January 3 Statement was made, to whom it was made,
+
+nor any factual assertion regarding its publication by any news media.
+
+        The Complaint supplies one additional purportedly defamatory statement. According to
+
+Plaintiff, on January 4, 2015, “a reporter on a Manhattan street” “asked Ms. Maxwell about
+
+[Plaintiff’s] allegations” and Ms. Maxwell “responded” with the phrase: “I am referring to the
+
+statement that we made” (“January 4 Statement”). Compl. ¶ 37. This video was published by
+
+
+        3
+            Available at http://www.politico.com/blogs/under-the-radar/2014/12/woman-who-sued-convicted-
+billionaire-over-sex-abuse-levels-claims-at-his-friends-200495 (accessed on November 30, 2015).
+
+                                                      5
+the New York Daily News. (Id.) Indeed, although not detailed in the Complaint, the New York
+
+Daily News website contains a video entitled “Ghislaine Maxwell declines comment on
+
+allegations she is a madam.”4 The filmed portion of the encounter begins with Ms. Maxwell
+
+stating that “I wish you a happy new year and thank you so much;” whatever is said prior to that
+
+statement was not recorded. A voice then inquires, “so you’re basically not commenting, is
+
+that…”; Ms. Maxwell’s response, perhaps “I’m referring to the statement that was made," is
+
+barely audible. Another person questions, “is any of that true?” Ms. Maxwell then responds
+
+“C’mon guys” and walks away. According to the Complaint, this “response” demonstrates Ms.
+
+Maxwell’s “continued…campaign to falsely and maliciously discredit” Plaintiff. Compl. ¶ 37.
+
+        The Complaint does not allege damages in detail. It generically asserts that Plaintiff has
+
+suffered “economic damage, psychological pain and suffering, mental anguish and emotional
+
+distress, and other direct and consequential damages.” Compl. Count 1 ¶ 19. Further, Plaintiff
+
+claims she “incorporated an organization called Victims Refuse Silence, Inc., a Florida not-for-
+
+profit corporation” on December 23, 2014, approximately 10 days before the January 3
+
+Statement. Compl. ¶¶ 24-25. Plaintiff’s role with the corporation, her profession, and any basis
+
+for Ms. Maxwell to even know of the corporation’s existence are not alleged, but the Complaint
+
+baldly asserts that the January 3 and 4 Statements “tended to injure [Plaintiff] in her professional
+
+capacity as the president of a non-profit corporation designed to help victims of sex trafficking.”
+
+Compl. Claim 1, ¶ 11.
+
+                                             ARGUMENT
+
+        To survive dismissal, “a complaint must contain sufficient factual matter…to ‘state a
+
+claim to relief that is plausible on its face.’” Ashcroft v. Iqbal, 129 S. Ct. 1937, 1949 (2009)
+
+
+        4
+          Available at http://www.nydailynews.com/news/world/alleged-madame-accused-supplying-prince-
+andrew-article-1.2065505 (accessed November 30, 2015).
+
+                                                    6
+(quoting Bell Atlantic Corp. v. Twombly, 550 U.S. 544, 570 (2007)). “Plausibility” means the
+
+claim must be supported by facts that establish more than “a sheer possibility that a defendant
+
+has acted unlawfully.” Cruz v. Marchetto, No. 11 Civ. 8378, 2012 WL 4513484, at *3
+
+(S.D.N.Y. Oct. a, 2012) (quoting Cohen v. Stevanovich, 772 F.Supp.2d 416, 423 (S.D.N.Y.
+
+2010)).
+
+          In the defamation context, the Court acts as a gatekeeper and should dismiss claims in
+
+which the challenged statements are not “reasonably susceptible of a defamatory meaning.”
+
+Krepps v. Reiner, 588 F.Supp.2d 471, 483 (S.D.N.Y. 2008) (Sweet, J.) (citing Treppel v. Biovail
+
+Corp., No. 03 Civ. 3002 (PKL), 2005 WL 2086339, at *7 (S.D.N.Y. Aug. 30, 2005)). As courts
+
+in this district have recognized, there is “particular value” to resolving defamation claims at the
+
+pleading stage, as protracted litigation can have a chilling effect on the exercise of
+
+constitutionally protected freedoms. Biro v. Conde Nast, 883 F.Supp.2d 441, 457 (S.D.N.Y.
+
+2012) (quoting Armstrong v. Simon & Schuster, Inc., 625 N.Y.S.2d 477, 481 (N.Y. 1995).
+
+I.        MS. MAXWELL’S STATEMENTS ARE PRIVILEGED5
+
+          To succeed on a claim for libel, or defamation based on written statements, pursuant to
+
+New York law, a plaintiff must establish the “elements [of] a false statement, published without
+
+privilege or authorization to a third party, constituting fault as judged by, at a minimum, a
+
+negligence standard, and, it must either cause special harm or constitute defamation per se.”
+
+
+          5
+            Under New York’s choice-of-law rules for defamation actions, the general rule is that “the state of the
+plaintiff’s domicile (in this case, Colorado) will usually have the most significant relationship to the case” and
+therefore that state’s law will govern. Adelson v. Harris, 973 F. Supp.2d 467, 477 (S.D.N.Y. 2013) (internal
+quotations omitted). However, in multistate cases such as this in which the alleged defamatory statement was
+published nationally, there is only a presumptive rule that the law of plaintiff’s domicile applies. Id. That
+presumption may not hold when some other state has a more significant relationship to the issues or the parties. Id.
+Here, because Ms. Maxwell is a resident of New York, and one of the purported statements was made in New York,
+this state has arguably a more substantial relationship to the alleged tort than does Colorado. Nonetheless, the laws
+of Colorado and New York are substantially similar. For these reasons, Ms. Maxwell asks the Court to apply New
+York law, but will note any differences between the two laws when applicable.
+
+
+                                                          7
+Dillon v. City of New York, 704 N.Y.S.2d 1, 5 (1st Dep’t 1999) (emphasis added). “[I]n light of
+
+the incorporation of a lack of privilege into the elements of a defamation claim,” a Court may
+
+properly dismiss a defamation such a claim pursuant to Rule 12(b)(6) where a qualified privilege
+
+is established. Orenstein v. Figel, 677 F.Supp.2d 706, 711 (S.D.N.Y. 2009); see also Fuji Photo
+
+Film U.S.A., Inc. v. McNulty, 669 F.Supp.2d 405 (S.D.N.Y. 2009).
+
+       Ms. Maxwell’s Statements are privileged both under the New York self-defense privilege
+
+and the pre-litigation privilege and the Complaint should therefore be dismissed.
+
+       A.         The Self-Defense Privilege Protects Ms. Maxwell’s Statements
+
+       “Every man has a right to defend his character against false aspersion. It may be said that
+
+this is one of the duties that he owes to himself and to his family. Therefore communications
+
+made in fair self-defense are privileged. If I am attacked in a newspaper, I may write to that
+
+paper to rebut the charges, and I may at the same time retort upon my assailant, when such retort
+
+is a necessary part of my defense, or fairly arises out of the charges he has made against me.”
+
+William Blake Odgers, A Digest of the Law of Libel and Slander (1st Am. ed. Bigelow 1881).
+
+       New York, along with numerous other jurisdictions6 and the Restatement (Second) of
+
+Torts, recognizes a qualified privilege to respond in self-defense to verbal defamatory attacks
+
+levied by another upon the speaker. See, e.g., Kane v. Orange Cnty. Publ’n, 232 A.D.2d 526,
+
+527 (2d Dept. 1996) (“[S]ince the open letter was the [defendant’s] response to unfavorable
+
+publicity against him—publicity concededly generated ‘with the cooperation of plaintiffs’—it
+
+was covered by a qualified privilege.”); Shenkman v. O’Malley, 157 N.Y.S.2d 290, 297-98 (1st
+
+Dep’t 1956); Siegel v. Metropolitan Life Ins. Co., 32 N.Y.S.2d 658 (1st Dep’t 1942); Fowler v.
+
+New York Herald, 172 N.Y.S. 423 (1st Dep’t 1918); Preston v. Hobbs, 146 N.Y.S. 419 (1st Dep’t
+
+
+       6
+           See Foretich v. Capital Cities/ABC, Inc., 37 F.3d 1541, 155-60 & n.19 (4th Cir. 1994) (collecting cases).
+
+                                                         8
+1914); Mencher v. Chesley, 85 N.Y.S.2d 431 (N.Y. Sup. Ct. 1948) (“The pertinent authorities
+
+hold that a person subjects his own motives to discussion when he makes a public attack upon
+
+another. Legitimate self-defense is not limited to a mere denial of the charges, but it may include
+
+a proper counterattack in the forum selected by the plaintiff.”); see also Restatement (Second) of
+
+Torts § 594 cmt. k (1977) (“A conditional privilege exists under the rule stated in this Section
+
+when the person making the publication reasonably believes that his interest in his own
+
+reputation has been unlawfully invaded by another person and that the defamatory matter that he
+
+publishes about the other is reasonably necessary to defend himself. The privilege here is
+
+analogous to that of self-defense against battery, assault or false imprisonment . . . Thus the
+
+defendant may publish in an appropriate manner anything that he reasonably believes to be
+
+necessary to defend his own reputation against the defamation of another, including the
+
+statement that his accuser is an unmitigated liar.”).7
+
+        In Collier v. Possum Cereal Co., Ltd., 134 N.Y.S. 847, 853 (1st Dep’t 1912), the self-
+
+defense privilege was explained:
+
+                 The important question is whether the defendant had the right to
+                 impugn the motives of its assailant, if it did so honestly without
+                 malice and for the sole purpose of repelling the assault upon it, and
+                 not with the view of injuring the plaintiff. One who makes a
+                 public attack upon another subjects his own motives to discussion.
+                 It is a contradiction in terms to say that the one attacked is
+                 privileged only to speak the truth, and not to make a counter attack,
+                 or that legitimate self-defense consists only in denial of the charge
+                 or a statement of what is claimed to be the truth respecting its
+                 subject-matter. One in self-defense is not confined to parrying the
+                 thrusts of his assailant. Of course, the counter attack must not be
+                 unrelated to the charge, but surely the motives of the one making it
+
+        7
+            Although the Colorado appellate courts apparently have not yet ruled on the issue of self-defense
+privilege, the 10th Circuit has deemed it a “safe presumption” that Colorado Supreme Court would adopt the various
+provisions of the Restatement (Second) of Torts (1977) as part of “its common law of defamation” based on its
+decisions and Uniform Jury Instructions. See TMJ Implants, Inc. v. Aetna, Inc., 498 F.3d 1175, 1182-83 (10th Cir.
+2007); see also Williams v. Burns, 463 F.Supp. 1278, 1282 (D. Colo. 1979) (recognizing qualified privilege defense
+for protecting one’s interest).
+
+                                                        9
+               are pertinent. The plaintiff selected the forum for the dispute, and
+               in that forum it would certainly tend to repel, or minimize the
+               harmful tendency of the charges to show that the one making them
+               was actuated by an improper motive.
+
+See also Sack, Robert D., Sack on Defamation: Libel, Slander and Related Problems (Practicing
+
+Law Inst., Apr. 2015 ed.) at Kindle Loc. 20357-20370 (“A person also has a right to defend
+
+himself or herself from charges of unlawful activity…The right to defend oneself against
+
+defamation is a recognized interest. An individual is privileged to publish defamatory matter in
+
+response to an attack upon his or her reputation; the speaker is given more latitude in such a
+
+situation than if the statements were not provoked.”).
+
+       Each of the Statements attributed to Ms. Maxwell and her representatives regarding
+
+Plaintiff was issued in self-defense. Plaintiff ignited this controversy by asserting in the British
+
+press her public accusations that Ms. Maxwell had committed sexual abuse. Menninger Decl.
+
+Ex. A. (Plaintiff’s interview with Daily Mail) Plaintiff further fanned the flames by filing in
+
+U.S. federal court on December 30, 2014 “immaterial and impertinent” “lurid details” in a public
+
+pleading which again accused Ms. Maxwell of committing sexual abuse. Menninger Decl. Ex.
+
+C. Given her many previous dealings with the media on this topic, Plaintiff clearly filed those
+
+public pleadings with knowledge (or more probably an intention) that such materials would be
+
+published by the press. Compl. ¶¶ 26, 27. Ms. Maxwell’s January 3 Statement, according to the
+
+Complaint, states that the allegations “against Ghislaine Maxwell are untrue,’” the claims are
+
+“obvious lies,” have been “shown to be untrue,” and the “claims are all obvious lies.” Each
+
+attributed statement responds directly to allegations and claims made by Plaintiff. Compl. ¶ 31.
+
+Likewise to the extent the claimed statement that “Ghislaine Maxwell’s original response to the
+
+lies and defamatory claims remains the same” (Compl. ¶ 32) refers to an earlier statement
+
+describing Plaintiff’s “factual assertions as ‘entirely false’ and ‘entirely untrue,” those also
+
+                                                  10
+respond directly to allegations and claims made by Plaintiff.8 And the January 4 Statement refers
+
+to another “statement” and is therefore entitled to the same privileges as any other “statement.”
+
+         Nor has Plaintiff demonstrated that the self-defense privilege was “abused” so as to
+
+remove the defense. According to the Second Circuit (interpreting New York law), once the
+
+defendant has proved that she is entitled to a qualified privilege, there arises a rebuttable
+
+presumption of good faith that may constitute a complete defense. In order to rebut this
+
+presumption, the plaintiff must demonstrate two things: (1) that the statement was false, and (2)
+
+that the defendant abused its qualified privilege. Weldy v. Piedmont Airlines, Inc., 985 F.2d 57,
+
+62 (2d Cir. 1993) (citations omitted). With regard to self-defense, the “privilege may be lost…if
+
+the reply: (1) includes substantial defamatory matter that is irrelevant or non-responsive to the
+
+initial statement; (2) includes substantial defamatory material that is disproportionate to the
+
+initial statement; (3) is excessively publicized; or (4) is made with malice in the sense of spite or
+
+ill will.” Sack, supra; Restatement (Second) of Torts, §§ 599, 603-605A (1977).
+
+         Here, Plaintiff has not—and cannot—establish that the privilege was lost. Each of the
+
+statements attributed to Ms. Maxwell is relevant, directly responsive, and proportional to
+
+Plaintiff’s accusations. That the statements are “untrue,” “obvious lies,” “shown to be untrue” or
+
+were “denied” are each the type of statements that the self-defense privilege seeks to protect.
+
+Foretich, at 1560 (“To be responsive, a reply’s contents must clearly relate to its supposed
+
+objective—blinding the initial attack and restoring one’s good name. Statements that simply
+
+deny the accusations, or directly respond to them, or express one’s impressions upon first hearing
+
+them are certainly responsive.”); Restatement (Second) of Torts § 594 cmt. k (“The defendant
+
+may publish…the statement that his accuser is an unmitigated liar.”). Further, the statements
+
+
+         8
+           The January 4 Statement similarly refers to an earlier statement. Compl. ¶ 37 (“I am referring to the
+statement that we made.”))
+
+                                                         11
+contain no substantial defamatory material, much less a disproportionate amount. Plaintiff has
+
+not alleged to whom the statements were made and thus cannot show that the supposed Maxwell
+
+statements were “excessively publicized.” In any event, given the viral circulation of Plaintiff’s
+
+allegations against Ms. Maxwell, as any cursory internet search can attest, it would be impossible
+
+to argue that Ms. Maxwell’s statements were “excessively publicized” relative to the accusations
+
+to which they were responsive.
+
+         Finally, Plaintiff offers no allegations to support her conclusory assertion that the
+
+Statements were made with “malice in the sense of spite or ill will.” To sufficiently plead
+
+“actual malice” the plaintiff must set forth “non-conclusory allegations that support a plausible
+
+inference of actual malice.” Biro v. Conde Nast, 2014 WL 4851901 at *2. Bare allegations that
+
+the defendant knew or should have known that the statements were false is insufficient. Id.9 To
+
+establish malice, a defamed plaintiff must show…that such malicious motivation was the one
+
+and only cause for the publication.” Hoesten v. Best, 821 N.Y.S.2d 40 (1st Dep't 2006). Given
+
+the content and context of the Statements, there are no grounds to conclude that a malicious
+
+motivation was the cause of their publication. The January 3 Statement concludes that “Miss
+
+Maxwell denies allegations of an unsavory nature which have appeared in the British press and
+
+elsewhere and reserves her right to seek redress at the repetition of such claims.” Menninger
+
+Decl. Ex. E. The clear motivation for the Statement was to deny the allegations and to place
+
+British newspapers on notice that they may be sued for repeating Plaintiff’s false claims.
+
+Nothing in the Statement evinces a sense that it was published out of spite or ill will towards
+
+Plaintiff. The Complaint’s repeated use of the word “malice” and “ill-will” are nothing more
+
+than conclusory allegations based on surmise, conjecture and suspicion and do not suffice to
+
+         9
+            Also, merely repeating the same conclusory allegation, as done in the Complaint, is equally insufficient.
+Yuan v. Rivera, No. 96 Civ. 6628 (HB) (LB), 1998 WL 63404, at *5 (S.D.N.Y. Feb. 17, 1998) (“This conclusory
+allegation, repeated throughout the complaint, falls shy of [stating a claim.]”).
+
+                                                         12
+establish malice. See Culver v. Merrill Lynch & Co., 94 CIV. 8124 (LBS), 1995 WL 422203, at
+
+*6 (S.D.N.Y. July 17, 1995) (“[A] complaint must contain more than conclusory allegations
+
+based upon surmise, conjecture and suspicion.”).
+
+        The self-defense privilege thus applies and is reason enough to dismiss the Complaint.
+
+        B.       The Pre-Litigation Privilege Protects Ms. Maxwell’s Statements
+
+        Statements made by attorneys and parties pertinent to good faith anticipated litigation are
+
+conditionally privileged.10 Reasoning that “[w]hen litigation is anticipated, attorneys and parties
+
+should be free to communicate in order to reduce or avoid the need to actually commence
+
+litigation . . .Communication during this pre-litigation phase should be encouraged and not
+
+chilled by the possibility of being the basis of a defamation suit.” Front, Inc. v. Khalil, 24
+
+N.Y.3d 713, 720 (N.Y. 2015).11 The Court of Appeals in Khalil expressly declined to apply the
+
+“general malice standard” to the pre-litigation privilege. Instead, the court held the qualified
+
+privilege is lost only where the party opposing dismissal “proves that the statements were not
+
+pertinent to a good faith anticipated litigation.” Id. The Court of Appeals then upheld the
+
+dismissal of a defamation complaint premised upon pre-litigation letters including a demand and
+
+cease-and-desist notice because the statements contained in these documents were privileged.
+
+        In cases preceding Khalil, New York appellate courts made clear the litigation privilege
+
+covers statements made in connection to “pending or contemplated litigation,” Caplan v.
+
+Winslet, 218 A.D.2d 148, 153 (1st Dep’t 1996) (emphasis added), including “all pertinent
+
+
+
+        10
+             Colorado law also recognizes a privilege for communications made “in reference to the subject matter of
+the proposed or pending litigation” and therefore, Ms. Maxwell’s Statements are privileged whether this Court
+applies New York or Colorado law. See Club Valencia Homeowners Ass’n, Inc. v. Valencia Associates, 712 P.2d
+1024, 1027 (Colo. App. 1985) (“The purpose of this privilege…is to afford litigants the utmost freedom of access to
+the courts to preserve and defend their rights…”).
+         11
+             In England, where all statements except the January 4 Statement one were made, the litigation privilege
+is broader than in the United States. As Justice Cardozo recognized, there the privilege exists whether the
+statements are relevant to the judicial proceedings or not. Andrews v. Gardiner, 224 N.Y. 440, 445 (N.Y. 1918).
+
+                                                        13
+communications among the parties, counsel, witnesses and the court,” regardless of “[w]hether a
+
+statement was made in or out of court, was on or off the record, or was made orally or in
+
+writing.” Frechtman v. Gutterman, 979 N.Y.S.2d 58 (1st Dep’t 2014) (quoting Sexter v.
+
+Warmflash, P.C. v. Margrabe, 828 N.Y.S.2d 315 (1st Dep’t 2007)). In International Publishing
+
+Concepts, LLC v. Locatelli, 9 N.Y.S.3d 593, 2015 N.Y. Slip Op. 50049 at *3-4 (N.Y. Sup. Ct.
+
+Jan. 15, 2015), letters and emails which detailed likely litigation and an intent to sue were
+
+extended the same pre-litigation privilege although sent to two non-parties who were only
+
+potentially affected by the litigation or witnesses to it. See also Kirk v. Heppt, 532 F.Supp.2d
+
+586 (S.D.N.Y. 2008) (“The privilege is broad, and embraces anything that may possibly or
+
+plausibly be relevant to the litigation.”) (internal citations omitted).
+
+        Ms. Maxwell’s 2011 Statement, incorporated by reference into the January 3 Statement,
+
+was issued by Devonshires Solicitors in London and explicitly sought to place the British
+
+tabloids on notice that litigation against them was forthcoming should they persist in printing
+
+Plaintiff’s falsehoods. Menninger Decl. Ex. B. The general denial of the first paragraph
+
+(“Ghislaine Maxwell denies the various allegations about her that have appeared recently in the
+
+media. These allegations are all entirely false.”) is followed by four paragraphs directly
+
+threatening litigation against newspapers:
+
+                It is unacceptable that letters sent by Ms. Maxwell’s legal
+                representatives to certain newspapers pointing out the truth and
+                asking for the allegations to be withdrawn have simply been
+                ignored.
+
+                In the circumstances, Ms. Maxwell is now proceeding to take legal
+                action against those newspapers.
+
+                “I understand that newspapers need stories to sell copies. It is well
+                known that certain newspapers live by the adage, ‘why let the truth
+                get in the way of a good story.’ However, the allegations made
+                against me are abhorrent and entirely untrue and I ask that they
+                stop,” said Ghislaine Maxwell.
+                                                  14
+               “A number of newspapers have shown a complete lack of accuracy
+               in their reporting of this story and a failure to carry out the most
+               elementary investigation or any real due diligence. I am now
+               taking action to clear my name,” she said.
+
+       Id.
+
+       A statement issued by attorneys, asking the newspapers to cease and desist publication of
+
+Plaintiff’s false allegations, stating an intent to “take legal action against those newspapers,”
+
+pointing out the lack of accuracy in reporting and duly diligent reporting, and expressing again
+
+an intent to “take[e] action to clear” her name all demonstrate that the statement was “pertinent
+
+to good faith anticipated litigation” and should be afforded a litigation privilege. The
+
+newspapers were the potential parties to an action for repetition of the falsehoods, not some
+
+third-parties unaffiliated with potential claims held by Ms. Maxwell. Cf. Kirk, 532 F.Supp.2d at
+
+594 (statements to malpractice insurance carrier entitled to privilege).
+
+       The January 3 Statement, issued by the same spokesperson as the 2011 Statement,
+
+likewise represents a statement “pertinent to” anticipated good-faith litigation. Following
+
+another general denial (i.e., the “allegations are untrue”), the statement goes on to say that they
+
+are “obvious lies” and “should be treated as such and not publicized as news, as they are
+
+defamatory. Ghislaine Maxwell’s original response to the lies and defamatory statements
+
+remains the same. Maxwell strongly denies allegations of an unsavoury nature, which have
+
+appeared in the British press and elsewhere and reserves her right to seek redress at the
+
+repetition of such claims.” Menninger Decl. Ex. E. These statements are pertinent to anticipated
+
+litigation against the press who was reporting Plaintiff’s falsehoods and should be afforded the
+
+same qualified privilege. See Locatelli, supra at *4 (“While such an injunction has not yet been
+
+sought, that fact should not be outcome determinative. Rather, it appears to have been intended
+
+at the time that these letters and emails were written…”).
+
+                                                 15
+       Finally, the January 4 Statement, in response to a request for comment as she left her
+
+apartment, “I am referring to the statement that was made,” should be afforded the same
+
+privilege as any undefined “statement” to which it referred.
+
+II.    PLAINTIFF FAILED TO PLAUSIBLY PLEAD DEFAMATION
+
+       Under either New York or Colorado law, to state a cause of action for defamation, a
+
+plaintiff must prove: (1) defendant made a defamatory statement of fact concerning the plaintiff;
+
+(2) defendant published the statement to a third party; (3) defendant acted with the requisite
+
+fault; (4) the statement was false; and (5) resulting injury to the plaintiff. Kforce, Inc. v. Alden
+
+Personnel, Inc., 288 F.Supp.2d 513, 516 (S.D.N.Y. 2003); Zerr v. Johnson, 894 F. Supp. 374,
+
+376 (D. Colo. 1995). Regarding injury, plaintiffs must prove special damages—meaning
+
+economic or financial loss—unless the defamation falls within a category of defamation per se.
+
+Kforce, Inc., 288 F. Supp.2d at 516; Thai v. Cayre Grp., Ltd., 726 F. Supp. 2d 323, 330
+
+(S.D.N.Y. 2010) (defining special damages). Defamation per se constitutes a statement “which
+
+tends to disparage a person in the way of his office, profession or trade.” Id. To be per se
+
+actionable, there must therefore be a direct link between the statement and the plaintiff’s
+
+particular profession. Id.
+
+       Although state law applies to the merits of defamation claims, Rule 8 of the Federal
+
+Rules of Civil Procedure governs the pleading requirements in federal court. Under Rule 8,
+
+defamation allegations must be “simple, concise and direct,” allowing the defendant sufficient
+
+notice of the communications complained of to allow the defendant to defend him or herself.
+
+Deutsche Asset Mgmt, Inc. v. Callaghan, No. 01 Civ 4426 CBM, 2004 WL 758303, at *12
+
+(S.D.N.Y. April 7, 2004). Importantly, to meet this standard, plaintiff must specify who made
+
+the statements, when they were made, to whom they were made and in what context they were
+
+made. Id.
+                                                  16
+        Here, the defamation claim is fatally deficient for three independent reasons: (1) when
+
+viewed in context, the statements are not actionable defamatory statements; (2) the Complaint
+
+does not allege to whom or where the statements were made; and (3) the Complaint lacks either
+
+allegations of special damages or facts from which defamation per se could be established. Each
+
+of these three faults, standing alone, is sufficient to warrant dismissal for failure to state a claim.
+
+        A.      Viewed In Context, the Statements are Non-Actionable
+
+        The Complaint improperly contains only excerpts of Ms. Maxwell’s Statements, thereby
+
+depriving the Court of the ability to adequately determine whether the Statements are actionable.
+
+The Supreme Court has long recognized the inherent difficulty in deciding defamation claims
+
+given the delicate balance between “the law of defamation and the freedoms of speech and press
+
+protected by the First Amendment.” Gertz v. Robert Welch, Inc., 418 U.S. 323, 325 (1974). On
+
+the one hand, the law of defamation is designed to “redress and compensate individuals who
+
+suffered serious harm to their reputations due to the careless or malicious communications of
+
+others.” Keohane v. Stewart, 882 P.2d 1293 (Colo. 1994). On the other hand, the First
+
+Amendment protects “society’s interest in encouraging and fostering vigorous public debate.”
+
+Id. (citing Abrams v. United States, 250 U.S. 616, 630 (1919) (Holmes, J. dissenting)).
+
+        Due to the complexity of these competing interests, it is essential for courts to resolve as
+
+a matter of law whether the particular words alleged to be defamatory are in fact defamatory—
+
+i.e. designed to cause reputational injury. See Celle v. Fillipino Reporter Enters, Inc., 209 F.3d
+
+163, 177 (2d Cir. 2000). To do so, defamatory statements must be considered in the context of
+
+the entire communication and the circumstances in which they were written. Id. at 178; see also
+
+Keohane, 882 P.2d at 1299. As one court aptly stated, “Courts will not strain to find defamation
+
+where none exists.” Couloute, Jr. v. Rynarz, No. 11 CV 5986 (HB), 2012 WL 541089, at *5
+
+(S.D.N.Y. Feb. 17, 2012).
+                                                  17
+       In this case, Plaintiff is essentially asking this Court to “strain to find defamation” based
+
+on only snippets of Ms. Maxwell’s January 3 and January 4 Statements provided in the
+
+Complaint. See Compl. ¶ 30. Her failure to provide the context within which the Statements
+
+were delivered alone warrants dismissal. Dillon v. City of New York, 261 A.D.2d 34, 39-40 (1st
+
+Dep’t 1999) (plaintiff’s failure to set forth the entirety of the alleged defamatory statement
+
+resulted in only vague and conclusory allegations requiring dismissal); Edwards v. Great
+
+Northern Ins. Co., No. 03 CV 2947 (NG) (RML), 2006 WL 2053717, at *5 (E.D.N.Y. July 21,
+
+2006) (dismissing defamation claim for plaintiff’s failure, among other things, to plead the
+
+context in which the statements were made); Wanamaker v. Columbian Rope Co., 713
+
+F.Supp.533, 545 (S.D.N.Y. 1989) (same).
+
+       When Ms. Maxwell’s statements are actually viewed in context, it becomes clear why
+
+Plaintiff only provided excerpts. The Complaint describes Ms. Maxwell’s Statements as an
+
+attack on Plaintiff’s honesty and truthfulness and a “concerted and malicious campaign to
+
+discredit Giuffre.” Compl. ¶¶ 28, 29. In reality, the statements are far from an attack by Ms.
+
+Maxwell. When read in context and as set forth above, it is clear that the January 3 Statement
+
+was issued in self defense and in anticipation of good-faith litigation against the news media.
+
+The January 3 Statement appears, inter alia, in a telegraph article entitled “Prince Andrew denies
+
+having relations with ‘sex slave’ girl.” Menninger Decl. Ex. E. The 12-page article contains
+
+denials by Prince Andrew and Alan Dershowitz. Buried among those allegations is the
+
+following response by Ms. Maxwell’s spokesman:
+
+               The allegations made against Ghislaine Maxwell are untrue. Miss
+               Maxwell strongly denies allegations of an unsavory nature, which
+               have appeared in the British press and elsewhere and reserves her
+               right to seek redress at the repetition of such old defamatory
+               claims.
+
+
+                                                 18
+Menninger Decl. Ex. E, at 2. As discussed above, such a statement, which was unequivocally
+
+made in response to repeated reputation-harming allegations, is protected by both the privilege of
+
+self-defense and the pre-litigation privilege and therefore is not actionable.
+
+        Further, general denials such as the January 3 Statement are not actionable as defamatory
+
+statements. See McNamee v. Clemens, 762 F.Supp.2d 584, 601 (E.D.N.Y. 2011) (“general
+
+denials of accusations aren’t actionable”); Independent Living Aids, Inc. v. Maxi-Aids, Inc., 981
+
+F.Supp. 124, 128 (E.D.N.Y. 1997) (epithet “liar,” in context, where it reflects a mere denial of
+
+accusations, was personal opinion and rhetorical hyperbole). The context surrounding the
+
+January 3 Statement demonstrates it was a general denial made in self-defense and pre-litigation
+
+and therefore not actionable as a defamation claim.
+
+        Likewise, when viewed in context, it is equally clear that the January 4 Statement is not
+
+an actionable statement of fact. The Complaint avers that “Maxwell continued her campaign to
+
+falsely and maliciously discredit” Plaintiff “when a reporter on a Manhattan street asked
+
+Maxwell” about the allegations and she “responded” by saying “I am referring to the statement
+
+that we made.” Compl. ¶ 37. It also alleges that the New York Daily News "published a video"
+
+of “this response by Maxwell.” Yet the video found on the New York Daily News website of this
+
+encounter reveals substantially more context. See supra at __. First of all, Ms. Maxwell is
+
+accosted by the reporters as she emerged from an apartment on East 65th Street. The video is
+
+entitled accurately enough “Ghislaine Maxwell declines comment on allegations she is a
+
+madam.”12 The filmed encounter begins with Ms. Maxwell stating that “I wish you a happy new
+
+year and thank you so much.” A voice then inquires, “so you’re basically not commenting, is
+
+
+
+        12
+           Available at http://www.nydailynews.com/news/world/alleged-madame-accused-supplying-prince-
+andrew-article-1.2065505 (accessed November 30, 2015).
+
+
+                                                    19
+that…”; her response, “I’m referring to the statement that was made,” is barely audible. Another
+
+person questions, “is any of that true?” Ms. Maxwell then responds “C’mon guys” and walks
+
+away.
+
+         The argument that the January 4 Statement is actionable defamation borders on frivolous.
+
+There are not even any questions which give the “interview” context, i.e., what the reporters said
+
+just before the camera clip begins, what “allegations” Ms. Maxwell was “responding” to.
+
+Certainly nothing in the context of the video mentions Plaintiff or her allegations. Any
+
+reasonable listener would understand the verbal video clip together with the heading “Ghislaine
+
+Maxwell declines comment on allegations she is a madam” to be just that—a declination to
+
+comment. The “statement that was made” is not even contextualized. Which statement? Made
+
+when and to whom? Even the Complaint characterizes the verbal words as a “response” to
+
+questions from a reporter. Even a strained reading of the allegations concerning the January 4
+
+Statement does not demonstrate a defamatory meaning of and concerning Plaintiff, and any
+
+claim based thereon should be dismissed.13
+
+         B.       The Complaint Does Not Allege to Whom, Where or in What Manner
+                  the January 3 Statement was Made
+
+         It is long settled that “[f]ailure to state the particular person or persons to whom the
+
+allegedly slanderous or libelous comments were made as well as the time and manner in which
+
+the publications were made warrants dismissal.” Hawkins v. City of New York, No. 99 Civ.
+
+11704 (RWS), 2005 WL 1861855, at *18 (S.D.N.Y. Aug. 4, 2005); see also Cruz, 2012 WL
+
+4513484, at *4 (dismissing a defamation claim for failure to specifically allege the “when, where
+
+or in what manner the statements were made”).
+
+
+
+         13
+            Without the January 4 Statement to the New York Daily News reporter, it is entirely unclear that this
+case has any nexus to the United States, much less New York.
+
+                                                        20
+       In Hawkins, the Complaint generally alleged that the defendants made false
+
+representations of fact about the plaintiff to “other supervisors of [p]laintiff with [the] NYPD.”
+
+Id. This Court held that by not identifying the individuals to whom the statement was allegedly
+
+made the claim was “fatally defective.” Id. Likewise, in J.P.R. Cafeteria, Inc. v. Kingsborough
+
+Community College of City University of New York, 847 N.Y.S.2d 902 (N.Y. Sup. Ct. Aug. 21,
+
+2007), the defendant alleged in a counterclaim that the plaintiff made libelous and slanderous
+
+statements to employees and agents of his employer and the media. Id. at *5. Again, because
+
+the counterclaim did not identify the particular persons to whom the defamatory comments were
+
+made, it was dismissed. Id.; see also Cruz, 2012 WL 4513484, at *4 (dismissing a complaint
+
+containing conclusory allegations that defendant made statements that ended up in the headlines
+
+and quoted in the media). Here, as in Hawkins, the Complaint does not allege to whom the
+
+January 3 Statement was made. Instead, it merely contains the general allegation that it was
+
+“issued…to the media and public.” Compl. ¶ 30. This precedent establishes that merely
+
+identifying a group or organization to whom the statement was published, such as “the media” or
+
+“the NYPD” is insufficient. Thus, because the Complaint only identifies the “media and public”
+
+as the recipient of the January 3 Statement, the pleading is insufficient.
+
+       C.      Plaintiff Has Not Properly Pled Special Damages
+
+               a.      The Alleged Defamatory Statement is Not Defamatory Per Se
+
+       Plaintiff also fails to properly establish either defamation per se or special damages. The
+
+pleading is therefore defective. Thompson v. Bosswick, 855 F.Supp.2d 67, 77 (S.D.N.Y. 2012);
+
+Kforce, 288 F.Supp.2d at 516. Defamation per se is limited in scope and is only applicable when
+
+there is a direct link between “a particular profession and a particular disreputable vice of that
+
+profession.” Id. While explaining defamation per se, this Court quoted the following passage
+
+from Prosser and Keeton on the Law of Torts § 112, at 791 (5th ed. 1984):
+                                                 21
+                 [I]t is actionable without proof of damage to say of a physician that
+                 he is a butcher…, of an attorney that he is a shyster, of a school
+                 teacher that he has been guilty of improper conduct as to his
+                 pupils, of a clergyman that is the subject of scandalous rumors, of a
+                 chauffeur that he is habitually drinking, of a merchant that his
+                 credit is bad or that he sells adulterated goods, of a public officer
+                 that he has accepted a bribe or has used his office for corrupt
+                 purposes…since these things discredit [one] in his chosen calling.
+
+          The New York Court of Appeals, elaborating on this same concept, further noted that the
+
+defamatory “statement must be made with reference to a matter of significance and importance
+
+for [the plaintiff’s profession, trade or office], rather than a more general reflection upon the
+
+plaintiff’s character or qualities.” Liberman v. Gelstein, 80 N.Y.2d 429, 590 (N.Y. 1992). “The
+
+statement must be targeted at the specific standards of performance relevant to the plaintiff’s
+
+business and must impute conduct that is ‘of a kind incompatible with the proper conduct of the
+
+business, trade, profession or office itself.’” Thompson, 855 F.Supp.2d at 77 (quoting Pure
+
+Power Boot Camp, Inc. v. Warrior Fitness Boot Camp, LLC, 813 F.Supp.2d 489, 550 (S.D.N.Y.
+
+2011)).
+
+          Here, it is impossible to determine a link between the January 3 or 4 Statements and
+
+Plaintiff’s profession, because no profession is alleged. The only reference in the Complaint to
+
+Plaintiff’s “profession” is in paragraphs 24 and 25 where she describes incorporating the Victims
+
+Refuse Silence, Inc. organization. Importantly, she allegedly incorporated that organization on
+
+December 23, 2014, approximately 10 days before the January 3 Statement. Compl. ¶ 24.
+
+Further, other than stating the intent and goals of this newly incorporated organization, she has
+
+not described any actions taken by the organization or provided any indication that the
+
+organization is currently operating nor detailed her “occupation” within the organization.
+
+          Given the close temporal proximity between the creation of Plaintiff’s organization and
+
+the issuance of the Statements, it strains credulity to suggest that Ms. Maxwell even knew about
+
+                                                  22
+the organization or Plaintiff’s supposed profession attendant thereto. If Ms. Maxwell had never
+
+heard of Victims Refuse Silence—which is likely—it is equally impossible to suggest that she
+
+directed any statements towards Plaintiff’s role therein. Even accepting Plaintiff’s allegations as
+
+true, the January 3 Statement is at most a general reflection upon Plaintiff’s character or
+
+qualities. More accurately, the Statement can only be characterized as a reaction to certain
+
+specific allegations made by Plaintiff towards Ms. Maxwell. According to clear precedent set by
+
+this Court and the New York Court of Appeals, the Statement therefore is not defamation per se.
+
+               b.      Failure to Allege Special Damages Warrants Dismissal
+
+       Because the January 3 Statement is not per se actionable even accepting the Plaintiff’s
+
+allegations as true, the Court then must scrutinize the Complaint for allegations of special
+
+damages. Special damages are generally considered financial or economic damages that are
+
+“causally related to the alleged acts.” Hawkins, 2012 WL 4513484, at *19. Special damages
+
+“must be fully and accurately stated, with sufficient particularity to identify actual losses…The
+
+particularity requirement is strictly applied, as courts will dismiss defamation claims for failure
+
+to allege special damages with the requisite degree of specificity.” Thai v. Cayre Group, Ltd.,
+
+726 F.Supp.2d 323, 330 (S.D.N.Y. 2010). Plaintiff has not and cannot claim special damages as
+
+a result of Ms. Maxwell’s alleged defamatory statements. Instead, her allegations of damages
+
+are vague and conclusory and provide no factual basis to establish a causal connection to the
+
+alleged defamation. See Compl. ¶ 19 (“Maxwell’s false statements have caused, and continue to
+
+cause, Giuffre economic damage…”). This obvious pleading defect also mandates dismissal.
+
+                                         CONCLUSION
+
+       For the reasons stated above, the Complaint fails to state a claim for which relief
+
+can be granted. Ms. Maxwell therefore respectfully requests that this Court dismiss the
+
+
+                                                 23
+Complaint with prejudice. In addition, in light of Plaintiff’s failure to show any factual
+
+basis for her claim, Ms. Maxwell requests permission to move for attorneys’ fees for the
+
+filing of this motion and any subsequent action necessary to prevent from further
+
+attempts by Plaintiff to direct additional unfounded and legally insufficient claims against
+
+Ms. Maxwell.
+
+       Dated: November 30, 2015.
+
+                                               Respectfully submitted,
+
+
+
+                                               s/ Laura A. Menninger
+                                               Laura A. Menninger, Esq.
+                                               HADDON, MORGAN AND FOREMAN, P.C.
+                                               150 East 10th Avenue
+                                               Denver, CO 80203
+                                               Phone: 303.831.7364
+                                               Fax:     303.832.2628
+                                               lmenninger@hmflaw.com
+
+                                               Attorney for Ghislaine Maxwell
+
+
+                               CERTIFICATE OF SERVICE
+
+     I certify that on November 30, 2015, I electronically filed this Ghislaine Maxwell’s
+Memorandum of Law in Support of her Motion to Dismiss with the Clerk of Court using the
+CM/ECF system which will send notification to the following:
+
+Sigrid S. McCawley
+BOIES, SCHILLER & FLEXNER, LLP
+401 East Las Olas Boulevard, Ste. 1200
+Ft. Lauderdale, FL 33301
+smccawley@bsfllp.com
+
+                                                s/ Brenda Rodriguez
+                                                Brenda Rodriguez
+
+
+
+
+                                             24
+

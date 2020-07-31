@@ -1,0 +1,232 @@
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+
+--------------------------------------------------X
+
+
+
+
+                                                        ...............................................
+VIRGINIA L. GIUFFRE,
+
+        PLAINTIFF,
+V.                                                                                                        15-cv-07433-RWS
+GHISLAINE MAXWELL,
+
+        DEFENDANT.
+
+
+  --------------------------------------------------X
+
+        MEMORANDUM OF LAW IN SUPPORT OF MOTION FOR A STAY OF
+     DISCOVERY PENDING DECISION ON DEFENDANT’S MOTION TO DISMISS
+
+        Defendant Ghislaine Maxwell, through her attorney Laura A. Menninger of the law firm
+
+Haddon, Morgan and Foreman, P.C., hereby respectfully submits this Memorandum of Law in
+
+support of her Motion to Stay Discovery during the pendency of her Motion to Dismiss.
+
+                                           LEGAL STANDARD
+
+        Rule 26(c) of the Federal Rules of Civil Procedure grants courts broad discretion to stay
+
+discovery “for good cause shown.” Spencer Trask Software and Info. Servs., LLC v. RPost Int’l
+
+Ltd., 206 F.R.D. 367, 368 (S.D.N.Y 2002). Good cause may be shown where a party (1) has
+
+filed a dispositive motion; (2) the stay is for a short period of time; and (3) the opposing party
+
+will not be prejudiced by the stay. Id. Additional factors courts may consider are breadth of
+
+discovery sought and the burden of responding to it as well as the strength of the dispositive
+
+motion forming the basis for the stay application. Id.
+                                          ARGUMENT
+
+I.     Ms. Maxwell’s Motion to Dismiss Provides “Good Cause” to Stay Discovery
+
+       A.      The Pending Motion Cites Multiple, Independent Grounds for Dismissal
+
+       A stay of discovery is particularly appropriate where, as here, a pending motion to
+
+dismiss has “substantial arguments for dismissal of many, if not all, of the claims asserted.”
+
+Spinelli v. National Football League, No. 13-cv-7398 (RWS), 2015 WL 7302266, at *2
+
+(S.D.N.Y. Nov. 17, 2015) (Sweet, J.). Here, Plaintiff’s Complaint consists of a single
+
+defamation claim. In her motion to dismiss, Ms. Maxwell offers multiple grounds for dismissal
+
+of the entire action, none of which are “unfounded in the law.” Johnson v. New York Univ. Sch.
+
+of Educ., 205 F.R.D. 433, 434 (S.D.N.Y. 2002). Ms. Maxwell respectfully refers the Court to
+
+her Memorandum of Law in Support of Motion to Dismiss wherein she argues as grounds for
+
+dismissal both that the Complaint has various pleading deficiencies and that the alleged
+
+defamatory statements are protected by not one, but two, applicable privileges. Courts in this
+
+district have stayed discovery under similar circumstances. See e.g., Integrated Sys. and Power,
+
+Inc. v. Honeywell Int’l, Inc., No. 09 CV 5874 (RPP), 2009 WL 2777076, at *1 (S.D.N.Y. Sept. 1,
+
+2009) (“granting a stay upon noting that [defendant] has put forth in its motion multiple,
+
+independent arguments for dismissal…”).
+
+       While the Court will ultimately decide the merits of Ms. Maxwell’s motion, the presence
+
+of multiple, independent grounds for dismissal, warrants a stay of discovery.
+
+       B.      The Requested Stay is for a Short Period of Time
+
+       Pursuant to Rule 6.1(b) of the Local Rules of this Court, briefing on the Motion to
+
+Dismiss is scheduled to be completed on Monday, December 28. Accordingly, any delay in the
+
+commencement of discovery will last for the time it takes the Court to rule on the Motion to
+
+Dismiss. Such a short stay is unlikely to prejudice the Plaintiff. See id. When balanced against
+
+
+                                                  2
+the breadth of discovery required in this case, as detailed below, considerations of judicial
+
+efficiency weigh in favor of a stay. Id. (granting a stay upon noting that doing so “could avoid
+
+the need for costly and time-consuming discovery”).
+
+       C.      The Nature of the Complaint Necessarily Calls for a Wide-Breadth of
+               Discovery
+
+       The allegations in the Complaint raise factual questions that stretch across multiple
+
+decades, from as early as 1999 to the present, and involve hundreds of individuals. Compl. ¶ 9.
+
+Discovery, therefore, necessarily will be burdensome. Lengthy discovery is inherent in
+
+defamation actions because it is well-settled that in any such claim, “truth is an absolute,
+
+unqualified defense.” Jewell v. NYP Holdings, Inc., 23 F. Supp.2d 348, 366 (S.D.N.Y. 1998).
+
+Here, because the alleged defamatory statements consist of Ms. Maxwell’s denial of the multiple,
+
+and complex allegations levied against her by the Plaintiff concerning events that allegedly
+
+occurred 17 years ago, a wide breadth of discovery will be needed to address the veracity of each
+
+allegation. The sheer number of depositions that will be required alone will be a tremendous
+
+burden on the parties’ resources. This Court has granted a stay of discovery in a recent case
+
+involving similarly complex factual questions. Spinelli, 2015 WL 7302266, at *2.
+
+       Plaintiff’s Rule 26 disclosures and First Request for Production of Documents to
+
+Defendant Ghislaine Maxwell amply illustrate this point. In her Rule 26 disclosures, Plaintiff
+
+lists as potential witnesses 94 individuals and four categories of people, such as “all staff at the
+
+Mar-a-Largo Club during 1999.” As to the 94 individuals, she provides one phone number for
+
+one witness and counsel’s contact information for two witnesses and the two parties. The
+
+remaining 89 individuals’ addresses and phone numbers are “unknown at this time.”
+
+       In her First Request for Production of Documents, Plaintiff seeks records from the
+
+“period of July 1999 to the present” of broad categories such as:
+
+
+
+                                                   3
+              All documents relating to your travel from the period 1999 – present,” (No. 8);
+              All computers, hard drives or copies thereof for all computers in operation
+               between 1999 – 2002,” (No. 16);
+              All telephone records associated with you, including cell phone records from
+               1999 – present.” (No. 21);
+              All documents relating to calendars, schedules or appointments for you from 1999
+               – present,” (No. 22).
+
+See Motion for Stay, Ex. A. Given the strength of Ms. Maxwell’s Motion to Dismiss, the burden
+
+of responding to such expansive requests is unjustifiable.
+
+II.    In the Alternative, Ms. Maxwell Requests Additional Time to Respond to Plaintiff’s
+       Discovery Requests.
+
+       In the alternative, if this Court declines to grant an order staying discovery, for the same
+
+reasons stated above, Ms. Maxwell respectfully requests additional time within which to respond
+
+and/or object to Plaintiff’s First Request for Production of Documents to Defendant Ghislaine
+
+Maxwell, served on October 27, 2015. The original date by which Ms. Maxwell was to respond
+
+to Plaintiff’s First Request for Production is today, November 30, 2015. Ms. Maxwell has not
+
+made any previous requests for an extension of this deadline. Counsel for the Plaintiff has
+
+neither consented nor refused consent to this request. Finally, this extension will not affect any
+
+other scheduled dates.
+
+                                         CONCLUSION
+
+       As detailed above, good cause exists to justify a stay of discovery pending Ms.
+
+Maxwell’s motion to dismiss. The motion is dispositive and well founded in law, the stay is of
+
+short duration, and the expected discovery is broad and burdensome. For these reasons, Ms.
+
+Maxwell respectfully requests that this Court stay discovery in this action until this Court reaches
+
+its decision on the motion to dismiss, or in the alternative, that Ms. Maxwell be granted
+
+additional time to respond and/or object to Plaintiff’s First Request for Production.
+
+
+
+                                                  4
+       Dated: November 30, 2015.
+
+                                              Respectfully submitted,
+
+
+
+                                              s/ Laura A. Menninger
+                                              Laura A. Menninger (LM-1374)
+                                              HADDON, MORGAN AND FOREMAN, P.C.
+                                              150 East 10th Avenue
+                                              Denver, CO 80203
+                                              Phone: 303.831.7364
+                                              Fax:     303.832.2628
+                                              lmenninger@hmflaw.com
+
+                                              Attorney for Ghislaine Maxwell
+
+
+
+
+                              CERTIFICATE OF SERVICE
+
+       I certify that on November 30, 2015, I electronically filed this Motion for a Stay of
+Discovery Pending Decision on Defendant’s Motion to Dismiss with the Clerk of Court using the
+CM/ECF system which will send notification to the following:
+
+Sigrid S. McCawley
+BOIES, SCHILLER & FLEXNER, LLP
+401 East Las Olas Boulevard, Ste. 1200
+Ft. Lauderdale, FL 33301
+smccawley@bsfllp.com
+
+                                               s/ Brenda Rodriguez
+                                               Brenda Rodriguez
+
+
+
+
+                                              5
+

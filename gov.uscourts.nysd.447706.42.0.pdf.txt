@@ -1,0 +1,241 @@
+                           UNITED STATES DISTRICT COURT
+                          SOUTHERN DISTRICT OF NEW YORK
+
+--------------------------------------------------X
+
+
+
+
+                                              ....
+                                              ...........................................
+VIRGINIA L. GIUFFRE,
+
+        Plaintiff,
+v.
+                                                                                                    15-cv-07433-RWS
+GHISLAINE MAXWELL,
+
+        Defendant.
+
+
+--------------------------------------------------X
+
+
+
+
+            DEFENDANT’S COMBINED MEMORANDUM OF LAW IN
+           OPPOSITION TO PLAINTIFF’S MOTIONS TO COMPEL THE
+        PRODUCTION OF DOCUMENTS SUBJECT TO IMPROPER CLAIM OF
+            PRIVILEGE AND SUBJECT TO IMPROPER OBJECTIONS
+
+
+
+
+                                                                                            Laura A. Menninger
+                                                                                            HADDON, MORGAN AND FOREMAN, P.C.
+                                                                                            East 10th Avenue
+                                                                                            Denver, CO 80203
+                                                                                            303.831.7364
+                                         ARGUMENT
+
+I.     PLAINTIFF FAILED TO COMPLY WITH HER REQUIREMENT TO
+       CONFER IN GOOD FAITH PRIOR TO FILING MOTIONS TO COMPEL
+
+       Rule 37(a)(1) of the Federal Rules of Civil Procedure mandates that a motion to
+compel “must include a certification that the movant has in good faith conferred or
+attempted to confer with the person or party failing to make disclosure or discovery in an
+effort to obtain it without court action.” (emphasis added) Notwithstanding this Rule,
+Plaintiff filed two Motions to Compel (Doc. #s 33 and 35), neither of which includes the
+required certification. More importantly, Plaintiff, in direct contradiction to both the
+letter and spirit of Rule 37, did not make any effort to confer with Ms. Maxwell’s counsel
+regarding any of the issues presented in her Motions to Compel. This significant
+deficiency alone warrants the denial of both Motions. Auto. Club of New York, Inc. v.
+Port Auth. Of New York & New Jersey, No. 11 CIV. 6746 RKE HBP, 2012 WL 4791804,
+at *6 (S.D.N.Y. Oct. 9, 2012) (failure to make any attempts to resolve any specific
+discovery disputes “alone is a sufficient ground for denying the motion [to compel]”);
+Prescient Partners, L.P. v. Fieldcrest Cannon, Inc. 96-CV-7590 (DAB)(JCF), 1998 WL
+67672, at *3 (S.D.N.Y. Feb. 18, 1998) (“Ordinarily…a motion to compel must be denied
+where the parties have failed to meet and confer.”); Dorchester Fin. Holdings Corp. v.
+Banco BRJ, S.A., No. 11-CV-1529 KMW KNF, 2014 WL 3747167, at *5 (S.D.N.Y. July
+28, 2014) (same).1
+       The purpose of Rule 37(a)(1) is to encourage the parties to informally resolve
+discovery disputes in an effort to avoid the unnecessary time and expense of motion
+
+
+       1
+          Indeed, during the time period in which Plaintiff was drafting her voluminous Motions
+to Compel, Ms. Maxwell’s counsel was busy conferring with Plaintiff’s counsel on a number of
+different discovery disputes, including location of depositions, timing of depositions, a protective
+order, and Plaintiff’s responses to interrogatories. See generally Plaintiff’s Letter Motion of
+February 26, 2016, Attachments (filed in contravention of this Court’s Individual Practices 1(A),
+“Copies of correspondence between counsel shall not be sent to this Court.”). The product of
+those conferrals was resolution of many of the parties’ issues.
+                                                 1
+practice and formal court hearings. See Notes of Advisory Committee on Rules—1993
+Amendment. Here, had Plaintiff conferred with Ms. Maxwell prior to filing her motions
+to compel, several issues could have been resolved without Court intervention. While
+this list is by no means exhaustive, Ms. Maxwell highlights the following disputed areas
+that likely could be resolved by a conferral among counsel:
+       First, Plaintiff argues that the Ms. Maxwell’s privilege log is inadequate, in part
+because she does not assert “that individuals such as Brett Jaffe, Philip Barden, or Martin
+Weinberg represent her, or that any attorney-client relationship exists between them.”
+(Mot. Compel Priv. at 13). Certainly, court intervention is unnecessary to resolve the
+question of whether a certain attorney represented Ms. Maxwell at the time claimed in a
+privilege log entry. Local Civil Rule 26.2 requires that for written communications, a
+privilege log should include the author of the document, the addressees of the document,
+and any other recipients and “where not apparent, the relationship of the author,
+addressees and recipients to each other.” Neither the Local Rules nor the Federal Rules
+require a privilege log to include explanation or proof that an attorney-client relationship
+existed between an author and recipient of an email. In her log, Ms. Maxwell included
+the names of the parties to the communication and described the relationship of the
+parties. For example, in an entry for an email dated January 10, 2015, between Ms.
+Maxwell and Philip Barden, Esq., Ms. Maxwell described the relationship of the parties
+as “attorney/client.” If Plaintiff needed further clarification regarding that relationship,
+she could have, and should have, conferred with Ms. Maxwell.2
+       Second, Plaintiff takes issue with Ms. Maxwell’s objection to Plaintiff’s asserted
+“Relevant Time Period” of 1999 to the present. (Mot. Compel Imp. Obj. at 4-8). On this
+issue, while the parties’ respective definitions of the Relevant Time Period are currently
+far apart, it is likely that the parties would be able to reach a compromised limitation for
+
+       2
+           Perhaps Plaintiff needs reminding that she has in her possession, and indeed has filed
+with this Court, documents reflecting Mr. Jaffe, Mr. Barden and Mr. Cohen’s representations of
+Ms. Maxwell in the course of litigation and other proceedings associated with Plaintiff’s
+allegations. A conferral on this point alone will save the parties’ expense in needlessly gathering
+affidavits from various attorneys and will save the Court’s time.
+                                                 2
+many of Plaintiff’s requests. Such a compromise would either eliminate the need for
+court intervention entirely or at the very least, drastically minimize the scope of any
+potential motion to compel. For example, Plaintiff’s Request No. 22 asks for “All
+documents relating to calendars, schedules or appointments for you from 1999 – present.”
+The overbreadth of this request is obvious. And while this Request may technically yield
+relevant documents, the Request could also yield such a large volume of unrelated
+documents that the balance of the production would not be “proportional to the needs of
+the case.” Fed. R. Civ. P. 26(b)(1).
+       Third, the majority of Plaintiff’s requests are presumptively overbroad. Plaintiff
+routinely uses the phrases “all documents relating to” or “relating to” as part of her
+requests for production of documents. See, e.g., Requests Nos. 1, 3, 6,7, 8, 10, 11, 17, 22,
+23, 24, 32 and 33. Where the phrase “relating to” is not employed, Plaintiff uses equally
+obtuse synonyms such as “reflecting” (Requests Nos. 34, 37) or “associated with.”
+(Request No. 21).
+       “Relate” is a broad term. See, e.g., WEBSTER’S NEW WORLD DICTIONARY 1198
+(2d Coll. Ed. 1986) (defining “relate” to mean, inter alia, “to connect or associate, as in
+thought or meaning; show as having to do with,” “to have some connection or relation
+(to),” and “to have reference (to)”).   Courts have condemned the use of “related to” as
+overbroad and have refused to compel a responding party to answer discovery requests
+using the term. See, e.g., Meeker v. Life Care Ctrs. of Am., No. 14-CV-02101-WYD-
+NYW, 2015 WL 4400533, at *4 (D. Colo. July 20, 2015) (denying motion to compel
+response to interrogatory that required identification of all documents that “relate to”
+drills or safety security training exercises “over a decade long span,” and holding that
+interrogatory was “facially overbroad, and potentially sweep[s] in incidents that are not
+proximate in location, time, and may not even be remotely of the “same type”); Avante
+Int’l Tech., Inc. v. Hart Intercivic, Inc., No. CIV. 07-169-DRH, 2008 WL 2074093, at *3
+(S.D. Ill. May 14, 2008) (“the court finds that the request to identify ‘all documents that
+refer or relate to each such person's contribution’ to be overbroad and unduly
+burdensome, and sustains the objection to that part of the interrogatory”); In re Urethane
+
+                                              3
+Antitrust Litig., No. 04-MD-1616-JWL-DJW, 2008 WL 110896, at *1 (D. Kan. Jan. 8,
+2008) (holding that a discovery request is overly broad and unduly burdensome on its
+face if it uses an “omnibus term” such as “relating to,” because “such broad language
+‘make[s] arduous the task of deciding which of numerous documents may conceivably
+fall within its scope’”); Roda Drilling Co. v. Siegal, No. 07-CV-400-GFK-FHM, 2008
+WL 2234652, at *2 (N.D. Okla. May 29, 2008) (finding that “many of the parties’
+requests for production of documents are overbroad, as they request ‘all documents'
+relating to or concerning a subject”), reconsideration denied in part, 2008 WL 3892067
+(N.D. Okla. Aug. 14, 2008); Cotracom Commodity Trading Co. v. Seaboard Corp., 189
+F.R.D. 655, 665 (D. Kan. 1999) (holding that challenged discovery request was facially
+overbroad due to its use of the “omnibus phrase ‘relating to’”); Parsons v. Jefferson-Pilot
+Corp., 141 F.R.D. 408, 412 (M.D.N.C. 1992) (“[b]road and undirected requests for all
+documents which relate in any way to the complaint are regularly stricken as too
+ambiguous”).
+       And, Plaintiff has expanded the dictionary definition of “relate” in her definition
+section to make any attempt at deciding what documents might fall within the requests
+impossible.
+       Respectfully, this is an issue that should be discussed by professional counsel to
+attempt to craft a meaningful request, if possible. Here, no attempt has been made by
+Plaintiff to do so.
+       In light of the many areas in which a compromise could be reached between the
+parties, Plaintiff cannot claim her attempt to confer with Ms. Maxwell’s counsel would
+have been futile. C.f. Alexander Interactive, Inc. v. Adorama, Inc., No. 12 CIV. 6680
+PKC JCF, 2013 WL 6283511, at * 3 (S.D.N.Y. Dec. 4, 2013) (recognizing that the merits
+of a discovery motion may be addressed despite a failure to confer where the papers
+submitted by the parties “indicate[d] that both sides have dug in-indeed… Ordering the
+parties to meet and confer is unlikely to resolve these disputes.”). Similarly, because this
+case is in its relatively early stages (Ms. Maxwell has yet to answer the Complaint) there
+are no temporal exigencies that would require immediate action. C.f. In re NASDAQ
+
+                                             4
+Market-Makers Antitrust Litig., No. 94 Civ. 3996 (RWS), 1996 WL 187409, at *
+(S.D.N.Y. April 18, 1996) (J. Sweet) (finding the failure to meet and confer was
+mitigated by “the imminence of the deadlines for filing of papers relating to the class
+certification motion…”).
+II.    PLAINTIFF’S COMPLAINT THAT MS. MAXWELL DID NOT “SUBMIT
+       EVIDENCE” TO SUPPORT HER CLAIMS OF PRIVILEGE IS
+       PREMATURE
+
+       In support of her Motion to Compel Documents Subject to Improper Claim of
+Privilege, Plaintiff argues that Ms. Maxwell failed to satisfy her burden of establishing
+privilege because she did not submit “competent evidence, usually through affidavits,
+deposition testimony, or other admissible evidence.” Mot. Compel Priv. at 3. This
+argument is premature.
+      The established practice in this Court is for the party to challenge an assertion of
+privilege, after which the burden shifts to the withholding party to come forward with
+evidence establishing the elements of the applicable privilege or protection. See Veleron
+Holding, B.V. v. BNP Paribas SA,No. 12-CV-5966 CM RLE, 2014 WL 4184806, at *2
+(S.D.N.Y. Aug. 22, 2014) (“Once an assertion of privilege is challenged, the withholding
+party must ‘submit evidence…establishing only the challenged elements of the applicable
+privilege or protection, with the ultimate burden of proof resting with the party asserting
+the privilege or protection.’”) (quoting A.I.A. Holdings, S.A. v. Lehman Bros. Inc., 97-
+CV-4978 (LMM), 2002 WL 31385824, at *6 (S.D.N.Y. Oct. 21, 2002)). Indeed, the
+conferral process is exactly when the burden would shift to the withholding party. Thus,
+the Motion to Compel should be denied as premature and Ms. Maxwell should be
+afforded an opportunity to meet her burden.
+       For the foregoing reasons, Ms. Maxwell respectfully requests that the Court deny
+Plaintiff’s Motions to Compel and order the parties to meet and confer in good faith, as
+required under Rule 26(a)(1). Ms. Maxwell also respectfully requests permission to refile
+her response to Plaintiff’s Motions in the event the conferral is unsuccessful.
+Dated: March 4, 2016
+
+                                              5
+                                                Respectfully submitted,
+
+
+
+
+                                                /s/ Laura A. Menninger
+                                                Laura A. Menninger (LM-1374)
+                                                HADDON, MORGAN AND FOREMAN, P.C.
+                                                East 10th Avenue
+                                                Denver, CO 80203
+                                                Phone: 303.831.7364
+                                                Fax:    303.832.2628
+                                                lmenninger@hmflaw.com
+
+                                                Attorneys for Ghislaine Maxwell
+
+
+
+                                     CERTIFICATE OF SERVICE
+
+
+       I certify that on March 4, 2016, I electronically filed this DEFENDANT’S
+COMBINED MEMORANDUM OF LAW IN OPPOSITION TO PLAINTIFF’S
+MOTIONS TO COMPEL THE PRODUCTION OF DOCUMENTS SUBJECT TO
+IMPROPER CLAIM OF PRIVILEGE AND SUBJECT TO IMPROPER OBJECTIONS
+with the Clerk of Court using the CM/ECF system which will send notification to all
+counsel of record including the following:
+
+Sigrid S. McCawley
+Boies, Schiller & Flexner, LLP
+East Las Olas Boulevard, Ste. 1200
+Ft. Lauderdale, FL 33301
+smccawley@bsfllp.com
+
+                                                   /s/Nicole   Simmons
+
+
+
+
+                                               6
+

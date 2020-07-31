@@ -1,0 +1,1482 @@
+                             United States District Court
+                            Southern District of New York
+
+
+Virginia L. Giuffre,
+
+               Plaintiff,              Case No.: 15-cv-07433-RWS
+
+v.
+
+Ghislaine Maxwell,
+
+            Defendant.
+________________________________/
+
+PLAINTIFF, VIRGINIA GIUFFRE’S MOTION TO COMPEL THE PRODUCTION OF
+            DOCUMENTS SUBJECT TO IMPROPER OBJECTIONS
+
+
+
+                                       BOIES, SCHILLER & FLEXNER LLP
+
+                                        Sigrid McCawley (Pro Hac Vice)
+                                        Boies, Schiller & Flexner LLP
+                                        401 E. Las Olas Blvd., Suite 1200
+                                        Ft. Lauderdale, FL 33301
+                                        (954) 356-0011
+
+                                        David Boies
+                                        Boies, Schiller & Flexner LLP
+                                        333 Main Street
+                                        Armonk, NY 10504
+
+                                        Ellen Brockman
+                                        Boies, Schiller & Flexner LLP
+                                        575 Lexington Ave
+                                        New York, New York 10022
+                                        (212) 446-2300
+
+
+
+
+                                          1
+                                                 TABLE OF CONTENTS
+
+                                                                                                                                     Page
+
+TABLE OF AUTHORITIES.......................................................................................................... ii
+
+I.     PRELIMINARY STATEMENT ............................................................................................1
+
+II.    LEGAL ARGUMENT ...........................................................................................................3
+
+       A.     Legal Standard...............................................................................................................3
+
+       B.     Maxwell’s General Objections Fail...............................................................................4
+
+       C.     Maxwell’s Specific Objections Fail. .............................................................................8
+
+              1.      Request No. 1 .......................................................................................................8
+
+                      a.      Maxwell’s Response....................................................................................8
+
+                      b.      Maxwell’s Objections Fail, As The Request Seeks Relevant
+                              Discovery ....................................................................................................9
+
+              2.      Request No. 3. ......................................................................................................9
+
+                      a.      Maxwell’s Response....................................................................................9
+
+                      b.      Maxwell’s Objections Fail, As The Request Seeks Relevant
+                              Discovery ..................................................................................................10
+
+              3.      Request No. 6. ....................................................................................................10
+
+                      a.      Maxwell’s Response..................................................................................10
+
+                      b.      Maxwell’s Objections Fail, As The Request Seeks Relevant
+                              Discovery ..................................................................................................11
+
+              4.      Request No. 7. ....................................................................................................12
+
+                      a.      Maxwell’s Response..................................................................................12
+
+                      b.      Maxwell’s Objections Fail, As The Request Seeks Relevant
+                              Discovery ..................................................................................................12
+
+              5.      Requests Nos. 8 and 33. .....................................................................................13
+
+                      a.      Maxwell’s Response..................................................................................13
+
+                      b.      Request No. 33. .........................................................................................13
+
+
+                                                                    i
+     c.      Maxwell’s Response to Request No. 33....................................................14
+
+     d.      Maxwell’s Objections Fail, As The Request Seeks Relevant
+             Discovery...................................................................................................14
+
+6.   Request Nos. 10 and 11. .....................................................................................15
+
+     a.      Request No. 10. .........................................................................................15
+
+     b.      Maxwell’s Response to Request No. 10....................................................15
+
+     c.      Request No. 11. .........................................................................................15
+
+     d.      Maxwell’s Response to Request No. 11....................................................15
+
+     e.      Maxwell’s Objections Fail, As The Request Seeks Relevant
+             Discovery...................................................................................................16
+
+7.   Request No. 15. ..................................................................................................16
+
+     a.      Maxwell’s Response..................................................................................16
+
+     b.      Maxwell’s Objections Fail, As The Request Seeks Relevant
+             Discovery ..................................................................................................17
+
+8.   Request No. 17. ..................................................................................................17
+
+     a.      Maxwell’s Response..................................................................................17
+
+     b.      Maxwell’s Objections Fail, As The Request Seeks Relevant
+             Discovery ..................................................................................................18
+
+9.   Request Nos. 21 – 24 .........................................................................................19
+
+     a.      Maxwell’s Response..................................................................................19
+
+     b.      Request No. 22. .........................................................................................19
+
+     c.      Maxwell’s Response to Request No. 22....................................................19
+
+     d.      Request No. 23. .........................................................................................19
+
+     e.      Maxwell’s Response to Request No. 23....................................................19
+
+     f.      Request No. 24. .........................................................................................20
+
+     g.      Maxwell’s Response to Request No. 24....................................................20
+
+
+
+
+                                                  ii
+                       h.      Maxwell’s Objections To Requests 21-24 Fail, As The Requests Seek
+                               Relevant Discovery....................................................................................20
+
+               10.     Request No. 32. ..................................................................................................21
+
+                       a.      Maxwell’s Response..................................................................................21
+
+                       b.      Maxwell’s Objections Fail, As The Request Seeks Relevant
+                               Discovery ..................................................................................................21
+
+               11.     Request No. 34. ..................................................................................................22
+
+                       a.      Maxwell’s Response..................................................................................22
+
+                       b.      Maxwell’s Objections Fail, As The Request Seeks Relevant
+                               Discovery ..................................................................................................22
+
+               12.     Request No. 37. ..................................................................................................23
+
+                       a.      Maxwell’s Response..................................................................................23
+
+                       b.      Maxwell’s Objections Fail, As The Request Seeks Relevant
+                               Discovery ..................................................................................................23
+
+               13.     Request No. 39. ..................................................................................................24
+
+                       a.      Maxwell’s Response..................................................................................24
+
+                       b.      Maxwell’s Objections Fail, As The Request Seeks Relevant
+                               Discovery ..................................................................................................24
+
+CONCLUSION .............................................................................................................................24
+
+
+
+
+                                                                    iii
+                                                TABLE OF AUTHORITIES
+
+                                                                                                                                        Page
+Cases
+
+Am. Rock Salt Co., LLC v. Norfolk S. Corp.,
+  228 F.R.D. 426 (W.D.N.Y. 2004) ...............................................................................................6
+
+Edwards v. Am. Airlines, Inc.,
+  No. 95 CIV. 5356 (SAS), 1996 WL 432472 (S.D.N.Y. Aug. 1, 1996).......................................1
+
+Gateway Logistics, Inc. v. Smay,
+  302 P. 3d 235 (Colo. 2013).................................................................................................passim
+
+International Mining Co., Inc. v. Allen and Co.,
+   567 F. Supp.777 (S.D.N.Y. 1983) ...............................................................................................2
+
+Ottoson v. SMBC Leasing and Finance, Inc.,
+  2015 WL 4597542 (S.D.N.Y. July 30, 2015)..............................................................................1
+
+State Farm Mut. Auto. Ins. Co. v. Fayda.
+  No. 14CIV9792WHPJCF, 2015 WL 7871037 (S.D.N.Y. Dec. 3, 2015)..............................3, 23
+
+Stinson v. City of New York,
+   2015 WL 4610422 (S.D.N.Y.) July 23, 2015) ............................................................................1
+
+Zorn v. Howe,
+  276 A.D.2d 51, 716 N.Y.S. 2d 128 (2000)..................................................................................7
+
+Zubulake v. UBS Warburg LLC,
+  220 F.R.D. 212 (S.D.N.Y. 2003).................................................................................................7
+
+
+Statutes
+
+Fed. R. Civ. P. 26 ......................................................................................................................3, 22
+
+Fed. R. Civ. P. 37 ........................................................................................................................4, 8
+
+Fed. R. Evid. 501 ....................................................................................................................passim
+
+
+
+
+                                                                      iv
+        Plaintiff Virginia L. Giuffre, by and through undersigned counsel, respectfully submit
+
+this Motion to Compel Production of Documents in Response to Request Nos. 1-39 and to
+
+Compel Documents Subject to Improper Objections Including Refusals to Produce Documents
+
+from Highly Relevant Time Periods. For the reasons set forth below, this Court should grant
+
+Plaintiff’s Motion in its entirety.
+
+I.      PRELIMINARY STATEMENT
+
+        Plaintiff first served her request for production of documents on defendant on October 27,
+
+2015. Now, almost four (4) months later, and even after this Court denied defendant’s attempts
+
+to stay discovery and directed a response, defendant is still refusing to produce highly relevant
+
+documents. Defendant is attempting to grant herself a de facto stay of discovery, without Court
+
+approval, by refusing to produce documents or generally comply with a party’s clear and
+
+unequivocal discovery obligations1. Indeed, in response to thirty-eight (38) requests for
+
+production, the defendant has chosen to produce two emails.2 This represents a willful disregard
+
+of her discovery obligations, something this Court should not condone.
+
+        “Although not unlimited, relevance, for purposes of discovery, is an extremely broad
+
+concept.” Ottoson v. SMBC Leasing and Finance, Inc., (Sweet, J.) 2015 WL 4597542 at * 2
+
+(S.D.N.Y. July 30, 2015) (granting motion to compel) (internal quotations omitted); Stinson v.
+
+City of New York, (Sweet, J.), 2015 WL 4610422 (S.D.N.Y. July 23, 2015) (granting in part
+
+motion to compel production).
+
+        In the Second Circuit, courts have dismissed actions where a party has demonstrated
+
+willful disregard for its discovery obligations. Edwards v. Am. Airlines, Inc., No. 95 CIV. 5356
+
+1
+ Maxwell also waited four (4) months to produce her initial Rule 26 Disclosures which she just served on February
+24, 2016.
+2
+ Notably, Maxwell even refuses to produce the defamatory press releases from her communications with her press
+agent Ross Gow, which are at the heart of this case.
+
+
+
+                                                        1
+(SAS), 1996 WL 432472, at *3 (S.D.N.Y. Aug. 1, 1996). See also International Mining Co.,
+
+Inc. v. Allen and Co., (Sweet, J.), 567 F.Supp 777 (S.D.N.Y. 1983) (failure to produce
+
+documents and supply adequate answers to interrogatories without justifiable excuse warranted
+
+the dismissal of the complaint). The blatant nature of the defendant’s failure to participate in
+
+discovery is akin to the conduct for which the Second Circuit has awarded sanctions.
+
+       This case turns on whether or not Maxwell defamed Ms. Giuffre when she called Ms.
+
+Giuffre’s account of her sexual abuse “obvious lies.” Ms. Giuffre intends to establish that
+
+Maxwell’s defamatory statement was untrue, and that Ms. Giuffre was telling the truth. To
+
+prove the truth of her sexual abuse, Ms. Giuffre seeks discovery of documents evidencing her
+
+sexual abuse and sexual trafficking by Maxwell and her associates, including convicted sex
+
+offender Jeffrey Epstein. Therefore, documents evidencing Ms. Giuffre’s encounters with
+
+Maxwell, and documents evidencing Maxwell’s communications with her co-conspirators, are
+
+plainly relevant and discoverable. For example, Request 6 seeks documents relating to
+
+Maxwell’s communications with Sarah Kellen. At a prior deposition, Sarah Kellen invoked her
+
+Fifth Amendment privilege when asked:
+
+        Q. Would you agree with me that Ghislaine Maxwell provides underage girls to Mr.
+Epstein for sex?
+        ***
+        A. Upon the instruction of my lawyer, I must invoke my Fifth Amendment privilege.
+        Q. Take a look at what we marked as Exhibit 10. Do you recognize the two people in
+that photograph?
+        A. On the instruction of my lawyer, I must invoke my Fifth Amendment privilege.
+        Q. Would you agree with me that’s Ghislaine Maxwell on the right and Jeffrey Epstein
+on the left?
+        A. On the instruction of my lawyer, I must invoke my Fifth Amendment privilege.
+        ***
+        Q. Do you recognize the young lady shown in Exhibit 11?
+        A. On the instruction of my lawyer, I must invoke my Fifth Amendment privilege.
+        Q. Do you agree with me that the young girl shown in Exhibit 11 was recruited by
+Ghislaine Mawell for sexual activity with Jeffrey Esptein?
+        A. On the instruction of my lawyer, I must invoke my Fifth Amendment privilege.
+
+
+
+                                                 2
+See McCawley Decl. at Exhibit 1, March 24, 2010 Deposition Transcript of Sarah Kellen at 100-
+
+103.
+
+       Clearly, communications Maxwell had with Sarah Kellen are highly relevant to
+
+establishing Maxwell’s involvement in trafficking underage girls. Yet, Maxwell is refusing to
+
+produce any communications with Sarah Kellen.
+
+       Moreover, defendant Maxwell has admitted that non-privileged,3 relevant documents
+
+exist. She is simply refusing to produce them. See Declaration of Sigrid McCawley
+
+(“McCawley Decl.”) at Exhibit 2, Defendant Maxwell’s Response to Plaintiff’s First Request for
+
+Production Requests Nos. 1, 3, 6, 7, 8, 9, 10, 11, 15, 17, 19, 21, 22, 23, 24, 32, 33, 34, and 37.
+
+Indeed, it is undisputed that Maxwell spent many years traveling with Ms. Giuffre. And, for
+
+years thereafter, Maxwell continued her association with convicted sex offender Jeffrey Epstein.
+
+Ms. Giuffre is entitled to those documents in discovery because they go directly to the claim at
+
+issue in this litigation. Therefore, this Court should compel her to produce them.
+
+II.    LEGAL ARGUMENT
+
+       A.    Legal Standard
+
+       Under Federal Rule of Civil Procedure 34(a), a party may request that another party
+
+produce documents in its possession as long as the documents are within the scope of Fed. R.
+
+Civ. P. 26(b), which allows for broad discovery regarding any non-privileged matter that is
+
+relevant to any party’s claim or defense. Information within this scope of discovery need not be
+
+admissible in evidence to be discoverable. Relevance is still to be “construed broadly to
+
+encompass any matter that bears on, or that reasonably could lead to other matter that could bear
+
+on” any party's claim or defense. State Farm Mut. Auto. Ins. Co. v. Fayda, No.
+
+
+3
+ Ms. Maxwell’s privilege claims all fail as addressed in Ms. Giuffre’s Motion to Compel Production
+Based on Improper Claim of Privilege.
+
+
+                                                  3
+14CIV9792WHPJCF, 2015 WL 7871037, at *2 (S.D.N.Y. Dec. 3, 2015) (granting motion to
+
+compel). If the opposing party objects to producing the documents, the party seeking production
+
+can file a motion to compel with the court pursuant to Fed. R. Civ. P. 37. Against this backdrop
+
+of broad discovery rights, Maxwell has refused to produce responsive documents.
+
+        B.    Maxwell’s General Objections Fail
+
+        The centerpiece of Maxwell’s general objections is her disingenuous limitation of her
+
+discovery responses to a short window of time that she has unilaterally selected. Maxwell
+
+wrongfully attempts to limit discovery to the month of December 30, 2014 – January 31, 2015
+
+when her defamatory statement was issued and 1999 – 20024. Maxwell’s time period limitation
+
+clearly violates both the letter and spirit of Rule 26. For example, a communication by
+
+Maxwell’s press agent regarding the plaintiff is just as relevant if it was made on February 1,
+
+2015 as the one that was made on January 3, 2015 and it is clearly discoverable. These
+
+communications with her press agent are key documents in this case, as the sole claim concerns
+
+Ms. Maxwell defaming Ms. Giuffre in the press, yet Maxwell has arbitrarily refused to produce
+
+highly relevant discovery.
+
+        The abuse at issue in this case is alleged to have started in or around 1999 and there are
+
+relevant documents and communications from that point to the present in that Maxwell
+
+continued to associate with convicted pedophile Jeffrey Epstein up until at least 2015 as
+
+evidenced by her privilege log. See McCawley Decl. at Exhibit 3, Maxwell’s Privilege Log.
+
+Accordingly, plaintiff defined the relevant period for purposes of her requests for production as
+
+1999 – present. While that may seem like a substantial period of time, all of the publically
+
+
+4
+ Maxwell refers to her shortened time period as “the Relevant Time Period as defined in Paragraph 15”
+of her objections. To be clear, Ms. Giuffre’s references herein to production for the “Relevant Time
+Period” refer to the Relevant Time Period of 1999 to the present as defined in her original requests for
+production.
+
+
+                                                    4
+available documents demonstrate that the whole period is highly relevant to the sexual abuse
+
+allegations. For example, the flight logs demonstrate that Maxwell was flying on Jeffrey
+
+Epstein’s planes over 360 times from 1999 – 2005. In addition, Maxwell flew with plaintiff
+
+when she was a minor child in 2000 on Jeffrey Epstein’s planes. The flight logs reveal that
+
+Maxwell continued to actively travel with Jeffrey Epstein and other unidentified “female”
+
+passengers through at least as late as September 5, 2005.5 See McCawley Decl. at Exhibit 4.
+
+        Moreover, there is critical activity relevant to the abuse allegations happening in the mid-
+
+2000s as evidenced by the Palm Beach Police report that identified over 30 underage girls who
+
+were being victimized during that time period. In addition, house staff identifies Maxwell as the
+
+person in charge during this time period. See McCawley Decl. at Exhibit 5, Alfredo Rodriguez
+
+Deposition Transcript at 24-25.
+
+        The years of the mid to late 2000s are also highly relevant because that is during the time
+
+when convicted sex offender Jeffrey Epstein entered his plea deal with the government. Law
+
+enforcement conducted a trash pull from Jeffrey Epstein’s residence in Florida and uncovered his
+
+house message pads. The message pads reveal that in 2004, Maxwell was coordinating
+
+“training” with underage girls as indicated by the redactions in the message pads. See
+
+McCawley Decl. at Exhibit 6, SAO 2830. Maxwell was also organizing “massages” for Epstein
+
+in 2004 with underage girls and indicating which girls she had lined-up on given days. See
+
+McCawley Decl. at Exhibit 6, SAO 02841.
+
+        Plaintiff here received a Victim Notification Letter on September 9, 2008. See
+
+McCawley Decl. at Exhibit 7. In 2009, an attorney sought Maxwell’s deposition in connection
+
+
+5
+  Only a fraction of the flight logs were made publically available. Therefore there are likely other records
+in Maxwell’s possession, custody and control that would demonstrate Maxwell traveling with underage
+females but to date she has refused to produce this information and indeed is limiting her responses to a
+very narrow window of time.
+
+
+                                                      5
+with various sexual abuse allegations and Maxwell dodged the deposition claiming that her
+
+mother was ill and she would be traveling outside the country with no plans of returning.
+
+Despite this claim to avoid her deposition, she then was photographed thereafter at Chelsea
+
+Clinton’s wedding in Rhinebeck, New York. See McCawley Decl. at Composite Exhibit 8
+
+Maxwell Deposition Notice; Subpoena and Cancellation Payment Notice, and January 13, 2015
+
+Daily Mail Article with photograph. In 2011, Maxwell started issuing press statements through
+
+her agent Ross Gow. The offending defamatory statement was issued on January 3, 2015. As
+
+demonstrated by the timeline, discussed above, any documents that Maxwell has from the period
+
+from 1999 to the present are highly relevant. Ms. Giuffre respectfully requests that this Court
+
+direct Maxwell to produce all responsive documents for the time period from 1999 to the
+
+present.6
+
+        Defendant Maxwell has also asserted fundamentally improper general objections which
+
+should be overruled. Am. Rock Salt Co., LLC v. Norfolk S. Corp., 228 F.R.D. 426, 432
+
+(W.D.N.Y. 2004) (“generalized objections that discovery requests are vague, overly broad, or
+
+unduly burdensome are not acceptable, and will be overruled.”).
+
+        Maxwell’s general objection to producing material that implicates “privacy interests” is
+
+equally misplaced. Maxwell does not have a “privacy interest” in the illegal sexual abuse and
+
+trafficking of Ms. Giuffre and other minors, nor does she have a “privacy interest” in the
+
+communications with her co-conspirators, including convicted sex offender, Jeffrey Epstein and
+
+
+
+
+6
+ Maxwell has asserted that she cannot find documents for Requests Nos.1, 2, 6, 12, 13, 14, 35 and 38.
+The Requests are set forth in Appendix A. To the extent that these requests incorporate her General
+Objection to the Relevant Period articulated in paragraph 15 of her Objections, Plaintiff requests that this
+Court require Ms. Maxwell to search for and produce any responsive documents from the 1999 to the
+present that may have been excluded from Maxwell’s original search for the reasons stated above.
+
+
+                                                     6
+others.7 See Zorn v. Howe, 276 A.D.2d 51, 57, 716 N.Y.S.2d 128, 133 (2000) (finding no
+
+legitimate privacy interest in illegal activity). Unsurprisingly, Maxwell cites no authority that
+
+would shield the production of those documents.8 These documents are responsive and relevant.
+
+The only proper objection Maxwell can make is an assertion of her Fifth Amendment privilege.
+
+Failing that assertion, she must produce them.
+
+        Furthermore, Maxwell claims that “prior to this litigation” she has “long had a practice of
+
+deleting emails after they have been read.” First, Ms. Giuffre is entitled to a forensic examination
+
+of Maxwell’s personal computers and devices to recover deleted emails and to discovery when
+
+and if Maxwell has performed a “swipe” of her computers/devices to permanently destroy
+
+deleted emails.
+
+        Second, in her Motion to Dismiss, Maxwell claims that in both 2011 and 2015 she
+
+anticipated litigation against tabloids. Specifically, she stated that in 2011, “litigation . . . was
+
+forthcoming,” and in 2015, she made her press release “’pertinent to’ anticipated good-faith
+
+litigation.” When litigation is anticipated, it is incumbent on the party to preserve documents.
+
+See Zubulake v. UBS Warburg LLC, 220 F.R.D. 212, 218 (S.D.N.Y.2003) (“Once a party
+
+reasonably anticipates litigation, it must ... ensure the preservation of relevant documents.”)
+
+Additionally, if Maxwell purposefully destroyed documents in 2015, this Court can instruct the
+
+jury to made an adverse inference against Maxwell or enter a default judgment in favor of Ms.
+
+7
+ Non-attorney Maxwell claims that her communications with co-conspirator, convicted pedophile, and
+non-attorney Jeffrey Epstein are privileged, a specious claim that is challenged in Plaintiff’s Motion to
+Compel for Improper Assertion of Privilege.
+8
+  Maxwell cites a non-controlling and inapposite Colorado case. In Gateway, the moving party sought to
+inspect personal computers, smartphones, and other devices belonging to the defendant and his wife, who
+was a non-party to the case. The court remanded the decision on the motion to compel that discovery to
+the trial court, requiring that the trial court make findings of fact balancing the defendants’ privacy
+interest with the plaintiffs’ need for the information sought as required by another case. It did not hold
+that such materials were not discoverable. Notably, Maxwell does not cite to any New York case in
+opposing this request, nor does she cite to a case from any other jurisdiction that is at all on point.
+
+
+                                                     7
+Giuffre. See Rule 37(e)(2)(b),(c), Fed. R. Civ. P. (“If electronically stored information that
+
+should have been preserved in the anticipation or conduct of litigation is lost because a party
+
+failed to take reasonable steps to preserve it, and it cannot be restored or replaced through
+
+additional discovery, the court . . . upon finding that the party acted with the intent to deprive
+
+another party of the information’s use in the litigation may . . . instruct the jury that it may or
+
+must presume the information was unfavorable to the party; or dismiss the action or enter a
+
+default judgment.”) Similarly, Maxwell was served with a subpoena decus tecum on September
+
+21, 2009 seeking her testimony in relations to Epstein’s underage sex ring. See McCawley Decl.
+
+at Composite Exhibit 8, 2009 Subpoena issued to Maxwell. Maxwell avoided that deposition by
+
+falsely claiming to be out of the country (she was, instead, photographed at Chelsey Clinton’s
+
+New York wedding). See Composite Exhibit 8. Pursuant to that subpoena, Maxwell was placed
+
+on notice that her documents were relevant to pending litigation. All of these events triggering
+
+her duty to preserve documents center on Maxwell’s role in Epstein’s sex crimes; therefore, all
+
+of the documents she had a duty to preserve are relevant to this litigation. Defendant Maxwell
+
+must produce these documents or explain to the Court when and why they were destroyed.
+
+       C.    Maxwell’s Specific Objections Fail
+
+            1.   Request No. 1: All documents relating to communications with Jeffery
+Epstein from 1999 – Present.
+
+                   a.    Maxwell’s Response:
+
+        Maxwell objects to this Request on the grounds that it is overly broad and unduly
+burdensome and calls for the production of documents that are irrelevant to this action and not
+reasonably calculated to lead to the discovery of admissible evidence. Maxwell further objects
+to this Request to the extent it seeks documents or information protected by the attorney/client
+privilege, the work-product doctrine, the common interest privilege or any other applicable
+privilege.
+
+
+
+
+                                                   8
+       Subject to and without waiving the above objections, Maxwell is withholding documents
+outside of the Relevant Periods described in paragraph15, supra9, and is withholding production
+of documents that are privileged pursuant to a common interest agreement.
+
+                    b.    Maxwell’s Objections Fail, as the Request Seeks Relevant Discovery
+
+        Maxwell must produce documents for the entire Relevant Period as discussed above.
+
+Communications with convicted sex offender Jeffrey Epstein for whom Defendant Maxwell is
+
+alleged to have assisted him with his sexual trafficking activities are of the highest relevance in
+
+this case, and must be produced. Additionally, Maxwell has asserted an improper privilege with
+
+regard to these documents, which is addressed fully in Plaintiff’s Motion to Compel for Improper
+
+Claims of Privilege.
+
+             2.   Request No. 3: All documents relating to communications with Andrew
+Albert Christian Edward, Duke of York (a.k.a. Prince Andrew) from 1999 – present.
+
+                    a.    Maxwell’s Response:
+
+        Maxwell objects to this Request on the grounds that it is overly broad and calls for the
+production of documents that are irrelevant to this action and not reasonably calculated to lead to
+the discovery of admissible evidence. Maxwell further objects to this Request to the extent it
+seeks documents or information protected by the attorney/client privilege, the work-product
+doctrine, or any other applicable privilege. Maxwell also objects to this Request to the extent it
+implicates her right to privacy. Gateway Logistics, Inc. v. Smay, 302 P .3d 235 (Colo.2013);
+Fed.R.Evid .501.
+
+        Subject to and without waiving the above objections, Maxwell will produce non-
+privileged documents responsive to this Request limited to the Relevant Periods described in
+
+
+
+9
+  Maxwell’s reference to her “redefined” Relevant Period comes from paragraph 15 of her Responses and
+Objections which provides: “Ms. Maxwell objects to Instruction No. 1, in particular the definition of the
+“Relevant Period” to include July 1999 to the present, on the grounds that it is overly broad and unduly
+burdensome and calls for the production of documents that are irrelevant to this action and not reasonably
+calculated to lead to the discovery of admissible evidence. The Complaint at paragraph 9 purports to
+describe events pertaining to Plaintiff and Defendant occurring in the years 1999 – 2002. The Complaint
+also references statements attributed to Ms. Maxwell occurring in January 2015. Defining the “Relevant
+Period” as July 1999 to the present” is vastly overbroad, irrelevant and not reasonably calculated to lead
+to the discovery of admissible evidence, and as to certain of the Requests, is intended for the improper
+purpose of annoying or harassing Ms. Maxwell and it implicates her privacy rights. Thus, Ms. Maxwell
+interprets the Relevant Period to be limited to 1999 – 2002 and December 30, 2014 – January 31, 2015
+and objects to production of any documents outside that period, except as specifically noted.”
+
+
+                                                    9
+paragraph15, supra, and with private phone numbers and related information redacted. Maxwell
+is withholding production of documents outside of such Relevant Periods.
+
+                   b.    Maxwell’s Objections Fail, as the Request Seeks Relevant Discovery
+
+       Defendant Maxwell’s communications with Prince Andrew, for the entire Relevant
+
+Period, are relevant to this litigation. Maxwell is alleged to have trafficked Ms. Giuffre to Prince
+
+Andrew when Ms. Giuffre was a minor. Indeed, there is photographic evidence of Prince
+
+Andrew with his arm around Virginia’s waist, standing next to Maxwell, in Maxwell’s London
+
+residence, when Virginia was a minor child. In the one email defendant did produce in Response
+
+to the Requests for Production, Maxwell instructs Prince Andrew to “call me” after Prince
+
+Andrew says he needs to speak about Virginia. See McCawley Decl. at Exhibit 9. Ms. Giuffre is
+
+entitled to all of the communications between Maxwell and Prince Andrew not only to show the
+
+communications between them regarding her trafficking, but also possible communications
+
+between them, that would establish Maxwell furnishing him with other females or discussing
+
+other individuals who may have been involved with this activity.
+
+             3.   Request No. 6: All documents relating to communications with any of the
+following individuals from 1999 – present: Emmy Taylor, Sarah Kellen, Eva Dubin, Glen Dubin,
+Jean Luc Brunel, and Nadia Marcinkova.
+
+                   a.    Maxwell’s Response:
+
+       Maxwell objects to this Request on the grounds that it is overly broad, unduly
+burdensome and/or propounded for the improper purpose of annoying or harassing Maxwell.
+Maxwell further objects to this Request on the grounds that it calls for the production of
+documents that are irrelevant to this action and not reasonably calculated to lead to the discovery
+of admissible evidence.
+
+        Subject to and without waiving the above objections, Maxwell is withholding production
+of documents relating to communications with Nadia Marcinkova, Sarah Kellen and Eva Dubin
+that are outside of the Relevant Periods described in paragraph15, supra. Maxwell has been
+unable to locate any such documents relating to Ms. Marcinkova, Ms. Kellen or Ms. Dubin
+within the Relevant Periods. Maxwell also has been unable to locate any such documents
+responsive to this Request relating to Glen Dubin, Jean Luc Brunel or Emmy Taylor for any time
+period.
+
+
+
+                                                 10
+                    b.      Maxwell’s Objections Fail, as the Request Seeks Relevant Discovery
+
+        Ms. Kellen was previously deposed regarding Jeffrey Epstein’s underage sex ring. When
+
+asked about Maxwell’s involvement in the sex trafficking, Ms. Kellen asserted her Fifth
+
+Amendment privileges and refused to answer. Ms. Kellen’s assertion implicates Maxwell in the
+
+sex trafficking activity.
+
+       Q. Would you agree with me that Ghislaine Maxwell provides underage girls to Mr.
+Epstein for sex?
+       ***
+       A. Upon the instruction of my lawyer, I must invoke my Fifth Amendment privilege.
+
+See McCawley Decl. at Exhibit 1, March 24, 2010 Deposition Transcript of Sarah Kellen at 100-
+
+103.
+
+        Maxwell’s communications with Ms. Kellen, at any time during the original Relevant
+
+Period, are relevant to the sexual abuse suffered by Ms. Giuffre and others at the hands of
+
+Maxwell, and should not be withheld. Moreover, flight logs demonstrate that Sarah Kellen and
+
+Maxwell flew together multiple times, including with Ms. Giuffre. See McCawley Decl. at
+
+Exhibit 4.
+
+        Similarly, Nadia Marcinkova was a co-conspirator of Maxwell and Epstein, and
+
+communicated with them frequently as evidenced by the message pads law enforcement
+
+retrieved from Epstein’s residence. See McCawley Decl. at Exhibit 6. Nadia Marcinkova also
+
+travelled on Jeffrey Epstein’s planes with Maxwell. See McCawley Decl. at Exhibit 4, flight
+
+logs. Similarly, Emmy Taylor was Maxwell’s assistant during this time frame and also travelled
+
+on Jeffrey Epstein’s planes with Ms. Giuffre. See McCawley Decl. at Exhibit 4. These
+
+communications are relevant for the entire original Relevant Period and Maxwell must produce
+
+them.
+
+
+
+
+                                                  11
+       Regarding Glen and Eva Dubin, flight logs demonstrate that they also travelled on Jeffrey
+
+Epstein’s planes with Maxwell. Maxwell has acknowledged having communications with Eva
+
+Dubin, but she is refusing to turn them over. Eva and Glen regularly placed calls to Jeffrey
+
+Epstein and to Maxwell as evidenced by the police report trash pull of message pads. See
+
+McCawley Decl. at Exhibit 6, SAO2843, SAO2984, SAO2994, SAO3004, SAO3006, and
+
+SAO3009. Maxwell’s communications with Glen and Eva Dubin are relevant for the entire
+
+original Relevant Period and should be produced.
+
+             4.    Request No. 7: All video tapes, audio tapes, photographs or any other print or
+electronic media relating to females under the age of 18 from the period of 1999 – present.
+
+                   a.   Maxwell’s Response:
+
+       Maxwell objects to this Request on the grounds that it is overly broad, unduly
+burdensome and/or propounded for the improper purpose of annoying or harassing Maxwell.
+Maxwell further objects to this Request on the grounds that it calls for the production of
+documents that are irrelevant to this action and not reasonably calculated to lead to the discovery
+of admissible evidence.
+
+        Subject to and without waiving the above objections, Maxwell has been unable to locate
+any documents responsive to this Request which relate or pertain to Plaintiff or any of the
+witnesses identified by Plaintiff in her Rule 26 disclosures. Maxwell is withholding production
+of other documents responsive to this Request, including things like mainstream newspapers,
+magazines, videos, DVDs or other media or family photographs which contain depictions of
+female children, including Maxwell herself as a child.
+
+                   b.   Maxwell’s Objections Fail, as the Request Seeks Relevant Discovery
+
+       To clarify, Ms. Giuffre is not seeking the depictions of children under the age of 18 that
+
+that include Maxwell as a child or Maxwell’s relatives as children. Nor is Ms. Giuffre seeking
+
+mainstream images that are legally available, such as in mainstream newspapers, magazines,
+
+videos, or DVDs. Instead, Ms. Giuffre is seeking the depictions of underage girls possessed by
+
+Maxwell. For example, Alfredo Rodriguez, a former household manager for Epstein, testified
+
+that Maxwell kept images of naked girls on her personal computer whose identities are unknown
+
+to Ms. Giuffre:
+
+
+                                                12
+        Q. “Did they appear to be doing any sexual?
+        A. Yes, ma’am
+        Q. And in these instances were there girls doing sexual things with other girls?
+        A. Yes, ma’am.
+        Q. And I’m still talking about the pictures on Maxwell’s computer.
+        A. Yes, ma’am.”
+
+See McCawley Decl. at Exhibit 5, Alfredo Rodriguez August 7, 2009, Dep. Tr. at 311-312.
+
+Accordingly, Maxwell’s depictions of females under the age of 18, goes to Ms. Giuffre’s claims
+
+of sexual abuse and should be produced for the entire original Relevant Period. These pictures
+
+would reveal which underage girls Maxwell was interacting with and photographing or
+
+videotaping which is highly relevant to this case. Importantly, this request is not limited to
+
+depictions of Ms. Giuffre or the individuals in Ms. Giuffre’s Rule 26 disclosures, as Maxwell
+
+tries to assert in her Objection.
+
+              5.   Request Nos. 8 and 33: All documents relating to your travel from the period
+of 1999 – present, including but not limited to, any travel on Jeffrey Epstein’s planes,
+commercial flights, helicopters, passport records, records indicating passengers traveling with
+you, hotel records, and credit card receipts.
+
+                    a.    Maxwell’s Response:
+
+        Maxwell objects to this Request on the grounds that it is overly broad, unduly
+burdensome and/or propounded for the improper purpose of annoying or harassing Maxwell.
+Maxwell further objects to this Request on the grounds that it calls for the production of
+documents that are irrelevant to this action and not reasonably calculated to lead to the discovery
+of admissible evidence. Maxwell also objects to this Request to the extent it implicates her right
+to privacy. Gateway Logistics, Inc. v. Smay, 302 P .3d 235 (Colo.2013); Fed.R.Evid. 501.
+
+        Subject to and without waiving the above objections, Maxwell is withholding production
+of documents outside of the Relevant Periods described in paragraph15, supra, and is
+withholding documents within the Relevant Period that are private and are not reasonably
+calculated to lead to the discovery of admissible evidence. The documents reflecting flight plans
+in Maxwell’s possession do not identify passengers or manifests.
+
+                    b.    Request No. 33
+
+All travel records between 1999 and the present reflecting your presence in: (a) Palm Beach
+Florida or immediately surrounding areas; (b) 9 E. 71st Street, New York, NY 10021; (c) New
+Mexico; (d) U.S. Virgin Islands; (e) any jet or aircraft owned or controlled by Jeffrey Epstein.
+
+
+
+                                                 13
+                     c.     Maxwell’s Response to Request No. 33
+
+        Ms. Maxwell objects to this Request on the grounds that it is overly broad, unduly
+burdensome an/or proponed for the improper purpose of annoying or harassing Maxwell. This
+request is also duplicative and cumulative of Requests Nos. 8 and 14 above. Maxwell further
+objects to this Request to the extent that it calls for the production of documents that are
+irrelevant to this action and not reasonably calculated to lead to the discovery of admissible
+evidence.
+
+       Subject to and without waiving the above objections, Maxwell has been unable to locate
+any documents responsive to this Request for the Relevant Periods as defined in paragraph 15,
+supra. Maxwell is withholding production of documents outside of such Relevant Period.
+
+                     d.     Maxwell’s Objections Fail, as the Request Seeks Relevant Discovery
+
+        Popularly known in mainstream media as the “Lolita Express,”10 Epstein is alleged to
+
+have used his private plane to traffic females across state lines for sexual purposes. The
+
+flightlogs available at this time to Ms. Giuffre only show a fraction of the flights made by the
+
+Lolita Express, but even those logs show Maxwell and Ms. Giuffre on these flights multiple
+
+times. See McCawley Decl. at Exhibit 4. This request concerning Maxwell’s travel will show
+
+Maxwell’s involvement in the trafficking, including Ms. Giuffre, across state lines with and for
+
+Epstein.
+
+        Jeffrey Epstein’s private island is only reachable by helicopter or boat. Maxwell was
+
+known to fly the helicopter to the private island transporting guests. Therefore, her helicopter
+
+flight records will show which girls and other individuals that Maxwell flew to Epstein’s private
+
+island. The records will also demonstrate when and how many times Maxwell was operating the
+
+helicopter.
+
+        Maxwell’s commercial flight, passport, hotel, and credit card records are highly relevant
+
+because they will show, for example, that she flew to Paris, France with Ms. Giuffre while Ms.
+
+
+10
+   See, e.g., “All aboard the ‘Lolita Express’: http://www.dailymail.co.uk/news/article-2922773/Newly-released-
+flight-logs-reveal-time-trips-Bill-Clinton-Harvard-law-professor-Alan-Dershowitz-took-pedophile-Jeffrey-Epstein-
+s-Lolita-Express-private-jet-anonymous-women.html.
+
+
+                                                       14
+Giuffre was a minor child. Additionally, these records will place Maxwell at other locations
+
+around the United States and internationally at the same times Ms. Giuffre was in those
+
+locations, which goes to the defamation claim in this case. The records will also link her to other
+
+females who may have been trafficked for sex. Finally, Maxwell’s travel to Epstein’s residences
+
+in Florida, New York, New Mexico, and USVI will support the allegations that Maxwell assisted
+
+Jeffrey Epstein with his sexual trafficking operation. Accordingly, this is an improper objection.
+
+Defendant Maxwell has admitted that she is withholding responsive documents from production,
+
+and this Court should require her to produce them.
+
+             6.    Request Nos. 10 and 11:
+
+                     a.     Request No. 10: All documents relating to payments made from
+Jeffrey Epstein or any related entity to you from 1999 – present, including payments for work
+performed, gifts, real estate purchases, living expenses, and payments to your charitable
+endeavors including the TerraMar project.
+
+                     b.   Maxwell’s Response to Request No. 10:
+
+       Maxwell objects to this Request on the grounds that it is overly broad, unduly
+burdensome and/or propounded for the improper purpose of annoying or harassing Maxwell.
+Maxwell further objects to this Request on the grounds that it calls for the production of
+documents that are irrelevant to this action and not reasonably calculated to lead to the discovery
+of admissible evidence.
+
+        Subject to and without waiving the above objections, Maxwell has been unable to
+locate any documents responsive to this Request during the Relevant Periods as defined in
+paragraph15, supra. Maxwell is withholding production of documents outside of such
+Relevant Periods.
+                   c.    Request No. 11: All documents relating to or describing any work
+you performed with Jeffrey Epstein, or any affiliated entity from 1999 –present.
+
+                     d.   Maxwell’s Response to Request No. 11:
+
+        Maxwell objects to this Request in that the terms “work,” “with” and “affiliated entity”
+are vague, undefined and susceptible of multiple meanings and definitions. M. Maxwell objects
+to this Request on the grounds that it is overly broad, unduly burdensome and/or propounded for
+the improper purpose of annoying or harassing Maxwell. Maxwell further objects to this Request
+on the grounds that it calls for the production of documents that are irrelevant to this action and
+not reasonably calculated to lead to the discovery of admissible evidence.
+
+
+                                                15
+        Subject to and without waiving the above objections, Maxwell has been unable to
+locate any documents responsive to this Request during the Relevant Periods as defined in
+paragraph15, supra. Maxwell is withholding production of documents outside of such
+Relevant Periods.
+                     e.   Maxwell’s Objections Fail, as the Request Seeks Relevant Discovery
+
+       Maxwell recruited Ms. Giuffre and groomed her to perform sexual acts for Jeffrey
+
+Epstein. She also performed other services for Jeffrey Epstein, including recruiting and
+
+scheduling girls to perform “massages” for Epstein. The household staff testified that they took
+
+instructions from Maxwell. See McCawley Decl. at Exhibit 5, Rodriguez at 24-25. Therefore,
+
+her work for Epstein and related entities is relevant. Discovery concerning Maxwell’s
+
+compensation, formal or informal, for the work she performed for convicted sex offender Jeffrey
+
+Epstein is highly relevant for the entire Relevant Period, from 1999 to the present, because
+
+Maxwell performed these services, and received compensation and gifts during this entire time
+
+period. For example, a 2003 Vanity Fair article, written before the Jeffrey Epstein scandal
+
+broke, describes Maxwell as someone who “seems to organize much of [Epstein’s] life --
+
+recently she was making telephone inquiries to find a California-based yoga instructor for
+
+him.”11 The police records also reveal that Maxwell recruited a female to work for Jeffrey
+
+Epstein. The message pads also reveal Maxwell regularly working for Jeffrey Epstein, including
+
+organizing his schedule for training underage girls. See McCawley Decl. at Exhibit 6, SAO2830.
+
+The work she performed for Epstein, and the compensation she received, is relevant to the claim
+
+in this case for the entire Relevant Period. Therefore, Maxwell must produce the documents she
+
+is withholding.
+
+              7.      Request No. 15: All video tapes, audio tapes, photographs or any other print
+or electronic media taken at a time when you were in Jeffrey Esptein’s company or inside any of
+his residences or aircraft.
+
+11
+  “The Talented Mr. Epstein,” Vanity Fair, March 2003,
+http://www.vanityfair.com/news/2003/03/jeffrey-epstein-200303
+
+
+                                                16
+                        a.    Maxwell’s Response:
+
+        Maxwell objects to this Request on the grounds that it is overly broad, unduly
+burdensome and/or propounded for the improper purpose of annoying or harassing Maxwell.
+Maxwell further objects to this Request on the grounds that it calls for the production of
+documents that are irrelevant to this action and not reasonably calculated to lead to the discovery
+of admissible evidence. Maxwell further objects to this Request to the extent it implicates her
+right to privacy. Gateway Logistics, Inc. v. Smay, 302 P .3d 235 (Colo.2013); Fed.R.Evid . 501.
+
+       Subject to and without waiving the above objections, Maxwell has been unable to locate
+any documents responsive to this Request that are within the Relevant Periods described in
+paragraph15, supra. Maxwell is withholding production of documents outside of such Relevant
+Periods.
+
+                        b.    Maxwell’s Objections Fail, as the Request Seeks Relevant Discovery
+
+       Maxwell must produce these documents for the entire Relevant Period, and not withhold
+
+any. Photographs and other electronic recordings with Jeffrey Epstein likely contain the image of
+
+other underage girls or trafficked women, and therefore, those photographs go to the claim in this
+
+case. Additionally, such depictions would reveal other potential witnesses in this case.
+
+Accordingly, Maxwell must not withhold these documents based on her revised time period
+
+limitation for discovery.
+
+           8.   Request No. 17: All documents relating to communications with you and
+Ross Gow from 2005 – present.
+
+                   a.        Maxwell’s Response:
+
+        Maxwell objects to this Request on the grounds that it is overly broad, unduly
+burdensome and/or propounded for the improper purpose of annoying or harassing Maxwell.
+Maxwell further objects to this Request to the extent that it calls for the production of documents
+that are irrelevant to this action and not reasonably calculated to lead to the discovery of
+admissible evidence. Maxwell also objects to this request to the extent it seeks documents or
+information protected by the attorney/client privilege, the common interest privilege, the work-
+product doctrine, or any other applicable privilege.
+
+        Subject to and without waiving the above objections, Maxwell is withholding documents
+responsive to this Request that are outside of the Relevant Periods defined in paragraph15, supra
+as well as the period of January 1, 2011 to December 31, 2011,and also withholding documents
+within the Relevant Periods that are privileged. Maxwell has been unable to locate any non-
+privileged documents that are within such Relevant Periods.
+
+
+
+                                                   17
+                   b.    Maxwell’s Objections Fail, as the Request Seeks Relevant Discovery
+
+       Through her non-attorney12, public relations professional, Maxwell made a defamatory
+
+statement to the press, and that statement is the genesis of this defamation lawsuit. The press
+
+quoted portions of this defamatory statement in its publications. The full statement, distributed to
+
+the press by Maxwell, through her agent Ross Gow, is clearly discoverable. Ms. Maxwell is in
+
+possession of that full statement. Ms. Maxwell admitted to having a January 2, 2015 “Email from
+
+Ross Gow to various news organizations,” “Subject: ‘Ghislaine Maxwell.” Its date is the day
+
+before the known defamatory statements appeared in the press. It is clear that the full defamatory
+
+statement is contained within that January 2, 2015 email; it is increasingly clear that the full
+
+statement contains other defamatory remarks, which is why Ms. Maxwell is trying to hide it.
+
+       There are no privileges that attach to emails to the press or to press releases - their very
+
+purpose is wide dissemination. The fact that Maxwell has not disclosed this press release places
+
+her in clear violation of her discovery obligations: Ms. Giuffre is plainly entitled to the
+
+defamatory statement Maxwell released to the press upon which this lawsuit is based, including
+
+all communications with her press agent, and made by her press agent. Ms. Giuffre presumes that
+
+the full statement contains additional defamatory statements, which would explain Maxwell’s
+
+spurious attempt to circumvent her discovery obligations by trying to convince the Court that a
+
+press release is somehow confidential and privileged.
+
+       In addition to the full statement released to the press, Ms. Giuffre is entitled to all
+
+previous drafts of the statement, and all communications Maxwell had with Mr. Gow regarding
+
+
+
+12
+  Ross Gow is not an attorney, and Maxwell has not alleged that he is an attorney. Upon information and
+belief, Ross Gow is merely a public relations professional who works for a PR firm that Maxwell
+employed. As a non-attorney, no attorney-client privilege attaches to Maxwell and Gow’s
+communications. Maxwell’s communications with Gow listed on the Maxwell privilege log are
+challenged in Plaintiff’s Motion to Compel for Improper Claim of Privilege.
+
+
+                                                  18
+the statement. Accordingly, Ms. Giuffre is entitled to communications relating to Mr. Gow -
+
+particularly the January 2, 2015 email - for the entire Relevant Period.
+
+             9.    Request No. 21-24: All telephone records associated with you including
+cellphone records from 1999 –present.
+
+                   a.        Maxwell’s Response:
+
+        Maxwell objects to this Request on the grounds that it is overly broad, unduly
+burdensome, propounded for the improper purpose of annoying or harassing Maxwell, and seeks
+documents outside of Maxwell’s possession, custody or control. Maxwell further objects to this
+Request to the extent that it calls for the production of documents that are irrelevant to this action
+and not reasonably calculated to lead to the discovery of admissible evidence. Maxwell further
+objects to this Request to the extent it implicates her right to privacy. Gateway Logistics, Inc. v.
+Smay, 302 P .3d 235 (Colo.2013); Fed.R.Evid. 501.
+
+       Subject to and without waiving the above objections, Maxwell has been unable to locate
+any documents responsive to this Request during the Relevant Periods defined in paragraph15,
+supra. Maxwell is withholding production of documents outside of such Relevant Periods.
+
+                  b.    Request No. 22: All documents relating to calendars, schedules or
+appointments for you from 1999 –present.
+
+                   c.        Maxwell’s Response to Request No. 22:
+
+        Maxwell objects to this Request on the grounds that it is overly broad, unduly
+burdensome, propounded for the improper purpose of annoying or harassing Maxwell, and seeks
+documents outside of Maxwell’s possession, custody or control. Maxwell further objects to this
+Request to the extent that it calls for the production of documents that are irrelevant to this action
+and not reasonably calculated to lead to the discovery of admissible evidence. Maxwell further
+objects to this Request to the extent it implicates her right to privacy. Gateway Logistics, Inc. v.
+Smay, 302 P. 3d 235 (Colo.2013); Fed.R.Evid. 501.
+
+       Subject to and without waiving the above objections, Maxwell has been unable to locate
+any documents responsive to this Request during the Relevant Periods defined in paragraph15,
+supra. Maxwell is withholding production of documents outside of such Relevant Periods.
+
+                    d.    Request No. 23: All documents relating to calendars, schedules or
+appointments for Jeffrey Epstein from 1999 –present.
+
+                        e.    Maxwell’s Response to Request No. 23:
+
+       Maxwell objects to this Request on the grounds that it is overly broad, unduly
+burdensome, propounded for the improper purpose of annoying or harassing Maxwell, and seeks
+documents outside of Maxwell’s possession, custody or control. Maxwell further objects to this
+
+
+
+                                                   19
+Request to the extent that it calls for the production of documents that are irrelevant to this action
+and not reasonably calculated to lead to the discovery of admissible evidence.
+
+      Maxwell further objects to this Request to the extent it implicates her right to privacy.
+Gateway Logistics, Inc. v. Smay, 302 P .3d 235 (Colo.2013); Fed.R.Evid. 501.
+
+       Subject to and without waiving the above objections, Maxwell has been unable to locate
+any documents responsive to this Request during the Relevant Periods defined in paragraph15,
+supra. Maxwell is withholding production of documents outside of such Relevant Periods.
+
+                    f.    Request No. 24: All documents relating to contact lists, phone lists or
+address books for you or Jeffrey Epstein from 1999 –present.
+
+                     g.    Maxwell’s Response to Request No. 24:
+
+        Maxwell objects to this Request on the grounds that it is overly broad, unduly
+burdensome and/or propounded for the improper purpose of annoying or harassing Maxwell.
+Maxwell further objects to this Request to the extent that it calls for the production of documents
+that are irrelevant to this action and not reasonably calculated to lead to the discovery of
+admissible evidence. Maxwell further objects to this Request to the extent it implicates her right
+to privacy. Gateway Logistics, Inc. v. Smay, 302 P. 3d 235 (Colo. 2013); Fed.R.Evid. 501.
+
+       Subject to and without waiving the above objections, Maxwell has been unable to locate
+any documents responsive to this Request within the Relevant Periods defined in paragraph15,
+supra. Maxwell is withholding production of documents outside of such Relevant Periods.
+
+                     h.    Maxwell’s Objections To Requests 21-24 Fail, as the Requests Seek
+Relevant Discovery
+
+      Requests Nos. 21-24 seek Maxwell’s telephone records, Maxwell and Jeffrey Epstein’s
+
+calendars, and Epstein’s contact lists for the Relevant Period. Maxwell admits that she has
+
+documents responsive to these request that she refuses to produce. Contact with, meetings with,
+
+and contact information for the Maxwell and Epstein’s underage victims and adult co-
+
+conspirators will prove that Ms. Giuffre is truthful regarding her sexual abuse. The small
+
+grouping of message pads pulled by law enforcement reflect that Maxwell was making
+
+arrangements for Jeffrey Epstein and was in regular and frequent contact with him. See
+
+SAO2847. Records of telephone calls and meetings are critical to this case. For example, in one
+
+of the two documents produced by Maxwell, she instructs co-conspirator Prince Andrew to “call
+
+
+
+                                                 20
+me.” See McCawley Decl. at Exhibit 9. Another example is Jeffrey Epstein’s “black book” with
+
+the contact information for underage girls and co-conspirators. See McCawley Decl. at Exhibit
+
+10. Accordingly, Maxwell’s refusal to produce similar documents is not supported by law, and
+
+this Court should order them to be produced. Similarly, Maxwell’s and Mr. Epstein’s calendars,
+
+schedules and appointments reveal who they met with and when, including underage girls and
+
+co-conspirators.
+
+      Maxwell and Epstein’s illegal and abusive behavior is not only relevant for the period of
+
+time in which they trafficked Ms. Giuffre: their continued trafficking until Epstein’s 2008
+
+indictment, and their continued collaboration up through the present regarding the related civil
+
+suits also go to the claim in this case, and support Ms. Giuffre’s account of her own sex abuse.
+
+Accordingly, Maxwell must produce the documents responsive to these four requests that she is
+
+withholding.
+
+             10.      Request No. 32: All documents related to communications with or
+interaction with Alan Dershowitz from 1999 to present.
+
+                     a.   Maxwell’s Response:
+
+        Maxwell objects to this Request on the grounds that it is overly broad, unduly
+burdensome and/or propounded for the improper purpose of annoying or harassing Maxwell.
+Maxwell further objects to this Request to the extent that it calls for the production of documents
+that are irrelevant to this action and not reasonably calculated to lead to the discovery of
+admissible evidence. Maxwell further objects to this Request as being interposed for an improper
+purpose, specifically Plaintiff and her counsel’s civil litigation currently pending in Broward
+County, Florida in the matter of Cassell v. Dershowitz.
+
+        Subject to and without waiving the above objections, Maxwell will produce non-
+privileged documents responsive to this Request during the Relevant Periods defined in
+paragraph15, supra. Maxwell is withholding production of documents outside of such Relevant
+Periods.
+
+                     b.   Maxwell’s Objections Fail, as the Request Seeks Relevant Discovery
+
+       Defendant Maxwell has been communicating with Alan Dershowitz about the sexual
+
+trafficking allegations as evidenced by the one email she produced. Maxwell’s communications
+
+
+                                                21
+     with Dershowitz are directly relevant to the claim. Maxwell has admitted that she has documents
+
+     responsive to this request,13 but refuses to produce them under her arbitrary and self-serving
+
+     restrictive limitation to the Relevant Period. Accordingly, this Court should require that
+
+     Defendant Maxwell produce her communications with Dershowitz.
+
+                  11.   Request No. 34: All documents reflecting your ownership or control of
+     property in London between the years 1999 and 2002.
+
+                          a.    Maxwell’s Response
+
+             Maxwell objects to this Request to the extent that it calls for the production of documents
+     that are irrelevant to this action and not reasonably calculated to lead to the discovery of
+     admissible evidence. Maxwell further objects to this Request on the grounds that it calls for
+     documents that are a matter of public record and are thus equally available to the Plaintiff.
+
+           Subjection to and without waiving the above objections, Maxwell is withholding
+     documents Responsive to this Request that are a matter of public record.
+
+                          b.    Maxwell’s Objections Fail, as the Request Seeks Relevant Discovery
+
+            Defendant Maxwell and Jeffrey Epstein trafficked Ms. Giuffre when she was a minor
+
+     child to Prince Andrew in Maxwell’s own home in London, as evidenced by the photograph of
+
+     Ms. Giuffre, Maxwell, and Prince Andrew taken in her London home when Ms. Giuffre was
+
+     only seventeen years old. See McCawley Decl. at Exhibit 11. Evidence of Maxwell’s property in
+
+     London evidences this incident of sexual trafficking, and it is therefore relevant. The ownership
+
+     and property records are also relevant to establish whether any other individuals have ownership
+
+     rights in the property, like Jeffrey Epstein. The recent amendments to Rule 26(b) allow courts to
+
+     take into account “the parties' relative access to relevant information.” Fed. R. Civ. P. 26(b)(1).
+
+     Maxwell admitted that she already has responsive documents in her possession that she is
+
+     choosing to withhold, purporting that they are “a matter of public record,” without giving any
+
+13
+  Alan Dershowitz is not Maxwell’s attorney, and Maxwell has not alleged that he is her attorney.
+Therefore, no attorney-client privilege attaches to Maxwell and Dershowitz’s communications. Maxwell
+has listed communications with Dershowitz on her privilege log. That entry is challenged in Plaintiff’s
+Motion to Compel for Improper Claim of Privilege.
+
+
+                                                      22
+evidence or reasons supporting that statement, nor explaining how and whether such records can
+
+be accessed by a foreigner. Indeed, Ms. Giuffre’s access to property records in a foreign
+
+jurisdiction is slight compared to Maxwell’s access to documents already in her possession. The
+
+party resisting disclosure bears the burden of establishing alternative sources for the information,
+
+and Maxwell has not met that burden. See State Farm Mut. Auto. Ins. Co. v. Fayda, No.
+
+14CIV9792WHPJCF, 2015 WL 7871037, at *4 (S.D.N.Y. Dec. 3, 2015) (internal citations and
+
+quotations omitted). Accordingly, Maxwell must produce her property records.
+
+               12.     Request No. 37: All documents reflecting communications you have had
+with Bill or Hillary Clinton (or persons acting on their behalf), including all communications
+regarding your attendance at Chelsea’s Clinton’s wedding ceremony in 2010.
+
+                     a.    Maxwell’s Response:
+
+        Maxwell objects to this Request on the grounds that it is overly broad, unduly
+burdensome and/or propounded for the improper purpose of annoying or harassing Maxwell.
+Maxwell further objects to this Request to the extent that it calls for the production of documents
+that are irrelevant to this action and not reasonably calculated to lead to the discovery of
+admissible evidence.
+
+       Subject to and without waiving the above objections, Maxwell has been unable to locate
+any documents responsive to this Request for the Relevant Periods as defined in paragraph 15,
+supra. Maxwell is withholding production of documents outside of such Relevant Periods.
+
+                     b.    Maxwell’s Objections Fail, as the Request Seeks Relevant Discovery
+
+       As recounted above, in 2009, an attorney sought Maxwell’s deposition in connection with
+
+various sexual abuse allegations and Maxwell said her mother was ill and she would be traveling
+
+outside the country with no plans of returning. Despite this claim to avoid her deposition, she
+
+then was photographed at Chelsea Clinton’s wedding in Rhinebeck, New York. See McCawley
+
+Decl. at Exhibit 8, Maxwell Deposition Notice; Subpoena and Cancellation Payment Notice, and
+
+January 13, 2015 Daily Mail Article with photograph. Maxwell admits that she has documents
+
+responsive to this request, and this Court should require her to produce them. Other
+
+communications she has had with the Clintons about Ms. Giuffre or the allegations in this case
+
+
+                                                 23
+are also highly relevant, particularly given that Mr. Clinton travelled with Maxwell, Jeffrey
+
+Epstein and others on Jeffrey Epstein’s plane a number of times, including a trip to Thailand.
+
+               13.     Request No. 39: All documents reflecting training to fly a helicopter or
+experience flying a helicopter, including any records concerning your operation of a helicopter in
+the U.S. Virgin Islands.
+
+                     a.    Maxwell’s Response:
+
+        Maxwell objects to this Request to the extent that it calls for the production of documents
+that are irrelevant to this action and not reasonably calculated to lead to the discovery of
+admissible evidence. Maxwell further objects to this Request to the extent it implicates her right
+to privacy. Gateway Logistics, Inc. v. Smay, 302 P.3d 235 (Colo. 2013); Fed. R. Evid. 501.
+
+       Maxwell is withholding documents responsive to this Request as irrelevant and not
+reasonably calculated to lead to the discovery of admissible evidence.
+
+                     b.    Maxwell’s Objections Fail, as the Request Seeks Relevant Discovery
+
+       Epstein’s private island in the United States Virgin Islands is only accessible via boat or
+
+helicopter. Maxwell flew people back and forth from Epstein’s island as part of her sexual
+
+trafficking of underage girls. Records of Maxwell’s operating a helicopter and training therefor
+
+is relevant to the claims of sexual abuse in this case. Maxwell has admitted that she has
+
+responsive documents; therefore, this Court should require her to produce them.
+
+                                         CONCLUSION
+
+       For the reasons set forth above, plaintiff Virginia Giuffre respectfully requests that the
+
+Court grant her Motion to Compel and direct Defendant Maxwell to produce documents
+
+responsive to Request Nos. 1 – 39 for the period of 1999 to the present.
+
+Dated: February 26, 2016
+
+                                              Respectfully Submitted,
+
+                                              BOIES, SCHILLER & FLEXNER LLP
+
+                                         By: /s/ Sigrid McCawley
+                                              Sigrid McCawley (Pro Hac Vice)
+                                              Boies, Schiller & Flexner LLP
+
+
+                                                24
+401 E. Las Olas Blvd., Suite 1200
+Ft. Lauderdale, FL 33301
+(954) 356-0011
+
+David Boies
+Boies, Schiller & Flexner LLP
+333 Main Street
+Armonk, NY 10504
+
+Ellen Brockman
+Boies, Schiller & Flexner LLP
+575 Lexington Ave
+New York, New York 10022
+(212) 446-2300
+
+
+
+
+ 25
+                                 CERTIFICATE OF SERVICE
+
+       I HEREBY CERTIFY that on February 26, 2016, I electronically filed the foregoing
+
+document with the Clerk of Court by using the CM/ECF system. I also certify that the foregoing
+
+document is being served this day on the individuals identified below via transmission of Notices of
+
+Electronic Filing generated by CM/ECF.
+
+       Laura A. Menninger, Esq.
+       HADDON, MORGAN & FOREMAN, P.C.
+       150 East 10th Avenue
+       Denver, Colorado 80203
+       Tel: (303) 831-7364
+       Fax: (303) 832-2628
+       Email: lmenninger@hmflaw.com
+
+
+                                                      /s/ Sigrid S. McCawley
+                                                          Sigrid S. McCawley
+
+
+
+
+                                                 26
+

@@ -1,0 +1,996 @@
+                                  United States District Court
+                                 Southern District Of New York
+
+--------------------------------------------------X
+
+
+
+
+                                              ......
+                                              .........................................
+VIRGINIA L. GIUFFRE,
+
+        Plaintiff,
+v.
+
+GHISLAINE MAXWELL,                                                                                 15-cv-07433-RWS
+
+        Defendant.
+
+
+--------------------------------------------------X
+
+
+DEFENDANT’S SUPPLEMENTAL MEMORANDUM OF LAW IN RESPONSE TO PLAINTIFF’S
+              MOTION TO COMPEL PRODUCTION OF DOCUMENTS
+                SUBJECT TO IMPROPER CLAIM OF PRIVILEGE
+
+
+
+
+                                                                                          Laura A. Menninger
+                                                                                          HADDON, MORGAN, AND FOREMAN, P.C.
+                                                                                          East 10th Avenue
+                                                                                          Denver, CO 80203
+                                                                                          303.831.7364
+                                                     TABLE OF CONTENTS
+
+INTRODUCTION .......................................................................................................................... 1
+
+ARGUMENT .................................................................................................................................. 2
+
+     I.         Failure to Confer Fatal to Plaintiff’s Motion ................................................................ 2
+
+     II.        Defendant’s Communication with Attorneys Philip Barden, Mark Cohen, and Brett
+                Jaffe Are Protected by the Attorney-Client Communication Privilege (Entries 1, 2, 9
+                and 17) …………………………………………………………………………….….3
+
+           A.        Choice of Law ......................................................................................................... 3
+
+           B.        Maxwell’s Communications with her Attorneys Are Privileged ............................ 5
+
+           C.        Plaintiff Well Aware These Attorneys Were Defendant’s Counsel ....................... 7
+
+      III.       Communications Among Maxwell, Her Attorney, and Her Agent Protected by
+                 Attorney-Client Privilege (Entries 8, 10, 12, 13, and 18) ............................................ 8
+
+      IV.        Common Interest Privilege Protects Communications with Gow, Epstein and Others
+                 ................................................................................................................................... 10
+
+           A.        Maxwell and her attorneys were involved in a common interest agreement with
+                     Epstein and his attorneys ...................................................................................... 12
+
+           B.        Maxwell and Epstein’s attorneys communicated with one another pursuant to the
+                     common interest agreement (Entry 16)................................................................. 13
+
+           C.        Maxwell and Epstein shared their attorneys’ respective legal advice, strategies
+                     and mental impressions pursuant to the common interest agreement (Entries 11-
+                     15) ......................................................................................................................... 13
+
+           D.        Maxwell and Epstein exchanged documents pursuant to the common interest
+                     agreement in order to obtain legal advice (Entries 6, 7 and 19) ........................... 14
+
+           E.        Ms. Maxwell and Epstein shared information and advice to be forwarded to the
+                     others’ attorney for purposes of legal advice (Entries 14, 19 and 20) .................. 15
+
+      V.         Ms. Maxwell’s Privilege Log Is Sufficient ............................................................... 15
+
+CONCLUSION ............................................................................................................................. 17
+
+
+
+
+                                                                         ii
+                                               TABLE OF AUTHORITIES
+
+
+Ambac Assur. Corp. v. Countrywide Home Loans, Inc., 998 N.Y.S.2d 329, 331 .............. 11
+
+Anwar v. Fairfield Greenwich Ltd., 982 F.Supp.2d 260, 264 (S.D.N.Y. 2013) ................. 3
+
+Anwar, supra (citing Gucci Am., Inc. v. Guess?, Inc., 271 F.R.D. 58, 65 (S.D.N.Y. 2010)
+
+   ......................................................................................................................................... 4
+
+Aurora Loan Servs., Inc. v. Posner, Posner & Assocs., P.C., 499 F.Supp.2d 475, 479
+
+  (S.D.N.Y. 2007) ............................................................................................................. 16
+
+Auto. Club of New York, Inc. v. Port Auth. Of New York & New Jersey, No. 11 CIV. 6746
+
+  RKE HBP, 2012 WL 4791804, at *6 (S.D.N.Y. Oct. 9, 2012) ....................................... 2
+
+Cf. In re Grand Jury Subpoenas Dated March 24, 2003, 265 F.Supp.2d 321, 330
+
+  (S.D.N.Y. 2003) ............................................................................................................... 9
+
+Chevron Corp v. Donziger, 2013 WL 4045326 (S.D.N.Y. 2013)..................................... 17
+
+Egiazarayan v. Zalmayev, 290 F.R.D. 421 (S.D.N.Y. 2013) .............................................. 9
+
+Gucci Am., Inc. v. Gucci, No. 07–CV–6820 (RMB)(JCF), 2008 WL 5251989, at *1
+
+  (S.D.N.Y. Dec. 15, 2008) .................................................................................. 12, 14, 15
+
+GUS Consulting GMBH v. Chadbourne & Parke LLP, 858 N.Y.S.2d 591, 593 (Sup. Ct.
+
+  N.Y. Cnty. 2008) .......................................................................................................... 11
+
+Hendrick v. Avis Rent A Car Sys., Inc., 944 F. Supp. 187, 189 (W.D.N.Y. 1996). ............ 8
+
+Mileski v. Locker, 178 N.Y.S.2d 911 (Sup. Ct. Queens Cnty. 1958) .................................. 8
+
+Millenium Health LLC v. Gerlach, 15-cv-7235 (WHP)(JLC), 2015 WL 9257444, at * 2
+
+  (S.D.N.Y. Dec. 18, 2015) .............................................................................................. 12
+
+                                                                    iii
+S.E.C. v. Yorkville Advisors, LLC, 300 F.R.D. 152, 155 (S.D.N.Y. 2014) ....................... 16
+
+Shaeffler v. United States, 806 F.3d 34, 40 (2d. Cir. Nov. 10, 2015) ............................... 15
+
+Stroh v. Gen. Motors Corp., 623 N.Y.S.2d 873, 874-75 (1st Dep’t 1995) ......................... 8
+
+United States v. Kovel, 296 F.2d 918 (2d Cir. 1961). ....................................................... 10
+
+United States v. Schwimmer, 892 F.2d 237 (2d Cir.1989) ................................................ 11
+
+
+
+
+                                                      iv
+       Defendant Ghislaine Maxwell, by and through undersigned counsel, hereby submits this
+
+Response to Plaintiff’s Motion to Compel Production of Documents Subject to Improper Claim
+
+of Attorney-Client Privilege and Common Interest Privilege1. For the reasons outlined below,
+
+the Court should deny Plaintiff’s Motion to Compel Production of Documents Subject to
+
+Improper Privileges.
+
+                                        INTRODUCTION
+
+       Without a single conferral (despite multiple email and telephonic contacts between
+
+counsel in the interim weeks), Plaintiff unilaterally and frivolously challenges the assertions of
+
+privilege properly contained on a valid privilege log that Ms. Maxwell produced in response to
+
+Plaintiff’s First Request for Production of Documents to Ghislaine Maxwell. Plaintiff feigns
+
+ignorance that Ms. Maxwell has been represented by Messrs. Philip Barden, Mark Cohen and
+
+Brett Jaffe during the last five years, yet submits to the Court documents demonstrating not only
+
+their representation but also Plaintiff’s knowledge of said representations. Plaintiff claims that
+
+the presence of Ms. Maxwell’s agent Ross Gow on communications with her attorney destroyed
+
+the privilege, despite binding New York law to the contrary. Plaintiff asserts that Ms. Maxwell
+
+and Mr. Epstein and their counsel were not in a common interest agreement without once having
+
+conferred regarding that fact and with knowledge that all of the elements of a common interest
+
+agreement are satisfied in this case.
+
+
+
+
+       1
+          Ms. Maxwell previously submitted a joint response (Doc. #42) to Plaintiff’s Motions to
+Compel in which she argues that Plaintiff’s failure to confer prior to filing her motions is, alone,
+grounds for this Court to deny her Motions. If the Court is inclined, however, to decide
+Plaintiff’s Motions on the merits, Ms. Maxwell hereby submits a response to the merits of
+Plaintiff’s Motion to Compel Production of Documents Subject to Improper Privileges. This
+response is timely to Plaintiff’s Motion, filed electronically on February 26, 2016.
+                                                 1
+       Rule 37 requires a certification of good faith conferral, something Plaintiff concededly
+
+failed to do, in advance of filing a Motion to Compel. While Plaintiff wishes to pick and choose
+
+which Rules of Civil Procedure she thinks should apply to her litigation, the rules apply equally
+
+to both sides. Raising proper objections and interposing appropriate privileges are demanded by
+
+the Rules of Civil Procedure. Plaintiff’s hyperbole regarding “stonewalling” and un-reasonable
+
+delays in discovery should be dismissed. All of the delays could have been prevented had she
+
+served Requests for Production that tailored to the issues in this case and not some book or
+
+media deals she hopes to fulfill in the future. Likewise, her frivolous positions concerning
+
+privilege have caused the delay she decries. Plaintiff’s failure to confer, as well as the binding
+
+Second Circuit and New York case law, dictate that her Motion to Compel Production of
+
+Documents Subject to Improper Privileges should be denied.
+
+                                          ARGUMENT
+
+I.      Failure to Confer Fatal to Plaintiff’s Motion
+
+       Plaintiff failed to confer regarding this Motion in advance of its filing and failed to
+
+include the required certificate pursuant to Rule 37(a)(1) of the Federal Rules of Civil Procedure
+
+(motion to compel “must include a certification that the movant has in good faith conferred or
+
+attempted to confer with the person or party failing to make disclosure or discovery in an effort
+
+to obtain it without court action”). This significant deficiency alone warrants the denial of this
+
+Motion. See, e.g., Auto. Club of New York, Inc. v. Port Auth. Of New York & New Jersey, No. 11
+
+CIV. 6746 RKE HBP, 2012 WL 4791804, at *6 (S.D.N.Y. Oct. 9, 2012) (failure to make any
+
+attempts to resolve any specific discovery disputes “alone is a sufficient ground for denying the
+
+motion [to compel]”).
+
+
+
+
+                                                 2
+       Issues concerning privilege such as Plaintiff presents here are precisely the type that
+
+should be the subject of conferral. Plaintiff could simply ask whether any particular attorney was
+
+representing Ms. Maxwell at a specific time. Plaintiff could ask for more detailed descriptions of
+
+documents on the privilege log. Plaintiff could ask why British law was asserted on the privilege
+
+log. Indeed, all of the cases cited by Plaintiff involve such conferrals prior to judicial
+
+intervention. Such conferral would not be futile in this case with respect to privileges going
+
+forward and this Court should enforce Plaintiff’s Rule 37 obligations with respect thereto.
+
+II.    Defendant’s Communications with Attorneys Philip Barden, Mark Cohen, and
+       Brett Jaffe Are Protected by the Attorney-Client Communication Privilege (Entries
+       1, 2, 9 and 17)
+
+       A. Choice of Law
+
+       Regarding Ms. Maxwell’s communications with Brett Jaffe in 2011 as noted on the
+
+privilege log, she does not dispute that these are covered by the attorney-client communication
+
+privilege as defined by New York state law. Mr. Jaffe is a New York attorney. Menninger Decl.
+
+at Ex. B. Similarly, Mark Cohen likewise is a New York attorney. Id. at Ex. C. Ms. Maxwell
+
+consulted both regarding litigation pending in the US. Id. at Ex. E, Maxwell Aff. at ¶ 9-12.
+
+       However, choice-of-law with respect to foreign attorney-client communications is
+
+governed by the “touch base” test. Under this test, the court must ascertain the country with
+
+which the communications “touch base.” “[A] court should apply the law of the country that has
+
+the predominant or the most direct and compelling interest in whether [the] communications
+
+should remain confidential, unless that foreign law is contrary to the public policy of this forum.”
+
+Anwar v. Fairfield Greenwich Ltd., 982 F.Supp.2d 260, 264 (S.D.N.Y. 2013) (quoting Astra
+
+Aktiebolag v. Andrx Parms., Inc., 208 F.R.D. 92, 98 (S.D.N.Y. 2002)). “Communications
+
+concerning legal proceedings in the United States or advice regarding United States law are
+
+
+                                                  3
+typically governed by United States privilege law, while communications relating to foreign
+
+legal proceedings or foreign law are generally governed by foreign privilege law.” Anwar, supra
+
+(citing Gucci Am., Inc. v. Guess?, Inc., 271 F.R.D. 58, 65 (S.D.N.Y. 2010)).
+
+        As will be described more fully below, the privilege concerning Ms. Maxwell’s
+
+communications with Mr. Barden should be construed pursuant to British law. Ms. Maxwell, a
+
+dual-British / American citizen, retained Mr. Barden for the purposes of securing legal advice
+
+from a British lawyer for potential litigation in England under British law concerning press
+
+statements that were made in the British press. Id.at Ex. E. Likewise, to the extent that Mr. Gow
+
+was a participant in communications as between Mr. Barden and Ms. Maxwell, those also should
+
+be construed pursuant to British law. Mr. Gow is a British press relations specialist, hired as an
+
+agent consistent with British law, to render assistance to Ms. Maxwell’s counsel in England, for
+
+purposes of potential litigation in England. Id.
+
+        Given the time allotted for response in connection with this Motion to Compel
+
+Documents Privileges and Plaintiff’s failure to confer regarding this issue, Ms. Maxwell has not
+
+had sufficient time to secure appropriate affidavits, documents and legal opinions concerning
+
+British law’s attorney-client privileges but has been advised that British law extends the
+
+attorney-client communication to any of a client’s agents (also considered “associates” of the
+
+client). Should the Court be inclined to overlook Plaintiff’s failure to confer, Ms. Maxwell
+
+respectfully requests an additional two weeks within which to secure appropriate documentation
+
+and supporting affidavits under British law with respect to the question of the attorney-client
+
+privilege under British law and its applicability to a client’s agents. See also Fed. R. Civ. P. 44.1
+
+(permitting Court to consider “any relevant material or source” to determine issue of foreign
+
+law).
+
+
+                                                   4
+       Without waiver of the choice-of-law issue, Ms. Maxwell submits that the privilege also
+
+applies to her communications under New York law and so provides argument and authority
+
+herein on that law as well.
+
+
+       B. Maxwell’s Communications with her Attorneys Are Privileged
+
+       The two Requests for Production Implicated in this Motion are:2
+
+       DOCUMENT REQUEST NO. 17
+       All documents relating to communications with you and Ross Gow from 2005 – present.
+
+       DOCUMENT REQUEST NO. 19
+       All documents relating to your deposition scheduled in the matter of Jane Doe v. Epstein,
+       08-80893, United States Southern District of Florida.
+
+       As argued elsewhere, both of these Requests are overly broad and not relevant to any
+
+party’s claim or “proportional to the needs of this case.” FRCP 26(b)(1). Ms. Maxwell
+
+interposed her objections and also produced a privilege log containing any documents responsive
+
+to these requests which were privileged, specifically, documents covered by the attorney-client
+
+privilege.
+
+       Ms. Maxwell has been represented at various times by attorneys Brett Jaffe, Mark Cohen
+
+and Philip Barden. Mr. Jaffe represented Ms. Maxwell in connection with a scheduled
+
+deposition. See Menninger Decl. at Ex. E, Maxwell Aff. at ¶ 9. After Mr. Jaffe left the firm, his
+
+successor on the case was Mark Cohen. Both Mr. Jaffe and Mr. Cohen were affiliated with the
+
+law firm Cohen & Gresser, LLP. Mr. Cohen, a named partner, is still associated with that firm.
+
+See id. at Ex. C.
+
+
+
+       2
+          The entry number 9, a communication solely between Ms. Maxwell and her attorney
+Philip Barden, was erroneously placed on the Privilege Log. It is not responsive to any of
+Plaintiff’s discovery requests.
+
+                                                5
+       Ms. Maxwell also has been represented for quite some time in the United Kingdom by
+
+solicitor Philip Barden. Mr. Barden is a partner with Devonshires Solicitors. See Menninger
+
+Decl. at Ex. D. Devonshires Solicitors issued the cease and desist letter to the British press
+
+following Plaintiff’s first paid interview with the Daily Mail in March 2011 in which she made
+
+false allegations about and concerning Ms. Maxwell. That cease and desist letter was attached to
+
+Defendant’s Motion to Dismiss (Menninger Decl. in Support of Motion to Dismiss, Doc. #16-1,
+
+Ex. B) and to Plaintiff’s Reply (McCawley Decl. in Reply, Doc. #24-2, Ex. 2).
+
+       Mr. Barden’s representation of Ms. Maxwell relates to potential civil litigation in the
+
+United Kingdom concerning defamation. Ms. Maxwell’s communications with Mr. Barden were
+
+made for the purpose of seeking and obtaining legal advice, and Mr. Barden provided such legal
+
+advice. Mr. Barden did not provide business advice to Ms. Maxwell. See Maxwell Aff. at ¶ 2.
+
+Likewise, Messrs. Jaffe and Cohen’s representation of Ms. Maxwell related to and concerned a
+
+deposition. Id. at ¶ 9. Ms. Maxwell solicited legal advice from Messrs. Jaffe and Cohen for the
+
+purpose of that deposition and they in fact supplied legal advice.
+
+       Plaintiff speculates that Ross Gow “was involved in so many communications with Jaffe
+
+and Barden” that the purpose of the communications must have been public relations matters.
+
+First, not a single one of the communications with Jaffe involved Mr. Gow. Second, the
+
+privilege log does not contain all of the communications Plaintiff had with her attorneys. Rather,
+
+Plaintiff’s Request Number 17 sought “all communications related to communications with you
+
+and Ross Gow from 2005 – present.” Thus, the only communications with Mr. Barden on the
+
+privilege log are those between Mr. Gow and Mr. Barden in which Mr. Gow was a participant or
+
+which were otherwise included in other privileged communications.
+
+
+
+
+                                                 6
+       Plaintiff further complains that Defendant’s Rule 26 Disclosures revealed that Defendant
+
+“may” use the email communications between herself and Mr. Barden “to support Defendant’s
+
+claims or defenses.” (Pl.’s M. Compel at 11-12). Should Defendant choose to affirmatively
+
+waive her attorney-client privilege with Mr. Barden, those emails would likely lose their
+
+privileged status. However, that is not a decision Ms. Maxwell has yet reached, especially at this
+
+early stage of the litigation given she has not even filed her Answer or Counterclaims.
+
+       C. Plaintiff Well Aware These Attorneys Were Defendant’s Counsel
+
+   Plaintiff knew or should have known at the time she filed this Motion to Compel that Messrs.
+
+Jaffe, Cohen and Barden were Ms. Maxwell’s attorneys. In Plaintiff’s Motion to Compel based
+
+on Improper Objections, she actually supplied to the Court an exhibit which lists Mr. Jaffe as
+
+Ms. Maxwell’s counsel. (Pl’s Mot. Compel - Objections, Ex. 8, Doc. #36-9 at 11). Likewise,
+
+Mr. Jaffe worked at Cohen & Gresser, LLP. Id. The named partner of Mr. Jaffe’s firm is Mark
+
+Cohen, as a simple internet search confirms. Menninger Decl. at Ex. C. Thus, Plaintiff had in
+
+her possession and actually provided to the Court proof that Ms. Maxwell was represented by
+
+these two attorneys. Her assertion that Ms. Maxwell “has not even claimed that she has an
+
+attorney-client relationship with … Jaffe” is patently frivolous. (Pl’s M. Compel at 10).
+
+Likewise, her designation of Mark Cohen as a “non-attorney” (id. at 9) is similarly frivolous.
+
+       Further, Plaintiff submitted to the Court in Opposition to the Motion to Dismiss, a cease
+
+and desist letter issued by Devonshires Solicitors, Mr. Philip Barden’s firm. See McCawley
+
+Decl. in Support of Plaintiff’s Opp’n to Motion to Dismiss at Ex. 2. She also, admittedly,
+
+possesses Defendant’s Rule 26 disclosures listing Mr. Barden as counsel for Ms. Maxwell and
+
+his communications with her as attorney-client privileged. (Pl.s’ M. Compel at 11).
+
+
+
+
+                                                7
+          Finally, Ms. Maxwell’s privilege log lists Mr. Barden and Mr. Jaffe as “Esq.” and notes
+
+their communications are attorney-client privileged. Plaintiff presents no credible argument that
+
+Ms. Maxwell’s communications with her counsel should not be afforded the attorney-client
+
+communication privilege.
+
+          Plaintiff’s Motion with respect to entry numbers 1, 2, 9 and 17 should therefore be
+
+denied.
+
+III.      Communications Among Maxwell, Her Attorney, and Her Agent Protected by
+          Attorney-Client Privilege (Entries 8, 10, 12, 13 and 18)
+
+          Without waiver of Ms. Maxwell’s position that British law should control the question,
+
+even under New York law, Mr. Gow’s participation in communications among and between Ms.
+
+Maxwell and her counsel are privileged.
+
+          “New York courts have recognized that the attorney-client privilege may attach to
+
+communications between a client's agent and an attorney.” Hendrick v. Avis Rent A Car Sys.,
+
+Inc., 944 F. Supp. 187, 189 (W.D.N.Y. 1996). “As a general rule, a communication by a client
+
+to his attorney by any form of agency employed or set in motion by the client is within the
+
+privilege.” Mileski v. Locker, 178 N.Y.S.2d 911 (Sup. Ct. Queens Cnty. 1958); see also First
+
+Am. Commercial Bancorp, Inc. v. Saatchi & Saatchi Rowland, Inc., 868 N.Y.S.2d 425, 427 (4th
+
+Dep’t 2001) (“[w]hile communications made between a defendant and counsel in the known
+
+presence of a third party generally are not privileged, an exception exists for ‘one serving as an
+
+agent of either attorney or client’”); Stroh v. Gen. Motors Corp., 623 N.Y.S.2d 873, 874-75 (1st
+
+Dep’t 1995) (“communications made to counsel through ... one serving as an agent of ... [the]
+
+client to facilitate communication, generally will be privileged”).
+
+          Mr. Ross Gow is the agent for Ms. Maxwell, as Plaintiff acknowledges. Complaint ¶ 29
+
+(Maxwell “directed her agent, Ross Gow”); ¶ 30 (“speaking through her authorized agent”).
+
+                                                  8
+Plaintiff wrongfully relies on Egiazarayan v. Zalmayev, 290 F.R.D. 421 (S.D.N.Y. 2013)
+
+(Gorenstein, Magistrate J.). That case, unlike this one, involved a public-relations firm hired
+
+specifically for litigation purposes by counsel to conduct a litigation-related public relations
+
+campaign on behalf of the client. That public relations firm assisted in a media campaign
+
+thereafter, which was relevant to the lawsuit alleging violation of New York anti-SLAPP
+
+provision. The decision concerned a subpoena for documents that the client had shared with the
+
+public relations firm. Id. at *4.
+
+       By contrast, Mr. Gow acted as Ms. Maxwell’s agent for a number of years. Maxwell Aff.
+
+at ¶ 6. He provided information to Mr. Barden, Ms. Maxwell’s counsel, at Ms. Maxwell’s
+
+request regarding press inquiries so as to further Mr. Barden’s ability to give appropriate legal
+
+advice to Ms. Maxwell regarding potential defamation litigation in the United Kingdom. As Ms.
+
+Maxwell’s agent, Mr. Gow’s involvement in providing Mr. Barden with information was
+
+necessary and critical for Mr. Barden to render proper legal advice concerning, among other
+
+things, the law of “fair comment” under UK law. Cf. In re Grand Jury Subpoenas Dated March
+
+24, 2003, 265 F.Supp.2d 321, 330 (S.D.N.Y. 2003) (“the ability of lawyers to perform some of
+
+their most fundamental client functions – such as (a) advising the client of the legal risks of
+
+speaking publicly and of the likely impact of possible alternative expressions, (b) seeking to
+
+avoid or narrow charges brought against the client, and (c) zealously seeking acquittal or
+
+vindication – would be undermined seriously if lawyers were not able to engage in frank
+
+discussions of facts and strategies with the lawyers’ public relations consultants.”).
+
+       This case is particularly distinguishable from those relied upon by Plaintiff because the
+
+very nature of the issue in this case is defamatory statements to the press and responses thereto.
+
+Whereas public relations may not be an integral topic to other litigations (or potential litigations),
+
+
+                                                  9
+the need for input from a client’s agent who is a press specialist is particularly potent when the
+
+issue is fair comment, litigation against the British press or the ability to respond to false
+
+statements levied by Plaintiff in the British press and elsewhere. In a scenario such as this, the
+
+press specialist agent is as integral to the discussion as an accountant is to a litigation that
+
+concerns a client’s finances. See United States v. Kovel, 296 F.2d 918 (2d Cir. 1961).
+
+        Additionally, the communications among Mr. Gow, Mr. Barden and Ms. Maxwell
+
+occurred between January 9-21, 2015, a period which post-dates the issuance of Ms. Maxwell’s
+
+only statement to the press on January 2, 2015 (and the alleged reference back to that statement
+
+on January 4, 2015). See Complaint ¶ 30, 31, 37. Plaintiff has not demonstrated that these post-
+
+press release documents are relevant, nor calculated to lead to relevant and admissible evidence.3
+
+        Mr. Gow acted as Ms. Maxwell’s agent in communications to, with and among Ms.
+
+Maxwell and her attorney, Mr. Philip Barden on dates subsequent to the press release at issue
+
+here. His provision of information was a necessary part of Mr. Barden’s ability to give cogent
+
+legal advice to Ms. Maxwell concerning matters of litigation in the United Kingdom. To the
+
+extent that New York law even applies to those communications, it shields involvement of a
+
+client’s agent and Plaintiff’s Motion with respect to entry numbers 8, 10, 12, 13 and 18 should
+
+therefore be denied.
+
+IV.     Common Interest Privilege Protects Communications with Gow, Epstein and Others
+
+        “The purpose of the attorney-client privilege is to enable attorneys to give informed legal
+
+advice to clients, which would be undermined if an attorney had to caution a client about
+
+        3
+         Ms. Maxwell also objected to Request No. 17: “All documents relating to
+communications with you and Ross Gow from 2005 – Present” on grounds other than privilege,
+including inter alia, “calls for production of documents that are irrelevant to this action and not
+reasonably calculated to the discovery of admissible evidence.” Plaintiff did not assert in her
+Motion to Compel – Improper Objections that the period subsequent to the issuance of the press
+release was relevant (See Doc. #35 at 17-18) and thus has waived that argument.
+                                                  10
+revealing relevant circumstances lest the attorney later be compelled to disclose those
+
+circumstances.” Shaeffler v. United States, 806 F.3d 34, 40 (2d. Cir. 2015). “While the privilege
+
+is generally waived by voluntary disclosure of the communication to another party, the privilege
+
+is not waived by disclosure of communications to a party that is engaged in a ‘common legal
+
+enterprise’ with the holder of the privilege. Under United States v. Schwimmer, 892 F.2d 237 (2d
+
+Cir.1989), such disclosures remain privileged ‘where a joint defense effort or strategy has been
+
+decided upon and undertaken by the parties and their respective counsel ... in the course of an
+
+ongoing common enterprise ... [and] multiple clients share a common interest about a legal
+
+matter.’ Id. at 243 ‘The need to protect the free flow of information from client to attorney
+
+logically exists whenever multiple clients share a common interest about a legal matter.’ Id. at
+
+243.”4 (emphases added).
+
+       As New York’s Appellate Division, First Department recently found, "pending or
+
+reasonably anticipated litigation is not a necessary element of the common-interest privilege."
+
+Ambac Assur. Corp. v. Countrywide Home Loans, Inc., 998 N.Y.S.2d 329, 331 (1st Dep’t 2014).
+
+Moreover, “a total identity of interest among the participants is not required under New York
+
+law. Rather, the privilege applies where an interlocking relationship' or a limited common
+
+purpose' necessitates disclosure to certain parties.” GUS Consulting GMBH v. Chadbourne &
+
+Parke LLP, 858 N.Y.S.2d 591, 593 (Sup. Ct. N.Y. Cnty. 2008) (internal citations omitted).
+
+
+
+
+       4
+         “The common interest privilege is an exception to the rule that the presence of a third
+party will waive a claim that a communication is confidential. It requires that the communication
+otherwise qualify for protection under the attorney-client privilege and that it be made for the
+purpose of furthering a legal interest or strategy common to the parties asserting it.” San Diego
+Gas & Elec. Co. v. Morgan Stanley Senior Funding, Inc., No. 150017/15, 2016 WL 634951, at
+*1 (1st Dep’t Feb. 18, 2016).
+                                                11
+       Importantly for purposes of this case, “[t]he joint defense privilege may apply as between
+
+two individuals within a joint defense effort, regardless of the presence of an attorney.”
+
+Millenium Health LLC v. Gerlach, 15-cv-7235 (WHP)(JLC), 2015 WL 9257444, at * 2
+
+(S.D.N.Y. Dec. 18, 2015). “If information that is otherwise privileged is shared between parties
+
+that have a common legal interest, the privilege is not forfeited even though no attorney either
+
+creates or receives that communication. For example, if an attorney provides legal advice to a
+
+client ... the client can repeat that advice to a co-defendant outside the presence of any attorney
+
+without causing the privilege to be waived.” Gucci Am., Inc. v. Gucci, No. 07–CV–6820
+
+(RMB)(JCF), 2008 WL 5251989, at *1 (S.D.N.Y. Dec. 15, 2008).
+
+   A. Maxwell and her attorneys were involved in a common interest agreement with
+      Epstein and his attorneys.
+
+       Beginning at least on December 30, 2014, Ms. Maxwell and her attorneys were engaged
+
+in a common interest agreement with Mr. Epstein and his attorneys. On that date, Plaintiff filed
+
+a pleading in the U.S. District Court for the Southern District of Florida falsely alleging that Ms.
+
+Maxwell participated in sex crimes against Plaintiff and others and also falsely alleged that Ms.
+
+Maxwell conspired with Mr. Jeffrey Epstein in sex crimes committed by him.5 By her pleading,
+
+Plaintiff sought to join that Crime Victims’ Rights Act litigation pursuant to pursue a remedy:
+
+force the Government to withdraw its non-prosecution agreement against Mr. Epstein so that she
+
+could pursue charges against him and others, including Ms. Maxwell. Plaintiff’s sworn pleading
+
+contained false statements about both Ms. Maxwell and Mr. Epstein.
+
+       Her pleading was unsuccessful: In April 2015, District Court Judge Marra struck the
+
+portions of her pleading having to do with Ms. Maxwell and others, denied Plaintiff the ability to
+
+
+       5
+         Curiously, Plaintiff has not even provided this pleading which she references in
+Complaint under her Rule 26(a)(1) obligations.
+                                                 12
+join as a party to that case, and suppressed portions of her pleading from public access. Prior to
+
+that, in January 2015, Ms. Maxwell and Epstein both shared a common legal interest in
+
+defending themselves against Plaintiff’s false allegations. The fact that neither Ms. Maxwell nor
+
+Epstein was a party to a litigation involving Plaintiff is immaterial to their shared legal interest.
+
+Ambac, 998 N.Y.S.2d at 331. Likewise, that common shared interest extended not only to their
+
+lawyers (Barden and Cohen for Maxwell; Weinstein and Dershowitz for Epstein), but also to Ms.
+
+Maxwell’s agent, Ross Gow, who had issued the January 2, 2015, press statement.
+
+   B. Maxwell and Epstein’s attorneys communicated with one another pursuant to the
+      common interest agreement (Entry 16).
+
+       The attorneys orally engaged in to a common interest agreement and in reliance on that
+
+agreement, shared documents, legal advice, impressions and strategies with one another to
+
+facilitate their common goal of exposing Plaintiff’s false statements. Entry number 16 on the
+
+privilege log reflects such communications between Plaintiff’s attorney, Philip Barden, and
+
+Epstein’s attorney, Martin Weinberg on January 12-13, 2015. The emails’ subject lines read:
+
+“Attorney Privileged Communication – subject to mutual interest privilege,” and the contents
+
+include both attorneys’ mental impressions, references to evidence, litigation strategy decisions
+
+and the like. Indeed, the emails would not be responsive to any request made by Plaintiff but for
+
+the fact that Ms. Maxwell’s attorney forwarded the email chain to her and she forwarded it to
+
+Epstein, as discussed more fully below.
+
+   C. Maxwell and Epstein shared their attorneys’ respective legal advice, strategies and
+      mental impressions pursuant to the common interest agreement (Entries 11-15).
+
+       Ms. Maxwell and Epstein forwarded to one another emails they had received from their
+
+respective counsel containing counsel’s mental impressions, legal advice and litigation strategy.
+
+              Entry number 11 is an email from Ms. Maxwell forwarding to Epstein (without
+               comment) emails reflected in entries 12 and 13, that is, communications from her
+
+                                                  13
+               own attorney, Mr. Barden, to her (as to which Mr. Gow was copied on one, and
+               directed to Mr. Gow and copied to Ms. Maxwell as to the other). Mr. Barden
+               provided in emails at entries 12 and 13, legal advice to Ms. Maxwell.
+
+              Entry numbers 14 and 15 likewise reflect emails on January 11 and January 13
+               wherein (a) Epstein forwards to Ms. Maxwell a communication to and from his
+               attorney (Alan Dershowitz in that case); (b) Epstein forwards to Ms. Maxwell a
+               communication from his attorney (Martin Weinberg in that case) regarding
+               Weinberg’s communications with Barden, and (c) Ms. Maxwell forwards to
+               Epstein emails from her counsel, Mr. Barden, containing Mr. Barden’s legal
+               advice and mental impressions.
+
+       “If an attorney provides legal advice to a client ... the client can repeat that advice to a co-
+
+defendant outside the presence of any attorney without causing the privilege to be waived.”
+
+Gucci Am., 2008 WL 5251989, at *1; accord Millenium Health, 2015 WL 9257444, at * 2.
+
+Pursuant to their common interest agreement, Ms. Maxwell and Mr. Epstein shared their
+
+lawyers’ advice to one another via email and thus “outside the presence of any attorney,” without
+
+causing their privilege to be waived.
+
+       Plaintiff’s Motion to Compel with Respect to entries 11-15 should therefore be denied.
+
+
+   D. Maxwell and Epstein exchanged documents pursuant to the common interest
+      agreement in order to obtain legal advice (Entries 6, 7 and 19).
+
+       Similarly, Ms. Maxwell engaged in communications with Mr. Epstein reflecting
+
+exchanges of documents pursuant to the common interest agreement. As reflected at entries
+
+numbered 6 and 7, Ms. Maxwell requests of Mr. Epstein a particular document and then send a
+
+different document to Mr. Epstein (as well as his counsel, Mr. Dershowitz) of importance to their
+
+common interest in disproving Plaintiff’s false allegations.
+
+       Similarly, in entry number 19 as pertains to the January 21 email, Ms. Maxwell
+
+forwarded to Epstein a communication (entry number 18) received from her agent that was sent
+
+to Barden for purposes of obtaining legal advice. In the same way that sharing one’s lawyer’s
+
+
+                                                 14
+legal advice with a fellow member of the common interest agreement does not waive the
+
+privilege, nor does the sharing of documents. Gucci, supra (“If information that is otherwise
+
+privileged is shared between parties that have a common legal interest, the privilege is not
+
+forfeited even though no attorney either creates or receives that communication.”).
+
+     E. Ms. Maxwell and Epstein shared information and advice to be forwarded to the
+        others’ attorney for purposes of legal advice (Entries 14, 19 and 20).
+
+        Entry numbers 14, 19 and 20 contain some emails between Ms. Maxwell and Mr. Epstein
+
+which reflect the sharing of their respective opinions, recollections, requests for information and
+
+advice. The purpose of these communications was to communicate information to be shared
+
+with their respective counsel for purposes of seeking and receiving legal counsel. These
+
+communications ought likewise to be privileged under the common interest agreement. “The
+
+need to protect the free flow of information from client to attorney logically exists whenever
+
+multiple clients share a common interest about a legal matter.” Shaeffler v. United States, 806
+
+F.3d 34, 40 (2d. Cir. Nov. 10, 2015) (quoting United States v. Schwimmer, 892 F.2d 237 (2d
+
+Cir.1989) (“While the privilege is generally waived by voluntary disclosure of the
+
+communication to another party, the privilege is not waived by disclosure of communications to
+
+a party that is engaged in a ‘common legal enterprise’ with the holder of the privilege.”).
+
+        Plaintiff’s Motion to Compel as pertains to entry numbers 14, 19 and 20 that reflect
+
+communications between Ms. Maxwell and Epstein for purposes of sharing information with
+
+their attorneys should be denied as well.
+
+V.      Ms. Maxwell’s Privilege Log Is Sufficient
+
+        Finally, Plaintiff complains that Ms. Maxwell’s privilege log insufficiently describes the
+
+“subject matter” of the communications. Plaintiff cites three cases from the Southern District of
+
+
+
+                                                15
+New York, describes them as “controlling precedent” and demands an in camera review of the
+
+subject documents.
+
+        First, Ms. Maxwell’s privilege log satisfies the requirements of FRCP 26(c)(5) and Local
+
+Rule 26.2(a)(2). Local Rule 26.2(a)(2)(A) governs “documents”6 and requires “(i) the type of
+
+document, e.g., letter or memorandum; (ii) the general subject matter of the document; (iii) the
+
+date of the document; and (iv) the author of the document, the addressees of the document, and
+
+any other recipients and, where not apparent, the relationship of the author, addressees, and
+
+recipients to each other.” Notably, the Local Rule exempts the requirements where “divulgence
+
+of such information would cause disclosure of the allegedly privileged information.” To have
+
+provided more detailed descriptions of the subject matter in this case would have revealed the
+
+privileged information contained within the documents and therefore the general descriptions are
+
+sufficient.
+
+        Second, this type of issue is ripe for conferral among the parties in advance of court
+
+intervention. The three cases cited by Plaintiff are instructive. In Aurora Loan Servs., Inc. v.
+
+Posner, Posner & Assocs., P.C., 499 F.Supp.2d 475, 479 (S.D.N.Y. 2007), the privilege log did
+
+not indicate the nature of the privilege asserted nor the parties to the communications.
+
+Nevertheless, the parties engaged in conferral, after which additional documents and an amended
+
+privilege log were produced which still omitted key information. It was only then the magistrate
+
+judge found that the privilege had been waived. In S.E.C. v. Yorkville Advisors, LLC, 300 F.R.D.
+
+152, 155 (S.D.N.Y. 2014), the privilege logs failed to include the identities of the parties, as well
+
+as the subjects of the communications. Over the course of nine months, the parties engaged in
+
+
+        6
+           Plaintiff erroneously cites to the requirements of Local Rule 26.2(a)(2)(B) which apply
+to “oral communications,” not relevant here.
+
+                                                 16
+several rounds of conferrals regarding the log, a pre-motion conference with the magistrate
+
+during which he found the log inadequate, and only then the requesting party sought leave to file
+
+a motion to compel.
+
+       Finally, in Chevron Corp v. Donziger, 2013 WL 4045326 (S.D.N.Y. 2013), the court held
+
+that, while the document descriptions were insufficient, the log nevertheless contained the
+
+authors, recipients, dates and specified a privilege and so the proper remedy was to afford the
+
+withholding party the “opportunity to supplement his privilege log with descriptions of
+
+communications adequate to allow [his opponent] to assess whether the privilege is properly
+
+asserted.” Id at *3. Moreover, the complaint about the privilege log in that case arose after
+
+several rounds of motions to compel over the course of months.
+
+       Ms. Maxwell’s privilege log complies with the Federal and Local Rules, any omitted
+
+information from the descriptions would have revealed the privileged information, and Plaintiff
+
+utterly failed to confer regarding any purported deficiencies. There is no ground for either
+
+finding a waiver of privilege or conducting an in camera review under these circumstances.
+
+                                         CONCLUSION
+       For the foregoing reasons, Ms. Maxwell requests that Plaintiff’s Motion to Compel
+
+Production of Documents Subject to Improper Claim of Privileges be denied. To the extent the
+
+Court is inclined to disallow Ms. Maxwell’s assertion of attorney-client privilege with respect to
+
+communications with British solicitor, Mr. Philip Barden, Ms. Maxwell requests an Order
+
+permitting two weeks additional time to secure affidavits and other materials pertinent to British
+
+law concerning attorney-client privilege, including its protection for agents of the client.
+
+       Alternatively, Ms. Maxwell requests the Court to hold the Motion in abeyance until such
+
+time as the parties have actually met and conferred regarding the Motion’s contents.
+
+
+                                                 17
+Dated: March 7, 2016.
+
+
+
+                                          Respectfully submitted,
+
+
+
+                                          /s/ Laura A. Menninger
+                                          Laura A. Menninger (LM-1374)
+                                          HADDON, MORGAN AND FOREMAN, P.C.
+                                          150 East 10th Avenue
+                                          Denver, CO 80203
+                                          Phone: 303.831.7364
+                                          Fax:     303.832.2628
+                                          lmenninger@hmflaw.com
+
+                                          Attorney for Ghislaine Maxwell
+
+
+
+                              CERTIFICATE OF SERVICE
+
+        I certify that on March 7, 2016, I electronically served this DEFENDANT’S
+MEMORANDUM OF LAW IN RESPONSE TO PLAINTIFF’S MOTION TO COMPEL
+PRODUCTION OF DOCUMENTS SUBJECT TO IMPROPER CLAIM OF PRIVILEGE via ECF
+on the following:
+
+Sigrid S. McCawley
+BOIES, SCHILLER & FLEXNER, LLP
+401 East Las Olas Boulevard, Ste. 1200
+Ft. Lauderdale, FL 33301
+smccawley@bsfllp.com
+
+                                           /s/ Brenda Rodriguez
+                                           Brenda Rodriguez
+
+
+
+
+                                         18
+

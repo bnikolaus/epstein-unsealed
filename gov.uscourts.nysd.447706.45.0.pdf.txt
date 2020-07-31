@@ -1,0 +1,712 @@
+                            UNITED STATES DISTRICT COURT
+                       FOR THE SOUTHERN DISTRICT OF NEW YORK
+
+--------------------------------------------------X
+
+
+
+
+                                                  ....
+                                                  ...........................................
+VIRGINIA L. GIUFFRE,
+
+        Plaintiff,
+v.
+                                                                                                         15-cv-07433-RWS
+GHISLAINE MAXWELL,
+
+        Defendant.
+
+
+--------------------------------------------------X
+
+
+
+
+            DEFENDANT’S SUPPLEMENTAL MEMORANDUM OF LAW IN
+           RESPONSE TO PLAINTIFF’S MOTION TO COMPEL PRODUCTION
+              OF DOCUMENTS SUBJECT TO IMPROPER OBJECTIONS
+
+
+
+
+                                                                                                Laura A. Menninger
+                                                                                                HADDON, MORGAN, AND FOREMAN, P.C.
+                                                                                                East 10th Avenue
+                                                                                                Denver, CO 80203
+                                                                                                303.831.7364
+                                                   TABLE OF CONTENTS
+INTRODUCTION .......................................................................................................................... 1
+
+ARGUMENT .................................................................................................................................. 3
+
+I.     PLAINTIFF’S CHOSEN RELEVANT PERIOD FOR DISCOVERY IS GROSSLY
+
+       OVERBROAD AND NOT REASONABLY RELATED TO HER CLAIM ........................ 3
+
+II.    MS. MAXWELL’S SPECIFIC OBJECTIONS ARE PROPER ............................................ 4
+
+III. EACH OF MS. MAXWELL’S OBJECTIONS IS APPROPRIATE ..................................... 6
+
+IV. PLAINTIFF’S FAILURE TO CONFER WITH MS. MAXWELL PRIOR TO FILING
+
+       HER MOTIONS TO COMPEL IS DISPOSITIVE ............................................................. 13
+
+
+
+
+                                                                     ii
+                                        TABLE OF AUTHORITIES
+
+Avante Int’l Tech., Inc. v. Hart Intercivic, Inc., No. CIV. 07-169-DRH, 2008 WL 2074093 ........ 5
+
+Cotracom Commodity Trading Co. v. Seaboard Corp., 189 F.R.D. 655, 665 (D. Kan. 1999) ...... 5
+
+Estee Lauder, Inc. v. Fragrance Counter, Inc., 189 F.R.D. 269, 273-74 (S.D.N.Y. 1999) ........... 2
+
+Gomez v. Martin Marietta Corp., 50 F.3d 1511, 1520 (10th Cir.1995) ......................................... 2
+
+Hardrick v. Legal Services Corp., 96 F.R.D. 617, 618 (D.D.C.1983) ........................................... 2
+
+In re Urethane Antitrust Litig., No. 04-MD-1616-JWL-DJW, 2008 WL 110896 ......................... 5
+
+McGee v. Hayes, 43 Fed.Appx. 214, 217 (10th Cir. 2002) ............................................................ 2
+
+Meeker v. Life Care Ctrs. of Am., No. 14-CV-02101-WYD- NYW, 2015 WL 4400533 .............. 4
+
+Parsons v. Jefferson-Pilot Corp., 141 F.R.D. 408, 412 (M.D.N.C. 1992) ..................................... 5
+
+Piacenti v. Gen. Motors Corp., 173 F.R.D. 221, 223 (N.D.I11.1997) ........................................... 3
+
+Roda Drilling Co. v. Siegal, No. 07-CV-400-GFK-FHM, 2008 WL 2234652 .............................. 5
+
+Tottenham v. Trans World Gaming Corp., No. 00 Civ. 7697 (WK), 2002 WL 1967023 .............. 2
+
+Zenith Electronics Corp. v. Exzec, Inc., No. 93 C 041, 1998 WL 9181 ......................................... 3
+
+
+
+
+                                                         iii
+                                       INTRODUCTION1
+
+       Plaintiff initiated this action purportedly in reaction to statements attributed to Ghislane
+
+Maxwell on January 3, and 4, 2015. The first of the two statements, according to Plaintiff’s
+
+complaint, was issued by Ross Gow in the United Kingdom. The second was made by Ms.
+
+Maxwell in New York when she was accosted by reporters on the street. Both statements were
+
+brief, contained no factual content, and can best be described as general denials of allegations
+
+made by Plaintiff against Ms. Maxwell, to wit, that Ms. Maxwell “assisted” and participated in
+
+sexual abuse of the Plaintiff between 1999 and 2002.
+
+       Plaintiff does not claim that any sexual abuse occurred after 2002 or that she had any
+
+contact with Ms. Maxwell after 2002. Indeed, according to Plaintiff, in 2002 she relocated, first
+
+to Thailand and then to Australia, where she married and started a family. Given that she has
+
+been thousands of miles away from the United States for more than a decade it is unlikely that
+
+Plaintiff has any personal knowledge about events involving Jeffrey Epstein after she left the
+
+country and broke off all contact with both Mr. Epstein and Ms. Maxwell.
+
+       It would seem, then, that this lawsuit presents one relatively simple question: is
+
+Plaintiff’s claim that she was sexually abused by Jeffrey Epstein between 1999 and 2002 “with
+
+the assistance and participation of” Ms. Maxwell true?
+
+       Discovery that might be relevant to this relatively simple question could, theoretically,
+
+include the names of people that observed the Plaintiff from 1999 to 2002; records establishing
+
+the Plaintiff’s whereabouts between 1999 and 2002; communications about the Plaintiff from
+
+
+       1
+          Ms. Maxwell previously submitted a joint response (Doc. #42) to Plaintiff’s Motions to
+Compel in which she argues that Plaintiff’s failure to confer prior to filing her motions is, alone,
+grounds for this Court to deny her Motions. If the Court is inclined, however, to decide
+Plaintiff’s Motions on the merits, Ms. Maxwell hereby submits a response to the merits of
+Plaintiff’s Motion to Compel Production of Documents Subject to Improper Objections. This
+response is timely to Plaintiff’s Motion, filed electronically on February 26, 2016.
+                                                 1
+1999 to 2002; and where Ms. Maxwell was located in relation to the Plaintiff during this time
+
+frame. Plaintiff, however, does not seem to be interested in her claim. Rather, Plaintiff’s
+
+pleadings are filled with other, more newsworthy and salacious allegations about which Plaintiff
+
+has no personal knowledge. And, because her core claim has no merit, Plaintiff like a remora,
+
+has repeatedly attempted to attach herself to these events that purportedly occurred while she was
+
+on another continent raising a family.
+
+       Federal Rule of Civil Procedure 26(b)(1) provides, in relevant part, that "[p]arties may
+
+obtain discovery regarding any matter, not privileged, that is relevant to the claim or defense of
+
+any party ….”
+
+       Although the scope of discovery is deliberately broad, a Court is not "required to permit
+
+plaintiff to engage in a `fishing expedition' in the hope of supporting his claim." McGee v. Hayes,
+
+43 Fed.Appx. 214, 217 (10th Cir. 2002) (unpublished opinion); see Tottenham v. Trans World
+
+Gaming Corp., No. 00 Civ. 7697 (WK), 2002 WL 1967023, at *2 (S.D.N.Y. June 21, 2002)
+
+("Discovery, however, is not intended to be a fishing expedition, but rather is meant to allow the
+
+parties to flesh out allegations for which they initially have at least a modicum of objective
+
+support") (quotations omitted); Hardrick v. Legal Services Corp., 96 F.R.D. 617, 618
+
+(D.D.C.1983) (courts should remain concerned about "fishing expeditions, discovery abuse and
+
+inordinate expense involved in overbroad and far-ranging discovery requests") (quotation
+
+omitted). "[B]road discovery is not without limits and the trial court is given wide discretion in
+
+balancing the needs and rights of both plaintiff and defendant." Gomez v. Martin Marietta Corp.,
+
+50 F.3d 1511, 1520 (10th Cir.1995) (quotation omitted); see also Estee Lauder, Inc. v.
+
+Fragrance Counter, Inc., 189 F.R.D. 269, 273-74 (S.D.N.Y. 1999) (J. Sweet) (“[W]hile
+
+discovery rules are broad, they do not permit discovery of matters that are [not] relevant to the
+
+
+                                                 2
+issues in the case…”). Although relevance in discovery is broader than that required for
+
+admissibility at trial, "the object of inquiry must have some evidentiary value before an order to
+
+compel disclosure of otherwise inadmissible material will issue." Zenith Electronics Corp. v.
+
+Exzec, Inc., No. 93 C 041, 1998 WL 9181, at *2 (N.D.Ill.1998) (quoting Piacenti v. Gen. Motors
+
+Corp., 173 F.R.D. 221, 223 (N.D.Ill.1997)). Courts have also recognized that "[t]he legal tenet
+
+that relevancy in the discovery context is broader than in the context of admissibility should not
+
+be misapplied so as to allow fishing expeditions in discovery." Id. (quotation omitted).
+
+                                          ARGUMENT
+
+I.     PLAINTIFF’S CHOSEN RELEVANT PERIOD FOR DISCOVERY IS GROSSLY
+       OVERBROAD AND NOT REASONABLY RELATED TO HER CLAIM
+
+
+       Plaintiff has not limited the temporal scope of her discovery requests. Instead, she
+
+demands production of various documents (or documents related to those documents) for the last
+
+17 years. Given the nature of the claim, the time period chosen by the Plaintiff is grossly
+
+overbroad.
+
+       As instructed by Fed. R. Civ. P. 34, Ms. Maxwell objected to the 17-year time period and
+
+limited the requests to a more reasonable time frame: the period during which Plaintiff claims to
+
+have been abused and one month prior to the purported defamation. Plaintiff has offered no
+
+plausible explanation for her expansive time frame as discussed below.
+
+       The gist of Plaintiff’s temporal relevance argument is that, according to Plaintiff, Ms.
+
+Maxwell communicated or associated with Mr. Epstein after 2002 up to 2015. And, according to
+
+Plaintiff, Mr. Epstein was suspected of or committed a sex crime after 2002. Therefore, says
+
+Plaintiff, everything in that time frame is relevant. This is nonsense. Plaintiff, given her absence
+
+from the country, cannot argue that she was victimized during this time frame. Ms. Maxwell has
+
+never been charged with nor accused of any crime by a prosecuting body. Ms. Maxwell has
+                                                 3
+never been identified as an accomplice to any crime allegedly committed by Mr. Epstein; and
+
+Ms. Maxwell has never been the subject of a civil lawsuit for sexual abuse under any theory of
+
+liability.
+
+        The relevant issue, as framed by Plaintiff’s complaint, is did Ms. Maxwell assist or
+
+participate in Plaintiff’s alleged sexual abuse by Mr. Epstein. General phone records, flight logs,
+
+or other documents having nothing to do with Plaintiff, who was in Australia, are simply too
+
+tangential and remote to be relevant even under the most broad definitions of relevance.
+
+Accordingly, Ms. Maxwell’s objection is well founded and should be sustained by the Court.
+
+II.     MS. MAXWELL’S SPECIFIC OBJECTIONS ARE PROPER
+
+        Ms. Maxwell notes that all of Plaintiff’s requests are fatally flawed as a result of her use
+
+of the phrases “all documents relating to” or “relating to” as part of her requests for production
+
+of documents. See, e.g., Requests Nos. 1, 3, 6,7, 8, 10, 11, 17, 22, 23, 24, 32 and 33. Where the
+
+phrase “relating to” is not employed, Plaintiff uses equally obtuse synonyms such as “reflecting”
+
+(Requests Nos. 34, 37) or “associated with.” (Request No. 21).
+
+        “Relate” is a broad term. See, e.g., WEBSTER’S NEW WORLD DICTIONARY 1198 (2d Coll.
+
+Ed. 1986) (defining “relate” to mean, inter alia, “to connect or associate, as in thought or
+
+meaning; show as having to do with,” “to have some connection or relation (to),” and “to have
+
+reference (to)”). Courts have condemned the use of “related to” as overbroad and have refused
+
+to compel a responding party to answer discovery requests using the term. See, e.g., Meeker v.
+
+Life Care Ctrs. of Am., No. 14-CV-02101-WYD- NYW, 2015 WL 4400533, at *4 (D. Colo. July
+
+20, 2015) (denying motion to compel response to interrogatory that required identification of all
+
+documents that “relate to” drills or safety security training exercises “over a decade long span,”
+
+and holding that interrogatory was “facially overbroad, and potentially sweep[s] in incidents that
+
+are not proximate in location, time, and may not even be remotely of the “same type”); Avante
+                                                  4
+Int’l Tech., Inc. v. Hart Intercivic, Inc., No. CIV. 07-169-DRH, 2008 WL 2074093, at *3 (S.D.
+
+Ill. May 14, 2008) (“the court finds that the request to identify ‘all documents that refer or relate
+
+to each such person's contribution’ to be overbroad and unduly burdensome, and sustains the
+
+objection to that part of the interrogatory”); In re Urethane Antitrust Litig., No. 04-MD-1616-
+
+JWL-DJW, 2008 WL 110896, at *1 (D. Kan. Jan. 8, 2008) (holding that a discovery request is
+
+overly broad and unduly burdensome on its face if it uses an “omnibus term” such as “relating
+
+to,” because “such broad language ‘make[s] arduous the task of deciding which of numerous
+
+documents may conceivably fall within its scope’”); Roda Drilling Co. v. Siegal, No. 07-CV-
+
+400-GFK-FHM, 2008 WL 2234652, at *2 (N.D. Okla. May 29, 2008) (finding that “many of the
+
+parties’ requests for production of documents are overbroad, as they request ‘all documents'
+
+relating to or concerning a subject”), reconsideration denied in part, 2008 WL 3892067 (N.D.
+
+Okla. Aug. 14, 2008); Cotracom Commodity Trading Co. v. Seaboard Corp., 189 F.R.D. 655,
+
+665 (D. Kan. 1999) (holding that challenged discovery request was facially overbroad due to its
+
+use of the “omnibus phrase ‘relating to’”); Parsons v. Jefferson-Pilot Corp., 141 F.R.D. 408, 412
+
+(M.D.N.C. 1992) (“[b]road and undirected requests for all documents which relate in any way to
+
+the complaint are regularly stricken as too ambiguous”).
+
+       And, Plaintiff has expanded the dictionary definition of “relate” in her definition section
+
+to make any attempt at deciding what documents might fall within the requests impossible.
+
+Because all of the requests suffer from this fatal defect the court should sustain the objection and
+
+deny the motion to compel. However, there is more.
+
+
+
+
+                                                  5
+III.   EACH OF MS. MAXWELL’S OBJECTIONS IS APPROPRIATE
+
+       1.     Request No. 1: All documents relating to communications with Jeffrey Epstein
+              from 1999-Present.
+
+       This request unabashedly seeks any record of 17 years of “communications” with Jeffrey
+
+Epstein. If, for example, Ms. Maxwell wrote a note to herself that a mutual friend discussed a
+
+recipe for rice pudding with Mr. Epstein in 2013 this “document” would be subject to
+
+production. The request is not limited by subject matter and therefore encompasses everything.
+
+This is a classic fishing expedition calculated to annoy, and harass Ms. Maxwell.
+
+       The rational for the request is particularly disturbing: Plaintiff, with no evidence other
+
+than her self-serving and contradictory statements states: “ Communications with convicted sex
+
+offender Jeffrey Epstein for whom Defendant Maxwell is alleged to have assisted with his sexual
+
+trafficking activities are of the highest relevance in this case and must be produced.” (Pl.’s M.
+
+Compel at 9). That’s it. No evidence, just hyperbole. The request is not limited to
+
+communications about trafficking or even communications related to the Plaintiff. This
+
+stunningly overbroad request fails and Ms. Maxwell’s objection should be sustained.
+
+       2.      Request No. 3: All documents relating to communications with Andrew Albert
+               Christian Edward, Duke of York (a.k.a Prince Andrew) from 1999-present.
+
+       Even more tangential than Request No. 1, this request ask for “all documents relating to
+
+communications” for 17 years with Prince Andrew. Again, the request is not limited by any
+
+subject matter or person. It is not limited to communications about the Plaintiff, it is not even
+
+limited to communications about females. The purported justification for this overbroad request
+
+is Plaintiff’s unsupported claim that “Maxwell is alleged [by Plaintiff and no one else] to have
+
+trafficked Ms. Giuffre to Prince Andrew when she was a minor.” (Pl’s M. Compel at 10).
+
+Plaintiff’s unsatisfactory explanation for this request is that it may, uncover “communications
+
+between them regarding her trafficking” and “possible” communications regarding other females
+                                                 6
+or other individuals “involved with this activity”. (Id.) The request, however, as propounded,
+
+asks for much more than is rationally related to that explanation. The use of the word “possible”
+
+reveals that this request is a classic, prohibited fishing expedition. The request is overbroad and
+
+Ms. Maxwell’s objection should be sustained.
+
+       3.      Request No. 6: All documents relating to communications with any of the
+               following individuals from 1999 -the present: Emmy Taylor, Sarah Kellen, Eva
+               Dubin, Glen Dubin, Jean Luc Brunel, and Nadia Marcinkova.
+
+       This request is also not limited by subject matter or person and is, actually, six separate
+
+requests for production of documents. As support for these overbroad requests Plaintiff attached
+
+a deposition transcript from a separate litigation to which Ms. Maxwell was not a party in which
+
+the witness, Sarah Kellen, asserts her right to remain silent. (Id. at 11). Plaintiff neglects to
+
+disclose that Ms. Kellen asserted her Fifth Amendment right to every question asked of the
+
+witness. She refused to answer basic questions such as her then current address (3.24.2010 Tr. at
+
+10); and what company she worked for as a model (id. at 97). There is no inference to be drawn
+
+from the, apparently unchallenged, assertions of privilege in an action that Ms. Maxwell was not
+
+a party and did not participate. There is no legal authority to support the claim that Ms. Kellen’s
+
+assertion of a privilege somehow spills over to become evidence relating to Ms. Maxwell.
+
+       Plaintiff also attached partial documents purporting to be flight logs and phone records
+
+that, according to Plaintiff, establish communication with some of the listed individuals. Again,
+
+Ms. Maxwell’s reaction to this is “so what” because there is no nexus between any of this alleged
+
+evidence and Plaintiff’s claims. Like the other requests the question is not reasonably targeted to
+
+obtain communications about the Plaintiff or even “sex trafficking.”
+
+
+
+
+                                                  7
+       4.      Request No. 7: All video tapes, audio tapes, photographs or other print or
+               electronic media relating to females under the age of 18 from the period of 1999-
+               present.
+
+       This request appears to cover books, DVDs, CDs, personal photographs and every other
+
+type of media that might “relate to” females under the age of 18. To respond to this request
+
+Plaintiff would apparently have Ms. Maxwell comb through her library to find literature “relating
+
+to” girls. A copy of the Nancy Drew series would be responsive to this request. Photographs of
+
+Ms. Maxwell as a child would be included. Any CD referencing a “girl” might be responsive.
+
+The list goes on and on. And, because Plaintiff failed to confer about this request before filing
+
+her motion to compel her self-imposed limitations are too little, too late. This request, as written
+
+is patently overbroad and the objection should be sustained.
+
+       Further, the attached testimony from Mr. Rodriguez, again occurring in a proceeding to
+
+which Ms. Maxwell was not a party, lacks foundation and credibility. (Id. at 12) It also,
+
+apparently, has nothing to do with the Plaintiff.
+
+       5.     Request No. 8 : All documents relating to your travel from the period of 1999-
+              present, including but not limited to, any travel on Jeffrey Epstein’s planes,
+              commercial flights, helicopters, passport records, records indicating passengers
+              traveling with you, hotel records, and credit card receipts. ; and
+
+               Request No. 33: All travel records between 1999 and the present reflecting your
+               presence in: (a) Palm Beach Florida or immediately surrounding areas; (b) 9 E.
+               71st Street, New York , NY 10021; (c) New Mexico; (d) U.S. Virgin islands; (e)
+               any jet or aircraft owned or controlled by Jeffrey Epstein.
+
+       Request Number 33 appears to be subsumed by the globally inclusive, unrestricted
+
+Request Number 8. Both requests fail in many ways. First, Plaintiff was living in another
+
+continent for the vast majority of the time covered by these requests. Plaintiff, by her own
+
+admission, was not traveling anywhere with Ms. Maxwell or Mr. Epstein after 2002. It would be
+
+reasonable, then, to assume that none of the requested records would establish any nexus
+
+
+                                                    8
+between Ms. Maxwell’s post-2002 travel and the events at issue in Plaintiff’s claim. If Plaintiff
+
+wanted records establishing her travel with Mr. Epstein or Ms. Maxwell that is what she should
+
+have asked for. Instead, she asked for every piece of information relating to Ms. Maxwell’s
+
+travel by planes, trains, automobiles, helicopters, boats, horses and bicycles.
+
+       Read literally, Request Number 8 would require the production of 17 years of receipts for
+
+the purchase of gasoline at the neighborhood gas station, taxi receipts, lunch receipts, etc. for 17
+
+years. The only records not covered would be those relating to Ms. Maxwell’s residence, which
+
+unfortunately, is covered by another overbroad request, Request Number 34. Although slightly
+
+more limited, Request Number 33 remains impermissibly overbroad. Again, Plaintiff was not in
+
+the northern hemisphere after 2002 so could not have been in these places. Further, the phrases
+
+“immediately surrounding areas” “travel records” are impermissibly vague.
+
+       6.      Request No. 10: All documents relating to payments made from Jeffrey Epstein
+               or any related entity to you from 1999 – present, including payments for work
+               performed, gifts, real estate purchases, living expenses, and payments to your
+               charitable endeavors including the TerraMar project.
+
+       Request Number 10 is overbroad because it asks for, essentially, any document that
+
+relates to anything of value, no matter how small, given from Mr. Epstein to Ms. Maxwell (or
+
+their respective related entities) for 17 years. It is not targeted to any person, event, or job. The
+
+request could be interpreted in many ways and could include any financial, banking or
+
+accounting record compiled over a 17-year time frame. As such, the request fails and Ms.
+
+Maxwell’s objection should be sustained.
+
+
+
+
+                                                  9
+       7.      Request No. 11: All documents relating to or describing any work you
+               performed with Jeffrey Epstein, or any affiliated entity from 1999-present.
+
+       Request Number 11 is unintelligible. Ms. Maxwell does not know what this request
+
+means and should not have to guess. Because the request is too vague to respond to the
+
+objection should be sustained.
+
+       8.      Request No. 15: All video tapes, audio tapes, photographs or any other print or
+               electronic media taken at a time when you were in Jeffrey Epstein’s company or
+               inside any of his residences or aircraft.
+
+       This request is another obvious fishing expedition. It is not limited by person, place or
+
+time and apparently includes pre-1999 material. According to Plaintiff, she hopes that these
+
+records will contain the image of “other underage girls or trafficked women,” which, according
+
+to Plaintiff “go to the claim in this case”. (Pl’s M. Compel at 17). Again, Plaintiff was not,
+
+according to her complaint, involved with Mr. Epstein before 1999 or after 2002. Plaintiff does
+
+not articulate how this material might “go to the claim in this case” and, accordingly, Ms.
+
+Maxwell’s objection should be sustained.
+
+       9.      Request No. 17: All documents relating to communications with you and Ross
+               Gow from 2005 – present.
+
+       For the reasons stated repeatedly above, this request is also overly broad as there are no
+
+limitations for subject matter or person. Further, Plaintiff has offered no explanation as to the
+
+seemingly random time period of 2005 – present.
+
+       More importantly, Ms. Maxwell has objected to this request on the grounds that it seeks
+
+documents protected by the attorney/client privilege and/or the work product doctrine. As
+
+discussed in her Supplemental Memorandum of Law in Response to Plaintiff’s Motion to
+
+Compel Documents Subject to Improper Privilege, Ms. Maxwell’s withholding of these
+
+documents as privileged is proper.
+
+
+
+                                                 10
+       10.     Request No. 21: All telephone records associated with you including cell phone
+               records from 1999 – present.
+
+               Request No. 22: All documents relating to calendars, schedules or appointments
+               for you from 1999 – present.
+
+               Request No. 23: All documents relating to calendars, schedules or appointments
+               for Jeffrey Epstein from 1999 – present.
+
+               Request No. 24: All documents relating to contact lists, phone lists or address
+               books for you or Jeffrey Epstein from 1999 – present.
+
+       These requests seek “all documents” “associated” with Ms. Maxwell’s phone records and
+
+“all documents” “relating to” “the schedules and address books” of Ms. Maxwell and Jeffrey
+
+Epstein for 17 years. Plaintiff, again, offers no coherent explanation as to how any of these
+
+records might relate to her claim, in this case, that she was defamed. Because of the excessive
+
+scope of the requests the objections should be sustained.
+
+       11.     Request No. 32 : All documents related to communications with or interaction
+               with Alan Dershowitz from 1999 – present.
+
+       Here, Plaintiff is asking for information about communications with Alan Dershowitz for
+
+17 years. Plaintiff’s only argument in support of this request is “Maxwell’s communications
+
+with Dershowitz are directly relevant to the claim.” (Pl’s M. Compel at 22). Perhaps Ms.
+
+Maxwell’s communications with Mr. Dershowitz about Plaintiff may be discoverable and even
+
+relevant. Any and all documents “relating to communications” are not. Accordingly, the
+
+objection should be sustained.
+
+       12.     Request No. 34: All documents reflecting your ownership or control of property
+               in London between the years 1999 and 2002.
+
+       Whether Ms. Maxwell owned or controlled property in London between 1999 and 2002
+
+is not relevant to any issue in this case. Plaintiff claims that a photograph of her when she was
+
+17 somehow establishes she was “trafficked”. She offers no actual explanation, however, for
+
+
+                                                11
+how “documents reflecting” ownership or control of any “London” property is relevant or
+
+discoverable. The request is overbroad, not relevant, and the objection should be sustained.
+
+       13.      Request No. 37: All documents reflecting communications you have had with
+                Bill or Hillary Clinton (or persons acting on their behalf), including all
+                communications
+
+       Whether or not Ms. Maxwell communicated with any member of the Clinton family is
+
+not relevant to any issue in this case. Again, Plaintiff asks for “all documents reflecting
+
+communications” for a 17-year time period. The only support for the request is Plaintiff’s
+
+unsubstantiated claim that in an unrelated action Ms. Maxwell did not attend a deposition
+
+scheduled for July 1, 2010 because she had to attend to her mother. However, according to
+
+Plaintiff, Ms. Maxwell, 30 days later, attended the wedding of Chelsea Clinton. Taking care of
+
+an elderly mother in England and attending a wedding ceremony are not mutually exclusive
+
+events. This, again, has nothing to do with any issue in this case and the objection should be
+
+sustained.
+
+       13.     Request No. 39: All documents reflecting training to fly a helicopter or
+               experience flying a helicopter, including any records concerning your operation of
+               a helicopter in the U.S. Virgin Islands.
+
+       Seventeen years of “all documents reflecting training to fly a helicopter “ are not relevant
+
+to any issue in this case. Plaintiff does not allege that Ms. Maxwell flew her to a private island
+
+by helicopter; she does not allege that she has personal knowledge of someone actually being
+
+flown by Ms. Maxwell to a private island for the purpose of “sexual trafficking of underage
+
+girls.” She simply demands 17 years of documents because she says they are relevant. The
+
+request is overbroad and not relevant and Ms. Maxwell’s objection should be sustained.
+
+
+
+
+                                                 12
+IV.    PLAINTIFF’S FAILURE TO CONFER WITH MS. MAXWELL PRIOR TO
+       FILING HER MOTIONS TO COMPEL IS DISPOSITIVE
+
+
+       It is likely that a conferral could have minimized many of the issues described above.
+
+Accordingly in addition to the substantive problems with the requests, detailed above, Plaintiff’s
+
+Motions to Compel should be denied for the reasons articulated in Ms. Maxwell’s separate
+
+response regarding the lack of any conferral (Doc. # 42) incorporated by reference.
+
+
+Dated: March 7, 2016
+
+                                                 Respectfully submitted,
+
+
+                                                 /s/ Laura A. Menninger
+                                                 Laura A. Menninger (LM-1374)
+                                                 HADDON, MORGAN AND FOREMAN, P.C.
+                                                 East 10th Avenue
+                                                 Denver, CO 80203
+                                                 Phone: 303.831.7364
+                                                 Fax:    303.832.2628
+                                                 lmenninger@hmflaw.com
+
+                                                 Attorneys for Ghislaine Maxwell
+
+
+
+
+                                                13
+                             CERTIFICATE OF SERVICE
+
+      I certify that on March 7, 2016, I electronically filed this Defendant Ghislaine
+
+Maxwell’s Supplemental Memorandum of Law in Opposition to Plaintiff’s Motion to
+
+Compel the Production of Documents Subject to Improper Objections with the Clerk of
+
+Court using the CM/ECF system which will send notification to all counsel of record
+
+including the following:
+
+Sigrid S. McCawley
+Boies, Schiller & Flexner, LLP
+East Las Olas Boulevard, Ste. 1200
+Ft. Lauderdale, FL 33301
+smccawley@bsfllp.com
+                                              /s/ Brenda Rodriguez
+
+
+
+
+                                           14
+
